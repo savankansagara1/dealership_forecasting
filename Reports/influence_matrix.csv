@@ -1,0 +1,2275 @@
+driver,dependent,lag,corr
+ NV Months Supply (Guide 2.5 months), Bonuses - Employees,1,
+ Taxes - Other, Bonuses - Employees,1,
+ UV Units Sold Per UV Sales Rep., Bonuses - Employees,1,
+TOTAL MITSUBISHI FLEET, NV Months Supply (Guide 2.5 months),1,0.763513254598087
+"(
+Cars
+ )", NV Months Supply (Guide 2.5 months),1,0.7635132545980863
+New Vehicles - Other Makes , NV Months Supply (Guide 2.5 months),1,0.7635132545980863
+ Bonuses - Employees, Taxes - Other,1,
+ NV Months Supply (Guide 2.5 months), Taxes - Other,1,
+ UV Units Sold Per UV Sales Rep., Taxes - Other,1,
+Used Retail to Wholesale Ratio , UV Units Sold Per UV Sales Rep.,1,0.4438738759774019
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)", UV Units Sold Per UV Sales Rep.,1,0.4231390037076827
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)", UV Units Sold Per UV Sales Rep.,1,0.4149203589822107
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",# of Productive Bays,1,0.8916051897780328
+Non-Productive / Other ,# of Productive Bays,1,0.8690432122192095
+TOTAL,# of Productive Bays,1,0.8374708209052213
+ Bonuses - Employees,# of Productive Bays ,1,
+ NV Months Supply (Guide 2.5 months),# of Productive Bays ,1,
+ Taxes - Other,# of Productive Bays ,1,
+ Bonuses - Employees,# of Working Days,1,
+ NV Months Supply (Guide 2.5 months),# of Working Days,1,
+ Taxes - Other,# of Working Days,1,
+"Gas, Oil, & Grease",# of Working Days ,1,0.7964440645600607
+Taxes Payable - Payroll,# of Working Days ,1,0.7577181840460879
+Body Shop Materials,# of Working Days ,1,0.7418212359286969
+BONUSES OWNERS,% Return on Operating Investment,1,0.8885386652407052
+% Return on Sales (Before Income Tax),% Return on Operating Investment,1,0.6740889394242499
+Miscellaneous Income,% Return on Operating Investment,1,0.6470687654170454
+UV Months Supply (Guide 1.5 months),% Return on Sales (Before Income Tax),1,0.6657729505374982
+Chemical / Other Income (CPO),% Return on Sales (Before Income Tax),1,0.6590105859027408
+Finance Income (CPO),% Return on Sales (Before Income Tax),1,0.5645290218766323
+"(
+SUVs
+)",% of Labour Sales CP,1,0.5713142894065395
+"(
+Trucks
+)",% of Labour Sales CP,1,0.5713142894065395
+Finance Income (CPO),% of Labour Sales CP,1,0.5112831185344128
+ Bonuses - Employees,% of Labour Sales CPO Warranty,1,
+ NV Months Supply (Guide 2.5 months),% of Labour Sales CPO Warranty,1,
+ Taxes - Other,% of Labour Sales CPO Warranty,1,
+ Bonuses - Employees,% of Labour Sales DCP,1,
+ NV Months Supply (Guide 2.5 months),% of Labour Sales DCP,1,
+ Taxes - Other,% of Labour Sales DCP,1,
+Productivity (Guide 85% +),% of Labour Sales Internal,1,0.4626467843463925
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",% of Labour Sales Internal,1,0.4343229766074901
+Overhead Absorption %,% of Labour Sales Internal,1,0.4217299014426298
+ Bonuses - Employees,% of Labour Sales Other,1,
+ NV Months Supply (Guide 2.5 months),% of Labour Sales Other,1,
+ Taxes - Other,% of Labour Sales Other,1,
+RVR,% of Labour Sales Warranty,1,0.46086846263157744
+NV Units Sold Retail Per NV Sales Rep.,% of Labour Sales Warranty,1,0.3471038157892146
+Productivity (Guide 85% +),% of Labour Sales Warranty,1,0.3460335195618514
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),"(
+Cars
+ )",1,0.999999999999999
+Employee Bonuses Payable,"(
+Cars
+ )",1,0.6802048002989564
+Customer Deposits,"(
+Cars
+ )",1,0.6275979916840213
+Parts & Accessories - Tires,"(
+Cars
+)",1,0.7717511370053296
+Advisors,"(
+Cars
+)",1,0.7278129618100445
+F & I Sales Reps.,"(
+Cars
+)",1,0.7182099696276865
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)","(
+Eclipse
+Cross
+)",1,0.7237660111533247
+Insurance Income - New,"(
+Eclipse
+Cross
+)",1,0.6755479544202877
+Dealer Advertising Expense,"(
+Eclipse
+Cross
+)",1,0.673088353882995
+TOTAL,"(
+Out.
+PHEV
+)",1,0.927784149557824
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)","(
+Out.
+PHEV
+)",1,0.9241033448822118
+New SUV - Mitsubishi,"(
+Out.
+PHEV
+)",1,0.9209239154233494
+New Vehicles - Mitsubishi,"(
+Outlander
+)",1,0.785989027489345
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","(
+Outlander
+)",1,0.7821562104289832
+Furnitures & Fixtures,"(
+Outlander
+)",1,0.7801928293202653
+Parts & Accessories - Mitsubishi ,"(
+RVR
+ )",1,0.7539036875197035
+12+ Months ,"(
+RVR
+ )",1,0.7194163012303182
+7 - 12 Months ,"(
+RVR
+ )",1,0.6631453104347883
+ Bonuses - Employees,"(
+SUVs
+ )",1,
+ NV Months Supply (Guide 2.5 months),"(
+SUVs
+ )",1,
+ Taxes - Other,"(
+SUVs
+ )",1,
+Accounts Payable - Trade Creditors,"(
+SUVs
+)",1,0.6968579757510299
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","(
+SUVs
+)",1,0.6956076822250165
+Parts & Accessories - Other,"(
+SUVs
+)",1,0.6675635361150157
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)","(
+Trucks
+)",1,0.5457109682969867
+Customer Deposits,"(
+Trucks
+)",1,0.5427516639212366
+# of Working Days ,"(
+Trucks
+)",1,0.48446344400470076
+ Bonuses - Employees,"(
+Cars
+ )",1,
+ NV Months Supply (Guide 2.5 months),"(
+Cars
+ )",1,
+ Taxes - Other,"(
+Cars
+ )",1,
+F & I Sales Reps.,"(
+Cars
+)",1,0.6231681447759221
+F&I Sales Reps,"(
+Cars
+)",1,0.6231681447759221
+APR.,"(
+Cars
+)",1,0.6231681447759219
+Insurance Income - New,"(
+Eclipse
+Cross
+)",1,0.8528720100277364
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)","(
+Eclipse
+Cross
+)",1,0.7651650251657127
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)","(
+Eclipse
+Cross
+)",1,0.7651650251657127
+Other Salaries & Wages,"(
+Out.
+PHEV
+)",1,0.632299893932519
+4 - 6 Months,"(
+Out.
+PHEV
+)",1,0.6308226964345655
+UV Months Supply (Guide 1.5 months),"(
+Out.
+PHEV
+)",1,0.612763201992641
+Outlander,"(
+Outlander
+)",1,0.6527605075042809
+Sales $'s per Wholesale Invoice,"(
+Outlander
+)",1,0.6378259200170024
+UV Stock Turn (Guide >7) ,"(
+Outlander
+)",1,0.6205358482262099
+"(
+RVR
+ )","(
+RVR
+ )",1,0.8111802099758267
+DEC.,"(
+RVR
+ )",1,0.8022315245578507
+"Furniture & 
+Fixtures","(
+RVR
+ )",1,0.8022315245578506
+ Bonuses - Employees,"(
+SUVs
+ )",1,
+ NV Months Supply (Guide 2.5 months),"(
+SUVs
+ )",1,
+ Taxes - Other,"(
+SUVs
+ )",1,
+Other Supplies & Tools,"(
+SUVs
+)",1,0.7156035843401888
+Laundry & Uniforms,"(
+SUVs
+)",1,0.6498304654005317
+Laundry & Uniforms ,"(
+SUVs
+)",1,0.6498304654005317
+Other Supplies & Tools,"(
+Trucks
+)",1,0.7156035843401888
+Laundry & Uniforms,"(
+Trucks
+)",1,0.6498304654005317
+Laundry & Uniforms ,"(
+Trucks
+)",1,0.6498304654005317
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",( Mirage ),1,0.828224141416881
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",( Mirage ),1,0.7979313170282181
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",( Mirage ),1,0.72501172362061
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),(Assets Line 50 minus Liabilities Line 27),1,0.7835054846667843
+Other Notes and Contracts Payable,(Assets Line 50 minus Liabilities Line 27),1,0.7679505462667676
+Cash in Bank,(Assets Line 50 minus Liabilities Line 27),1,0.751149199288367
+ Bonuses - Employees,(Manufacturer Requirement),1,
+ NV Months Supply (Guide 2.5 months),(Manufacturer Requirement),1,
+ Taxes - Other,(Manufacturer Requirement),1,
+TOTAL MITSUBISHI FLEET,+ / -,1,0.6361996130346291
+New Vehicles - Other Makes ,+ / -,1,0.6361996130346278
+"(
+Cars
+ )",+ / -,1,0.6361996130346277
+Clerical / Other,0 - 3 Months ,1,0.6974431970980131
+Manager(s),0 - 3 Months ,1,0.6597226957936817
+Sales Reps,0 - 3 Months ,1,0.6454311290931659
+31 - 60 Days,1 - 30 Days,1,0.7215809842606808
+"(
+Out.
+PHEV
+)",1 - 30 Days,1,0.712415716694831
+Used Vehicles,1 - 30 Days,1,0.6958057022778776
+Used Vehicles - Retail (Non CPO),1 - 30 Days ,1,0.813702246224847
+Total,1 - 30 Days ,1,0.8119107150941348
+TOTAL ,1 - 30 Days ,1,0.8119107150941344
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",12+ Months ,1,0.8149669360809896
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",12+ Months ,1,0.7878352868572457
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",12+ Months ,1,0.7859495033438441
+Prepaid Other,31 - 60 Days,1,0.8427105728895172
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",31 - 60 Days,1,0.8427105728895172
+Used Vehicles - Other Makes ,31 - 60 Days,1,0.8371329805152161
+7 - 12 Months ,4 - 6 Months,1,0.7445164891638772
+Body Shop Materials,4 - 6 Months,1,0.689964806935218
+Taxes Payable - Other,4 - 6 Months,1,0.6118633590044044
+"(
+Out.
+PHEV
+)",61 - 90 Days,1,0.7651929561283729
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,61 - 90 Days,1,0.6810634222904487
+Used Vehicle Department,61 - 90 Days,1,0.6810634222904487
+"(
+RVR
+ )",61 - 90 Days ,1,0.5465445621056623
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",61 - 90 Days ,1,0.4523922166472095
+Pts. Sls. per Customer RO (Inc. Tires),61 - 90 Days ,1,0.4386974629081797
+Body Shop Materials,7 - 12 Months ,1,0.8674593856752565
+Taxes Payable - Sales,7 - 12 Months ,1,0.8061366798728078
+Parts & Accessories - Mitsubishi ,7 - 12 Months ,1,0.7854510696804814
+JUN.,APR.,1,0.692643499049352
+MAY,APR.,1,0.6160864024522851
+Cash in Bank,APR.,1,0.602180214153959
+Avg. Technician Wage,AUG.,1,0.7656506375252226
+Internal Hours Sold ,AUG.,1,0.6558000535977068
+Customer Pay Hours Sold,AUG.,1,0.6552807828081685
+Equip. P/A,Absentee Wages,1,0.7806090371339466
+Floor Plan Interest,Absentee Wages,1,0.7522087361095745
+TOTAL ,Absentee Wages,1,0.7369042196317085
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",Accounts Payable - Mitsubishi,1,0.5441641355482327
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Accounts Payable - Mitsubishi,1,0.473538948142493
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",Accounts Payable - Mitsubishi,1,0.4290962145486879
+Work in Process - Mechanical Labour,Accounts Payable - Trade Creditors,1,0.9244092274645304
+Furnitures & Fixtures,Accounts Payable - Trade Creditors,1,0.9204429721784053
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Accounts Payable - Trade Creditors,1,0.8992770540923595
+ Bonuses - Employees,Active Customers,1,
+ NV Months Supply (Guide 2.5 months),Active Customers,1,
+ Taxes - Other,Active Customers,1,
+MAR.,Active Customers ,1,0.5697365174105171
+"(
+Outlander
+)",Active Customers ,1,0.5416159469499668
+Cash in Bank,Active Customers ,1,0.5140494200527465
+ Bonuses - Employees,Adjustment - Cost of Labour Sales Body Shop,1,
+ NV Months Supply (Guide 2.5 months),Adjustment - Cost of Labour Sales Body Shop,1,
+ Taxes - Other,Adjustment - Cost of Labour Sales Body Shop,1,
+ Bonuses - Employees,Adjustment Cost of Labour Sales - Mechanical,1,
+ NV Months Supply (Guide 2.5 months),Adjustment Cost of Labour Sales - Mechanical,1,
+ Taxes - Other,Adjustment Cost of Labour Sales - Mechanical,1,
+ Bonuses - Employees,Adjustments - Used Vehicles Inventory,1,
+ NV Months Supply (Guide 2.5 months),Adjustments - Used Vehicles Inventory,1,
+ Taxes - Other,Adjustments - Used Vehicles Inventory,1,
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",Advertising (Institutional),1,0.6850346108610917
+"(
+RVR
+ )",Advertising (Institutional),1,0.6824362164609215
+JAN.,Advertising (Institutional),1,0.6824089923046859
+Finance Income (CPO),Advertising (Institutional) ,1,0.6988843614152962
+OVER 30 Day,Advertising (Institutional) ,1,0.698884361415296
+Over 30 days,Advertising (Institutional) ,1,0.698884361415295
+Current Portion of Long Term Debt,Advertising PNVR (Dealer Retail Sales),1,0.6088660967977361
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Advertising PNVR (Dealer Retail Sales),1,0.5825889679445118
+UV Stock Turn (Guide >7) ,Advertising PNVR (Dealer Retail Sales),1,0.5368596018265678
+ Bonuses - Employees,Advertising PNVT (Dealer Target) ,1,
+ NV Months Supply (Guide 2.5 months),Advertising PNVT (Dealer Target) ,1,
+ Taxes - Other,Advertising PNVT (Dealer Target) ,1,
+Used Vehicles - Other Makes ,Advisors,1,0.9306577065098978
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),Advisors,1,0.9235529221515988
+TOTAL LIABILITIES (LINES 27 & 32),Advisors,1,0.9234203188461291
+ Bonuses - Employees,Advisors ,1,
+ NV Months Supply (Guide 2.5 months),Advisors ,1,
+ Taxes - Other,Advisors ,1,
+ Bonuses - Employees,Allowance for Doubtful Accounts,1,
+ NV Months Supply (Guide 2.5 months),Allowance for Doubtful Accounts,1,
+ Taxes - Other,Allowance for Doubtful Accounts,1,
+ Bonuses - Employees,Amortization - Leaseholds,1,
+ NV Months Supply (Guide 2.5 months),Amortization - Leaseholds,1,
+ Taxes - Other,Amortization - Leaseholds,1,
+Used Retail to Wholesale Ratio ,Apprentices,1,0.8560393382627313
+Insurance - Buildings & Improvements,Apprentices,1,0.30132151121946166
+"(
+Outlander
+)",Apprentices,1,0.27961752156849673
+ Bonuses - Employees,Avail. Work Bay Hrs. / Bay,1,
+ NV Months Supply (Guide 2.5 months),Avail. Work Bay Hrs. / Bay,1,
+ Taxes - Other,Avail. Work Bay Hrs. / Bay,1,
+Leasehold,Avg. Cost UV Mit. CPO Retailed,1,0.9999999999999998
+Leasehold ,Avg. Cost UV Mit. CPO Retailed,1,0.9999999999999998
+Company Vehicles,Avg. Cost UV Mit. CPO Retailed,1,0.9995372661727078
+ Bonuses - Employees,Avg. Cost UV Mit. CPO in Inventory ,1,
+ NV Months Supply (Guide 2.5 months),Avg. Cost UV Mit. CPO in Inventory ,1,
+ Taxes - Other,Avg. Cost UV Mit. CPO in Inventory ,1,
+1 - 30 Days ,Avg. Technician Wage,1,0.7152659578217178
+AUG.,Avg. Technician Wage,1,0.7000893715110885
+# of Productive Bays,Avg. Technician Wage,1,0.6905885437902616
+Lease & Rental Income,BONUSES OWNERS,1,0.5332610353034467
+Warranty Pts. : Warranty Labour Sales,BONUSES OWNERS,1,0.4912083506547753
+Sales $'s per Retail Counter Invoice,BONUSES OWNERS,1,0.4506634723133336
+ Bonuses - Employees,Bad Debts,1,
+ NV Months Supply (Guide 2.5 months),Bad Debts,1,
+ Taxes - Other,Bad Debts,1,
+ Bonuses - Employees,Bank Overdraft,1,
+ NV Months Supply (Guide 2.5 months),Bank Overdraft,1,
+ Taxes - Other,Bank Overdraft,1,
+ Bonuses - Employees,Bay Utilization %,1,
+ NV Months Supply (Guide 2.5 months),Bay Utilization %,1,
+ Taxes - Other,Bay Utilization %,1,
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Bldgs. & Improv.,1,0.9353536437096689
+Internal Labour Rate,Bldgs. & Improv.,1,0.907058701810113
+TOTAL ,Bldgs. & Improv.,1,0.9036130219023075
+ Bonuses - Employees,Body P&A RO,1,
+ NV Months Supply (Guide 2.5 months),Body P&A RO,1,
+ Taxes - Other,Body P&A RO,1,
+ Bonuses - Employees,Body Shop,1,
+ NV Months Supply (Guide 2.5 months),Body Shop,1,
+ Taxes - Other,Body Shop,1,
+ Bonuses - Employees,Body Shop ,1,
+ NV Months Supply (Guide 2.5 months),Body Shop ,1,
+ Taxes - Other,Body Shop ,1,
+# of Working Days ,Body Shop Materials,1,0.8491624993787668
+Notes Payable - Capital Loans,Body Shop Materials,1,0.8235148994437628
+Notes and Accts. Rec. - Officers / Owners / Employees,Body Shop Materials,1,0.8127790022866914
+ Bonuses - Employees,Bonuses - Employees,1,
+ NV Months Supply (Guide 2.5 months),Bonuses - Employees,1,
+ Taxes - Other,Bonuses - Employees,1,
+TOTAL MITSUBISHI FLEET,Break Even New & Used Units ,1,0.7264486247103695
+"(
+Cars
+ )",Break Even New & Used Units ,1,0.7264486247103685
+New Vehicles - Other Makes ,Break Even New & Used Units ,1,0.7264486247103684
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","Buildings & 
+Improvements",1,0.8658654405188767
+Equip. P/A,"Buildings & 
+Improvements",1,0.8616323910246951
+Internal Labour Rate,"Buildings & 
+Improvements",1,0.8469457290542207
+ Bonuses - Employees,"Buildings & 
+Improvements",1,
+ NV Months Supply (Guide 2.5 months),"Buildings & 
+Improvements",1,
+ Taxes - Other,"Buildings & 
+Improvements",1,
+% Return on Operating Investment,CP Effective Rate,1,0.6542278932228285
+NOV.,CP Effective Rate,1,0.4098238746172625
+Notes and Accts. Rec. - Officers / Owners / Employees,CP Effective Rate,1,0.3826782723132069
+% Return on Operating Investment,CP Effective Rate as a % of Posted Rate,1,0.6598955790155069
+NOV.,CP Effective Rate as a % of Posted Rate,1,0.41633212098678823
+Notes and Accts. Rec. - Officers / Owners / Employees,CP Effective Rate as a % of Posted Rate,1,0.3896249163574429
+"(
+SUVs
+)",CP Labour Sales per RO,1,0.5079532203077514
+"(
+Trucks
+)",CP Labour Sales per RO,1,0.5079532203077514
+Finance Income (CPO),CP Labour Sales per RO,1,0.4203356193830253
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",CP Labour Sales per Technician,1,0.5862137181186636
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",CP Labour Sales per Technician,1,0.4839319762901056
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",CP Labour Sales per Technician,1,0.4812839380136155
+TOTAL MITSUBISHI FLEET,CP Pts. : CP Labour Sls. (Inc. Tires),1,0.532491933371592
+New Vehicles - Other Makes ,CP Pts. : CP Labour Sls. (Inc. Tires),1,0.5324919333715913
+"(
+Cars
+ )",CP Pts. : CP Labour Sls. (Inc. Tires),1,0.5324919333715907
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",CP RO Count,1,0.6956111511378658
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",CP RO Count,1,0.601601252826631
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",CP RO Count,1,0.5447748512199095
+ Bonuses - Employees,CPO P&A RO,1,
+ NV Months Supply (Guide 2.5 months),CPO P&A RO,1,
+ Taxes - Other,CPO P&A RO,1,
+ Bonuses - Employees,CPO Warranty Labour - MITSUBISHI,1,
+ NV Months Supply (Guide 2.5 months),CPO Warranty Labour - MITSUBISHI,1,
+ Taxes - Other,CPO Warranty Labour - MITSUBISHI,1,
+ Bonuses - Employees,Capacity - Bay Hours Avail,1,
+ NV Months Supply (Guide 2.5 months),Capacity - Bay Hours Avail,1,
+ Taxes - Other,Capacity - Bay Hours Avail,1,
+ Bonuses - Employees,Capacity - Bay Hours Avail.,1,
+ NV Months Supply (Guide 2.5 months),Capacity - Bay Hours Avail.,1,
+ Taxes - Other,Capacity - Bay Hours Avail.,1,
+"Gas, Oil & Grease",Cash Discount / Interest Earned,1,0.8426456103750521
+Freight & Express,Cash Discount / Interest Earned,1,0.562591596583465
+UV Units Sold Per UV Sales Rep.,Cash Discount / Interest Earned,1,0.5069262369930245
+ Bonuses - Employees,Cash Discount / Interest Paid,1,
+ NV Months Supply (Guide 2.5 months),Cash Discount / Interest Paid,1,
+ Taxes - Other,Cash Discount / Interest Paid,1,
+JUN.,Cash in Bank,1,0.7830590798442102
+"Furniture & 
+Fixtures",Cash in Bank,1,0.7246549101033282
+Notes Payable - Capital Loans,Cash in Bank,1,0.7192763918985624
+ Bonuses - Employees,Cash in Bank - Trust Account(s),1,
+ NV Months Supply (Guide 2.5 months),Cash in Bank - Trust Account(s),1,
+ Taxes - Other,Cash in Bank - Trust Account(s),1,
+ Bonuses - Employees,Certified Pre-Owned Vehicles - Mitsubishi,1,
+ NV Months Supply (Guide 2.5 months),Certified Pre-Owned Vehicles - Mitsubishi,1,
+ Taxes - Other,Certified Pre-Owned Vehicles - Mitsubishi,1,
+ Bonuses - Employees,Certified Program Vehicles - Mitsubishi,1,
+ NV Months Supply (Guide 2.5 months),Certified Program Vehicles - Mitsubishi,1,
+ Taxes - Other,Certified Program Vehicles - Mitsubishi,1,
+Outside Services ,Charitable Donations,1,0.7440363104242302
+"Membership, Dues, Publications ",Charitable Donations,1,0.6913883817558348
+Outside Services,Charitable Donations,1,0.6813001042478138
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Chemical / Other Income (CPO),1,0.9567616205082775
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Chemical / Other Income (CPO),1,0.8247005426548307
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",Chemical / Other Income (CPO),1,0.8054071641289132
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",Chemical / Other Income (Non CPO),1,0.569873020062876
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Chemical / Other Income (Non CPO),1,0.4744852775554807
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Chemical / Other Income (Non CPO),1,0.4675372852913661
+ Bonuses - Employees,Chemical / Other Income (Other Makes),1,
+ NV Months Supply (Guide 2.5 months),Chemical / Other Income (Other Makes),1,
+ Taxes - Other,Chemical / Other Income (Other Makes),1,
+Volume Discount,Chemical Sales - New,1,0.6280518350092713
+MAR.,Chemical Sales - New,1,0.6099525714031883
+JUN.,Chemical Sales - New,1,0.5498991582540578
+Total,Clerical / Other,1,0.9196237980679155
+TOTAL ,Clerical / Other,1,0.9196237980679154
+Sales Reps,Clerical / Other,1,0.9122621521102019
+Notes Payable - Capital Loans,Co. Veh.,1,0.9204043425483623
+"Furniture & 
+Fixtures",Co. Veh.,1,0.904539230583462
+Body Shop Materials,Co. Veh.,1,0.8546922433672453
+ Bonuses - Employees,Common Stock,1,
+ NV Months Supply (Guide 2.5 months),Common Stock,1,
+ Taxes - Other,Common Stock,1,
+1 - 30 Days ,Company Vehicle Expense,1,0.767531779547901
+Advisors,Company Vehicle Expense,1,0.7493292026149323
+Retained Earnings,Company Vehicle Expense,1,0.7333799699228707
+Furnitures & Fixtures,Company Vehicles,1,0.9596103115926474
+Floor Plan Interest,Company Vehicles,1,0.9465529033910891
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Company Vehicles,1,0.9259575718538441
+31 - 60 Days,Compensation - Clerical,1,0.6934844943992177
+Equip. M/S,Compensation - Clerical,1,0.6637114612764815
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Compensation - Clerical,1,0.6306237023381844
+TOTAL MITSUBISHI FLEET,Compensation - Finance,1,0.9243042628952765
+New Vehicles - Other Makes ,Compensation - Finance,1,0.924304262895276
+"(
+Cars
+ )",Compensation - Finance,1,0.924304262895275
+ Bonuses - Employees,Compensation - Insurance,1,
+ NV Months Supply (Guide 2.5 months),Compensation - Insurance,1,
+ Taxes - Other,Compensation - Insurance,1,
+Taxes Payable - Other,Compensation - Other Supervisor,1,0.6097286567696296
+Body Shop Materials,Compensation - Other Supervisor,1,0.6030953828860526
+7 - 12 Months ,Compensation - Other Supervisor,1,0.6015257856819239
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Compensation - Owner,1,0.5986016519739035
+Dealer Advertising Expense,Compensation - Owner,1,0.5803406838169103
+Charitable Donations,Compensation - Owner,1,0.5385061195233217
+Equip. M/S,Compensation - Sales,1,0.8382599132589075
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Compensation - Sales,1,0.8341887033677108
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Compensation - Sales,1,0.8122301936898562
+ Bonuses - Employees,Compensation - Service Contracts,1,
+ NV Months Supply (Guide 2.5 months),Compensation - Service Contracts,1,
+ Taxes - Other,Compensation - Service Contracts,1,
+31 - 60 Days,Compensation - Supervisors,1,0.6283866719066821
+Accounts Payable - Trade Creditors,Compensation - Supervisors,1,0.56803006037277
+Furnitures & Fixtures,Compensation - Supervisors,1,0.5582382727340548
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),Contracts in Transit,1,0.7977546317480482
+Used Vehicles - Retail (Non CPO),Contracts in Transit,1,0.7961847089853958
+"(
+Eclipse
+Cross
+)",Contracts in Transit,1,0.7878696018333078
+Productivity (Guide 85% +),Current Portion of Long Term Debt,1,0.39882326137402124
+Sales $'s per Retail Counter Invoice,Current Portion of Long Term Debt,1,0.36516697415556404
+Sales Reps.,Current Portion of Long Term Debt,1,0.3588245242874792
+ Bonuses - Employees,Customer Body Shop Labour,1,
+ NV Months Supply (Guide 2.5 months),Customer Body Shop Labour,1,
+ Taxes - Other,Customer Body Shop Labour,1,
+Insurance Income (Other Makes),Customer Deposits,1,0.8664010065459915
+Service Contracts (Other Makes),Customer Deposits,1,0.7837681452982209
+Used Vehicles - Retail (Other Makes),Customer Deposits,1,0.6272640496785398
+TOTAL ,Customer Labour Rate,1,0.9450967787291655
+Total,Customer Labour Rate,1,0.9450967787291655
+Equip. P/A,Customer Labour Rate,1,0.930364821028472
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Customer Mechanical Labour - MITSUBISHI,1,0.6957902493095451
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",Customer Mechanical Labour - MITSUBISHI,1,0.6696988682329966
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",Customer Mechanical Labour - MITSUBISHI,1,0.6537062270935823
+Hours Sold,Customer Pay Hours Sold,1,0.8215638763535315
+Internal Hours Sold ,Customer Pay Hours Sold,1,0.7707981550197258
+Efficiency (Guide 110 - 125%),Customer Pay Hours Sold,1,0.6929323835883777
+ Bonuses - Employees,DCP P&A RO,1,
+ NV Months Supply (Guide 2.5 months),DCP P&A RO,1,
+ Taxes - Other,DCP P&A RO,1,
+ Bonuses - Employees,DCP Service Contracts - New,1,
+ NV Months Supply (Guide 2.5 months),DCP Service Contracts - New,1,
+ Taxes - Other,DCP Service Contracts - New,1,
+ Bonuses - Employees,DCP Warranty Labour - MITSUBISHI,1,
+ NV Months Supply (Guide 2.5 months),DCP Warranty Labour - MITSUBISHI,1,
+ Taxes - Other,DCP Warranty Labour - MITSUBISHI,1,
+Current Portion of Long Term Debt,DEC.,1,0.9571996950584666
+CP Labour Sales per RO,DEC.,1,0.8115361537420102
+% of Labour Sales Internal,DEC.,1,0.7090578257221553
+Occupancy as a % of Company GP,"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.6374310835639844
+Warranty Rec. / P.D.I. - Mitsubishi,"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.5491044167411702
+Shareholder's Loans,"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.5404164410508805
+TOTAL USED RETAIL (LINES 33 THRU 38),"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.6807385236512804
+TOTAL USED VEHICLES (LINES 39 THRU 42),"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.6807240538144668
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",1,0.6461814580534807
+Shareholder's Loans,DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,1,0.5906899027287624
+Warranty Rec. / P.D.I. - Mitsubishi,DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,1,0.5542923634955959
+Warranty Receivables - Mitsubishi,DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,1,0.5107119921468083
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),1,0.5425189882293072
+DEC.,DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),1,0.4695942235619592
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),1,0.4490693202642252
+ Bonuses - Employees,DISCONTINUED MODELS,1,
+ NV Months Supply (Guide 2.5 months),DISCONTINUED MODELS,1,
+ Taxes - Other,DISCONTINUED MODELS,1,
+Non-Productive / Other ,Data Processing,1,0.7041014724364246
+Customer Labour Rate,Data Processing,1,0.6967013525978563
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Data Processing,1,0.6907503000323226
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Dealer Advertising Allowance,1,0.7107412539786457
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",Dealer Advertising Allowance,1,0.5857757775931782
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",Dealer Advertising Allowance,1,0.5676619665443643
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Dealer Advertising Expense,1,0.7950372645678206
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",Dealer Advertising Expense,1,0.7914641584961738
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Dealer Advertising Expense,1,0.7902284999364424
+"(
+Eclipse
+Cross
+)",Delivery Expense,1,0.5755298386718762
+Other Supplies & Tools,Delivery Expense,1,0.488403473849126
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Delivery Expense,1,0.48196583108839897
+"Gas, Oil & Grease",Demo Expense,1,0.7200282963022984
+"(
+Out.
+PHEV
+)",Demo Expense,1,0.6057435544065725
+Promotion,Demo Expense,1,0.5528589316353508
+ Bonuses - Employees,Demonstrators,1,
+ NV Months Supply (Guide 2.5 months),Demonstrators,1,
+ Taxes - Other,Demonstrators,1,
+ Bonuses - Employees,Depreciation - Bldgs. & Improvements,1,
+ NV Months Supply (Guide 2.5 months),Depreciation - Bldgs. & Improvements,1,
+ Taxes - Other,Depreciation - Bldgs. & Improvements,1,
+ Bonuses - Employees,Depreciation - Buildings & Improvements,1,
+ NV Months Supply (Guide 2.5 months),Depreciation - Buildings & Improvements,1,
+ Taxes - Other,Depreciation - Buildings & Improvements,1,
+TOTAL MITSUBISHI FLEET,Depreciation - Other,1,0.6279453192601431
+"(
+Cars
+ )",Depreciation - Other,1,0.6279453192601425
+New Vehicles - Other Makes ,Depreciation - Other,1,0.6279453192601421
+ Bonuses - Employees,Depreciation - Other ,1,
+ NV Months Supply (Guide 2.5 months),Depreciation - Other ,1,
+ Taxes - Other,Depreciation - Other ,1,
+ Bonuses - Employees,Depreciation of Lease & Rental Units,1,
+ NV Months Supply (Guide 2.5 months),Depreciation of Lease & Rental Units,1,
+ Taxes - Other,Depreciation of Lease & Rental Units,1,
+ Bonuses - Employees,Detailing,1,
+ NV Months Supply (Guide 2.5 months),Detailing,1,
+ Taxes - Other,Detailing,1,
+ Bonuses - Employees,Dividends,1,
+ NV Months Supply (Guide 2.5 months),Dividends,1,
+ Taxes - Other,Dividends,1,
+ Bonuses - Employees,Documentary Fees,1,
+ NV Months Supply (Guide 2.5 months),Documentary Fees,1,
+ Taxes - Other,Documentary Fees,1,
+ Bonuses - Employees,Drawings,1,
+ NV Months Supply (Guide 2.5 months),Drawings,1,
+ Taxes - Other,Drawings,1,
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Eclipse Cross,1,0.6805431130372089
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Eclipse Cross,1,0.6668345297600323
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Eclipse Cross,1,0.5702535056425301
+Current Portion of Long Term Debt,Efficiency (Guide 110 - 125%),1,0.9973116842961847
+CP Labour Sales per RO,Efficiency (Guide 110 - 125%),1,0.6930705022987987
+UV Stock Turn (Guide >7) ,Efficiency (Guide 110 - 125%),1,0.6445883803139634
+"(
+Out.
+PHEV
+)",Employee Benefits,1,0.5300310380635542
+Warranty Labour Rate,Employee Benefits,1,0.4529668064440384
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",Employee Benefits,1,0.43860061317406346
+Customer Deposits,Employee Bonuses Payable,1,0.644080355854475
+Used Vehicles - Retail (Other Makes),Employee Bonuses Payable,1,0.553386266506034
+Used Vehicles - Retail Reconditioning (Non CPO),Employee Bonuses Payable,1,0.5156381057625155
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Equip. M/S,1,0.9547603612670988
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Equip. M/S,1,0.9041290181765229
+Furnitures & Fixtures,Equip. M/S,1,0.891326679293952
+TOTAL ,Equip. P/A,1,0.9147958894075795
+Total,Equip. P/A,1,0.9147958894075795
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Equip. P/A,1,0.9062895542460395
+Finance Income (CPO),Equipment - Repairs & Rental,1,0.805309939832078
+Over 30 days,Equipment - Repairs & Rental,1,0.8053099398320777
+OVER 30 Day,Equipment - Repairs & Rental,1,0.8053099398320775
+F&I Sales Reps,F & I Sales Reps.,1,0.9251848886516146
+Other Factory Rec. / Incentives - Mit. ,F & I Sales Reps.,1,0.8879198668500891
+Other Factory Rec. / Incentives - Mitsubishi,F & I Sales Reps.,1,0.8876292457201035
+F & I Sales Reps.,F&I Sales Reps,1,0.9251848886516146
+Other Factory Rec. / Incentives - Mit. ,F&I Sales Reps,1,0.8879198668500891
+Other Factory Rec. / Incentives - Mitsubishi,F&I Sales Reps,1,0.8876292457201035
+Clerical / Other,FEB.,1,0.8213241776558533
+Sales Reps,FEB.,1,0.8181233957998021
+JAN.,FEB.,1,0.8141155503876873
+ Bonuses - Employees,Finance / Insur. Income Receivable - Deferred,1,
+ NV Months Supply (Guide 2.5 months),Finance / Insur. Income Receivable - Deferred,1,
+ Taxes - Other,Finance / Insur. Income Receivable - Deferred,1,
+NOV.,Finance / Insurance / Service Contracts,1,0.5945167547040878
+Equipment - Repairs & Rental,Finance / Insurance / Service Contracts,1,0.5464893385843307
+OCT.,Finance / Insurance / Service Contracts,1,0.47319058431387334
+Petty Cash Fund / Cash On Hand,Finance / Insurance Income Rec. - Current,1,0.6215058824049442
+"Gas, Oil, & Grease",Finance / Insurance Income Rec. - Current,1,0.5785702765697894
+Ups,Finance / Insurance Income Rec. - Current,1,0.5453326089993146
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),Finance Income (CPO),1,0.44685530062900947
+Sales Incentive - Fleet,Finance Income (CPO),1,0.4200840252084036
+Sales Incentives Retail / Fleet,Finance Income (CPO),1,0.4200840252084035
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",Finance Income (Non CPO),1,0.6167301382516714
+Ups,Finance Income (Non CPO),1,0.5715064942029703
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Finance Income (Non CPO),1,0.5645023092990482
+New / Used Vehicle Inventory Expense,Finance Income (Other Makes),1,0.9999999999999999
+Used Vehicles - Wholesale,Finance Income (Other Makes),1,0.999999999999997
+Chemical / Other Income (Non CPO),Finance Income (Other Makes),1,0.7057561289118143
+Sales Reps,Finance Income - New,1,0.7075694181884143
+JUL.,Finance Income - New,1,0.6598462791882056
+Clerical / Other,Finance Income - New,1,0.6154754614156658
+ Bonuses - Employees,Fixed Oper. Advert. Co-Op Credit,1,
+ NV Months Supply (Guide 2.5 months),Fixed Oper. Advert. Co-Op Credit,1,
+ Taxes - Other,Fixed Oper. Advert. Co-Op Credit,1,
+0 - 3 Months ,Fixed Oper. Advertising / Promotion,1,0.3448546732223251
+Pts. Sls. per Customer RO (Inc. Tires),Fixed Oper. Advertising / Promotion,1,0.33527363025366713
+Parts & Accessories - Mitsubishi ,Fixed Oper. Advertising / Promotion,1,0.29412897257330445
+ Bonuses - Employees,Fixed Oper. Advertising Co-Op Credit ,1,
+ NV Months Supply (Guide 2.5 months),Fixed Oper. Advertising Co-Op Credit ,1,
+ Taxes - Other,Fixed Oper. Advertising Co-Op Credit ,1,
+0 - 3 Months ,Fixed Operations Advertising / Promotion,1,0.3448546732223248
+Pts. Sls. per Customer RO (Inc. Tires),Fixed Operations Advertising / Promotion,1,0.33527363025366647
+Parts & Accessories - Mitsubishi ,Fixed Operations Advertising / Promotion,1,0.29412897257330434
+31 - 60 Days,Floor Plan Credits,1,0.632048840439838
+Used Vehicles - Retail (Non CPO),Floor Plan Credits,1,0.6184296219311863
+"(
+SUVs
+)",Floor Plan Credits,1,0.6041744579935223
+Other Factory Rec. / Incentives - Mitsubishi,Floor Plan Interest,1,0.9154877501155854
+Other Factory Rec. / Incentives - Mit. ,Floor Plan Interest,1,0.9154297592161977
+Used Vehicles - Other Makes ,Floor Plan Interest,1,0.9113022177143275
+Interest Payable,Freight & Express,1,0.7225675979853254
+Compensation - Owner,Freight & Express,1,0.684339638107433
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Freight & Express,1,0.5647690222678288
+Notes Payable - Capital Loans,"Furniture & 
+Fixtures",1,0.8550906766076046
+Body Shop Materials,"Furniture & 
+Fixtures",1,0.8030081965195265
+Cash in Bank,"Furniture & 
+Fixtures",1,0.7633572862381554
+ Bonuses - Employees,"Furniture & 
+Fixtures",1,
+ NV Months Supply (Guide 2.5 months),"Furniture & 
+Fixtures",1,
+ Taxes - Other,"Furniture & 
+Fixtures",1,
+Floor Plan Interest,Furnitures & Fixtures,1,0.9583334518769486
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Furnitures & Fixtures,1,0.9515363577508125
+Total,Furnitures & Fixtures,1,0.9317303991121278
+ Bonuses - Employees,Gain on Disposal of Assets,1,
+ NV Months Supply (Guide 2.5 months),Gain on Disposal of Assets,1,
+ Taxes - Other,Gain on Disposal of Assets,1,
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)","Gas, Oil & Grease",1,0.7597680300558551
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)","Gas, Oil & Grease",1,0.7207974926293748
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)","Gas, Oil & Grease",1,0.70730651809332
+Sales Incentive - Fleet,"Gas, Oil, & Grease",1,0.8158024268513802
+Sales Incentives Retail / Fleet,"Gas, Oil, & Grease",1,0.8158024268513792
+Petty Cash Fund / Cash On Hand,"Gas, Oil, & Grease",1,0.8016386666679348
+SEP.,Goods and Service Tax (GST) / Harmonized Sales Tax (HST),1,0.6294284871038429
+"(
+Eclipse
+Cross
+)",Goods and Service Tax (GST) / Harmonized Sales Tax (HST),1,0.6282387607119839
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Goods and Service Tax (GST) / Harmonized Sales Tax (HST),1,0.5740432899866272
+Other Factory Rec. / Incentives - Mitsubishi,Goodwill Policy,1,0.7423230454333917
+Other Factory Rec. / Incentives - Mit. ,Goodwill Policy,1,0.741952388774999
+Work in Process - Mechanical Labour,Goodwill Policy,1,0.6885977415910949
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Gross Stock Turn,1,0.49687497815026
+Finance Income (CPO),Gross Stock Turn,1,0.44047514669547166
+OVER 30 Day,Gross Stock Turn,1,0.4404751466954713
+ Bonuses - Employees,Guide,1,
+ NV Months Supply (Guide 2.5 months),Guide,1,
+ Taxes - Other,Guide,1,
+"(
+RVR
+ )",Heat - Light - Power - Water,1,0.4124725771904964
+"(
+RVR
+ )",Heat - Light - Power - Water,1,0.3795216753267109
+Shareholder's Loans,Heat - Light - Power - Water,1,0.3774573674725818
+ Bonuses - Employees,Hired YTD,1,
+ NV Months Supply (Guide 2.5 months),Hired YTD,1,
+ Taxes - Other,Hired YTD,1,
+ Bonuses - Employees,Hired YTD ,1,
+ NV Months Supply (Guide 2.5 months),Hired YTD ,1,
+ Taxes - Other,Hired YTD ,1,
+Efficiency (Guide 110 - 125%),Hours Available,1,0.9567152390070347
+DEC.,Hours Available,1,0.9218132353393358
+Other P&A,Hours Available,1,0.7688042506729043
+ Bonuses - Employees,Hours Available ,1,
+ NV Months Supply (Guide 2.5 months),Hours Available ,1,
+ Taxes - Other,Hours Available ,1,
+Efficiency (Guide 110 - 125%),Hours Clocked ,1,0.8676779559339586
+DEC.,Hours Clocked ,1,0.8388009672619654
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Hours Clocked ,1,0.8318882384854632
+Other P&A,Hours Sold,1,0.7310610080035108
+Efficiency (Guide 110 - 125%),Hours Sold,1,0.7163450702780485
+Internal Hours Sold ,Hours Sold,1,0.6944251596149501
+ Bonuses - Employees,Hours Sold ,1,
+ NV Months Supply (Guide 2.5 months),Hours Sold ,1,
+ Taxes - Other,Hours Sold ,1,
+Internal Hours Sold ,Hours Sold per Technician,1,0.8589050074390985
+Hours Sold,Hours Sold per Technician,1,0.8517251384821218
+Customer Pay Hours Sold,Hours Sold per Technician,1,0.7916312958312102
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",Hours per CP RO,1,0.6225891298366103
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Hours per CP RO,1,0.5673903248778739
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",Hours per CP RO,1,0.5627223264120125
+ Bonuses - Employees,INCOME TAX,1,
+ NV Months Supply (Guide 2.5 months),INCOME TAX,1,
+ Taxes - Other,INCOME TAX,1,
+ Bonuses - Employees,Income Tax,1,
+ NV Months Supply (Guide 2.5 months),Income Tax,1,
+ Taxes - Other,Income Tax,1,
+AUG.,Insurance - Buildings & Improvements,1,0.565943881687906
+Non-Productive / Other ,Insurance - Buildings & Improvements,1,0.5553184489278403
+TOTAL USED VEHICLES (LINES 39 THRU 42),Insurance - Buildings & Improvements,1,0.5453977628504333
+ Bonuses - Employees,Insurance - Other,1,
+ NV Months Supply (Guide 2.5 months),Insurance - Other,1,
+ Taxes - Other,Insurance - Other,1,
+ Bonuses - Employees,Insurance Income (CPO),1,
+ NV Months Supply (Guide 2.5 months),Insurance Income (CPO),1,
+ Taxes - Other,Insurance Income (CPO),1,
+ Bonuses - Employees,Insurance Income (Non CPO),1,
+ NV Months Supply (Guide 2.5 months),Insurance Income (Non CPO),1,
+ Taxes - Other,Insurance Income (Non CPO),1,
+New / Used Vehicle Inventory Expense,Insurance Income (Other Makes),1,0.7943058703366732
+Used Vehicles - Wholesale,Insurance Income (Other Makes),1,0.7943058703366713
+Finance Income (Other Makes),Insurance Income (Other Makes),1,0.5838932911555575
+Used Vehicles - Retail (CPO),Insurance Income - New,1,0.8743410124571988
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Insurance Income - New,1,0.8461612851296019
+Provincial Sales Tax,Insurance Income - New,1,0.8346058438837672
+ Bonuses - Employees,Insurance Payable,1,
+ NV Months Supply (Guide 2.5 months),Insurance Payable,1,
+ Taxes - Other,Insurance Payable,1,
+ Bonuses - Employees,Interest - Real Estate - Mortgage,1,
+ NV Months Supply (Guide 2.5 months),Interest - Real Estate - Mortgage,1,
+ Taxes - Other,Interest - Real Estate - Mortgage,1,
+Charitable Donations,Interest Payable,1,0.9999999999999973
+Lease & Rental Income,Interest Payable,1,0.5152801411926864
+% of Labour Sales Warranty,Interest Payable,1,0.4152575957415655
+ Bonuses - Employees,Internal Body Shop Labour,1,
+ NV Months Supply (Guide 2.5 months),Internal Body Shop Labour,1,
+ Taxes - Other,Internal Body Shop Labour,1,
+Efficiency (Guide 110 - 125%),Internal Hours Sold ,1,0.7250432540876384
+Hours Sold,Internal Hours Sold ,1,0.7163346202025157
+Other P&A,Internal Hours Sold ,1,0.6694534347139292
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Internal Labour Rate,1,0.9215480938718418
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),Internal Labour Rate,1,0.9012003430829282
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Internal Labour Rate,1,0.9012002959863569
+Internal Labour Rate,Internal Mechanical Labour,1,0.7035842346441067
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Internal Mechanical Labour,1,0.6946738846424729
+Used Vehicles - Retail (Non CPO),Internal Mechanical Labour,1,0.6557267474952589
+Used Vehicles - Retail (Non CPO),Internal P&A RO,1,0.6220500371901939
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,Internal P&A RO,1,0.6201666481479278
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Internal P&A RO,1,0.6001567304927344
+ Bonuses - Employees,Investments,1,
+ NV Months Supply (Guide 2.5 months),Investments,1,
+ Taxes - Other,Investments,1,
+Parts & Accessories - Other,JAN.,1,0.9216773054664678
+"Service, Parts & Body Shop - Customers",JAN.,1,0.9043186945907419
+FEB.,JAN.,1,0.8936000518781335
+AUG.,JUL.,1,0.8196205527154811
+0 - 3 Months ,JUL.,1,0.6954095447676736
+Internal Hours Sold ,JUL.,1,0.6860172954899278
+Cash in Bank,JUN.,1,0.7018318568335447
+"(
+RVR
+ )",JUN.,1,0.5497617396273727
+APR.,JUN.,1,0.5284597781565528
+ Bonuses - Employees,Land - Auto Bus Only,1,
+ NV Months Supply (Guide 2.5 months),Land - Auto Bus Only,1,
+ Taxes - Other,Land - Auto Bus Only,1,
+Finance Income (CPO),Laundry & Uniforms,1,0.8621288110989175
+OVER 30 Day,Laundry & Uniforms,1,0.862128811098917
+Over 30 days,Laundry & Uniforms,1,0.8621288110989161
+OVER 30 Day,Laundry & Uniforms ,1,0.6714501084377488
+Finance Income (CPO),Laundry & Uniforms ,1,0.6714501084377487
+Over 30 days,Laundry & Uniforms ,1,0.6714501084377482
+ Bonuses - Employees,Lease & Rental Expenses,1,
+ NV Months Supply (Guide 2.5 months),Lease & Rental Expenses,1,
+ Taxes - Other,Lease & Rental Expenses,1,
+Outside Services ,Lease & Rental Income,1,0.623828453033692
+Outside Services,Lease & Rental Income,1,0.5722692776180128
+Gross Stock Turn,Lease & Rental Income,1,0.5022391483736405
+ Bonuses - Employees,Lease Buyout,1,
+ NV Months Supply (Guide 2.5 months),Lease Buyout,1,
+ Taxes - Other,Lease Buyout,1,
+ Bonuses - Employees,Lease Vehicles,1,
+ NV Months Supply (Guide 2.5 months),Lease Vehicles,1,
+ Taxes - Other,Lease Vehicles,1,
+ Bonuses - Employees,Leasehold,1,
+ NV Months Supply (Guide 2.5 months),Leasehold,1,
+ Taxes - Other,Leasehold,1,
+ Bonuses - Employees,Leasehold ,1,
+ NV Months Supply (Guide 2.5 months),Leasehold ,1,
+ Taxes - Other,Leasehold ,1,
+Cash Discount / Interest Earned,Legal & Auditing,1,0.4364959059909118
+Training,Legal & Auditing,1,0.40454778742907294
+Demo Expense,Legal & Auditing,1,0.3990922696169157
+ Bonuses - Employees,Less: Charge Backs - New,1,
+ NV Months Supply (Guide 2.5 months),Less: Charge Backs - New,1,
+ Taxes - Other,Less: Charge Backs - New,1,
+ Bonuses - Employees,Less: Charge Backs - Used,1,
+ NV Months Supply (Guide 2.5 months),Less: Charge Backs - Used,1,
+ Taxes - Other,Less: Charge Backs - Used,1,
+ Bonuses - Employees,Life Insurance - Cash Value,1,
+ NV Months Supply (Guide 2.5 months),Life Insurance - Cash Value,1,
+ Taxes - Other,Life Insurance - Cash Value,1,
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Liquidity in Dollars,1,0.7026675494596802
+"(
+Cars
+)",Liquidity in Dollars,1,0.48825668808602996
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Liquidity in Dollars,1,0.4801848463517037
+ Bonuses - Employees,Loss on Disposal of Assets,1,
+ NV Months Supply (Guide 2.5 months),Loss on Disposal of Assets,1,
+ Taxes - Other,Loss on Disposal of Assets,1,
+FEB.,MAR.,1,0.7336331395621729
+Sales Reps,MAR.,1,0.7277164824289487
+Finance Income - New,MAR.,1,0.7080712437889021
+"(
+Outlander
+)",MAY,1,0.6431930963145241
+JUL.,MAY,1,0.6131077364275102
+AUG.,MAY,1,0.5438256181594451
+Equip. P/A,Manager(s),1,0.8340576562282996
+Total,Manager(s),1,0.8216480300177611
+TOTAL ,Manager(s),1,0.821648030017761
+Finance / Insurance / Service Contracts,"Membership, Dues, Publications",1,0.5379870715641333
+"(
+RVR
+ )","Membership, Dues, Publications",1,0.5241946878001162
+"(
+Outlander
+)","Membership, Dues, Publications",1,0.5128522658496734
+Finance / Insurance / Service Contracts,"Membership, Dues, Publications ",1,0.6913883817558338
+"(
+Outlander
+)","Membership, Dues, Publications ",1,0.5209947136815875
+CP Effective Rate,"Membership, Dues, Publications ",1,0.5095425655534265
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",Mirage (5-Door),1,0.6467183108500649
+AUG.,Mirage (5-Door),1,0.5276874823719713
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Mirage (5-Door),1,0.5044645695787974
+Accounts Payable - Trade Creditors,Miscellaneous,1,0.7325839683664409
+Parts & Accessories - Other,Miscellaneous,1,0.7278360015898386
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,Miscellaneous,1,0.6974165181079984
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Miscellaneous ,1,0.5990027350742855
+Tires,Miscellaneous ,1,0.5922377504738168
+Other Ext. Warranty - New,Miscellaneous ,1,0.5835958493178397
+ Bonuses - Employees,Miscellaneous Assets,1,
+ NV Months Supply (Guide 2.5 months),Miscellaneous Assets,1,
+ Taxes - Other,Miscellaneous Assets,1,
+ Bonuses - Employees,Miscellaneous Deductions,1,
+ NV Months Supply (Guide 2.5 months),Miscellaneous Deductions,1,
+ Taxes - Other,Miscellaneous Deductions,1,
+Finance Income (CPO),Miscellaneous Income,1,0.701824810870754
+OVER 30 Day,Miscellaneous Income,1,0.7018248108707534
+Over 30 days,Miscellaneous Income,1,0.7018248108707525
+ Bonuses - Employees,Missed Appointments,1,
+ NV Months Supply (Guide 2.5 months),Missed Appointments,1,
+ Taxes - Other,Missed Appointments,1,
+ Bonuses - Employees,Missed Service Appointments,1,
+ NV Months Supply (Guide 2.5 months),Missed Service Appointments,1,
+ Taxes - Other,Missed Service Appointments,1,
+ Bonuses - Employees,Mortgages Payable,1,
+ NV Months Supply (Guide 2.5 months),Mortgages Payable,1,
+ Taxes - Other,Mortgages Payable,1,
+Finance Income (CPO),"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.7024695920973236
+OVER 30 Day,"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.7024695920973233
+Over 30 days,"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.7024695920973225
+Accounts Payable - Trade Creditors,"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.7982063982242934
+Chemical / Other Income (Non CPO),"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.7265057034199198
+TOTAL F&I NEW (LINES 23 THRU 29),"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",1,0.6220419164982072
+"Service, Parts & Body Shop - Customers","NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.7700765457364869
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.7279531676459937
+Equip. P/A,"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.7274141666877487
+Finance / Insurance Income Rec. - Current,"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.8053763209147438
+Contracts in Transit,"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.6844740852160084
+Finance Income - New,"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",1,0.6026182965164749
+Finance Income (CPO),NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),1,0.9299789375358204
+OVER 30 Day,NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),1,0.9299789375358196
+Over 30 days,NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),1,0.9299789375358183
+Finance Income (CPO),"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.7402562985785712
+OVER 30 Day,"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.7402562985785712
+Over 30 days,"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.7402562985785706
+Pts. Sls. per Customer RO (Inc. Tires),"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.655283502622609
+CP Pts. : CP Labour Sls. (Inc. Tires),"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.6426372404267697
+Dealer Advertising Allowance,"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",1,0.6089412638892087
+Finance Income (CPO),NET PROFIT OR (LOSS) ,1,0.9299789375358204
+OVER 30 Day,NET PROFIT OR (LOSS) ,1,0.9299789375358196
+Over 30 days,NET PROFIT OR (LOSS) ,1,0.9299789375358183
+"Service, Parts & Body Shop - Customers","NET RECEIVABLES 
+(LINES 78 & 79)",1,0.8407746849878666
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","NET RECEIVABLES 
+(LINES 78 & 79)",1,0.8117065310839235
+Floor Plan Interest,"NET RECEIVABLES 
+(LINES 78 & 79)",1,0.7732067689163714
+Finance / Insurance Income Rec. - Current,"NET RECEIVABLES 
+(LINES 78 & 79)",1,0.6612572619840252
+Contracts in Transit,"NET RECEIVABLES 
+(LINES 78 & 79)",1,0.6440352039092156
+"Service, Parts & Body Shop - Customers","NET RECEIVABLES 
+(LINES 78 & 79)",1,0.6121699789513158
+Equipment - Repairs & Rental,NOV.,1,0.8602873715522833
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",NOV.,1,0.7611391797978545
+Advertising (Institutional) ,NOV.,1,0.6309011526663615
+ Bonuses - Employees,NV Target,1,
+ NV Months Supply (Guide 2.5 months),NV Target,1,
+ Taxes - Other,NV Target,1,
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",NV Units Sold Retail Per NV Sales Rep.,1,0.7101362008724392
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",NV Units Sold Retail Per NV Sales Rep.,1,0.49247430352057725
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",NV Units Sold Retail Per NV Sales Rep.,1,0.4316025253065628
+"(
+Eclipse
+Cross
+)",NV Vehicle Equity or (Conversion) ,1,0.5981341870407347
+Training,NV Vehicle Equity or (Conversion) ,1,0.3096189512682777
+Postage,NV Vehicle Equity or (Conversion) ,1,0.2772529031914309
+TOTAL MITSUBISHI FLEET,Net Working Capital Actual,1,0.6361996130346291
+New Vehicles - Other Makes ,Net Working Capital Actual,1,0.6361996130346278
+"(
+Cars
+ )",Net Working Capital Actual,1,0.6361996130346277
+TOTAL MITSUBISHI FLEET,Net Working Capital Ratio,1,0.668182588554032
+New Vehicles - Other Makes ,Net Working Capital Ratio,1,0.668182588554031
+"(
+Cars
+ )",Net Working Capital Ratio,1,0.6681825885540309
+Freight & Express,New / Used Vehicle Inventory Expense,1,0.7222553495359375
+Compensation - Finance,New / Used Vehicle Inventory Expense,1,0.6699735229734034
+Serv. Parts & Body Shop - Customers,New / Used Vehicle Inventory Expense,1,0.3694140641380479
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",New Car - Mitsubishi,1,0.8074265861264396
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",New Car - Mitsubishi,1,0.7266813298549232
+( Mirage ),New Car - Mitsubishi,1,0.7065110014241085
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),New SUV - Mitsubishi,1,0.9520445971846562
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",New SUV - Mitsubishi,1,0.9520445675534526
+Used Vehicles - Other Makes ,New SUV - Mitsubishi,1,0.951334830150513
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",New Vehicle Department,1,0.7033886949115835
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",New Vehicle Department,1,0.7011515144736382
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",New Vehicle Department,1,0.6925768980894927
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),New Vehicles - Mitsubishi,1,0.9610403994657057
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",New Vehicles - Mitsubishi,1,0.9610403688389965
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",New Vehicles - Mitsubishi,1,0.9588710371995733
+TOTAL MITSUBISHI FLEET,New Vehicles - Other Makes ,1,0.8323840870654446
+"(
+Cars
+ )",New Vehicles - Other Makes ,1,0.8323840870654431
+Employee Bonuses Payable,New Vehicles - Other Makes ,1,0.5313538946460056
+ Bonuses - Employees,Non-Automotive Inventory,1,
+ NV Months Supply (Guide 2.5 months),Non-Automotive Inventory,1,
+ Taxes - Other,Non-Automotive Inventory,1,
+ Bonuses - Employees,Non-Productive / Other,1,
+ NV Months Supply (Guide 2.5 months),Non-Productive / Other,1,
+ Taxes - Other,Non-Productive / Other,1,
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Non-Productive / Other ,1,0.9157263961816128
+# of Productive Bays,Non-Productive / Other ,1,0.8832543981887018
+TOTAL,Non-Productive / Other ,1,0.8645308594119083
+"Furniture & 
+Fixtures",Notes Payable - Capital Loans,1,0.8909974398101325
+Other Notes and Contracts Payable,Notes Payable - Capital Loans,1,0.8903965222417052
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),Notes Payable - Capital Loans,1,0.8748349410891618
+"Gas, Oil, & Grease",Notes and Accts. Rec. - Officers / Owners / Employees,1,0.7723088846989423
+# of Working Days ,Notes and Accts. Rec. - Officers / Owners / Employees,1,0.7331688779373532
+Body Shop Materials,Notes and Accts. Rec. - Officers / Owners / Employees,1,0.7156862375284071
+NOV.,OCT.,1,0.7308666376190489
+Equipment - Repairs & Rental,OCT.,1,0.6446894079735035
+Sales Incentive - Fleet,OCT.,1,0.6006607732811925
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),OVER 30 Day,1,0.44685530062900924
+Sales Incentive - Fleet,OVER 30 Day,1,0.42008402520840393
+Sales Incentives Retail / Fleet,OVER 30 Day,1,0.42008402520840243
+TOTAL MITSUBISHI FLEET,Occupancy as a % of Company GP,1,0.7905773447379192
+New Vehicles - Other Makes ,Occupancy as a % of Company GP,1,0.7905773447379176
+"(
+Cars
+ )",Occupancy as a % of Company GP,1,0.790577344737917
+Sales Incentive - Fleet,Office Supplies & Stationery,1,0.4095007758683848
+Sales Incentives Retail / Fleet,Office Supplies & Stationery,1,0.40950077586838424
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",Office Supplies & Stationery,1,0.3327128931012762
+Petty Cash Fund / Cash On Hand,Other,1,0.6365766443853226
+Outside Services ,Other,1,0.6025122777600865
+Sales Incentive - Fleet,Other,1,0.5743207903189912
+Taxes Payable - Other,Other Expenses Payable,1,0.756194426812994
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Other Expenses Payable,1,0.7442251582785047
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Other Expenses Payable,1,0.6358512767149918
+# of Productive Bays,Other Ext. Warranty - New,1,0.8502814776647815
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Other Ext. Warranty - New,1,0.845578600630588
+31 - 60 Days,Other Ext. Warranty - New,1,0.8392132406717563
+Sales Reps,Other F & I - New,1,0.7560930628041518
+Sales Reps.,Other F & I - New,1,0.6984773574936247
+Volume Discount,Other F & I - New,1,0.6464766147973019
+Other Factory Rec. / Incentives - Mitsubishi,Other Factory Rec. / Incentives - Mit. ,1,0.8899676910605345
+Non-Productive / Other ,Other Factory Rec. / Incentives - Mit. ,1,0.8624909275380912
+# of Productive Bays,Other Factory Rec. / Incentives - Mit. ,1,0.8591932632159588
+Other Factory Rec. / Incentives - Mit. ,Other Factory Rec. / Incentives - Mitsubishi,1,0.8899656067043779
+Non-Productive / Other ,Other Factory Rec. / Incentives - Mitsubishi,1,0.8625472983478617
+# of Productive Bays,Other Factory Rec. / Incentives - Mitsubishi,1,0.8592076939627123
+ Bonuses - Employees,Other MMSCAN Program Expense,1,
+ NV Months Supply (Guide 2.5 months),Other MMSCAN Program Expense,1,
+ Taxes - Other,Other MMSCAN Program Expense,1,
+ Bonuses - Employees,Other MMSCAN Program Income,1,
+ NV Months Supply (Guide 2.5 months),Other MMSCAN Program Income,1,
+ Taxes - Other,Other MMSCAN Program Income,1,
+ Bonuses - Employees,Other Mechanical Labour,1,
+ NV Months Supply (Guide 2.5 months),Other Mechanical Labour,1,
+ Taxes - Other,Other Mechanical Labour,1,
+TOTAL ,Other Non-Automotive Assets,1,0.8513892276261424
+Total,Other Non-Automotive Assets,1,0.8513892276261424
+Customer Labour Rate,Other Non-Automotive Assets,1,0.8502313938857582
+ Bonuses - Employees,Other Notes / Accounts Receivable,1,
+ NV Months Supply (Guide 2.5 months),Other Notes / Accounts Receivable,1,
+ Taxes - Other,Other Notes / Accounts Receivable,1,
+Notes Payable - Capital Loans,Other Notes and Contracts Payable,1,0.8590515461554392
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),Other Notes and Contracts Payable,1,0.8410374977625874
+"Furniture & 
+Fixtures",Other Notes and Contracts Payable,1,0.8325754765073995
+Current Portion of Long Term Debt,Other P&A,1,0.7442742722436408
+CP Labour Sales per RO,Other P&A,1,0.5541870108991989
+ NV Months Supply (Guide 2.5 months),Other P&A,1,0.47250838566494935
+"(
+SUVs
+)",Other Salaries & Wages,1,0.5996891662452267
+"(
+Trucks
+)",Other Salaries & Wages,1,0.5996891662452267
+MAY,Other Salaries & Wages,1,0.4185801761247367
+"(
+Out.
+PHEV
+)",Other Supplies & Tools,1,0.5585959447536865
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Other Supplies & Tools,1,0.531776115683493
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Other Supplies & Tools,1,0.48054501637563757
+ Bonuses - Employees,Other Vehicles,1,
+ NV Months Supply (Guide 2.5 months),Other Vehicles,1,
+ Taxes - Other,Other Vehicles,1,
+Service Contracts (Non CPO),Outlander,1,0.4682982525178201
+TOTAL USED VEHICLE DEPT,Outlander,1,0.45626515594924305
+Technicians,Outlander,1,0.4459765431857177
+Other Factory Rec. / Incentives - Mitsubishi,Outlander PHEV,1,0.8400756787262177
+Other Factory Rec. / Incentives - Mit. ,Outlander PHEV,1,0.839950946674046
+Floor Plan Interest,Outlander PHEV,1,0.8382207575188299
+Sales Incentive - Fleet,Outside Services,1,0.6497510496365945
+Sales Incentives Retail / Fleet,Outside Services,1,0.6497510496365934
+Finance / Insurance / Service Contracts,Outside Services,1,0.6463299833276045
+Sales Incentive - Fleet,Outside Services ,1,0.7786102370683234
+Sales Incentives Retail / Fleet,Outside Services ,1,0.778610237068322
+Finance / Insurance / Service Contracts,Outside Services ,1,0.7179851995652691
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),Over 30 days,1,0.446855300629009
+Sales Incentive - Fleet,Over 30 days,1,0.42008402520840343
+Sales Incentives Retail / Fleet,Over 30 days,1,0.42008402520840166
+ Bonuses - Employees,Over 45 days,1,
+ NV Months Supply (Guide 2.5 months),Over 45 days,1,
+ Taxes - Other,Over 45 days,1,
+F & I Sales Reps.,Over 90 Days,1,0.922523300118514
+F&I Sales Reps,Over 90 Days,1,0.922523300118514
+Used Vehicles - Other Makes ,Over 90 Days,1,0.9078265173101006
+Chemical / Other Income (CPO),Overhead Absorption %,1,0.5431203424666254
+Finance Income (CPO),Overhead Absorption %,1,0.5036958643873836
+OVER 30 Day,Overhead Absorption %,1,0.5036958643873836
+Equip. P/A,Owner(s),1,6.903115831224457e-15
+Warranty Labour Rate,Owner(s),1,1.880441792215056e-15
+Apprentices,Owner(s),1,1.2852113259319938e-15
+ Bonuses - Employees,Owners' Bonuses Payable,1,
+ NV Months Supply (Guide 2.5 months),Owners' Bonuses Payable,1,
+ Taxes - Other,Owners' Bonuses Payable,1,
+ Bonuses - Employees,P&A Inventory Adjustment,1,
+ NV Months Supply (Guide 2.5 months),P&A Inventory Adjustment,1,
+ Taxes - Other,P&A Inventory Adjustment,1,
+SEP.,P&A Repair Order Mechanical,1,0.6493784250607365
+"(
+Outlander
+)",P&A Repair Order Mechanical,1,0.5897560074030573
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",P&A Repair Order Mechanical,1,0.5859251533557962
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Parts & Accessories,1,0.779981061618281
+Pts. Months Supply (Guide 1.5 mos),Parts & Accessories,1,0.5829367402976345
+ NV Months Supply (Guide 2.5 months),Parts & Accessories,1,0.5716850052635007
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Parts & Accessories - Mitsubishi ,1,0.8973110085263497
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Parts & Accessories - Mitsubishi ,1,0.8862478098938297
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Parts & Accessories - Mitsubishi ,1,0.8789177915355074
+JAN.,Parts & Accessories - Other,1,0.9364529019027746
+Customer Labour Rate,Parts & Accessories - Other,1,0.9265073674723503
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Parts & Accessories - Other,1,0.9264117015539306
+Used Vehicles,Parts & Accessories - Tires,1,0.8445355972695735
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Parts & Accessories - Tires,1,0.8355175750708717
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Parts & Accessories - Tires,1,0.8274943252514038
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Payroll Payable,1,0.7856038126853284
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Payroll Payable,1,0.7848040827520244
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",Payroll Payable,1,0.7034116847518489
+Goodwill Policy,Payroll Taxes,1,0.539749870355517
+Floor Plan Interest,Payroll Taxes,1,0.5320100145871707
+Technicians,Payroll Taxes,1,0.4681275255570853
+Goodwill Policy,Payroll Taxes ,1,0.5369221853370767
+Floor Plan Interest,Payroll Taxes ,1,0.5294777919826109
+"(
+RVR
+ )",Payroll Taxes ,1,0.4667115521086919
+ Bonuses - Employees,Pension Fund,1,
+ NV Months Supply (Guide 2.5 months),Pension Fund,1,
+ Taxes - Other,Pension Fund,1,
+ Bonuses - Employees,Pension Fund ,1,
+ NV Months Supply (Guide 2.5 months),Pension Fund ,1,
+ Taxes - Other,Pension Fund ,1,
+ Bonuses - Employees,Pension Fund Payable,1,
+ NV Months Supply (Guide 2.5 months),Pension Fund Payable,1,
+ Taxes - Other,Pension Fund Payable,1,
+Sales Incentive - Fleet,Petty Cash Fund / Cash On Hand,1,0.8972110761102786
+Sales Incentives Retail / Fleet,Petty Cash Fund / Cash On Hand,1,0.8972110761102773
+Outside Services ,Petty Cash Fund / Cash On Hand,1,0.7748885273027962
+Dealer Advertising Expense,Postage,1,0.4592033194863305
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Postage,1,0.436503572705484
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),Postage,1,0.436503572705484
+ Bonuses - Employees,Pre-Delivery - Mitsubishi,1,
+ NV Months Supply (Guide 2.5 months),Pre-Delivery - Mitsubishi,1,
+ Taxes - Other,Pre-Delivery - Mitsubishi,1,
+ Bonuses - Employees,Preferred Stock,1,
+ NV Months Supply (Guide 2.5 months),Preferred Stock,1,
+ Taxes - Other,Preferred Stock,1,
+ Bonuses - Employees,Prepaid Insurance,1,
+ NV Months Supply (Guide 2.5 months),Prepaid Insurance,1,
+ Taxes - Other,Prepaid Insurance,1,
+F & I Sales Reps.,Prepaid Other,1,0.9827560013805056
+F&I Sales Reps,Prepaid Other,1,0.9827560013805056
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Prepaid Other,1,0.9250627956158918
+ Bonuses - Employees,Prepaid Taxes,1,
+ NV Months Supply (Guide 2.5 months),Prepaid Taxes,1,
+ Taxes - Other,Prepaid Taxes,1,
+TOTAL MITSUBISHI FLEET,Productive / Non Productive Personnel,1,0.5922411321069496
+OVER 30 Day,Productive / Non Productive Personnel,1,0.5922411321069495
+New Vehicles - Other Makes ,Productive / Non Productive Personnel,1,0.592241132106949
+ Bonuses - Employees,Productive / Non-Productive Personnel,1,
+ NV Months Supply (Guide 2.5 months),Productive / Non-Productive Personnel,1,
+ Taxes - Other,Productive / Non-Productive Personnel,1,
+TOTAL MITSUBISHI FLEET,Productivity (Guide 85% +),1,0.547371797080629
+New Vehicles - Other Makes ,Productivity (Guide 85% +),1,0.5473717970806282
+"(
+Cars
+ )",Productivity (Guide 85% +),1,0.5473717970806279
+ Bonuses - Employees,Productivity (Guide 85% +) ,1,
+ NV Months Supply (Guide 2.5 months),Productivity (Guide 85% +) ,1,
+ Taxes - Other,Productivity (Guide 85% +) ,1,
+Finance Income (CPO),Profit or Loss (Before Income Tax),1,0.7089987893331313
+OVER 30 Day,Profit or Loss (Before Income Tax),1,0.7089987893331312
+Over 30 days,Profit or Loss (Before Income Tax),1,0.7089987893331305
+Efficiency (Guide 110 - 125%),Promotion,1,0.8022903655770162
+DEC.,Promotion,1,0.7633190579123469
+"(
+Out.
+PHEV
+)",Promotion,1,0.6737044143700767
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Provincial Sales Tax,1,0.919840852976405
+Tires,Provincial Sales Tax,1,0.7684342819097764
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Provincial Sales Tax,1,0.693987845981116
+TOTAL MITSUBISHI FLEET,Pts. Months Supply (Guide 1.5 mos),1,0.7939341134726711
+New Vehicles - Other Makes ,Pts. Months Supply (Guide 1.5 mos),1,0.7939341134726693
+"(
+Cars
+ )",Pts. Months Supply (Guide 1.5 mos),1,0.7939341134726683
+% of Labour Sales Warranty,Pts. Sls. per Customer RO (Inc. Tires),1,0.44946232235301886
+Finance Income (CPO),Pts. Sls. per Customer RO (Inc. Tires),1,0.4490249934544898
+OVER 30 Day,Pts. Sls. per Customer RO (Inc. Tires),1,0.4490249934544896
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",RVR,1,0.547587704306602
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",RVR,1,0.4800884981179823
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",RVR,1,0.47179326899253365
+ Bonuses - Employees,Rec. Floor Plan Credits,1,
+ NV Months Supply (Guide 2.5 months),Rec. Floor Plan Credits,1,
+ Taxes - Other,Rec. Floor Plan Credits,1,
+ Bonuses - Employees,Receivable - Floor Plan Credits,1,
+ NV Months Supply (Guide 2.5 months),Receivable - Floor Plan Credits,1,
+ Taxes - Other,Receivable - Floor Plan Credits,1,
+ Bonuses - Employees,Receivables Floor Plan Credits,1,
+ NV Months Supply (Guide 2.5 months),Receivables Floor Plan Credits,1,
+ Taxes - Other,Receivables Floor Plan Credits,1,
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Rent,1,0.8577843900764734
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Rent,1,0.8248599488083832
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),Rent,1,0.8248599488083832
+ Bonuses - Employees,Rental / Lease Units,1,
+ NV Months Supply (Guide 2.5 months),Rental / Lease Units,1,
+ Taxes - Other,Rental / Lease Units,1,
+ Bonuses - Employees,Rental Vehicles,1,
+ NV Months Supply (Guide 2.5 months),Rental Vehicles,1,
+ Taxes - Other,Rental Vehicles,1,
+AUG.,Repairs & Maintenance - Real Estate,1,0.6285094931577904
+Equip. M/S,Repairs & Maintenance - Real Estate,1,0.6264754799466927
+Avg. Technician Wage,Repairs & Maintenance - Real Estate,1,0.6132378981339464
+ Bonuses - Employees,Reserve for Repossession Losses & Service Contract Losses,1,
+ NV Months Supply (Guide 2.5 months),Reserve for Repossession Losses & Service Contract Losses,1,
+ Taxes - Other,Reserve for Repossession Losses & Service Contract Losses,1,
+ Bonuses - Employees,Reserved,1,
+ NV Months Supply (Guide 2.5 months),Reserved,1,
+ Taxes - Other,Reserved,1,
+"(
+Cars
+)",Retail Counter P&A,1,0.581458068451929
+Volume Discount,Retail Counter P&A,1,0.43724509726082206
+RVR,Retail Counter P&A,1,0.3725986180421078
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),Retained Earnings,1,0.9503812388991473
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Retained Earnings,1,0.9503812161213058
+TOTAL LIABILITIES (LINES 27 & 32),Retained Earnings,1,0.9481724261978419
+OCT.,SEP.,1,0.8233715943590465
+Outside Services,SEP.,1,0.675716764833468
+Outside Services ,SEP.,1,0.5861524100529809
+ Bonuses - Employees,SUB-TOTAL NON-CPO (LINES 50 THRU 53),1,
+ NV Months Supply (Guide 2.5 months),SUB-TOTAL NON-CPO (LINES 50 THRU 53),1,
+ Taxes - Other,SUB-TOTAL NON-CPO (LINES 50 THRU 53),1,
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),1,0.9132434431548629
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),1,0.8258653683903313
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),1,0.8258653683903313
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,1,0.9278915080347372
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,1,0.8244396385409591
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,1,0.8244396385409591
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),1,0.8880697698325007
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),1,0.8051553640368391
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),1,0.8051553640368391
+ Bonuses - Employees,SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),1,
+ NV Months Supply (Guide 2.5 months),SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),1,
+ Taxes - Other,SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),1,
+ Bonuses - Employees,SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),1,
+ NV Months Supply (Guide 2.5 months),SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),1,
+ Taxes - Other,SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),1,
+31 - 60 Days,"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.6475740212484428
+Goodwill Policy,"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.5414828028537086
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)","SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.5379077997059583
+% of Labour Sales Warranty,"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.7519595550071982
+Chemical / Other Income (Non CPO),"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.6871660342947591
+"Membership, Dues, Publications ","SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",1,0.6404434193037798
+31 - 60 Days,"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.6154560095922504
+Goodwill Policy,"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.5385049731420667
+"(
+Outlander
+)","SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.5259203800178668
+Chemical / Other Income (Non CPO),"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.7162813083327983
+% of Labour Sales Warranty,"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.7156514358079741
+"Membership, Dues, Publications ","SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",1,0.6668382118807139
+31 - 60 Days,SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),1,0.5661636175774682
+Equip. P/A,SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),1,0.538820427013491
+"(
+Outlander
+)",SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),1,0.5224290972280479
+Equip. M/S,"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.7838893293299678
+# of Productive Bays,"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.7764251145055554
+Non-Productive / Other ,"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.7715041273676089
+Prepaid Other,"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.8299793900530793
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)","SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.8299793900530793
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)","SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",1,0.8299793900530793
+Equip. M/S,SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),1,0.7838893293299678
+# of Productive Bays,SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),1,0.7764251145055554
+Non-Productive / Other ,SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),1,0.7715041273676089
+ Bonuses - Employees,SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),1,
+ NV Months Supply (Guide 2.5 months),SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),1,
+ Taxes - Other,SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),1,
+Other Supplies & Tools,Sales $'s per Retail Counter Invoice,1,0.4751942446537137
+% of Labour Sales Warranty,Sales $'s per Retail Counter Invoice,1,0.4640229752925687
+Chemical / Other Income (CPO),Sales $'s per Retail Counter Invoice,1,0.34539398406097516
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),Sales $'s per Wholesale Invoice,1,0.6219775238735528
+Employee Bonuses Payable,Sales $'s per Wholesale Invoice,1,0.55971109908665
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",Sales $'s per Wholesale Invoice,1,0.5113206991235654
+Sales Incentives Retail / Fleet,Sales Incentive - Fleet,1,0.7666666666666657
+Other,Sales Incentive - Fleet,1,0.7302745659015466
+Equipment - Repairs & Rental,Sales Incentive - Fleet,1,0.6149556079608345
+ Bonuses - Employees,Sales Incentive - Retail,1,
+ NV Months Supply (Guide 2.5 months),Sales Incentive - Retail,1,
+ Taxes - Other,Sales Incentive - Retail,1,
+Sales Incentive - Fleet,Sales Incentives Retail / Fleet,1,0.7666666666666658
+Other,Sales Incentives Retail / Fleet,1,0.7302745659015463
+Equipment - Repairs & Rental,Sales Incentives Retail / Fleet,1,0.6149556079608325
+Clerical / Other,Sales Reps,1,0.8401700115691318
+Equip. P/A,Sales Reps,1,0.8303077064543398
+Total,Sales Reps,1,0.8063751541560529
+Sales Reps,Sales Reps.,1,0.7985035811243868
+Total,Sales Reps.,1,0.7817816539645273
+TOTAL ,Sales Reps.,1,0.7817816539645271
+ Bonuses - Employees,Securities,1,
+ NV Months Supply (Guide 2.5 months),Securities,1,
+ Taxes - Other,Securities,1,
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",Serv. Parts & Body Shop - Customers,1,0.5561950966355521
+"Furniture & 
+Fixtures",Serv. Parts & Body Shop - Customers,1,0.4468722487666687
+"Buildings & 
+Improvements",Serv. Parts & Body Shop - Customers,1,0.44687224876666864
+"Service, Parts & Body Shop - Customers","Serv., Parts & Body Shop - Customers",1,0.8536763231812745
+Customer Labour Rate,"Serv., Parts & Body Shop - Customers",1,0.7950315518796628
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","Serv., Parts & Body Shop - Customers",1,0.7721129533264859
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Service Contracts (CPO),1,0.9567616205082774
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Service Contracts (CPO),1,0.8247005426548306
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",Service Contracts (CPO),1,0.8054071641289132
+Other Ext. Warranty - New,Service Contracts (Non CPO),1,0.801076239711596
+Accounts Payable - Trade Creditors,Service Contracts (Non CPO),1,0.7347745495458157
+Prepaid Other,Service Contracts (Non CPO),1,0.6949627447294048
+New / Used Vehicle Inventory Expense,Service Contracts (Other Makes),1,0.9380431013488403
+Used Vehicles - Wholesale,Service Contracts (Other Makes),1,0.9380431013488363
+Chemical / Other Income (Non CPO),Service Contracts (Other Makes),1,0.6347155685792935
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Service Department,1,0.7583322455831744
+Internal Labour Rate,Service Department,1,0.7323813440146623
+Furnitures & Fixtures,Service Department,1,0.7217342626698702
+Customer Labour Rate,"Service, Parts & Body Shop - Customers",1,0.9379520108849589
+TOTAL ,"Service, Parts & Body Shop - Customers",1,0.9157160272495215
+Total,"Service, Parts & Body Shop - Customers",1,0.9157160272495215
+MAR.,Shareholder's Loans,1,0.735814970222178
+FEB.,Shareholder's Loans,1,0.6400309366068623
+Other F & I - New,Shareholder's Loans,1,0.606116026634453
+Floor Plan Interest,Sold,1,0.9124662482141754
+Furnitures & Fixtures,Sold,1,0.8950584651661977
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Sold,1,0.892794123059512
+Floor Plan Interest,Sold ,1,0.8950130914235074
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Sold ,1,0.8692609911699858
+Furnitures & Fixtures,Sold ,1,0.868136677735442
+Finance Income (CPO),Sublet Repairs,1,0.6098292636960811
+OVER 30 Day,Sublet Repairs,1,0.6098292636960806
+Over 30 days,Sublet Repairs,1,0.6098292636960798
+ Bonuses - Employees,Sublet Repairs Body Shop,1,
+ NV Months Supply (Guide 2.5 months),Sublet Repairs Body Shop,1,
+ Taxes - Other,Sublet Repairs Body Shop,1,
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL,1,0.9703107687765375
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",TOTAL,1,0.9703107576939117
+Used Vehicles - Other Makes ,TOTAL,1,0.9694073818709156
+"Service, Parts & Body Shop - Customers","TOTAL
+(LINES 71 THRU 77)",1,0.8407746849878666
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","TOTAL
+(LINES 71 THRU 77)",1,0.8117065310839235
+Floor Plan Interest,"TOTAL
+(LINES 71 THRU 77)",1,0.7732067689163714
+Finance / Insurance Income Rec. - Current,"TOTAL
+(LINES 71 THRU 77)",1,0.6612572619840252
+Contracts in Transit,"TOTAL
+(LINES 71 THRU 77)",1,0.6440352039092156
+"Service, Parts & Body Shop - Customers","TOTAL
+(LINES 71 THRU 77)",1,0.6121699789513158
+Total,TOTAL ,1,0.9540699214474332
+Equip. P/A,TOTAL ,1,0.9400627071083442
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL ,1,0.934370990462004
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),1,0.9719752850259159
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),1,0.9719752740299712
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),1,0.971818506899595
+ Bonuses - Employees,"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+ NV Months Supply (Guide 2.5 months),"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+ Taxes - Other,"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+ Bonuses - Employees,"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+ NV Months Supply (Guide 2.5 months),"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+ Taxes - Other,"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",1,
+Finance Income (CPO),"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.7024694534059771
+OVER 30 Day,"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.702469453405977
+Over 30 days,"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.702469453405976
+Accounts Payable - Trade Creditors,"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.7982063982242934
+Chemical / Other Income (Non CPO),"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.7265057034199198
+TOTAL F&I NEW (LINES 23 THRU 29),"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",1,0.6220419164982072
+Floor Plan Interest,"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",1,0.853041028508616
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",1,0.8334905397205472
+Non-Productive / Other ,"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",1,0.8324112472292399
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),"TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.9717673089062797
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)","TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.9704419769068984
+Used Vehicles - Other Makes ,"TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.9682866764012763
+"Service, Parts & Body Shop - Customers","TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.8477120695387661
+# of Productive Bays,"TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.8314724775493215
+MAY,"TOTAL ASSETS 
+(LINES 50, 61 & 67)",1,0.8262281263182609
+ Bonuses - Employees,TOTAL BODY SHOP,1,
+ NV Months Supply (Guide 2.5 months),TOTAL BODY SHOP,1,
+ Taxes - Other,TOTAL BODY SHOP,1,
+ Bonuses - Employees,TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),1,
+ NV Months Supply (Guide 2.5 months),TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),1,
+ Taxes - Other,TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),1,
+Sales Reps.,"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.46946899046826346
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)","TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.44876696551865547
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+","TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.4394781819920493
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.6938163966686715
+TOTAL USED VEHICLE DEPT,"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.6671131725779692
+Rent,"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",1,0.6641524076253519
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.9697358605964732
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)","TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.9697358523232714
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.9679182475925742
+"Service, Parts & Body Shop - Customers","TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.8529322163522802
+# of Productive Bays,"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.8308209681375711
+MAY,"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",1,0.82549833509732
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),1,0.9679467958903214
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),1,0.9665545912467358
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),1,0.9665545910960964
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL F & I NEW,1,0.8532091958700786
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",TOTAL F & I NEW,1,0.8178100874525251
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",TOTAL F & I NEW,1,0.721562078260935
+Other Ext. Warranty - New,TOTAL F & I USED,1,0.6415056107614202
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",TOTAL F & I USED,1,0.6367375483734603
+Used Vehicles,TOTAL F & I USED,1,0.6352380924330389
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",TOTAL F&I NEW (LINES 23 THRU 29),1,0.8302433587066111
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL F&I NEW (LINES 23 THRU 29),1,0.7870662616878511
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",TOTAL F&I NEW (LINES 23 THRU 29),1,0.6808890148160877
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)","TOTAL F&I USED(LINES 49, 54, 59 & 60)",1,0.6400540724514293
+Insurance Income - New,"TOTAL F&I USED(LINES 49, 54, 59 & 60)",1,0.6100579895189403
+Used Vehicles,"TOTAL F&I USED(LINES 49, 54, 59 & 60)",1,0.6070565082449478
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ","TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,0.6032654082737455
+JUN.,"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,0.5590165309927644
+SEP.,"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,0.5267873634935036
+Company Vehicles,"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,1.0
+Depreciation - Other,"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,1.0
+Leasehold,"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",1,1.0
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","TOTAL FIXED OPERS. (LINES 14, 28 & 36)",1,0.6851347012548724
+Equip. M/S,"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",1,0.6655001286491797
+Internal Labour Rate,"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",1,0.655133499819561
+31 - 60 Days,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.7616169447196575
+Floor Plan Interest,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.7283098060160054
+Furnitures & Fixtures,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.7159548864290651
+Chemical / Other Income (Non CPO),"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.7930789693356759
+Training,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.6413515902477459
+"Membership, Dues, Publications ","TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",1,0.6409419846151185
+Floor Plan Interest,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",1,0.7334000231946629
+Furnitures & Fixtures,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",1,0.7309140886532562
+31 - 60 Days,"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",1,0.7263550217016469
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL GROSS PROFIT,1,0.8012901681845891
+Accounts Payable - Trade Creditors,TOTAL GROSS PROFIT,1,0.7852004039193121
+Floor Plan Interest,TOTAL GROSS PROFIT,1,0.7648554482702055
+ Bonuses - Employees,TOTAL GROSS PROFIT - BODY SHOP DEPT.,1,
+ NV Months Supply (Guide 2.5 months),TOTAL GROSS PROFIT - BODY SHOP DEPT.,1,
+ Taxes - Other,TOTAL GROSS PROFIT - BODY SHOP DEPT.,1,
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,1,0.7033886949115835
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,1,0.7011515144736382
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,1,0.6925768980894927
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,1,0.779981061618281
+Pts. Months Supply (Guide 1.5 mos),TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,1,0.5829367686309865
+ NV Months Supply (Guide 2.5 months),TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,1,0.571684504899407
+Floor Plan Interest,TOTAL GROSS PROFIT - USED VEHICLE DEPT.,1,0.8022444218575934
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL GROSS PROFIT - USED VEHICLE DEPT.,1,0.7729156607621946
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",TOTAL GROSS PROFIT - USED VEHICLE DEPT.,1,0.7729155788437196
+Used Vehicles - Other Makes ,"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.9649787452631942
+TOTAL LIABILITIES (LINES 27 & 32),"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.9637260972170454
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.9619364212114621
+Over 90 Days,"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.8290564705401167
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)","TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.7758464421334856
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)","TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",1,0.7758464421334856
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),1,0.9717672973452557
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),1,0.9704419783050563
+Used Vehicles - Other Makes ,TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),1,0.9682866950411839
+Used Vehicles - Other Makes ,TOTAL LIABILITIES (LINES 27 & 32),1,0.964963431000914
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",TOTAL LIABILITIES (LINES 27 & 32),1,0.9605165099132805
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),TOTAL LIABILITIES (LINES 27 & 32),1,0.9601705732387059
+Other Notes and Contracts Payable,TOTAL LONG TERM DEBT (LINES 28 THRU 31),1,0.893823844916012
+"Furniture & 
+Fixtures",TOTAL LONG TERM DEBT (LINES 28 THRU 31),1,0.8383057182558467
+Notes Payable - Capital Loans,TOTAL LONG TERM DEBT (LINES 28 THRU 31),1,0.8377097806523581
+Floor Plan Interest,TOTAL MIT. NEW (LINES 18  THRU 20),1,0.7467809368510617
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL MIT. NEW (LINES 18  THRU 20),1,0.7426518733202448
+Non-Productive / Other ,TOTAL MIT. NEW (LINES 18  THRU 20),1,0.741506179120908
+Floor Plan Interest,TOTAL MIT. NEW (LINES 18 THRU 20),1,0.8177144652222487
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL MIT. NEW (LINES 18 THRU 20),1,0.7907374703102571
+Non-Productive / Other ,TOTAL MIT. NEW (LINES 18 THRU 20),1,0.7889718501326869
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),1,0.6392464044402475
+AUG.,TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),1,0.5106178059300048
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),1,0.5027956752817028
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),1,0.6467185743531457
+AUG.,TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),1,0.5276881560566863
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),1,0.5044645800788049
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),TOTAL MITSUBISHI FLEET,1,0.9999999999999986
+Employee Bonuses Payable,TOTAL MITSUBISHI FLEET,1,0.6802048002989577
+Customer Deposits,TOTAL MITSUBISHI FLEET,1,0.6275979916840232
+Internal Labour Rate,TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),1,0.7670531155719075
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),1,0.7648813975610215
+Equip. M/S,TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),1,0.7436962039247428
+Floor Plan Interest,"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",1,0.7523826074849894
+Non-Productive / Other ,"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",1,0.7451031857929291
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)","TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",1,0.7426518733202448
+Floor Plan Interest,"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",1,0.8209676422514727
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)","TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",1,0.7907374703102571
+Non-Productive / Other ,"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",1,0.7906143295357395
+Floor Plan Interest,TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),1,0.8146266679603937
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),1,0.7723015629035718
+Non-Productive / Other ,TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),1,0.7719479907055089
+Furnitures & Fixtures,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.9669232380666035
+Internal Labour Rate,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.9310572368459323
+Customer Labour Rate,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.9239888541582832
+SEP.,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.92559195977101
+Provincial Sales Tax,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.9097344106445604
+# of Productive Bays,"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",1,0.9073954578445218
+Floor Plan Interest,TOTAL NEW & USED VEHICLE(LINES  31 & 62),1,0.8242109373056427
+Non-Productive / Other ,TOTAL NEW & USED VEHICLE(LINES  31 & 62),1,0.7954435366533842
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL NEW & USED VEHICLE(LINES  31 & 62),1,0.7889800777449948
+Floor Plan Interest,TOTAL NEW & USED VEHICLE(LINES 31 & 62),1,0.8496550036967961
+Non-Productive / Other ,TOTAL NEW & USED VEHICLE(LINES 31 & 62),1,0.821331797718062
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL NEW & USED VEHICLE(LINES 31 & 62),1,0.8126075777941302
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL NEW VEHICLE DEPT,1,0.8255557255163866
+Floor Plan Interest,TOTAL NEW VEHICLE DEPT,1,0.8145358534976758
+Non-Productive / Other ,TOTAL NEW VEHICLE DEPT,1,0.7973624156450476
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",TOTAL NEW VEHICLE DEPT (LINES 21 & 30),1,0.8331059160596683
+Floor Plan Interest,TOTAL NEW VEHICLE DEPT (LINES 21 & 30),1,0.7972202708772046
+Non-Productive / Other ,TOTAL NEW VEHICLE DEPT (LINES 21 & 30),1,0.7797454935985267
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.9519718622371809
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)","TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.9519718359007603
+Used Vehicles - Other Makes ,"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.9506737580183823
+Pts. Months Supply (Guide 1.5 mos),"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.63954259125997
+Over 90 Days,"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.6312114247906151
+31 - 60 Days,"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",1,0.6188829337506164
+31 - 60 Days,"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.7467235850404378
+Floor Plan Interest,"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.6791925625017099
+TOTAL,"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.6734961170170914
+Chemical / Other Income (Non CPO),"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.7361952038379573
+% of Labour Sales Warranty,"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.6743678715232264
+Training,"TOTAL OPERATING EXPENSES (LINE 63)
+",1,0.651954325638477
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",TOTAL OPERATING EXPENSES (LINE 63) ,1,0.6165731809241465
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),TOTAL OPERATING EXPENSES (LINE 63) ,1,0.6165731809241465
+Sales Reps.,TOTAL OPERATING EXPENSES (LINE 63) ,1,0.5863577465841986
+Floor Plan Interest,TOTAL OPERATING EXPENSES (LINES 16  & 63),1,0.8391929418308631
+Equip. M/S,TOTAL OPERATING EXPENSES (LINES 16  & 63),1,0.8296423166008773
+TOTAL,TOTAL OPERATING EXPENSES (LINES 16  & 63),1,0.8204422440569772
+Floor Plan Interest,TOTAL OPERATING EXPENSES (LINES 16 & 63),1,0.8526891108369262
+Equip. M/S,TOTAL OPERATING EXPENSES (LINES 16 & 63),1,0.8459674200285598
+Non-Productive / Other ,TOTAL OPERATING EXPENSES (LINES 16 & 63),1,0.8393357000434757
+Total,"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.8400903182749027
+TOTAL ,"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.8400903182749022
+Customer Labour Rate,"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.839137497912361
+"(
+Eclipse
+Cross
+)","TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.7577901686319071
+"(
+Eclipse
+Cross
+)","TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.7577901686319071
+Prepaid Other,"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",1,0.7190535965784467
+F & I Sales Reps.,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9827560013805056
+F&I Sales Reps,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9827560013805056
+Prepaid Other,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9250627956158918
+APR.,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9448667567457548
+F & I Sales Reps.,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9448667567457548
+F&I Sales Reps,"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",1,0.9448667567457548
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",TOTAL P&A (LINES 16 THRU 27),1,0.7043902547048021
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL P&A (LINES 16 THRU 27),1,0.6778775826326238
+Pts. Months Supply (Guide 1.5 mos),TOTAL P&A (LINES 16 THRU 27),1,0.6581271801728599
+"Service, Parts & Body Shop - Customers","TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.8398978458006219
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.8083783635497601
+Floor Plan Interest,"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.7739757362666405
+Finance / Insurance Income Rec. - Current,"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.6612581046599859
+Contracts in Transit,"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.6440326813683007
+"Service, Parts & Body Shop - Customers","TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",1,0.6121702259123023
+Floor Plan Interest,TOTAL SALES,1,0.8531026820159535
+Non-Productive / Other ,TOTAL SALES,1,0.8369237140260174
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL SALES,1,0.8273709567183101
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL SALES ,1,0.8031740204907437
+Internal Labour Rate,TOTAL SALES ,1,0.7670473735311035
+Equip. M/S,TOTAL SALES ,1,0.7620370541292572
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL SALES - PARTS & ACCESS DEPT.,1,0.7011677189269794
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",TOTAL SALES - PARTS & ACCESS DEPT.,1,0.6743886247894599
+Pts. Months Supply (Guide 1.5 mos),TOTAL SALES - PARTS & ACCESS DEPT.,1,0.6682884645849115
+Parts & Accessories - Other,"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.7398393435251944
+Furnitures & Fixtures,"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.7024667884718537
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)","TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.6832771795935768
+Compensation - Clerical,"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.7163222271520846
+1 - 30 Days,"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.6722073844740195
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",1,0.6207423491302089
+Furnitures & Fixtures,TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,1,0.7836897841068065
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,1,0.7697196592110109
+Retained Earnings,TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,1,0.7673717033750787
+Parts & Accessories - Other,TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),1,0.5662386292062734
+FEB.,TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),1,0.532383651445958
+JAN.,TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),1,0.532335471225682
+Parts & Accessories - Other,TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),1,0.4421685787695174
+FEB.,TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),1,0.4251806077611342
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),1,0.4180541212006831
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)","TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.6900545231248431
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ","TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.6431426896918119
+TOTAL OPERATING EXPENSES (LINES 16 & 63),"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.6134402343962552
+Pts. Sls. per Customer RO (Inc. Tires),"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.7994874461697083
+Pts. Months Supply (Guide 1.5 mos),"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.7448294576119087
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",1,0.7248562612985097
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),1,0.7929669535804044
+Internal Labour Rate,TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),1,0.7608306914178846
+Equip. M/S,TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),1,0.7491796398896804
+Floor Plan Interest,TOTAL USED RETAIL (LINES 33  THRU 38),1,0.837942779153542
+"(
+Out.
+PHEV
+)",TOTAL USED RETAIL (LINES 33  THRU 38),1,0.8304094716099708
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL USED RETAIL (LINES 33  THRU 38),1,0.8173234025593413
+"(
+Out.
+PHEV
+)",TOTAL USED RETAIL (LINES 33 THRU 38),1,0.8179807521192147
+Floor Plan Interest,TOTAL USED RETAIL (LINES 33 THRU 38),1,0.8177455626897471
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL USED RETAIL (LINES 33 THRU 38),1,0.8003557157658655
+"(
+Out.
+PHEV
+)",TOTAL USED VEHICLE DEPT,1,0.8030922233790534
+Other Ext. Warranty - New,TOTAL USED VEHICLE DEPT,1,0.7985780320356386
+Floor Plan Interest,TOTAL USED VEHICLE DEPT,1,0.7820809808313139
+"(
+Out.
+PHEV
+)",TOTAL USED VEHICLE DEPT.(LINES 43 & 61),1,0.8202678171832372
+Floor Plan Interest,TOTAL USED VEHICLE DEPT.(LINES 43 & 61),1,0.8090753075940468
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),TOTAL USED VEHICLE DEPT.(LINES 43 & 61),1,0.8007266034662711
+Over 90 Days,"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.9309586071190336
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.9307621053846477
+TOTAL LIABILITIES (LINES 27 & 32),"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.9290479881553343
+Over 90 Days,"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.8547817586319293
+Other Non-Automotive Assets,"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.8533762912585572
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)","TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",1,0.8533762912585572
+"(
+Out.
+PHEV
+)",TOTAL USED VEHICLES (LINES 39 THRU 42),1,0.8179989004316695
+Floor Plan Interest,TOTAL USED VEHICLES (LINES 39 THRU 42),1,0.8177066160152223
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",TOTAL USED VEHICLES (LINES 39 THRU 42),1,0.8001262142206139
+ Bonuses - Employees,Taxes - Other,1,
+ NV Months Supply (Guide 2.5 months),Taxes - Other,1,
+ Taxes - Other,Taxes - Other,1,
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Taxes - Real Estate,1,0.6116036571806355
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Taxes - Real Estate,1,0.5574830263176928
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",Taxes - Real Estate,1,0.5547145441981702
+ Bonuses - Employees,Taxes Payable - Income,1,
+ NV Months Supply (Guide 2.5 months),Taxes Payable - Income,1,
+ Taxes - Other,Taxes Payable - Income,1,
+Body Shop Materials,Taxes Payable - Other,1,0.8307473502913062
+Other Expenses Payable,Taxes Payable - Other,1,0.7965276457067504
+# of Working Days ,Taxes Payable - Other,1,0.7368337769722841
+Body Shop Materials,Taxes Payable - Payroll,1,0.6889607280957806
+Notes Payable - Capital Loans,Taxes Payable - Payroll,1,0.6864000463104057
+# of Working Days ,Taxes Payable - Payroll,1,0.6797420635300259
+Body Shop Materials,Taxes Payable - Sales,1,0.8798242674973925
+Notes Payable - Capital Loans,Taxes Payable - Sales,1,0.8172285035153378
+"Furniture & 
+Fixtures",Taxes Payable - Sales,1,0.7664870315137744
+F & I Sales Reps.,Technicians,1,0.950146187582615
+F&I Sales Reps,Technicians,1,0.950146187582615
+Over 90 Days,Technicians,1,0.8808894948185659
+ Bonuses - Employees,Technicians ,1,
+ NV Months Supply (Guide 2.5 months),Technicians ,1,
+ Taxes - Other,Technicians ,1,
+"(
+Cars
+)",Telephone,1,0.46674689292015303
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),Telephone,1,0.4463651900482914
+Manager(s),Telephone,1,0.43141113473021103
+ Bonuses - Employees,Terminated YTD,1,
+ NV Months Supply (Guide 2.5 months),Terminated YTD,1,
+ Taxes - Other,Terminated YTD,1,
+Total,Test Drives,1,0.9052818268378492
+TOTAL ,Test Drives,1,0.9052818268378489
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Test Drives,1,0.8940644751584269
+OVER 30 Day,Tire Inventory Over 12 Mo's ($),1,0.8969939229101318
+Over 30 days,Tire Inventory Over 12 Mo's ($),1,0.8969939229101296
+Finance Income (CPO),Tire Inventory Over 12 Mo's ($),1,0.8969939229101295
+ Bonuses - Employees,Tire Inventory Over 12 Mo's (%),1,
+ NV Months Supply (Guide 2.5 months),Tire Inventory Over 12 Mo's (%),1,
+ Taxes - Other,Tire Inventory Over 12 Mo's (%),1,
+ Bonuses - Employees,Tire Storage,1,
+ NV Months Supply (Guide 2.5 months),Tire Storage,1,
+ Taxes - Other,Tire Storage,1,
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Tires,1,0.9077761696508668
+Used Vehicles - Retail (CPO),Tires,1,0.8893215366603483
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",Tires,1,0.8742319541394371
+TOTAL ,Total,1,0.9540699214474333
+Equip. P/A,Total,1,0.940062707108344
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Total,1,0.9343709904620041
+Used Vehicles - Retail Reconditioning (Other Makes),Total Bays Available,1,0.33248147078934914
+Warranty Hours Sold,Total Bays Available,1,0.282214309495613
+"(
+SUVs
+)",Total Bays Available,1,0.2762247619147836
+"(
+Outlander
+)",Training,1,0.53241197240116
+Retail Counter P&A,Training,1,0.4749493262643556
+Eclipse Cross,Training,1,0.46884340584746603
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",Travel & Entertainment,1,0.5640633118964576
+Warranty Labour - MITSUBISHI,Travel & Entertainment,1,0.4897275064598538
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",Travel & Entertainment,1,0.47065991009423847
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",Travel & Entertainment ,1,0.5718210677911677
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",Travel & Entertainment ,1,0.5599365523244806
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",Travel & Entertainment ,1,0.5195139198475475
+TOTAL MITSUBISHI FLEET,UV Months Supply (Guide 1.5 months),1,0.7616067137882355
+"(
+Cars
+ )",UV Months Supply (Guide 1.5 months),1,0.7616067137882344
+New Vehicles - Other Makes ,UV Months Supply (Guide 1.5 months),1,0.7616067137882343
+Heat - Light - Power - Water,UV Stock Turn (Guide >7) ,1,0.4034058723588587
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),UV Stock Turn (Guide >7) ,1,0.37329184200034615
+Liquidity in Dollars,UV Stock Turn (Guide >7) ,1,0.32655817655288705
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",UV Units Sold Per NV & UV Sales Rep.,1,0.5357285024145303
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",UV Units Sold Per NV & UV Sales Rep.,1,0.48142830896704
+Delivery Expense,UV Units Sold Per NV & UV Sales Rep.,1,0.42536168220870674
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",UV Units Sold Per UV Sales Rep.,1,0.5892007296915519
+Outlander PHEV,UV Units Sold Per UV Sales Rep.,1,0.5219636227560795
+Used Retail to Wholesale Ratio ,UV Units Sold Per UV Sales Rep.,1,0.5171283496553793
+Warranty Receivables - Mitsubishi,Ups,1,0.6183566155775931
+Warranty Rec. / P.D.I. - Mitsubishi,Ups,1,0.5824443007245242
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Ups,1,0.5582232463881001
+Insurance Income (Other Makes),Used Retail to Wholesale Ratio ,1,0.36346268614155625
+Service Contracts (Other Makes),Used Retail to Wholesale Ratio ,1,0.35957472917096484
+Notes and Accts. Rec. - Officers / Owners / Employees,Used Retail to Wholesale Ratio ,1,0.3273746780233976
+Floor Plan Interest,Used Vehicle Department,1,0.8022444218575931
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),Used Vehicle Department,1,0.7729156607621944
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Used Vehicle Department,1,0.7729155788437195
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",Used Vehicles,1,0.9438157989224282
+Advisors,Used Vehicles,1,0.8895858989075541
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),Used Vehicles,1,0.8895577034346575
+TOTAL LIABILITIES (LINES 27 & 32),Used Vehicles - Other Makes ,1,0.9528429374423204
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),Used Vehicles - Other Makes ,1,0.949672892598409
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Used Vehicles - Other Makes ,1,0.949346572352551
+Leasehold,Used Vehicles - Retail (CPO),1,0.9999999999999999
+Leasehold ,Used Vehicles - Retail (CPO),1,0.9999999999999999
+Company Vehicles,Used Vehicles - Retail (CPO),1,0.9995372661727077
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Used Vehicles - Retail (Non CPO),1,0.8613831131881228
+Floor Plan Interest,Used Vehicles - Retail (Non CPO),1,0.8470643861478153
+Accounts Payable - Trade Creditors,Used Vehicles - Retail (Non CPO),1,0.8313923979996805
+Insurance Income (Other Makes),Used Vehicles - Retail (Other Makes),1,0.78189014411972
+Service Contracts (Other Makes),Used Vehicles - Retail (Other Makes),1,0.716375474366825
+7 - 12 Months ,Used Vehicles - Retail (Other Makes),1,0.6244570337366449
+"Buildings & 
+Improvements",Used Vehicles - Retail Reconditioning (CPO),1,1.0
+"Furniture & 
+Fixtures",Used Vehicles - Retail Reconditioning (CPO),1,1.0
+Company Vehicle Expense,Used Vehicles - Retail Reconditioning (CPO),1,0.9714799985105523
+Notes Payable - Capital Loans,Used Vehicles - Retail Reconditioning (Non CPO),1,0.7592191078222768
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),Used Vehicles - Retail Reconditioning (Non CPO),1,0.7265672594489515
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",Used Vehicles - Retail Reconditioning (Non CPO),1,0.7103822987333656
+Used Retail to Wholesale Ratio ,Used Vehicles - Retail Reconditioning (Other Makes),1,0.675128491188781
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,Used Vehicles - Retail Reconditioning (Other Makes),1,0.3728809039108098
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",Used Vehicles - Retail Reconditioning (Other Makes),1,0.35975369385381584
+Compensation - Finance,Used Vehicles - Wholesale,1,0.6791409623631401
+"(
+Cars
+ )",Used Vehicles - Wholesale,1,0.6086939047132575
+New Vehicles - Other Makes ,Used Vehicles - Wholesale,1,0.6086939047132569
+TOTAL MITSUBISHI FLEET,Used to New Retail Ratio,1,0.5016164812562195
+New Vehicles - Other Makes ,Used to New Retail Ratio,1,0.5016164812562187
+"(
+Cars
+ )",Used to New Retail Ratio,1,0.5016164812562184
+"Service, Parts & Body Shop - Customers",Vehicle Accounts - Customers,1,0.6912116480875974
+Equip. P/A,Vehicle Accounts - Customers,1,0.6670683918789329
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Vehicle Accounts - Customers,1,0.6608454712506083
+"(
+Out.
+PHEV
+)",Vehicle Lien Pay-Off,1,0.6686040656086524
+Miscellaneous ,Vehicle Lien Pay-Off,1,0.46858485692554586
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Vehicle Lien Pay-Off,1,0.4619268281081999
+JUL.,Volume Discount,1,0.7153435770241303
+Chemical Sales - New,Volume Discount,1,0.6642863636560258
+MAR.,Volume Discount,1,0.6632885432912706
+TOTAL MITSUBISHI FLEET,WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),1,0.9818992309157679
+"(
+Cars
+ )",WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),1,0.9818992309157646
+New Vehicles - Other Makes ,WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),1,0.9818992309157625
+ Bonuses - Employees,Warranty Claim Body Shop Labour,1,
+ NV Months Supply (Guide 2.5 months),Warranty Claim Body Shop Labour,1,
+ Taxes - Other,Warranty Claim Body Shop Labour,1,
+Hours Sold,Warranty Hours Sold,1,0.9785722686026015
+Hours Clocked ,Warranty Hours Sold,1,0.9356965733742997
+Customer Pay Hours Sold,Warranty Hours Sold,1,0.9338585776234912
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Warranty Labour - MITSUBISHI,1,0.759709971054267
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Warranty Labour - MITSUBISHI,1,0.7488539054293954
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Warranty Labour - MITSUBISHI,1,0.7352656908766158
+Accounts Payable - Trade Creditors,Warranty Labour Rate,1,0.8072150245145273
+Warranty Receivables - Mitsubishi,Warranty Labour Rate,1,0.7895712799751713
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Warranty Labour Rate,1,0.7845176298921239
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Warranty P&A RO,1,0.5803168608264733
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Warranty P&A RO,1,0.5727074562485375
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",Warranty P&A RO,1,0.5723684142389015
+Sales Incentive - Fleet,Warranty Pts. : Warranty Labour Sales,1,0.5064087370788168
+Sales Incentives Retail / Fleet,Warranty Pts. : Warranty Labour Sales,1,0.5064087370788161
+% of Labour Sales Warranty,Warranty Pts. : Warranty Labour Sales,1,0.4565887936159726
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Warranty Rec. / P.D.I. - Mitsubishi,1,0.8607371762897437
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Warranty Rec. / P.D.I. - Mitsubishi,1,0.8125833806514466
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Warranty Rec. / P.D.I. - Mitsubishi,1,0.8069726802309621
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Warranty Receivables - Mitsubishi,1,0.8607375202980223
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Warranty Receivables - Mitsubishi,1,0.8125042798604843
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Warranty Receivables - Mitsubishi,1,0.8068949366405679
+ Bonuses - Employees,Warranty Receivables - Other,1,
+ NV Months Supply (Guide 2.5 months),Warranty Receivables - Other,1,
+ Taxes - Other,Warranty Receivables - Other,1,
+ Bonuses - Employees,Wholesale Credit Line,1,
+ NV Months Supply (Guide 2.5 months),Wholesale Credit Line,1,
+ Taxes - Other,Wholesale Credit Line,1,
+AUG.,Wholesale P&A,1,0.6578019217231257
+"Serv., Parts & Body Shop - Customers",Wholesale P&A,1,0.6298824462106901
+JUL.,Wholesale P&A,1,0.6284934981540471
+ Bonuses - Employees,Work in Process - Body Shop Labour,1,
+ NV Months Supply (Guide 2.5 months),Work in Process - Body Shop Labour,1,
+ Taxes - Other,Work in Process - Body Shop Labour,1,
+Non-Productive / Other ,Work in Process - Mechanical Labour,1,0.8887579092744967
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Work in Process - Mechanical Labour,1,0.8843888839185071
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),Work in Process - Mechanical Labour,1,0.8838863897193392
+Floor Plan Interest,Writes,1,0.9065226349098389
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Writes,1,0.9010626074084752
+TOTAL ,Writes,1,0.8959048281320903

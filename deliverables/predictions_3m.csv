@@ -1,0 +1,3610 @@
+english_name,account_id,ds,y_hat,model_used
+ Bonuses - Employees,8503D,2025-01-01,0.0,naive
+ Bonuses - Employees,8503D,2025-02-01,0.0,naive
+ Bonuses - Employees,8503D,2025-03-01,0.0,naive
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-01-01,0.3166666666666666,moving_avg
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-02-01,0.3166666666666666,moving_avg
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-03-01,0.3166666666666666,moving_avg
+ Taxes - Other,8403D,2025-01-01,0.0,naive
+ Taxes - Other,8403D,2025-02-01,0.0,naive
+ Taxes - Other,8403D,2025-03-01,0.0,naive
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-01-01,6.33,seasonal_naive
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-02-01,2.34,seasonal_naive
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-03-01,-0.3399999999999998,seasonal_naive
+# of Productive Bays,50001SD,2025-01-01,4.0,naive
+# of Productive Bays,50001SD,2025-02-01,4.0,naive
+# of Productive Bays,50001SD,2025-03-01,4.0,naive
+# of Productive Bays,50001SDY,2025-01-01,44.0,moving_avg
+# of Productive Bays,50001SDY,2025-02-01,44.0,moving_avg
+# of Productive Bays,50001SDY,2025-03-01,44.0,moving_avg
+# of Productive Bays ,50101SD,2025-01-01,0.0,naive
+# of Productive Bays ,50101SD,2025-02-01,0.0,naive
+# of Productive Bays ,50101SD,2025-03-01,0.0,naive
+# of Productive Bays ,50101SDY,2025-01-01,0.0,naive
+# of Productive Bays ,50101SDY,2025-02-01,0.0,naive
+# of Productive Bays ,50101SDY,2025-03-01,0.0,naive
+# of Working Days,50108SD,2025-01-01,0.0,naive
+# of Working Days,50108SD,2025-02-01,0.0,naive
+# of Working Days,50108SD,2025-03-01,0.0,naive
+# of Working Days ,50008SD,2025-01-01,21.0,moving_avg
+# of Working Days ,50008SD,2025-02-01,21.0,moving_avg
+# of Working Days ,50008SD,2025-03-01,21.0,moving_avg
+% Return on Operating Investment,6026DZ,2025-01-01,-1.1799999999999995,naive
+% Return on Operating Investment,6026DZ,2025-02-01,-1.1799999999999995,naive
+% Return on Operating Investment,6026DZ,2025-03-01,-1.1799999999999995,naive
+% Return on Sales (Before Income Tax),6025DZ,2025-01-01,0.25333333333333335,moving_avg
+% Return on Sales (Before Income Tax),6025DZ,2025-02-01,0.25333333333333335,moving_avg
+% Return on Sales (Before Income Tax),6025DZ,2025-03-01,0.25333333333333335,moving_avg
+% Return on Sales (Before Income Tax),6036DZ,2025-01-01,0.91,seasonal_naive
+% Return on Sales (Before Income Tax),6036DZ,2025-02-01,-0.49,seasonal_naive
+% Return on Sales (Before Income Tax),6036DZ,2025-03-01,-0.07,seasonal_naive
+% of Labour Sales CP,6112DZ,2025-01-01,41.07,seasonal_naive
+% of Labour Sales CP,6112DZ,2025-02-01,-15.68,seasonal_naive
+% of Labour Sales CP,6112DZ,2025-03-01,13.269999999999996,seasonal_naive
+% of Labour Sales CP,6130DZ,2025-01-01,41.07,seasonal_naive
+% of Labour Sales CP,6130DZ,2025-02-01,-7.310000000000002,seasonal_naive
+% of Labour Sales CP,6130DZ,2025-03-01,1.5800000000000054,seasonal_naive
+% of Labour Sales CP,6148DZ,2025-01-01,0.0,seasonal_naive
+% of Labour Sales CP,6148DZ,2025-02-01,-8.37,seasonal_naive
+% of Labour Sales CP,6148DZ,2025-03-01,11.69,seasonal_naive
+% of Labour Sales CPO Warranty,6115DZ,2025-01-01,0.0,naive
+% of Labour Sales CPO Warranty,6115DZ,2025-02-01,0.0,naive
+% of Labour Sales CPO Warranty,6115DZ,2025-03-01,0.0,naive
+% of Labour Sales CPO Warranty,6133DZ,2025-01-01,0.0,naive
+% of Labour Sales CPO Warranty,6133DZ,2025-02-01,0.0,naive
+% of Labour Sales CPO Warranty,6133DZ,2025-03-01,0.0,naive
+% of Labour Sales CPO Warranty,6151DZ,2025-01-01,0.0,naive
+% of Labour Sales CPO Warranty,6151DZ,2025-02-01,0.0,naive
+% of Labour Sales CPO Warranty,6151DZ,2025-03-01,0.0,naive
+% of Labour Sales DCP,6114DZ,2025-01-01,0.0,naive
+% of Labour Sales DCP,6114DZ,2025-02-01,0.0,naive
+% of Labour Sales DCP,6114DZ,2025-03-01,0.0,naive
+% of Labour Sales DCP,6132DZ,2025-01-01,0.0,naive
+% of Labour Sales DCP,6132DZ,2025-02-01,0.0,naive
+% of Labour Sales DCP,6132DZ,2025-03-01,0.0,naive
+% of Labour Sales DCP,6150DZ,2025-01-01,0.0,naive
+% of Labour Sales DCP,6150DZ,2025-02-01,0.0,naive
+% of Labour Sales DCP,6150DZ,2025-03-01,0.0,naive
+% of Labour Sales Internal,6116DZ,2025-01-01,54.23,seasonal_naive
+% of Labour Sales Internal,6116DZ,2025-02-01,13.610000000000008,seasonal_naive
+% of Labour Sales Internal,6116DZ,2025-03-01,-13.690000000000005,seasonal_naive
+% of Labour Sales Internal,6134DZ,2025-01-01,54.23,seasonal_naive
+% of Labour Sales Internal,6134DZ,2025-02-01,6.350000000000001,seasonal_naive
+% of Labour Sales Internal,6134DZ,2025-03-01,-2.0799999999999983,seasonal_naive
+% of Labour Sales Internal,6152DZ,2025-01-01,0.0,seasonal_naive
+% of Labour Sales Internal,6152DZ,2025-02-01,7.26,seasonal_naive
+% of Labour Sales Internal,6152DZ,2025-03-01,-11.61,seasonal_naive
+% of Labour Sales Other,6117DZ,2025-01-01,0.0,naive
+% of Labour Sales Other,6117DZ,2025-02-01,0.0,naive
+% of Labour Sales Other,6117DZ,2025-03-01,0.0,naive
+% of Labour Sales Other,6135DZ,2025-01-01,0.0,naive
+% of Labour Sales Other,6135DZ,2025-02-01,0.0,naive
+% of Labour Sales Other,6135DZ,2025-03-01,0.0,naive
+% of Labour Sales Other,6153DZ,2025-01-01,0.0,naive
+% of Labour Sales Other,6153DZ,2025-02-01,0.0,naive
+% of Labour Sales Other,6153DZ,2025-03-01,0.0,naive
+% of Labour Sales Warranty,6113DZ,2025-01-01,-0.06666666666666643,moving_avg
+% of Labour Sales Warranty,6113DZ,2025-02-01,-0.06666666666666643,moving_avg
+% of Labour Sales Warranty,6113DZ,2025-03-01,-0.06666666666666643,moving_avg
+% of Labour Sales Warranty,6131DZ,2025-01-01,4.69,seasonal_naive
+% of Labour Sales Warranty,6131DZ,2025-02-01,0.9699999999999998,seasonal_naive
+% of Labour Sales Warranty,6131DZ,2025-03-01,0.5,seasonal_naive
+% of Labour Sales Warranty,6149DZ,2025-01-01,0.0,seasonal_naive
+% of Labour Sales Warranty,6149DZ,2025-02-01,1.11,seasonal_naive
+% of Labour Sales Warranty,6149DZ,2025-03-01,-0.07,seasonal_naive
+"(
+Cars
+ )",1430CU,2025-01-01,0.0,naive
+"(
+Cars
+ )",1430CU,2025-02-01,0.0,naive
+"(
+Cars
+ )",1430CU,2025-03-01,0.0,naive
+"(
+Cars
+ )",1440CU,2025-01-01,0.0,naive
+"(
+Cars
+ )",1440CU,2025-02-01,0.0,naive
+"(
+Cars
+ )",1440CU,2025-03-01,0.0,naive
+"(
+Cars
+)",1430TU,2025-01-01,0.0,naive
+"(
+Cars
+)",1430TU,2025-02-01,0.0,naive
+"(
+Cars
+)",1430TU,2025-03-01,0.0,naive
+"(
+Cars
+)",1450UU,2025-01-01,5.0,naive
+"(
+Cars
+)",1450UU,2025-02-01,5.0,naive
+"(
+Cars
+)",1450UU,2025-03-01,5.0,naive
+"(
+Cars
+)",1490UU,2025-01-01,0.0,naive
+"(
+Cars
+)",1490UU,2025-02-01,0.0,naive
+"(
+Cars
+)",1490UU,2025-03-01,0.0,naive
+"(
+Cars
+)",1495UU,2025-01-01,33.0,naive
+"(
+Cars
+)",1495UU,2025-02-01,33.0,naive
+"(
+Cars
+)",1495UU,2025-03-01,33.0,naive
+"(
+Cars
+)",24000UU,2025-01-01,42.666666666666664,moving_avg
+"(
+Cars
+)",24000UU,2025-02-01,42.666666666666664,moving_avg
+"(
+Cars
+)",24000UU,2025-03-01,42.666666666666664,moving_avg
+"(
+Eclipse
+Cross
+)",1420QTU,2025-01-01,12.0,naive
+"(
+Eclipse
+Cross
+)",1420QTU,2025-02-01,12.0,naive
+"(
+Eclipse
+Cross
+)",1420QTU,2025-03-01,12.0,naive
+"(
+Out.
+PHEV
+)",1420PTU,2025-01-01,42.0,naive
+"(
+Out.
+PHEV
+)",1420PTU,2025-02-01,42.0,naive
+"(
+Out.
+PHEV
+)",1420PTU,2025-03-01,42.0,naive
+"(
+Outlander
+)",1420OTU,2025-01-01,21.0,moving_avg
+"(
+Outlander
+)",1420OTU,2025-02-01,21.0,moving_avg
+"(
+Outlander
+)",1420OTU,2025-03-01,21.0,moving_avg
+"(
+RVR
+ )",1420RTU,2025-01-01,4.0,naive
+"(
+RVR
+ )",1420RTU,2025-02-01,4.0,naive
+"(
+RVR
+ )",1420RTU,2025-03-01,4.0,naive
+"(
+SUVs
+ )",1440TU,2025-01-01,0.0,naive
+"(
+SUVs
+ )",1440TU,2025-02-01,0.0,naive
+"(
+SUVs
+ )",1440TU,2025-03-01,0.0,naive
+"(
+SUVs
+)",1450VV,2025-01-01,18.666666666666668,moving_avg
+"(
+SUVs
+)",1450VV,2025-02-01,18.666666666666668,moving_avg
+"(
+SUVs
+)",1450VV,2025-03-01,18.666666666666668,moving_avg
+"(
+SUVs
+)",1490VV,2025-01-01,0.0,naive
+"(
+SUVs
+)",1490VV,2025-02-01,0.0,naive
+"(
+SUVs
+)",1490VV,2025-03-01,0.0,naive
+"(
+Trucks
+)",1495VV,2025-01-01,0.0,naive
+"(
+Trucks
+)",1495VV,2025-02-01,0.0,naive
+"(
+Trucks
+)",1495VV,2025-03-01,0.0,naive
+"(
+Trucks
+)",24000VV,2025-01-01,18.666666666666668,moving_avg
+"(
+Trucks
+)",24000VV,2025-02-01,18.666666666666668,moving_avg
+"(
+Trucks
+)",24000VV,2025-03-01,18.666666666666668,moving_avg
+( Mirage ),1400MCU,2025-01-01,1.0,seasonal_naive
+( Mirage ),1400MCU,2025-02-01,0.0,seasonal_naive
+( Mirage ),1400MCU,2025-03-01,0.0,seasonal_naive
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-01-01,726631.0,naive
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-02-01,726631.0,naive
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-03-01,726631.0,naive
+(Manufacturer Requirement),800001D,2025-01-01,0.0,naive
+(Manufacturer Requirement),800001D,2025-02-01,0.0,naive
+(Manufacturer Requirement),800001D,2025-03-01,0.0,naive
++ / -,6029DZ,2025-01-01,-83533.0,naive
++ / -,6029DZ,2025-02-01,-83533.0,naive
++ / -,6029DZ,2025-03-01,-83533.0,naive
+0 - 3 Months ,50040ST,2025-01-01,609.0,naive
+0 - 3 Months ,50040ST,2025-02-01,609.0,naive
+0 - 3 Months ,50040ST,2025-03-01,609.0,naive
+0 - 3 Months ,50045ST,2025-01-01,76474.0,naive
+0 - 3 Months ,50045ST,2025-02-01,76474.0,naive
+0 - 3 Months ,50045ST,2025-03-01,76474.0,naive
+1 - 30 Days,50030ST,2025-01-01,0.0,naive
+1 - 30 Days,50030ST,2025-02-01,0.0,naive
+1 - 30 Days,50030ST,2025-03-01,0.0,naive
+1 - 30 Days,50035ST,2025-01-01,343241.3333333333,moving_avg
+1 - 30 Days,50035ST,2025-02-01,343241.3333333333,moving_avg
+1 - 30 Days,50035ST,2025-03-01,343241.3333333333,moving_avg
+1 - 30 Days ,50020ST,2025-01-01,21.666666666666668,moving_avg
+1 - 30 Days ,50020ST,2025-02-01,21.666666666666668,moving_avg
+1 - 30 Days ,50020ST,2025-03-01,21.666666666666668,moving_avg
+1 - 30 Days ,50025ST,2025-01-01,970833.6666666666,moving_avg
+1 - 30 Days ,50025ST,2025-02-01,970833.6666666666,moving_avg
+1 - 30 Days ,50025ST,2025-03-01,970833.6666666666,moving_avg
+12+ Months ,50043ST,2025-01-01,2389.6666666666665,moving_avg
+12+ Months ,50043ST,2025-02-01,2389.6666666666665,moving_avg
+12+ Months ,50043ST,2025-03-01,2389.6666666666665,moving_avg
+12+ Months ,50048ST,2025-01-01,122203.0,naive
+12+ Months ,50048ST,2025-02-01,122203.0,naive
+12+ Months ,50048ST,2025-03-01,122203.0,naive
+31 - 60 Days,50021ST,2025-01-01,19.666666666666668,moving_avg
+31 - 60 Days,50021ST,2025-02-01,19.666666666666668,moving_avg
+31 - 60 Days,50021ST,2025-03-01,19.666666666666668,moving_avg
+31 - 60 Days,50026ST,2025-01-01,883691.0,moving_avg
+31 - 60 Days,50026ST,2025-02-01,883691.0,moving_avg
+31 - 60 Days,50026ST,2025-03-01,883691.0,moving_avg
+31 - 60 Days,50031ST,2025-01-01,25.333333333333332,moving_avg
+31 - 60 Days,50031ST,2025-02-01,25.333333333333332,moving_avg
+31 - 60 Days,50031ST,2025-03-01,25.333333333333332,moving_avg
+31 - 60 Days,50036ST,2025-01-01,303012.3333333333,moving_avg
+31 - 60 Days,50036ST,2025-02-01,303012.3333333333,moving_avg
+31 - 60 Days,50036ST,2025-03-01,303012.3333333333,moving_avg
+4 - 6 Months,50041ST,2025-01-01,289.0,naive
+4 - 6 Months,50041ST,2025-02-01,289.0,naive
+4 - 6 Months,50041ST,2025-03-01,289.0,naive
+4 - 6 Months,50046ST,2025-01-01,16424.0,naive
+4 - 6 Months,50046ST,2025-02-01,16424.0,naive
+4 - 6 Months,50046ST,2025-03-01,16424.0,naive
+61 - 90 Days,50022ST,2025-01-01,5.0,seasonal_naive
+61 - 90 Days,50022ST,2025-02-01,13.0,seasonal_naive
+61 - 90 Days,50022ST,2025-03-01,21.0,seasonal_naive
+61 - 90 Days,50027ST,2025-01-01,247398.0,seasonal_naive
+61 - 90 Days,50027ST,2025-02-01,561964.0,seasonal_naive
+61 - 90 Days,50027ST,2025-03-01,960489.0,seasonal_naive
+61 - 90 Days ,50032ST,2025-01-01,5.666666666666667,moving_avg
+61 - 90 Days ,50032ST,2025-02-01,5.666666666666667,moving_avg
+61 - 90 Days ,50032ST,2025-03-01,5.666666666666667,moving_avg
+61 - 90 Days ,50037ST,2025-01-01,120958.33333333333,moving_avg
+61 - 90 Days ,50037ST,2025-02-01,120958.33333333333,moving_avg
+61 - 90 Days ,50037ST,2025-03-01,120958.33333333333,moving_avg
+7 - 12 Months ,50042ST,2025-01-01,354.0,naive
+7 - 12 Months ,50042ST,2025-02-01,354.0,naive
+7 - 12 Months ,50042ST,2025-03-01,354.0,naive
+7 - 12 Months ,50047ST,2025-01-01,24244.0,naive
+7 - 12 Months ,50047ST,2025-02-01,24244.0,naive
+7 - 12 Months ,50047ST,2025-03-01,24244.0,naive
+APR.,391DU,2025-01-01,0.0,seasonal_naive
+APR.,391DU,2025-02-01,0.0,seasonal_naive
+APR.,391DU,2025-03-01,0.0,seasonal_naive
+APR.,392DU,2025-01-01,0.0,naive
+APR.,392DU,2025-02-01,0.0,naive
+APR.,392DU,2025-03-01,0.0,naive
+APR.,395DU,2025-01-01,0.0,seasonal_naive
+APR.,395DU,2025-02-01,0.0,seasonal_naive
+APR.,395DU,2025-03-01,0.0,seasonal_naive
+APR.,396DD,2025-01-01,0.0,seasonal_naive
+APR.,396DD,2025-02-01,0.0,seasonal_naive
+APR.,396DD,2025-03-01,0.0,seasonal_naive
+APR.,396DU,2025-01-01,0.0,naive
+APR.,396DU,2025-02-01,0.0,naive
+APR.,396DU,2025-03-01,0.0,naive
+AUG.,391HU,2025-01-01,0.0,seasonal_naive
+AUG.,391HU,2025-02-01,0.0,seasonal_naive
+AUG.,391HU,2025-03-01,0.0,seasonal_naive
+AUG.,392HU,2025-01-01,0.0,naive
+AUG.,392HU,2025-02-01,0.0,naive
+AUG.,392HU,2025-03-01,0.0,naive
+AUG.,395HU,2025-01-01,0.0,seasonal_naive
+AUG.,395HU,2025-02-01,0.0,seasonal_naive
+AUG.,395HU,2025-03-01,0.0,seasonal_naive
+AUG.,396HD,2025-01-01,0.0,seasonal_naive
+AUG.,396HD,2025-02-01,0.0,seasonal_naive
+AUG.,396HD,2025-03-01,0.0,seasonal_naive
+AUG.,396HU,2025-01-01,0.0,naive
+AUG.,396HU,2025-02-01,0.0,naive
+AUG.,396HU,2025-03-01,0.0,naive
+Absentee Wages,8120D,2025-01-01,5588.0,moving_avg
+Absentee Wages,8120D,2025-02-01,5588.0,moving_avg
+Absentee Wages,8120D,2025-03-01,5588.0,moving_avg
+Absentee Wages,8121D,2025-01-01,0.0,naive
+Absentee Wages,8121D,2025-02-01,0.0,naive
+Absentee Wages,8121D,2025-03-01,0.0,naive
+Absentee Wages,8122D,2025-01-01,0.0,naive
+Absentee Wages,8122D,2025-02-01,0.0,naive
+Absentee Wages,8122D,2025-03-01,0.0,naive
+Absentee Wages,8123D,2025-01-01,5303.333333333333,moving_avg
+Absentee Wages,8123D,2025-02-01,5303.333333333333,moving_avg
+Absentee Wages,8123D,2025-03-01,5303.333333333333,moving_avg
+Absentee Wages,8124D,2025-01-01,284.6666666666667,moving_avg
+Absentee Wages,8124D,2025-02-01,284.6666666666667,moving_avg
+Absentee Wages,8124D,2025-03-01,284.6666666666667,moving_avg
+Absentee Wages,8125D,2025-01-01,0.0,naive
+Absentee Wages,8125D,2025-02-01,0.0,naive
+Absentee Wages,8125D,2025-03-01,0.0,naive
+Accounts Payable - Mitsubishi,2005D,2025-01-01,75711.0,moving_avg
+Accounts Payable - Mitsubishi,2005D,2025-02-01,75711.0,moving_avg
+Accounts Payable - Mitsubishi,2005D,2025-03-01,75711.0,moving_avg
+Accounts Payable - Trade Creditors,2000D,2025-01-01,202503.0,moving_avg
+Accounts Payable - Trade Creditors,2000D,2025-02-01,202503.0,moving_avg
+Accounts Payable - Trade Creditors,2000D,2025-03-01,202503.0,moving_avg
+Active Customers,50107SD,2025-01-01,0.0,naive
+Active Customers,50107SD,2025-02-01,0.0,naive
+Active Customers,50107SD,2025-03-01,0.0,naive
+Active Customers,50107SDY,2025-01-01,0.0,naive
+Active Customers,50107SDY,2025-02-01,0.0,naive
+Active Customers,50107SDY,2025-03-01,0.0,naive
+Active Customers ,50007SD,2025-01-01,58.0,naive
+Active Customers ,50007SD,2025-02-01,58.0,naive
+Active Customers ,50007SD,2025-03-01,58.0,naive
+Active Customers ,50007SDY,2025-01-01,840.0,naive
+Active Customers ,50007SDY,2025-02-01,840.0,naive
+Active Customers ,50007SDY,2025-03-01,840.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-01-01,0.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-02-01,0.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-03-01,0.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-01-01,0.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-02-01,0.0,naive
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-03-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-01-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-02-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-03-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-01-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-02-01,0.0,naive
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-03-01,0.0,naive
+Adjustments - Used Vehicles Inventory,4531G,2025-01-01,0.0,naive
+Adjustments - Used Vehicles Inventory,4531G,2025-02-01,0.0,naive
+Adjustments - Used Vehicles Inventory,4531G,2025-03-01,0.0,naive
+Advertising (Institutional),8000D,2025-01-01,22016.333333333332,moving_avg
+Advertising (Institutional),8000D,2025-02-01,22016.333333333332,moving_avg
+Advertising (Institutional),8000D,2025-03-01,22016.333333333332,moving_avg
+Advertising (Institutional),8001D,2025-01-01,8199.666666666666,moving_avg
+Advertising (Institutional),8001D,2025-02-01,8199.666666666666,moving_avg
+Advertising (Institutional),8001D,2025-03-01,8199.666666666666,moving_avg
+Advertising (Institutional),8002D,2025-01-01,10246.0,seasonal_naive
+Advertising (Institutional),8002D,2025-02-01,1448.0,seasonal_naive
+Advertising (Institutional),8002D,2025-03-01,6804.0,seasonal_naive
+Advertising (Institutional) ,8003D,2025-01-01,17407.0,naive
+Advertising (Institutional) ,8003D,2025-02-01,17407.0,naive
+Advertising (Institutional) ,8003D,2025-03-01,17407.0,naive
+Advertising (Institutional) ,8004D,2025-01-01,7375.0,naive
+Advertising (Institutional) ,8004D,2025-02-01,7375.0,naive
+Advertising (Institutional) ,8004D,2025-03-01,7375.0,naive
+Advertising (Institutional) ,8005D,2025-01-01,0.0,naive
+Advertising (Institutional) ,8005D,2025-02-01,0.0,naive
+Advertising (Institutional) ,8005D,2025-03-01,0.0,naive
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-01-01,-92.11,seasonal_naive
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-02-01,-234.37,seasonal_naive
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-03-01,465.81000000000006,seasonal_naive
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-01-01,12.883333333333335,moving_avg
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-02-01,12.883333333333335,moving_avg
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-03-01,12.883333333333335,moving_avg
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-01-01,0.0,seasonal_naive
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-02-01,-111.33,seasonal_naive
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-03-01,355.8,seasonal_naive
+Advertising PNVT (Dealer Target) ,6062DZ,2025-01-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6062DZ,2025-02-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6062DZ,2025-03-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6068DZ,2025-01-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6068DZ,2025-02-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6068DZ,2025-03-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6074DZ,2025-01-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6074DZ,2025-02-01,0.0,naive
+Advertising PNVT (Dealer Target) ,6074DZ,2025-03-01,0.0,naive
+Advisors,0976P,2025-01-01,2.0,naive
+Advisors,0976P,2025-02-01,2.0,naive
+Advisors,0976P,2025-03-01,2.0,naive
+Advisors,0983P,2025-01-01,0.0,naive
+Advisors,0983P,2025-02-01,0.0,naive
+Advisors,0983P,2025-03-01,0.0,naive
+Advisors,0991P,2025-01-01,0.0,naive
+Advisors,0991P,2025-02-01,0.0,naive
+Advisors,0991P,2025-03-01,0.0,naive
+Advisors,540P,2025-01-01,2.0,naive
+Advisors,540P,2025-02-01,2.0,naive
+Advisors,540P,2025-03-01,2.0,naive
+Advisors ,0965PZ,2025-01-01,0.0,naive
+Advisors ,0965PZ,2025-02-01,0.0,naive
+Advisors ,0965PZ,2025-03-01,0.0,naive
+Allowance for Doubtful Accounts,2320D,2025-01-01,0.0,naive
+Allowance for Doubtful Accounts,2320D,2025-02-01,0.0,naive
+Allowance for Doubtful Accounts,2320D,2025-03-01,0.0,naive
+Allowance for Doubtful Accounts,2320XD,2025-01-01,0.0,naive
+Allowance for Doubtful Accounts,2320XD,2025-02-01,0.0,naive
+Allowance for Doubtful Accounts,2320XD,2025-03-01,0.0,naive
+Amortization - Leaseholds,8430D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8430D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8430D,2025-03-01,0.0,naive
+Amortization - Leaseholds,8431D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8431D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8431D,2025-03-01,0.0,naive
+Amortization - Leaseholds,8432D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8432D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8432D,2025-03-01,0.0,naive
+Amortization - Leaseholds,8433D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8433D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8433D,2025-03-01,0.0,naive
+Amortization - Leaseholds,8434D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8434D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8434D,2025-03-01,0.0,naive
+Amortization - Leaseholds,8435D,2025-01-01,0.0,naive
+Amortization - Leaseholds,8435D,2025-02-01,0.0,naive
+Amortization - Leaseholds,8435D,2025-03-01,0.0,naive
+Apprentices,0972PZ,2025-01-01,0.0,naive
+Apprentices,0972PZ,2025-02-01,0.0,naive
+Apprentices,0972PZ,2025-03-01,0.0,naive
+Apprentices,0977P,2025-01-01,2.0,naive
+Apprentices,0977P,2025-02-01,2.0,naive
+Apprentices,0977P,2025-03-01,2.0,naive
+Apprentices,0985P,2025-01-01,0.0,naive
+Apprentices,0985P,2025-02-01,0.0,naive
+Apprentices,0985P,2025-03-01,0.0,naive
+Apprentices,0993P,2025-01-01,0.0,naive
+Apprentices,0993P,2025-02-01,0.0,naive
+Apprentices,0993P,2025-03-01,0.0,naive
+Apprentices,560P,2025-01-01,2.0,naive
+Apprentices,560P,2025-02-01,2.0,naive
+Apprentices,560P,2025-03-01,2.0,naive
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-01-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-02-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-03-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-01-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-02-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-03-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-01-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-02-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-03-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-01-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-02-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-03-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-01-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-02-01,0.0,naive
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-03-01,0.0,naive
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-01-01,2945.0,naive
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-02-01,2945.0,naive
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-03-01,2945.0,naive
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-01-01,1472.5,naive
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-02-01,1472.5,naive
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-03-01,1472.5,naive
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-01-01,1472.5,naive
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-02-01,1472.5,naive
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-03-01,1472.5,naive
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-01-01,0.0,naive
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-02-01,0.0,naive
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-03-01,0.0,naive
+Avg. Technician Wage,50012SD,2025-01-01,26.85,seasonal_naive
+Avg. Technician Wage,50012SD,2025-02-01,4.33,seasonal_naive
+Avg. Technician Wage,50012SD,2025-03-01,-4.45,seasonal_naive
+Avg. Technician Wage,50012SDY,2025-01-01,26.85,seasonal_naive
+Avg. Technician Wage,50012SDY,2025-02-01,31.18,seasonal_naive
+Avg. Technician Wage,50012SDY,2025-03-01,26.73,seasonal_naive
+Avg. Technician Wage,50112SD,2025-01-01,0.0,naive
+Avg. Technician Wage,50112SD,2025-02-01,0.0,naive
+Avg. Technician Wage,50112SD,2025-03-01,0.0,naive
+Avg. Technician Wage,50112SDY,2025-01-01,0.0,naive
+Avg. Technician Wage,50112SDY,2025-02-01,0.0,naive
+Avg. Technician Wage,50112SDY,2025-03-01,0.0,naive
+BONUSES OWNERS,8510D,2025-01-01,-2.0,moving_avg
+BONUSES OWNERS,8510D,2025-02-01,-2.0,moving_avg
+BONUSES OWNERS,8510D,2025-03-01,-2.0,moving_avg
+Bad Debts,8250D,2025-01-01,0.0,naive
+Bad Debts,8250D,2025-02-01,0.0,naive
+Bad Debts,8250D,2025-03-01,0.0,naive
+Bad Debts,8251D,2025-01-01,0.0,naive
+Bad Debts,8251D,2025-02-01,0.0,naive
+Bad Debts,8251D,2025-03-01,0.0,naive
+Bad Debts,8252D,2025-01-01,0.0,naive
+Bad Debts,8252D,2025-02-01,0.0,naive
+Bad Debts,8252D,2025-03-01,0.0,naive
+Bad Debts,8253D,2025-01-01,0.0,naive
+Bad Debts,8253D,2025-02-01,0.0,naive
+Bad Debts,8253D,2025-03-01,0.0,naive
+Bad Debts,8254D,2025-01-01,0.0,naive
+Bad Debts,8254D,2025-02-01,0.0,naive
+Bad Debts,8254D,2025-03-01,0.0,naive
+Bad Debts,8255D,2025-01-01,0.0,naive
+Bad Debts,8255D,2025-02-01,0.0,naive
+Bad Debts,8255D,2025-03-01,0.0,naive
+Bank Overdraft,2015D,2025-01-01,0.0,naive
+Bank Overdraft,2015D,2025-02-01,0.0,naive
+Bank Overdraft,2015D,2025-03-01,0.0,naive
+Bay Utilization %,6108DZ,2025-01-01,0.0,naive
+Bay Utilization %,6108DZ,2025-02-01,0.0,naive
+Bay Utilization %,6108DZ,2025-03-01,0.0,naive
+Bay Utilization %,6126DZ,2025-01-01,0.0,naive
+Bay Utilization %,6126DZ,2025-02-01,0.0,naive
+Bay Utilization %,6126DZ,2025-03-01,0.0,naive
+Bay Utilization %,6144DZ,2025-01-01,0.0,naive
+Bay Utilization %,6144DZ,2025-02-01,0.0,naive
+Bay Utilization %,6144DZ,2025-03-01,0.0,naive
+Bldgs. & Improv.,1770D,2025-01-01,0.0,naive
+Bldgs. & Improv.,1770D,2025-02-01,0.0,naive
+Bldgs. & Improv.,1770D,2025-03-01,0.0,naive
+Bldgs. & Improv.,1780D,2025-01-01,0.0,naive
+Bldgs. & Improv.,1780D,2025-02-01,0.0,naive
+Bldgs. & Improv.,1780D,2025-03-01,0.0,naive
+Body P&A RO,5210G,2025-01-01,0.0,naive
+Body P&A RO,5210G,2025-02-01,0.0,naive
+Body P&A RO,5210G,2025-03-01,0.0,naive
+Body P&A RO,5210S,2025-01-01,0.0,naive
+Body P&A RO,5210S,2025-02-01,0.0,naive
+Body P&A RO,5210S,2025-03-01,0.0,naive
+Body P&A RO,5210U,2025-01-01,0.0,naive
+Body P&A RO,5210U,2025-02-01,0.0,naive
+Body P&A RO,5210U,2025-03-01,0.0,naive
+Body Shop,M17000ED,2025-01-01,0.0,naive
+Body Shop,M17000ED,2025-02-01,0.0,naive
+Body Shop,M17000ED,2025-03-01,0.0,naive
+Body Shop,M18000ED,2025-01-01,0.0,naive
+Body Shop,M18000ED,2025-02-01,0.0,naive
+Body Shop,M18000ED,2025-03-01,0.0,naive
+Body Shop ,M46000XG,2025-01-01,0.0,naive
+Body Shop ,M46000XG,2025-02-01,0.0,naive
+Body Shop ,M46000XG,2025-03-01,0.0,naive
+Body Shop Materials,1530D,2025-01-01,0.0,naive
+Body Shop Materials,1530D,2025-02-01,0.0,naive
+Body Shop Materials,1530D,2025-03-01,0.0,naive
+Body Shop Materials,5450G,2025-01-01,0.0,naive
+Body Shop Materials,5450G,2025-02-01,0.0,naive
+Body Shop Materials,5450G,2025-03-01,0.0,naive
+Body Shop Materials,5450S,2025-01-01,0.0,naive
+Body Shop Materials,5450S,2025-02-01,0.0,naive
+Body Shop Materials,5450S,2025-03-01,0.0,naive
+Body Shop Materials,5450U,2025-01-01,0.0,naive
+Body Shop Materials,5450U,2025-02-01,0.0,naive
+Body Shop Materials,5450U,2025-03-01,0.0,naive
+Bonuses - Employees,8500D,2025-01-01,0.0,naive
+Bonuses - Employees,8500D,2025-02-01,0.0,naive
+Bonuses - Employees,8500D,2025-03-01,0.0,naive
+Bonuses - Employees,8501D,2025-01-01,0.0,naive
+Bonuses - Employees,8501D,2025-02-01,0.0,naive
+Bonuses - Employees,8501D,2025-03-01,0.0,naive
+Bonuses - Employees,8502D,2025-01-01,0.0,naive
+Bonuses - Employees,8502D,2025-02-01,0.0,naive
+Bonuses - Employees,8502D,2025-03-01,0.0,naive
+Bonuses - Employees,8504D,2025-01-01,0.0,naive
+Bonuses - Employees,8504D,2025-02-01,0.0,naive
+Bonuses - Employees,8504D,2025-03-01,0.0,naive
+Bonuses - Employees,8505D,2025-01-01,0.0,naive
+Bonuses - Employees,8505D,2025-02-01,0.0,naive
+Bonuses - Employees,8505D,2025-03-01,0.0,naive
+Break Even New & Used Units ,6034DZ,2025-01-01,-8.793333333333331,moving_avg
+Break Even New & Used Units ,6034DZ,2025-02-01,-8.793333333333331,moving_avg
+Break Even New & Used Units ,6034DZ,2025-03-01,-8.793333333333331,moving_avg
+Break Even New & Used Units ,6045DZ,2025-01-01,23.356666666666666,moving_avg
+Break Even New & Used Units ,6045DZ,2025-02-01,23.356666666666666,moving_avg
+Break Even New & Used Units ,6045DZ,2025-03-01,23.356666666666666,moving_avg
+"Buildings & 
+Improvements",11770D,2025-01-01,0.0,naive
+"Buildings & 
+Improvements",11770D,2025-02-01,0.0,naive
+"Buildings & 
+Improvements",11770D,2025-03-01,0.0,naive
+CP Effective Rate,6106DZ,2025-01-01,-0.8000000000000019,moving_avg
+CP Effective Rate,6106DZ,2025-02-01,-0.8000000000000019,moving_avg
+CP Effective Rate,6106DZ,2025-03-01,-0.8000000000000019,moving_avg
+CP Effective Rate,6124DZ,2025-01-01,0.12333333333333486,moving_avg
+CP Effective Rate,6124DZ,2025-02-01,0.12333333333333486,moving_avg
+CP Effective Rate,6124DZ,2025-03-01,0.12333333333333486,moving_avg
+CP Effective Rate,6142DZ,2025-01-01,0.0,seasonal_naive
+CP Effective Rate,6142DZ,2025-02-01,-0.02,seasonal_naive
+CP Effective Rate,6142DZ,2025-03-01,-1.18,seasonal_naive
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-01-01,-0.5533333333333369,moving_avg
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-02-01,-0.5533333333333369,moving_avg
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-03-01,-0.5533333333333369,moving_avg
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-01-01,0.08666666666666367,moving_avg
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-02-01,0.08666666666666367,moving_avg
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-03-01,0.08666666666666367,moving_avg
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-01-01,0.0,seasonal_naive
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-02-01,-0.01,seasonal_naive
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-03-01,-0.82,seasonal_naive
+CP Labour Sales per RO,6103DZ,2025-01-01,266.39,seasonal_naive
+CP Labour Sales per RO,6103DZ,2025-02-01,-88.11999999999998,seasonal_naive
+CP Labour Sales per RO,6103DZ,2025-03-01,44.16,seasonal_naive
+CP Labour Sales per RO,6121DZ,2025-01-01,266.39,seasonal_naive
+CP Labour Sales per RO,6121DZ,2025-02-01,-39.35999999999999,seasonal_naive
+CP Labour Sales per RO,6121DZ,2025-03-01,-1.6500000000000057,seasonal_naive
+CP Labour Sales per RO,6139DZ,2025-01-01,0.0,seasonal_naive
+CP Labour Sales per RO,6139DZ,2025-02-01,-48.75,seasonal_naive
+CP Labour Sales per RO,6139DZ,2025-03-01,45.8,seasonal_naive
+CP Labour Sales per Technician,6102DZ,2025-01-01,14518.0,seasonal_naive
+CP Labour Sales per Technician,6102DZ,2025-02-01,-6674.0,seasonal_naive
+CP Labour Sales per Technician,6102DZ,2025-03-01,-1727.25,seasonal_naive
+CP Labour Sales per Technician,6120DZ,2025-01-01,14518.0,seasonal_naive
+CP Labour Sales per Technician,6120DZ,2025-02-01,7844.0,seasonal_naive
+CP Labour Sales per Technician,6120DZ,2025-03-01,-5064.25,seasonal_naive
+CP Labour Sales per Technician,6138DZ,2025-01-01,0.0,seasonal_naive
+CP Labour Sales per Technician,6138DZ,2025-02-01,-3337.0,seasonal_naive
+CP Labour Sales per Technician,6138DZ,2025-03-01,3687.83,seasonal_naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-01-01,0.11999999999999988,moving_avg
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-02-01,0.11999999999999988,moving_avg
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-03-01,0.11999999999999988,moving_avg
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-01-01,0.04,naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-02-01,0.04,naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-03-01,0.04,naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-01-01,0.0,seasonal_naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-02-01,0.13,seasonal_naive
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-03-01,-0.26,seasonal_naive
+CP RO Count,6104DZ,2025-01-01,109.0,seasonal_naive
+CP RO Count,6104DZ,2025-02-01,-21.0,seasonal_naive
+CP RO Count,6104DZ,2025-03-01,22.0,seasonal_naive
+CP RO Count,6122DZ,2025-01-01,109.0,seasonal_naive
+CP RO Count,6122DZ,2025-02-01,88.0,seasonal_naive
+CP RO Count,6122DZ,2025-03-01,110.0,seasonal_naive
+CP RO Count,6140DZ,2025-01-01,0.0,seasonal_naive
+CP RO Count,6140DZ,2025-02-01,-10.5,seasonal_naive
+CP RO Count,6140DZ,2025-03-01,18.17,seasonal_naive
+CPO P&A RO,5216G,2025-01-01,0.0,naive
+CPO P&A RO,5216G,2025-02-01,0.0,naive
+CPO P&A RO,5216G,2025-03-01,0.0,naive
+CPO P&A RO,5216S,2025-01-01,0.0,naive
+CPO P&A RO,5216S,2025-02-01,0.0,naive
+CPO P&A RO,5216S,2025-03-01,0.0,naive
+CPO P&A RO,5216U,2025-01-01,0.0,naive
+CPO P&A RO,5216U,2025-02-01,0.0,naive
+CPO P&A RO,5216U,2025-03-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011G,2025-01-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011G,2025-02-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011G,2025-03-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011S,2025-01-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011S,2025-02-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011S,2025-03-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011U,2025-01-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011U,2025-02-01,0.0,naive
+CPO Warranty Labour - MITSUBISHI,5011U,2025-03-01,0.0,naive
+Capacity - Bay Hours Avail,50005SD,2025-01-01,0.0,naive
+Capacity - Bay Hours Avail,50005SD,2025-02-01,0.0,naive
+Capacity - Bay Hours Avail,50005SD,2025-03-01,0.0,naive
+Capacity - Bay Hours Avail.,50105SD,2025-01-01,0.0,naive
+Capacity - Bay Hours Avail.,50105SD,2025-02-01,0.0,naive
+Capacity - Bay Hours Avail.,50105SD,2025-03-01,0.0,naive
+Cash Discount / Interest Earned,9020D,2025-01-01,0.0,seasonal_naive
+Cash Discount / Interest Earned,9020D,2025-02-01,0.0,seasonal_naive
+Cash Discount / Interest Earned,9020D,2025-03-01,19.0,seasonal_naive
+Cash Discount / Interest Paid,9030D,2025-01-01,0.0,naive
+Cash Discount / Interest Paid,9030D,2025-02-01,0.0,naive
+Cash Discount / Interest Paid,9030D,2025-03-01,0.0,naive
+Cash in Bank,1010D,2025-01-01,-469198.0,naive
+Cash in Bank,1010D,2025-02-01,-469198.0,naive
+Cash in Bank,1010D,2025-03-01,-469198.0,naive
+Cash in Bank - Trust Account(s),1004D,2025-01-01,0.0,naive
+Cash in Bank - Trust Account(s),1004D,2025-02-01,0.0,naive
+Cash in Bank - Trust Account(s),1004D,2025-03-01,0.0,naive
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-01-01,0.0,naive
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-02-01,0.0,naive
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-03-01,0.0,naive
+Certified Program Vehicles - Mitsubishi,1490D,2025-01-01,0.0,naive
+Certified Program Vehicles - Mitsubishi,1490D,2025-02-01,0.0,naive
+Certified Program Vehicles - Mitsubishi,1490D,2025-03-01,0.0,naive
+Charitable Donations,8340D,2025-01-01,0.0,naive
+Charitable Donations,8340D,2025-02-01,0.0,naive
+Charitable Donations,8340D,2025-03-01,0.0,naive
+Charitable Donations,8341D,2025-01-01,0.0,naive
+Charitable Donations,8341D,2025-02-01,0.0,naive
+Charitable Donations,8341D,2025-03-01,0.0,naive
+Charitable Donations,8342D,2025-01-01,0.0,naive
+Charitable Donations,8342D,2025-02-01,0.0,naive
+Charitable Donations,8342D,2025-03-01,0.0,naive
+Charitable Donations,8343D,2025-01-01,0.0,naive
+Charitable Donations,8343D,2025-02-01,0.0,naive
+Charitable Donations,8343D,2025-03-01,0.0,naive
+Charitable Donations,8344D,2025-01-01,0.0,naive
+Charitable Donations,8344D,2025-02-01,0.0,naive
+Charitable Donations,8344D,2025-03-01,0.0,naive
+Charitable Donations,8345D,2025-01-01,0.0,naive
+Charitable Donations,8345D,2025-02-01,0.0,naive
+Charitable Donations,8345D,2025-03-01,0.0,naive
+Chemical / Other Income (CPO),3704G,2025-01-01,385.0,naive
+Chemical / Other Income (CPO),3704G,2025-02-01,385.0,naive
+Chemical / Other Income (CPO),3704G,2025-03-01,385.0,naive
+Chemical / Other Income (CPO),3704S,2025-01-01,650.0,naive
+Chemical / Other Income (CPO),3704S,2025-02-01,650.0,naive
+Chemical / Other Income (CPO),3704S,2025-03-01,650.0,naive
+Chemical / Other Income (CPO),3704U,2025-01-01,1.0,naive
+Chemical / Other Income (CPO),3704U,2025-02-01,1.0,naive
+Chemical / Other Income (CPO),3704U,2025-03-01,1.0,naive
+Chemical / Other Income (Non CPO),3630G,2025-01-01,1089.0,naive
+Chemical / Other Income (Non CPO),3630G,2025-02-01,1089.0,naive
+Chemical / Other Income (Non CPO),3630G,2025-03-01,1089.0,naive
+Chemical / Other Income (Non CPO),3630S,2025-01-01,1599.0,naive
+Chemical / Other Income (Non CPO),3630S,2025-02-01,1599.0,naive
+Chemical / Other Income (Non CPO),3630S,2025-03-01,1599.0,naive
+Chemical / Other Income (Non CPO),3630U,2025-01-01,2.0,naive
+Chemical / Other Income (Non CPO),3630U,2025-02-01,2.0,naive
+Chemical / Other Income (Non CPO),3630U,2025-03-01,2.0,naive
+Chemical / Other Income (Other Makes),3708G,2025-01-01,0.0,naive
+Chemical / Other Income (Other Makes),3708G,2025-02-01,0.0,naive
+Chemical / Other Income (Other Makes),3708G,2025-03-01,0.0,naive
+Chemical / Other Income (Other Makes),3708S,2025-01-01,0.0,naive
+Chemical / Other Income (Other Makes),3708S,2025-02-01,0.0,naive
+Chemical / Other Income (Other Makes),3708S,2025-03-01,0.0,naive
+Chemical / Other Income (Other Makes),3708U,2025-01-01,0.0,naive
+Chemical / Other Income (Other Makes),3708U,2025-02-01,0.0,naive
+Chemical / Other Income (Other Makes),3708U,2025-03-01,0.0,naive
+Chemical Sales - New,3280G,2025-01-01,11092.0,naive
+Chemical Sales - New,3280G,2025-02-01,11092.0,naive
+Chemical Sales - New,3280G,2025-03-01,11092.0,naive
+Chemical Sales - New,3280S,2025-01-01,13570.0,naive
+Chemical Sales - New,3280S,2025-02-01,13570.0,naive
+Chemical Sales - New,3280S,2025-03-01,13570.0,naive
+Chemical Sales - New,3280U,2025-01-01,8.0,naive
+Chemical Sales - New,3280U,2025-02-01,8.0,naive
+Chemical Sales - New,3280U,2025-03-01,8.0,naive
+Clerical / Other,0964P,2025-01-01,1.0,naive
+Clerical / Other,0964P,2025-02-01,1.0,naive
+Clerical / Other,0964P,2025-03-01,1.0,naive
+Clerical / Other,0971P,2025-01-01,2.0,naive
+Clerical / Other,0971P,2025-02-01,2.0,naive
+Clerical / Other,0971P,2025-03-01,2.0,naive
+Clerical / Other,0979P,2025-01-01,3.0,naive
+Clerical / Other,0979P,2025-02-01,3.0,naive
+Clerical / Other,0979P,2025-03-01,3.0,naive
+Clerical / Other,0986P,2025-01-01,0.0,naive
+Clerical / Other,0986P,2025-02-01,0.0,naive
+Clerical / Other,0986P,2025-03-01,0.0,naive
+Clerical / Other,0994P,2025-01-01,0.0,naive
+Clerical / Other,0994P,2025-02-01,0.0,naive
+Clerical / Other,0994P,2025-03-01,0.0,naive
+Clerical / Other,570P,2025-01-01,6.0,naive
+Clerical / Other,570P,2025-02-01,6.0,naive
+Clerical / Other,570P,2025-03-01,6.0,naive
+Co. Veh.,11850D,2025-01-01,20783.0,naive
+Co. Veh.,11850D,2025-02-01,20783.0,naive
+Co. Veh.,11850D,2025-03-01,20783.0,naive
+Common Stock,2501D,2025-01-01,10.0,naive
+Common Stock,2501D,2025-02-01,10.0,naive
+Common Stock,2501D,2025-03-01,10.0,naive
+Company Vehicle Expense,8660D,2025-01-01,2622.0,seasonal_naive
+Company Vehicle Expense,8660D,2025-02-01,1963.0,seasonal_naive
+Company Vehicle Expense,8660D,2025-03-01,170.0,seasonal_naive
+Company Vehicle Expense,8661D,2025-01-01,1050.0,seasonal_naive
+Company Vehicle Expense,8661D,2025-02-01,1618.0,seasonal_naive
+Company Vehicle Expense,8661D,2025-03-01,0.0,seasonal_naive
+Company Vehicle Expense,8662D,2025-01-01,249.0,seasonal_naive
+Company Vehicle Expense,8662D,2025-02-01,39.0,seasonal_naive
+Company Vehicle Expense,8662D,2025-03-01,0.0,seasonal_naive
+Company Vehicle Expense,8663D,2025-01-01,1023.0,seasonal_naive
+Company Vehicle Expense,8663D,2025-02-01,268.0,seasonal_naive
+Company Vehicle Expense,8663D,2025-03-01,0.0,seasonal_naive
+Company Vehicle Expense,8664D,2025-01-01,300.0,seasonal_naive
+Company Vehicle Expense,8664D,2025-02-01,38.0,seasonal_naive
+Company Vehicle Expense,8664D,2025-03-01,170.0,seasonal_naive
+Company Vehicle Expense,8665D,2025-01-01,0.0,naive
+Company Vehicle Expense,8665D,2025-02-01,0.0,naive
+Company Vehicle Expense,8665D,2025-03-01,0.0,naive
+Company Vehicles,1850D,2025-01-01,33830.0,naive
+Company Vehicles,1850D,2025-02-01,33830.0,naive
+Company Vehicles,1850D,2025-03-01,33830.0,naive
+Company Vehicles,1860D,2025-01-01,13047.0,naive
+Company Vehicles,1860D,2025-02-01,13047.0,naive
+Company Vehicles,1860D,2025-03-01,13047.0,naive
+Compensation - Clerical,8100D,2025-01-01,26866.0,seasonal_naive
+Compensation - Clerical,8100D,2025-02-01,24599.0,seasonal_naive
+Compensation - Clerical,8100D,2025-03-01,8998.0,seasonal_naive
+Compensation - Clerical,8101D,2025-01-01,21315.0,seasonal_naive
+Compensation - Clerical,8101D,2025-02-01,18865.0,seasonal_naive
+Compensation - Clerical,8101D,2025-03-01,7148.0,seasonal_naive
+Compensation - Clerical,8102D,2025-01-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8102D,2025-02-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8102D,2025-03-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8103D,2025-01-01,4318.0,moving_avg
+Compensation - Clerical,8103D,2025-02-01,4318.0,moving_avg
+Compensation - Clerical,8103D,2025-03-01,4318.0,moving_avg
+Compensation - Clerical,8104D,2025-01-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8104D,2025-02-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8104D,2025-03-01,1518.6666666666667,moving_avg
+Compensation - Clerical,8105D,2025-01-01,0.0,naive
+Compensation - Clerical,8105D,2025-02-01,0.0,naive
+Compensation - Clerical,8105D,2025-03-01,0.0,naive
+Compensation - Finance,8040D,2025-01-01,0.0,naive
+Compensation - Finance,8040D,2025-02-01,0.0,naive
+Compensation - Finance,8040D,2025-03-01,0.0,naive
+Compensation - Finance,8041D,2025-01-01,0.0,naive
+Compensation - Finance,8041D,2025-02-01,0.0,naive
+Compensation - Finance,8041D,2025-03-01,0.0,naive
+Compensation - Finance,8042D,2025-01-01,0.0,naive
+Compensation - Finance,8042D,2025-02-01,0.0,naive
+Compensation - Finance,8042D,2025-03-01,0.0,naive
+Compensation - Insurance,8640D,2025-01-01,0.0,naive
+Compensation - Insurance,8640D,2025-02-01,0.0,naive
+Compensation - Insurance,8640D,2025-03-01,0.0,naive
+Compensation - Insurance,8641D,2025-01-01,0.0,naive
+Compensation - Insurance,8641D,2025-02-01,0.0,naive
+Compensation - Insurance,8641D,2025-03-01,0.0,naive
+Compensation - Insurance,8642D,2025-01-01,0.0,naive
+Compensation - Insurance,8642D,2025-02-01,0.0,naive
+Compensation - Insurance,8642D,2025-03-01,0.0,naive
+Compensation - Other Supervisor,8170D,2025-01-01,3098.0,naive
+Compensation - Other Supervisor,8170D,2025-02-01,3098.0,naive
+Compensation - Other Supervisor,8170D,2025-03-01,3098.0,naive
+Compensation - Other Supervisor,8171D,2025-01-01,0.0,naive
+Compensation - Other Supervisor,8171D,2025-02-01,0.0,naive
+Compensation - Other Supervisor,8171D,2025-03-01,0.0,naive
+Compensation - Other Supervisor,8172D,2025-01-01,0.0,naive
+Compensation - Other Supervisor,8172D,2025-02-01,0.0,naive
+Compensation - Other Supervisor,8172D,2025-03-01,0.0,naive
+Compensation - Other Supervisor,8173D,2025-01-01,3098.0,naive
+Compensation - Other Supervisor,8173D,2025-02-01,3098.0,naive
+Compensation - Other Supervisor,8173D,2025-03-01,3098.0,naive
+Compensation - Other Supervisor,8174D,2025-01-01,0.0,naive
+Compensation - Other Supervisor,8174D,2025-02-01,0.0,naive
+Compensation - Other Supervisor,8174D,2025-03-01,0.0,naive
+Compensation - Other Supervisor,8175D,2025-01-01,0.0,naive
+Compensation - Other Supervisor,8175D,2025-02-01,0.0,naive
+Compensation - Other Supervisor,8175D,2025-03-01,0.0,naive
+Compensation - Owner,8080D,2025-01-01,8077.333333333333,moving_avg
+Compensation - Owner,8080D,2025-02-01,8077.333333333333,moving_avg
+Compensation - Owner,8080D,2025-03-01,8077.333333333333,moving_avg
+Compensation - Owner,8081D,2025-01-01,2827.0,moving_avg
+Compensation - Owner,8081D,2025-02-01,2827.0,moving_avg
+Compensation - Owner,8081D,2025-03-01,2827.0,moving_avg
+Compensation - Owner,8082D,2025-01-01,1211.6666666666667,moving_avg
+Compensation - Owner,8082D,2025-02-01,1211.6666666666667,moving_avg
+Compensation - Owner,8082D,2025-03-01,1211.6666666666667,moving_avg
+Compensation - Owner,8083D,2025-01-01,2827.0,moving_avg
+Compensation - Owner,8083D,2025-02-01,2827.0,moving_avg
+Compensation - Owner,8083D,2025-03-01,2827.0,moving_avg
+Compensation - Owner,8084D,2025-01-01,1211.6666666666667,moving_avg
+Compensation - Owner,8084D,2025-02-01,1211.6666666666667,moving_avg
+Compensation - Owner,8084D,2025-03-01,1211.6666666666667,moving_avg
+Compensation - Owner,8085D,2025-01-01,0.0,naive
+Compensation - Owner,8085D,2025-02-01,0.0,naive
+Compensation - Owner,8085D,2025-03-01,0.0,naive
+Compensation - Sales,8020D,2025-01-01,65422.333333333336,moving_avg
+Compensation - Sales,8020D,2025-02-01,65422.333333333336,moving_avg
+Compensation - Sales,8020D,2025-03-01,65422.333333333336,moving_avg
+Compensation - Sales,8021D,2025-01-01,38310.666666666664,moving_avg
+Compensation - Sales,8021D,2025-02-01,38310.666666666664,moving_avg
+Compensation - Sales,8021D,2025-03-01,38310.666666666664,moving_avg
+Compensation - Sales,8022D,2025-01-01,27111.666666666668,moving_avg
+Compensation - Sales,8022D,2025-02-01,27111.666666666668,moving_avg
+Compensation - Sales,8022D,2025-03-01,27111.666666666668,moving_avg
+Compensation - Service Contracts,8620D,2025-01-01,0.0,naive
+Compensation - Service Contracts,8620D,2025-02-01,0.0,naive
+Compensation - Service Contracts,8620D,2025-03-01,0.0,naive
+Compensation - Service Contracts,8621D,2025-01-01,0.0,naive
+Compensation - Service Contracts,8621D,2025-02-01,0.0,naive
+Compensation - Service Contracts,8621D,2025-03-01,0.0,naive
+Compensation - Service Contracts,8622D,2025-01-01,0.0,naive
+Compensation - Service Contracts,8622D,2025-02-01,0.0,naive
+Compensation - Service Contracts,8622D,2025-03-01,0.0,naive
+Compensation - Supervisors,8090D,2025-01-01,54370.0,seasonal_naive
+Compensation - Supervisors,8090D,2025-02-01,37090.0,seasonal_naive
+Compensation - Supervisors,8090D,2025-03-01,30312.0,seasonal_naive
+Compensation - Supervisors,8091D,2025-01-01,4034.6666666666665,moving_avg
+Compensation - Supervisors,8091D,2025-02-01,4034.6666666666665,moving_avg
+Compensation - Supervisors,8091D,2025-03-01,4034.6666666666665,moving_avg
+Compensation - Supervisors,8092D,2025-01-01,7903.666666666667,moving_avg
+Compensation - Supervisors,8092D,2025-02-01,7903.666666666667,moving_avg
+Compensation - Supervisors,8092D,2025-03-01,7903.666666666667,moving_avg
+Compensation - Supervisors,8093D,2025-01-01,30803.0,seasonal_naive
+Compensation - Supervisors,8093D,2025-02-01,20071.0,seasonal_naive
+Compensation - Supervisors,8093D,2025-03-01,9367.0,seasonal_naive
+Compensation - Supervisors,8094D,2025-01-01,8623.666666666666,moving_avg
+Compensation - Supervisors,8094D,2025-02-01,8623.666666666666,moving_avg
+Compensation - Supervisors,8094D,2025-03-01,8623.666666666666,moving_avg
+Compensation - Supervisors,8095D,2025-01-01,0.0,naive
+Compensation - Supervisors,8095D,2025-02-01,0.0,naive
+Compensation - Supervisors,8095D,2025-03-01,0.0,naive
+Contracts in Transit,1020D,2025-01-01,439817.6666666667,moving_avg
+Contracts in Transit,1020D,2025-02-01,439817.6666666667,moving_avg
+Contracts in Transit,1020D,2025-03-01,439817.6666666667,moving_avg
+Current Portion of Long Term Debt,2130D,2025-01-01,100000.0,seasonal_naive
+Current Portion of Long Term Debt,2130D,2025-02-01,0.0,seasonal_naive
+Current Portion of Long Term Debt,2130D,2025-03-01,0.0,seasonal_naive
+Customer Body Shop Labour,5400G,2025-01-01,0.0,naive
+Customer Body Shop Labour,5400G,2025-02-01,0.0,naive
+Customer Body Shop Labour,5400G,2025-03-01,0.0,naive
+Customer Body Shop Labour,5400S,2025-01-01,0.0,naive
+Customer Body Shop Labour,5400S,2025-02-01,0.0,naive
+Customer Body Shop Labour,5400S,2025-03-01,0.0,naive
+Customer Body Shop Labour,5400U,2025-01-01,0.0,naive
+Customer Body Shop Labour,5400U,2025-02-01,0.0,naive
+Customer Body Shop Labour,5400U,2025-03-01,0.0,naive
+Customer Deposits,2010D,2025-01-01,0.0,naive
+Customer Deposits,2010D,2025-02-01,0.0,naive
+Customer Deposits,2010D,2025-03-01,0.0,naive
+Customer Labour Rate,5000D,2025-01-01,145.0,naive
+Customer Labour Rate,5000D,2025-02-01,145.0,naive
+Customer Labour Rate,5000D,2025-03-01,145.0,naive
+Customer Labour Rate,5001D,2025-01-01,0.0,naive
+Customer Labour Rate,5001D,2025-02-01,0.0,naive
+Customer Labour Rate,5001D,2025-03-01,0.0,naive
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-01-01,23805.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-02-01,12981.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-03-01,19911.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-01-01,29036.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-02-01,15688.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-03-01,24467.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-01-01,109.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-02-01,88.0,seasonal_naive
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-03-01,110.0,seasonal_naive
+Customer Pay Hours Sold,50013SD,2025-01-01,198.0,seasonal_naive
+Customer Pay Hours Sold,50013SD,2025-02-01,107.0,seasonal_naive
+Customer Pay Hours Sold,50013SD,2025-03-01,169.0,seasonal_naive
+DCP P&A RO,5215G,2025-01-01,0.0,naive
+DCP P&A RO,5215G,2025-02-01,0.0,naive
+DCP P&A RO,5215G,2025-03-01,0.0,naive
+DCP P&A RO,5215S,2025-01-01,0.0,naive
+DCP P&A RO,5215S,2025-02-01,0.0,naive
+DCP P&A RO,5215S,2025-03-01,0.0,naive
+DCP P&A RO,5215U,2025-01-01,0.0,naive
+DCP P&A RO,5215U,2025-02-01,0.0,naive
+DCP P&A RO,5215U,2025-03-01,0.0,naive
+DCP Service Contracts - New,3381G,2025-01-01,0.0,naive
+DCP Service Contracts - New,3381G,2025-02-01,0.0,naive
+DCP Service Contracts - New,3381G,2025-03-01,0.0,naive
+DCP Service Contracts - New,3381S,2025-01-01,0.0,naive
+DCP Service Contracts - New,3381S,2025-02-01,0.0,naive
+DCP Service Contracts - New,3381S,2025-03-01,0.0,naive
+DCP Service Contracts - New,3381U,2025-01-01,0.0,naive
+DCP Service Contracts - New,3381U,2025-02-01,0.0,naive
+DCP Service Contracts - New,3381U,2025-03-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010G,2025-01-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010G,2025-02-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010G,2025-03-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010S,2025-01-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010S,2025-02-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010S,2025-03-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010U,2025-01-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010U,2025-02-01,0.0,naive
+DCP Warranty Labour - MITSUBISHI,5010U,2025-03-01,0.0,naive
+DEC.,391LU,2025-01-01,0.0,seasonal_naive
+DEC.,391LU,2025-02-01,0.0,seasonal_naive
+DEC.,391LU,2025-03-01,0.0,seasonal_naive
+DEC.,392LU,2025-01-01,0.0,naive
+DEC.,392LU,2025-02-01,0.0,naive
+DEC.,392LU,2025-03-01,0.0,naive
+DEC.,395LU,2025-01-01,0.0,seasonal_naive
+DEC.,395LU,2025-02-01,0.0,seasonal_naive
+DEC.,395LU,2025-03-01,0.0,seasonal_naive
+DEC.,396LD,2025-01-01,0.0,seasonal_naive
+DEC.,396LD,2025-02-01,0.0,seasonal_naive
+DEC.,396LD,2025-03-01,0.0,seasonal_naive
+DEC.,396LU,2025-01-01,0.0,naive
+DEC.,396LU,2025-02-01,0.0,naive
+DEC.,396LU,2025-03-01,0.0,naive
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-01-01,43009.0,naive
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-02-01,43009.0,naive
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-03-01,43009.0,naive
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-01-01,-117485.0,moving_avg
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-02-01,-117485.0,moving_avg
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-03-01,-117485.0,moving_avg
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-01-01,18613.0,seasonal_naive
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-02-01,26861.0,seasonal_naive
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-03-01,18679.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-01-01,-32496.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-02-01,-21659.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-03-01,-5250.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-01-01,-21300.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-02-01,-11894.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-03-01,-5831.0,seasonal_naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-01-01,0.0,naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-02-01,0.0,naive
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-03-01,0.0,naive
+DISCONTINUED MODELS,3099G,2025-01-01,0.0,naive
+DISCONTINUED MODELS,3099G,2025-02-01,0.0,naive
+DISCONTINUED MODELS,3099G,2025-03-01,0.0,naive
+DISCONTINUED MODELS,3099S,2025-01-01,0.0,naive
+DISCONTINUED MODELS,3099S,2025-02-01,0.0,naive
+DISCONTINUED MODELS,3099S,2025-03-01,0.0,naive
+DISCONTINUED MODELS,3099U,2025-01-01,0.0,naive
+DISCONTINUED MODELS,3099U,2025-02-01,0.0,naive
+DISCONTINUED MODELS,3099U,2025-03-01,0.0,naive
+Data Processing,8270D,2025-01-01,-9462.333333333334,moving_avg
+Data Processing,8270D,2025-02-01,-9462.333333333334,moving_avg
+Data Processing,8270D,2025-03-01,-9462.333333333334,moving_avg
+Data Processing,8271D,2025-01-01,-2877.3333333333335,moving_avg
+Data Processing,8271D,2025-02-01,-2877.3333333333335,moving_avg
+Data Processing,8271D,2025-03-01,-2877.3333333333335,moving_avg
+Data Processing,8272D,2025-01-01,745.6666666666666,moving_avg
+Data Processing,8272D,2025-02-01,745.6666666666666,moving_avg
+Data Processing,8272D,2025-03-01,745.6666666666666,moving_avg
+Data Processing,8273D,2025-01-01,-4863.333333333333,moving_avg
+Data Processing,8273D,2025-02-01,-4863.333333333333,moving_avg
+Data Processing,8273D,2025-03-01,-4863.333333333333,moving_avg
+Data Processing,8274D,2025-01-01,-2467.3333333333335,moving_avg
+Data Processing,8274D,2025-02-01,-2467.3333333333335,moving_avg
+Data Processing,8274D,2025-03-01,-2467.3333333333335,moving_avg
+Data Processing,8275D,2025-01-01,0.0,naive
+Data Processing,8275D,2025-02-01,0.0,naive
+Data Processing,8275D,2025-03-01,0.0,naive
+Dealer Advertising Allowance,8030D,2025-01-01,-1750.0,seasonal_naive
+Dealer Advertising Allowance,8030D,2025-02-01,-10000.0,seasonal_naive
+Dealer Advertising Allowance,8030D,2025-03-01,-1612.0,seasonal_naive
+Dealer Advertising Allowance,8031D,2025-01-01,-1750.0,seasonal_naive
+Dealer Advertising Allowance,8031D,2025-02-01,-10000.0,seasonal_naive
+Dealer Advertising Allowance,8031D,2025-03-01,-1612.0,seasonal_naive
+Dealer Advertising Expense,8010D,2025-01-01,19003.0,naive
+Dealer Advertising Expense,8010D,2025-02-01,19003.0,naive
+Dealer Advertising Expense,8010D,2025-03-01,19003.0,naive
+Dealer Advertising Expense,8011D,2025-01-01,8701.333333333334,moving_avg
+Dealer Advertising Expense,8011D,2025-02-01,8701.333333333334,moving_avg
+Dealer Advertising Expense,8011D,2025-03-01,8701.333333333334,moving_avg
+Dealer Advertising Expense,8012D,2025-01-01,11237.0,naive
+Dealer Advertising Expense,8012D,2025-02-01,11237.0,naive
+Dealer Advertising Expense,8012D,2025-03-01,11237.0,naive
+Delivery Expense,8060D,2025-01-01,5217.0,seasonal_naive
+Delivery Expense,8060D,2025-02-01,3375.0,seasonal_naive
+Delivery Expense,8060D,2025-03-01,5117.0,seasonal_naive
+Delivery Expense,8061D,2025-01-01,1561.0,seasonal_naive
+Delivery Expense,8061D,2025-02-01,-520.0,seasonal_naive
+Delivery Expense,8061D,2025-03-01,468.0,seasonal_naive
+Delivery Expense,8062D,2025-01-01,3656.0,seasonal_naive
+Delivery Expense,8062D,2025-02-01,3895.0,seasonal_naive
+Delivery Expense,8062D,2025-03-01,4649.0,seasonal_naive
+Delivery Expense,8063D,2025-01-01,0.0,naive
+Delivery Expense,8063D,2025-02-01,0.0,naive
+Delivery Expense,8063D,2025-03-01,0.0,naive
+Delivery Expense,8064D,2025-01-01,0.0,naive
+Delivery Expense,8064D,2025-02-01,0.0,naive
+Delivery Expense,8064D,2025-03-01,0.0,naive
+Delivery Expense,8065D,2025-01-01,0.0,naive
+Delivery Expense,8065D,2025-02-01,0.0,naive
+Delivery Expense,8065D,2025-03-01,0.0,naive
+Demo Expense,8190D,2025-01-01,1328.0,seasonal_naive
+Demo Expense,8190D,2025-02-01,1326.0,seasonal_naive
+Demo Expense,8190D,2025-03-01,6006.0,seasonal_naive
+Demo Expense,8191D,2025-01-01,664.0,seasonal_naive
+Demo Expense,8191D,2025-02-01,663.0,seasonal_naive
+Demo Expense,8191D,2025-03-01,3697.0,seasonal_naive
+Demo Expense,8192D,2025-01-01,664.0,seasonal_naive
+Demo Expense,8192D,2025-02-01,663.0,seasonal_naive
+Demo Expense,8192D,2025-03-01,2309.0,seasonal_naive
+Demonstrators,1440D,2025-01-01,0.0,naive
+Demonstrators,1440D,2025-02-01,0.0,naive
+Demonstrators,1440D,2025-03-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8453D,2025-01-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8453D,2025-02-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8453D,2025-03-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8454D,2025-01-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8454D,2025-02-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8454D,2025-03-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8455D,2025-01-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8455D,2025-02-01,0.0,naive
+Depreciation - Bldgs. & Improvements,8455D,2025-03-01,0.0,naive
+Depreciation - Buildings & Improvements,8450D,2025-01-01,0.0,naive
+Depreciation - Buildings & Improvements,8450D,2025-02-01,0.0,naive
+Depreciation - Buildings & Improvements,8450D,2025-03-01,0.0,naive
+Depreciation - Buildings & Improvements,8451D,2025-01-01,0.0,naive
+Depreciation - Buildings & Improvements,8451D,2025-02-01,0.0,naive
+Depreciation - Buildings & Improvements,8451D,2025-03-01,0.0,naive
+Depreciation - Buildings & Improvements,8452D,2025-01-01,0.0,naive
+Depreciation - Buildings & Improvements,8452D,2025-02-01,0.0,naive
+Depreciation - Buildings & Improvements,8452D,2025-03-01,0.0,naive
+Depreciation - Other,8230D,2025-01-01,65573.0,naive
+Depreciation - Other,8230D,2025-02-01,65573.0,naive
+Depreciation - Other,8230D,2025-03-01,65573.0,naive
+Depreciation - Other,8231D,2025-01-01,65573.0,naive
+Depreciation - Other,8231D,2025-02-01,65573.0,naive
+Depreciation - Other,8231D,2025-03-01,65573.0,naive
+Depreciation - Other,8232D,2025-01-01,0.0,naive
+Depreciation - Other,8232D,2025-02-01,0.0,naive
+Depreciation - Other,8232D,2025-03-01,0.0,naive
+Depreciation - Other ,8233D,2025-01-01,0.0,naive
+Depreciation - Other ,8233D,2025-02-01,0.0,naive
+Depreciation - Other ,8233D,2025-03-01,0.0,naive
+Depreciation - Other ,8234D,2025-01-01,0.0,naive
+Depreciation - Other ,8234D,2025-02-01,0.0,naive
+Depreciation - Other ,8234D,2025-03-01,0.0,naive
+Depreciation - Other ,8235D,2025-01-01,0.0,naive
+Depreciation - Other ,8235D,2025-02-01,0.0,naive
+Depreciation - Other ,8235D,2025-03-01,0.0,naive
+Depreciation of Lease & Rental Units,1710D,2025-01-01,0.0,naive
+Depreciation of Lease & Rental Units,1710D,2025-02-01,0.0,naive
+Depreciation of Lease & Rental Units,1710D,2025-03-01,0.0,naive
+Detailing,5020G,2025-01-01,0.0,naive
+Detailing,5020G,2025-02-01,0.0,naive
+Detailing,5020G,2025-03-01,0.0,naive
+Detailing,5020S,2025-01-01,0.0,naive
+Detailing,5020S,2025-02-01,0.0,naive
+Detailing,5020S,2025-03-01,0.0,naive
+Detailing,5020U,2025-01-01,0.0,naive
+Detailing,5020U,2025-02-01,0.0,naive
+Detailing,5020U,2025-03-01,0.0,naive
+Dividends,2540D,2025-01-01,0.0,naive
+Dividends,2540D,2025-02-01,0.0,naive
+Dividends,2540D,2025-03-01,0.0,naive
+Documentary Fees,9073D,2025-01-01,0.0,naive
+Documentary Fees,9073D,2025-02-01,0.0,naive
+Documentary Fees,9073D,2025-03-01,0.0,naive
+Documentary Fees,9273D,2025-01-01,0.0,naive
+Documentary Fees,9273D,2025-02-01,0.0,naive
+Documentary Fees,9273D,2025-03-01,0.0,naive
+Drawings,2560D,2025-01-01,0.0,naive
+Drawings,2560D,2025-02-01,0.0,naive
+Drawings,2560D,2025-03-01,0.0,naive
+Eclipse Cross,3028G,2025-01-01,6102.0,moving_avg
+Eclipse Cross,3028G,2025-02-01,6102.0,moving_avg
+Eclipse Cross,3028G,2025-03-01,6102.0,moving_avg
+Eclipse Cross,3028S,2025-01-01,160743.0,moving_avg
+Eclipse Cross,3028S,2025-02-01,160743.0,moving_avg
+Eclipse Cross,3028S,2025-03-01,160743.0,moving_avg
+Eclipse Cross,3028U,2025-01-01,4.333333333333333,moving_avg
+Eclipse Cross,3028U,2025-02-01,4.333333333333333,moving_avg
+Eclipse Cross,3028U,2025-03-01,4.333333333333333,moving_avg
+Efficiency (Guide 110 - 125%),50114SDZ,2025-01-01,0.0,naive
+Efficiency (Guide 110 - 125%),50114SDZ,2025-02-01,0.0,naive
+Efficiency (Guide 110 - 125%),50114SDZ,2025-03-01,0.0,naive
+Efficiency (Guide 110 - 125%),6110DZ,2025-01-01,69.6,seasonal_naive
+Efficiency (Guide 110 - 125%),6110DZ,2025-02-01,0.2400000000000091,seasonal_naive
+Efficiency (Guide 110 - 125%),6110DZ,2025-03-01,1.4099999999999966,seasonal_naive
+Efficiency (Guide 110 - 125%),6128DZ,2025-01-01,69.6,seasonal_naive
+Efficiency (Guide 110 - 125%),6128DZ,2025-02-01,0.1200000000000045,seasonal_naive
+Efficiency (Guide 110 - 125%),6128DZ,2025-03-01,0.4899999999999949,seasonal_naive
+Efficiency (Guide 110 - 125%),6164DZ,2025-01-01,0.0,naive
+Efficiency (Guide 110 - 125%),6164DZ,2025-02-01,0.0,naive
+Efficiency (Guide 110 - 125%),6164DZ,2025-03-01,0.0,naive
+Employee Benefits,8160D,2025-01-01,4863.0,seasonal_naive
+Employee Benefits,8160D,2025-02-01,4505.0,seasonal_naive
+Employee Benefits,8160D,2025-03-01,4275.0,seasonal_naive
+Employee Benefits,8161D,2025-01-01,1204.0,seasonal_naive
+Employee Benefits,8161D,2025-02-01,1244.0,seasonal_naive
+Employee Benefits,8161D,2025-03-01,1499.0,seasonal_naive
+Employee Benefits,8162D,2025-01-01,602.0,seasonal_naive
+Employee Benefits,8162D,2025-02-01,688.0,seasonal_naive
+Employee Benefits,8162D,2025-03-01,923.0,seasonal_naive
+Employee Benefits,8163D,2025-01-01,2154.0,seasonal_naive
+Employee Benefits,8163D,2025-02-01,1882.0,seasonal_naive
+Employee Benefits,8163D,2025-03-01,1289.0,seasonal_naive
+Employee Benefits,8164D,2025-01-01,903.0,seasonal_naive
+Employee Benefits,8164D,2025-02-01,691.0,seasonal_naive
+Employee Benefits,8164D,2025-03-01,564.0,seasonal_naive
+Employee Benefits,8165D,2025-01-01,0.0,naive
+Employee Benefits,8165D,2025-02-01,0.0,naive
+Employee Benefits,8165D,2025-03-01,0.0,naive
+Employee Bonuses Payable,2270D,2025-01-01,7188.0,naive
+Employee Bonuses Payable,2270D,2025-02-01,7188.0,naive
+Employee Bonuses Payable,2270D,2025-03-01,7188.0,naive
+Equip. M/S,11790D,2025-01-01,73188.0,naive
+Equip. M/S,11790D,2025-02-01,73188.0,naive
+Equip. M/S,11790D,2025-03-01,73188.0,naive
+Equip. M/S,1790D,2025-01-01,162381.0,naive
+Equip. M/S,1790D,2025-02-01,162381.0,naive
+Equip. M/S,1790D,2025-03-01,162381.0,naive
+Equip. M/S,1800D,2025-01-01,89193.0,naive
+Equip. M/S,1800D,2025-02-01,89193.0,naive
+Equip. M/S,1800D,2025-03-01,89193.0,naive
+Equip. P/A,11810D,2025-01-01,7022.0,naive
+Equip. P/A,11810D,2025-02-01,7022.0,naive
+Equip. P/A,11810D,2025-03-01,7022.0,naive
+Equip. P/A,1810D,2025-01-01,26711.0,naive
+Equip. P/A,1810D,2025-02-01,26711.0,naive
+Equip. P/A,1810D,2025-03-01,26711.0,naive
+Equip. P/A,1820D,2025-01-01,19689.0,naive
+Equip. P/A,1820D,2025-02-01,19689.0,naive
+Equip. P/A,1820D,2025-03-01,19689.0,naive
+Equipment - Repairs & Rental,8240D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8240D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8240D,2025-03-01,0.0,naive
+Equipment - Repairs & Rental,8241D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8241D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8241D,2025-03-01,0.0,naive
+Equipment - Repairs & Rental,8242D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8242D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8242D,2025-03-01,0.0,naive
+Equipment - Repairs & Rental,8243D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8243D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8243D,2025-03-01,0.0,naive
+Equipment - Repairs & Rental,8244D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8244D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8244D,2025-03-01,0.0,naive
+Equipment - Repairs & Rental,8245D,2025-01-01,0.0,naive
+Equipment - Repairs & Rental,8245D,2025-02-01,0.0,naive
+Equipment - Repairs & Rental,8245D,2025-03-01,0.0,naive
+F & I Sales Reps.,0970P,2025-01-01,0.0,naive
+F & I Sales Reps.,0970P,2025-02-01,0.0,naive
+F & I Sales Reps.,0970P,2025-03-01,0.0,naive
+F & I Sales Reps.,530P,2025-01-01,2.0,naive
+F & I Sales Reps.,530P,2025-02-01,2.0,naive
+F & I Sales Reps.,530P,2025-03-01,2.0,naive
+F&I Sales Reps,0963P,2025-01-01,2.0,naive
+F&I Sales Reps,0963P,2025-02-01,2.0,naive
+F&I Sales Reps,0963P,2025-03-01,2.0,naive
+FEB.,391BU,2025-01-01,0.0,seasonal_naive
+FEB.,391BU,2025-02-01,21.0,seasonal_naive
+FEB.,391BU,2025-03-01,21.0,seasonal_naive
+FEB.,392BU,2025-01-01,0.0,naive
+FEB.,392BU,2025-02-01,0.0,naive
+FEB.,392BU,2025-03-01,0.0,naive
+FEB.,395BU,2025-01-01,0.0,seasonal_naive
+FEB.,395BU,2025-02-01,26.0,seasonal_naive
+FEB.,395BU,2025-03-01,26.0,seasonal_naive
+FEB.,396BD,2025-01-01,0.0,seasonal_naive
+FEB.,396BD,2025-02-01,-9052.0,seasonal_naive
+FEB.,396BD,2025-03-01,-9052.0,seasonal_naive
+FEB.,396BU,2025-01-01,0.0,naive
+FEB.,396BU,2025-02-01,0.0,naive
+FEB.,396BU,2025-03-01,0.0,naive
+Finance / Insur. Income Receivable - Deferred,1960D,2025-01-01,0.0,naive
+Finance / Insur. Income Receivable - Deferred,1960D,2025-02-01,0.0,naive
+Finance / Insur. Income Receivable - Deferred,1960D,2025-03-01,0.0,naive
+Finance / Insurance / Service Contracts,1130DD,2025-01-01,0.0,naive
+Finance / Insurance / Service Contracts,1130DD,2025-02-01,0.0,naive
+Finance / Insurance / Service Contracts,1130DD,2025-03-01,0.0,naive
+Finance / Insurance / Service Contracts,1130ED,2025-01-01,0.0,naive
+Finance / Insurance / Service Contracts,1130ED,2025-02-01,0.0,naive
+Finance / Insurance / Service Contracts,1130ED,2025-03-01,0.0,naive
+Finance / Insurance / Service Contracts,1130FD,2025-01-01,0.0,naive
+Finance / Insurance / Service Contracts,1130FD,2025-02-01,0.0,naive
+Finance / Insurance / Service Contracts,1130FD,2025-03-01,0.0,naive
+Finance / Insurance Income Rec. - Current,1130AD,2025-01-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130AD,2025-02-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130AD,2025-03-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130BD,2025-01-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130BD,2025-02-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130BD,2025-03-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130CD,2025-01-01,0.0,naive
+Finance / Insurance Income Rec. - Current,1130CD,2025-02-01,0.0,naive
+Finance / Insurance Income Rec. - Current,1130CD,2025-03-01,0.0,naive
+Finance / Insurance Income Rec. - Current,1130D,2025-01-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130D,2025-02-01,474.0,moving_avg
+Finance / Insurance Income Rec. - Current,1130D,2025-03-01,474.0,moving_avg
+Finance Income (CPO),3701G,2025-01-01,0.0,naive
+Finance Income (CPO),3701G,2025-02-01,0.0,naive
+Finance Income (CPO),3701G,2025-03-01,0.0,naive
+Finance Income (CPO),3701S,2025-01-01,0.0,naive
+Finance Income (CPO),3701S,2025-02-01,0.0,naive
+Finance Income (CPO),3701S,2025-03-01,0.0,naive
+Finance Income (CPO),3701U,2025-01-01,0.0,naive
+Finance Income (CPO),3701U,2025-02-01,0.0,naive
+Finance Income (CPO),3701U,2025-03-01,0.0,naive
+Finance Income (Non CPO),3707G,2025-01-01,4290.0,naive
+Finance Income (Non CPO),3707G,2025-02-01,4290.0,naive
+Finance Income (Non CPO),3707G,2025-03-01,4290.0,naive
+Finance Income (Non CPO),3707S,2025-01-01,5262.0,naive
+Finance Income (Non CPO),3707S,2025-02-01,5262.0,naive
+Finance Income (Non CPO),3707S,2025-03-01,5262.0,naive
+Finance Income (Non CPO),3707U,2025-01-01,5.0,naive
+Finance Income (Non CPO),3707U,2025-02-01,5.0,naive
+Finance Income (Non CPO),3707U,2025-03-01,5.0,naive
+Finance Income (Other Makes),3710G,2025-01-01,0.0,naive
+Finance Income (Other Makes),3710G,2025-02-01,0.0,naive
+Finance Income (Other Makes),3710G,2025-03-01,0.0,naive
+Finance Income (Other Makes),3710S,2025-01-01,0.0,naive
+Finance Income (Other Makes),3710S,2025-02-01,0.0,naive
+Finance Income (Other Makes),3710S,2025-03-01,0.0,naive
+Finance Income (Other Makes),3710U,2025-01-01,0.0,naive
+Finance Income (Other Makes),3710U,2025-02-01,0.0,naive
+Finance Income (Other Makes),3710U,2025-03-01,0.0,naive
+Finance Income - New,3310G,2025-01-01,1000.0,naive
+Finance Income - New,3310G,2025-02-01,1000.0,naive
+Finance Income - New,3310G,2025-03-01,1000.0,naive
+Finance Income - New,3310S,2025-01-01,1000.0,naive
+Finance Income - New,3310S,2025-02-01,1000.0,naive
+Finance Income - New,3310S,2025-03-01,1000.0,naive
+Finance Income - New,3310U,2025-01-01,4.0,seasonal_naive
+Finance Income - New,3310U,2025-02-01,6.0,seasonal_naive
+Finance Income - New,3310U,2025-03-01,4.0,seasonal_naive
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-01-01,0.0,naive
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-02-01,0.0,naive
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-03-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8223D,2025-01-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8223D,2025-02-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8223D,2025-03-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8224D,2025-01-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8224D,2025-02-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8224D,2025-03-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8225D,2025-01-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8225D,2025-02-01,0.0,naive
+Fixed Oper. Advertising / Promotion,8225D,2025-03-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-01-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-02-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-03-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-01-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-02-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-03-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-01-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-02-01,0.0,naive
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-03-01,0.0,naive
+Fixed Operations Advertising / Promotion,8220D,2025-01-01,0.0,naive
+Fixed Operations Advertising / Promotion,8220D,2025-02-01,0.0,naive
+Fixed Operations Advertising / Promotion,8220D,2025-03-01,0.0,naive
+Floor Plan Credits,8700D,2025-01-01,22610.0,moving_avg
+Floor Plan Credits,8700D,2025-02-01,22610.0,moving_avg
+Floor Plan Credits,8700D,2025-03-01,22610.0,moving_avg
+Floor Plan Credits,8701D,2025-01-01,22610.0,moving_avg
+Floor Plan Credits,8701D,2025-02-01,22610.0,moving_avg
+Floor Plan Credits,8701D,2025-03-01,22610.0,moving_avg
+Floor Plan Interest,8050D,2025-01-01,23444.0,naive
+Floor Plan Interest,8050D,2025-02-01,23444.0,naive
+Floor Plan Interest,8050D,2025-03-01,23444.0,naive
+Floor Plan Interest,8051D,2025-01-01,14427.0,naive
+Floor Plan Interest,8051D,2025-02-01,14427.0,naive
+Floor Plan Interest,8051D,2025-03-01,14427.0,naive
+Floor Plan Interest,8052D,2025-01-01,9017.0,naive
+Floor Plan Interest,8052D,2025-02-01,9017.0,naive
+Floor Plan Interest,8052D,2025-03-01,9017.0,naive
+Freight & Express,8330D,2025-01-01,21.0,moving_avg
+Freight & Express,8330D,2025-02-01,21.0,moving_avg
+Freight & Express,8330D,2025-03-01,21.0,moving_avg
+Freight & Express,8331D,2025-01-01,0.0,naive
+Freight & Express,8331D,2025-02-01,0.0,naive
+Freight & Express,8331D,2025-03-01,0.0,naive
+Freight & Express,8332D,2025-01-01,0.0,naive
+Freight & Express,8332D,2025-02-01,0.0,naive
+Freight & Express,8332D,2025-03-01,0.0,naive
+Freight & Express,8333D,2025-01-01,0.0,naive
+Freight & Express,8333D,2025-02-01,0.0,naive
+Freight & Express,8333D,2025-03-01,0.0,naive
+Freight & Express,8334D,2025-01-01,0.0,seasonal_naive
+Freight & Express,8334D,2025-02-01,0.0,seasonal_naive
+Freight & Express,8334D,2025-03-01,271.0,seasonal_naive
+Freight & Express,8335D,2025-01-01,0.0,naive
+Freight & Express,8335D,2025-02-01,0.0,naive
+Freight & Express,8335D,2025-03-01,0.0,naive
+"Furniture & 
+Fixtures",11830D,2025-01-01,45445.0,naive
+"Furniture & 
+Fixtures",11830D,2025-02-01,45445.0,naive
+"Furniture & 
+Fixtures",11830D,2025-03-01,45445.0,naive
+Furnitures & Fixtures,1830D,2025-01-01,136532.0,naive
+Furnitures & Fixtures,1830D,2025-02-01,136532.0,naive
+Furnitures & Fixtures,1830D,2025-03-01,136532.0,naive
+Furnitures & Fixtures,1840D,2025-01-01,91087.0,naive
+Furnitures & Fixtures,1840D,2025-02-01,91087.0,naive
+Furnitures & Fixtures,1840D,2025-03-01,91087.0,naive
+Gain on Disposal of Assets,9050D,2025-01-01,0.0,naive
+Gain on Disposal of Assets,9050D,2025-02-01,0.0,naive
+Gain on Disposal of Assets,9050D,2025-03-01,0.0,naive
+"Gas, Oil & Grease",5280G,2025-01-01,4.0,seasonal_naive
+"Gas, Oil & Grease",5280G,2025-02-01,3.0,seasonal_naive
+"Gas, Oil & Grease",5280G,2025-03-01,0.0,seasonal_naive
+"Gas, Oil & Grease",5280S,2025-01-01,24.0,seasonal_naive
+"Gas, Oil & Grease",5280S,2025-02-01,13.0,seasonal_naive
+"Gas, Oil & Grease",5280S,2025-03-01,0.0,seasonal_naive
+"Gas, Oil & Grease",5280U,2025-01-01,0.0,naive
+"Gas, Oil & Grease",5280U,2025-02-01,0.0,naive
+"Gas, Oil & Grease",5280U,2025-03-01,0.0,naive
+"Gas, Oil, & Grease",1520D,2025-01-01,8795.0,naive
+"Gas, Oil, & Grease",1520D,2025-02-01,8795.0,naive
+"Gas, Oil, & Grease",1520D,2025-03-01,8795.0,naive
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-01-01,3988.0,seasonal_naive
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-02-01,2288.0,seasonal_naive
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-03-01,13847.0,seasonal_naive
+Goodwill Policy,8070D,2025-01-01,3349.3333333333335,moving_avg
+Goodwill Policy,8070D,2025-02-01,3349.3333333333335,moving_avg
+Goodwill Policy,8070D,2025-03-01,3349.3333333333335,moving_avg
+Goodwill Policy,8071D,2025-01-01,0.0,naive
+Goodwill Policy,8071D,2025-02-01,0.0,naive
+Goodwill Policy,8071D,2025-03-01,0.0,naive
+Goodwill Policy,8072D,2025-01-01,0.0,naive
+Goodwill Policy,8072D,2025-02-01,0.0,naive
+Goodwill Policy,8072D,2025-03-01,0.0,naive
+Goodwill Policy,8073D,2025-01-01,2505.6666666666665,moving_avg
+Goodwill Policy,8073D,2025-02-01,2505.6666666666665,moving_avg
+Goodwill Policy,8073D,2025-03-01,2505.6666666666665,moving_avg
+Goodwill Policy,8074D,2025-01-01,178.0,seasonal_naive
+Goodwill Policy,8074D,2025-02-01,142.0,seasonal_naive
+Goodwill Policy,8074D,2025-03-01,96.0,seasonal_naive
+Goodwill Policy,8075D,2025-01-01,0.0,naive
+Goodwill Policy,8075D,2025-02-01,0.0,naive
+Goodwill Policy,8075D,2025-03-01,0.0,naive
+Gross Stock Turn,6001DZ,2025-01-01,-0.5466666666666665,moving_avg
+Gross Stock Turn,6001DZ,2025-02-01,-0.5466666666666665,moving_avg
+Gross Stock Turn,6001DZ,2025-03-01,-0.5466666666666665,moving_avg
+Gross Stock Turn,6010DZ,2025-01-01,-0.04333333333333327,moving_avg
+Gross Stock Turn,6010DZ,2025-02-01,-0.04333333333333327,moving_avg
+Gross Stock Turn,6010DZ,2025-03-01,-0.04333333333333327,moving_avg
+Gross Stock Turn,6017DZ,2025-01-01,0.0,seasonal_naive
+Gross Stock Turn,6017DZ,2025-02-01,-0.06,seasonal_naive
+Gross Stock Turn,6017DZ,2025-03-01,0.0,seasonal_naive
+Guide,6028DZ,2025-01-01,0.0,naive
+Guide,6028DZ,2025-02-01,0.0,naive
+Guide,6028DZ,2025-03-01,0.0,naive
+Heat - Light - Power - Water,8490D,2025-01-01,1272.0,seasonal_naive
+Heat - Light - Power - Water,8490D,2025-02-01,4074.0,seasonal_naive
+Heat - Light - Power - Water,8490D,2025-03-01,4306.0,seasonal_naive
+Heat - Light - Power - Water,8491D,2025-01-01,445.0,seasonal_naive
+Heat - Light - Power - Water,8491D,2025-02-01,1426.0,seasonal_naive
+Heat - Light - Power - Water,8491D,2025-03-01,1507.0,seasonal_naive
+Heat - Light - Power - Water,8492D,2025-01-01,191.0,seasonal_naive
+Heat - Light - Power - Water,8492D,2025-02-01,611.0,seasonal_naive
+Heat - Light - Power - Water,8492D,2025-03-01,646.0,seasonal_naive
+Heat - Light - Power - Water,8493D,2025-01-01,445.0,seasonal_naive
+Heat - Light - Power - Water,8493D,2025-02-01,1426.0,seasonal_naive
+Heat - Light - Power - Water,8493D,2025-03-01,1507.0,seasonal_naive
+Heat - Light - Power - Water,8494D,2025-01-01,191.0,seasonal_naive
+Heat - Light - Power - Water,8494D,2025-02-01,611.0,seasonal_naive
+Heat - Light - Power - Water,8494D,2025-03-01,646.0,seasonal_naive
+Heat - Light - Power - Water,8495D,2025-01-01,0.0,naive
+Heat - Light - Power - Water,8495D,2025-02-01,0.0,naive
+Heat - Light - Power - Water,8495D,2025-03-01,0.0,naive
+Hired YTD,560TP,2025-01-01,0.0,naive
+Hired YTD,560TP,2025-02-01,0.0,naive
+Hired YTD,560TP,2025-03-01,0.0,naive
+Hired YTD ,560AP,2025-01-01,0.0,naive
+Hired YTD ,560AP,2025-02-01,0.0,naive
+Hired YTD ,560AP,2025-03-01,0.0,naive
+Hired YTD ,560BP,2025-01-01,0.0,naive
+Hired YTD ,560BP,2025-02-01,0.0,naive
+Hired YTD ,560BP,2025-03-01,0.0,naive
+Hired YTD ,560CP,2025-01-01,0.0,naive
+Hired YTD ,560CP,2025-02-01,0.0,naive
+Hired YTD ,560CP,2025-03-01,0.0,naive
+Hired YTD ,560DP,2025-01-01,0.0,naive
+Hired YTD ,560DP,2025-02-01,0.0,naive
+Hired YTD ,560DP,2025-03-01,0.0,naive
+Hired YTD ,560EP,2025-01-01,0.0,naive
+Hired YTD ,560EP,2025-02-01,0.0,naive
+Hired YTD ,560EP,2025-03-01,0.0,naive
+Hours Available,50009SD,2025-01-01,704.0,seasonal_naive
+Hours Available,50009SD,2025-02-01,640.0,seasonal_naive
+Hours Available,50009SD,2025-03-01,640.0,seasonal_naive
+Hours Available ,50109SD,2025-01-01,0.0,naive
+Hours Available ,50109SD,2025-02-01,0.0,naive
+Hours Available ,50109SD,2025-03-01,0.0,naive
+Hours Clocked ,50010SD,2025-01-01,158.0,seasonal_naive
+Hours Clocked ,50010SD,2025-02-01,452.0,seasonal_naive
+Hours Clocked ,50010SD,2025-03-01,457.0,seasonal_naive
+Hours Clocked ,50110SD,2025-01-01,0.0,naive
+Hours Clocked ,50110SD,2025-02-01,0.0,naive
+Hours Clocked ,50110SD,2025-03-01,0.0,naive
+Hours Sold,50011SD,2025-01-01,490.0,seasonal_naive
+Hours Sold,50011SD,2025-02-01,447.0,seasonal_naive
+Hours Sold,50011SD,2025-03-01,456.0,seasonal_naive
+Hours Sold ,50111SD,2025-01-01,0.0,naive
+Hours Sold ,50111SD,2025-02-01,0.0,naive
+Hours Sold ,50111SD,2025-03-01,0.0,naive
+Hours Sold per Technician,6101DZ,2025-01-01,-66.0,naive
+Hours Sold per Technician,6101DZ,2025-02-01,-66.0,naive
+Hours Sold per Technician,6101DZ,2025-03-01,-66.0,naive
+Hours Sold per Technician,6119DZ,2025-01-01,245.0,seasonal_naive
+Hours Sold per Technician,6119DZ,2025-02-01,223.5,seasonal_naive
+Hours Sold per Technician,6119DZ,2025-03-01,-120.25,seasonal_naive
+Hours Sold per Technician,6137DZ,2025-01-01,0.0,seasonal_naive
+Hours Sold per Technician,6137DZ,2025-02-01,-10.75,seasonal_naive
+Hours Sold per Technician,6137DZ,2025-03-01,8.67,seasonal_naive
+Hours per CP RO,6105DZ,2025-01-01,1.84,seasonal_naive
+Hours per CP RO,6105DZ,2025-02-01,-0.6100000000000001,seasonal_naive
+Hours per CP RO,6105DZ,2025-03-01,0.3,seasonal_naive
+Hours per CP RO,6123DZ,2025-01-01,0.0,moving_avg
+Hours per CP RO,6123DZ,2025-02-01,0.0,moving_avg
+Hours per CP RO,6123DZ,2025-03-01,0.0,moving_avg
+Hours per CP RO,6141DZ,2025-01-01,0.0,seasonal_naive
+Hours per CP RO,6141DZ,2025-02-01,-33.62,seasonal_naive
+Hours per CP RO,6141DZ,2025-03-01,31.59,seasonal_naive
+INCOME TAX,8520D,2025-01-01,0.0,naive
+INCOME TAX,8520D,2025-02-01,0.0,naive
+INCOME TAX,8520D,2025-03-01,0.0,naive
+Income Tax,8520DD,2025-01-01,0.0,naive
+Income Tax,8520DD,2025-02-01,0.0,naive
+Income Tax,8520DD,2025-03-01,0.0,naive
+Insurance - Buildings & Improvements,8470D,2025-01-01,3368.0,seasonal_naive
+Insurance - Buildings & Improvements,8470D,2025-02-01,3086.0,seasonal_naive
+Insurance - Buildings & Improvements,8470D,2025-03-01,3088.0,seasonal_naive
+Insurance - Buildings & Improvements,8471D,2025-01-01,1179.0,seasonal_naive
+Insurance - Buildings & Improvements,8471D,2025-02-01,1080.0,seasonal_naive
+Insurance - Buildings & Improvements,8471D,2025-03-01,1081.0,seasonal_naive
+Insurance - Buildings & Improvements,8472D,2025-01-01,505.0,seasonal_naive
+Insurance - Buildings & Improvements,8472D,2025-02-01,463.0,seasonal_naive
+Insurance - Buildings & Improvements,8472D,2025-03-01,463.0,seasonal_naive
+Insurance - Buildings & Improvements,8473D,2025-01-01,1179.0,seasonal_naive
+Insurance - Buildings & Improvements,8473D,2025-02-01,1080.0,seasonal_naive
+Insurance - Buildings & Improvements,8473D,2025-03-01,1081.0,seasonal_naive
+Insurance - Buildings & Improvements,8474D,2025-01-01,505.0,seasonal_naive
+Insurance - Buildings & Improvements,8474D,2025-02-01,463.0,seasonal_naive
+Insurance - Buildings & Improvements,8474D,2025-03-01,463.0,seasonal_naive
+Insurance - Buildings & Improvements,8475D,2025-01-01,0.0,naive
+Insurance - Buildings & Improvements,8475D,2025-02-01,0.0,naive
+Insurance - Buildings & Improvements,8475D,2025-03-01,0.0,naive
+Insurance - Other,8390D,2025-01-01,0.0,naive
+Insurance - Other,8390D,2025-02-01,0.0,naive
+Insurance - Other,8390D,2025-03-01,0.0,naive
+Insurance - Other,8391D,2025-01-01,0.0,naive
+Insurance - Other,8391D,2025-02-01,0.0,naive
+Insurance - Other,8391D,2025-03-01,0.0,naive
+Insurance - Other,8392D,2025-01-01,0.0,naive
+Insurance - Other,8392D,2025-02-01,0.0,naive
+Insurance - Other,8392D,2025-03-01,0.0,naive
+Insurance - Other,8393D,2025-01-01,0.0,naive
+Insurance - Other,8393D,2025-02-01,0.0,naive
+Insurance - Other,8393D,2025-03-01,0.0,naive
+Insurance - Other,8394D,2025-01-01,0.0,naive
+Insurance - Other,8394D,2025-02-01,0.0,naive
+Insurance - Other,8394D,2025-03-01,0.0,naive
+Insurance - Other,8395D,2025-01-01,0.0,naive
+Insurance - Other,8395D,2025-02-01,0.0,naive
+Insurance - Other,8395D,2025-03-01,0.0,naive
+Insurance Income (CPO),3702G,2025-01-01,0.0,naive
+Insurance Income (CPO),3702G,2025-02-01,0.0,naive
+Insurance Income (CPO),3702G,2025-03-01,0.0,naive
+Insurance Income (CPO),3702S,2025-01-01,0.0,naive
+Insurance Income (CPO),3702S,2025-02-01,0.0,naive
+Insurance Income (CPO),3702S,2025-03-01,0.0,naive
+Insurance Income (CPO),3702U,2025-01-01,0.0,naive
+Insurance Income (CPO),3702U,2025-02-01,0.0,naive
+Insurance Income (CPO),3702U,2025-03-01,0.0,naive
+Insurance Income (Non CPO),3706G,2025-01-01,0.0,naive
+Insurance Income (Non CPO),3706G,2025-02-01,0.0,naive
+Insurance Income (Non CPO),3706G,2025-03-01,0.0,naive
+Insurance Income (Non CPO),3706S,2025-01-01,0.0,naive
+Insurance Income (Non CPO),3706S,2025-02-01,0.0,naive
+Insurance Income (Non CPO),3706S,2025-03-01,0.0,naive
+Insurance Income (Non CPO),3706U,2025-01-01,0.0,naive
+Insurance Income (Non CPO),3706U,2025-02-01,0.0,naive
+Insurance Income (Non CPO),3706U,2025-03-01,0.0,naive
+Insurance Income (Other Makes),3713G,2025-01-01,0.0,naive
+Insurance Income (Other Makes),3713G,2025-02-01,0.0,naive
+Insurance Income (Other Makes),3713G,2025-03-01,0.0,naive
+Insurance Income (Other Makes),3713S,2025-01-01,0.0,naive
+Insurance Income (Other Makes),3713S,2025-02-01,0.0,naive
+Insurance Income (Other Makes),3713S,2025-03-01,0.0,naive
+Insurance Income (Other Makes),3713U,2025-01-01,0.0,naive
+Insurance Income (Other Makes),3713U,2025-02-01,0.0,naive
+Insurance Income (Other Makes),3713U,2025-03-01,0.0,naive
+Insurance Income - New,3341G,2025-01-01,11425.0,moving_avg
+Insurance Income - New,3341G,2025-02-01,11425.0,moving_avg
+Insurance Income - New,3341G,2025-03-01,11425.0,moving_avg
+Insurance Income - New,3341S,2025-01-01,15288.333333333334,moving_avg
+Insurance Income - New,3341S,2025-02-01,15288.333333333334,moving_avg
+Insurance Income - New,3341S,2025-03-01,15288.333333333334,moving_avg
+Insurance Income - New,3341U,2025-01-01,5.666666666666667,moving_avg
+Insurance Income - New,3341U,2025-02-01,5.666666666666667,moving_avg
+Insurance Income - New,3341U,2025-03-01,5.666666666666667,moving_avg
+Insurance Payable,2220D,2025-01-01,0.0,naive
+Insurance Payable,2220D,2025-02-01,0.0,naive
+Insurance Payable,2220D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8480D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8480D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8480D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8481D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8481D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8481D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8482D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8482D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8482D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8483D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8483D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8483D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8484D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8484D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8484D,2025-03-01,0.0,naive
+Interest - Real Estate - Mortgage,8485D,2025-01-01,0.0,naive
+Interest - Real Estate - Mortgage,8485D,2025-02-01,0.0,naive
+Interest - Real Estate - Mortgage,8485D,2025-03-01,0.0,naive
+Interest Payable,2200D,2025-01-01,0.0,naive
+Interest Payable,2200D,2025-02-01,0.0,naive
+Interest Payable,2200D,2025-03-01,0.0,naive
+Internal Body Shop Labour,5430G,2025-01-01,0.0,naive
+Internal Body Shop Labour,5430G,2025-02-01,0.0,naive
+Internal Body Shop Labour,5430G,2025-03-01,0.0,naive
+Internal Body Shop Labour,5430S,2025-01-01,0.0,naive
+Internal Body Shop Labour,5430S,2025-02-01,0.0,naive
+Internal Body Shop Labour,5430S,2025-03-01,0.0,naive
+Internal Body Shop Labour,5430U,2025-01-01,0.0,naive
+Internal Body Shop Labour,5430U,2025-02-01,0.0,naive
+Internal Body Shop Labour,5430U,2025-03-01,0.0,naive
+Internal Hours Sold ,50015SD,2025-01-01,215.0,naive
+Internal Hours Sold ,50015SD,2025-02-01,215.0,naive
+Internal Hours Sold ,50015SD,2025-03-01,215.0,naive
+Internal Labour Rate,5080D,2025-01-01,135.0,naive
+Internal Labour Rate,5080D,2025-02-01,135.0,naive
+Internal Labour Rate,5080D,2025-03-01,135.0,naive
+Internal Labour Rate,5081D,2025-01-01,0.0,naive
+Internal Labour Rate,5081D,2025-02-01,0.0,naive
+Internal Labour Rate,5081D,2025-03-01,0.0,naive
+Internal Mechanical Labour,5080G,2025-01-01,19059.333333333332,moving_avg
+Internal Mechanical Labour,5080G,2025-02-01,19059.333333333332,moving_avg
+Internal Mechanical Labour,5080G,2025-03-01,19059.333333333332,moving_avg
+Internal Mechanical Labour,5080S,2025-01-01,26013.666666666668,moving_avg
+Internal Mechanical Labour,5080S,2025-02-01,26013.666666666668,moving_avg
+Internal Mechanical Labour,5080S,2025-03-01,26013.666666666668,moving_avg
+Internal Mechanical Labour,5080U,2025-01-01,134.66666666666666,moving_avg
+Internal Mechanical Labour,5080U,2025-02-01,134.66666666666666,moving_avg
+Internal Mechanical Labour,5080U,2025-03-01,134.66666666666666,moving_avg
+Internal Mechanical Labour,5200S,2025-01-01,18288.0,seasonal_naive
+Internal Mechanical Labour,5200S,2025-02-01,13453.0,seasonal_naive
+Internal Mechanical Labour,5200S,2025-03-01,12922.0,seasonal_naive
+Internal P&A RO,5261G,2025-01-01,7365.333333333333,moving_avg
+Internal P&A RO,5261G,2025-02-01,7365.333333333333,moving_avg
+Internal P&A RO,5261G,2025-03-01,7365.333333333333,moving_avg
+Internal P&A RO,5261S,2025-01-01,24525.333333333332,moving_avg
+Internal P&A RO,5261S,2025-02-01,24525.333333333332,moving_avg
+Internal P&A RO,5261S,2025-03-01,24525.333333333332,moving_avg
+Internal P&A RO,5261U,2025-01-01,0.0,naive
+Internal P&A RO,5261U,2025-02-01,0.0,naive
+Internal P&A RO,5261U,2025-03-01,0.0,naive
+Investments,2550D,2025-01-01,0.0,naive
+Investments,2550D,2025-02-01,0.0,naive
+Investments,2550D,2025-03-01,0.0,naive
+JAN.,391AU,2025-01-01,19.0,naive
+JAN.,391AU,2025-02-01,19.0,naive
+JAN.,391AU,2025-03-01,19.0,naive
+JAN.,392AU,2025-01-01,0.0,naive
+JAN.,392AU,2025-02-01,0.0,naive
+JAN.,392AU,2025-03-01,0.0,naive
+JAN.,395AU,2025-01-01,19.0,naive
+JAN.,395AU,2025-02-01,19.0,naive
+JAN.,395AU,2025-03-01,19.0,naive
+JAN.,396AD,2025-01-01,21678.0,moving_avg
+JAN.,396AD,2025-02-01,21678.0,moving_avg
+JAN.,396AD,2025-03-01,21678.0,moving_avg
+JAN.,396AU,2025-01-01,0.0,naive
+JAN.,396AU,2025-02-01,0.0,naive
+JAN.,396AU,2025-03-01,0.0,naive
+JUL.,391GU,2025-01-01,0.0,seasonal_naive
+JUL.,391GU,2025-02-01,0.0,seasonal_naive
+JUL.,391GU,2025-03-01,0.0,seasonal_naive
+JUL.,392GU,2025-01-01,0.0,naive
+JUL.,392GU,2025-02-01,0.0,naive
+JUL.,392GU,2025-03-01,0.0,naive
+JUL.,395GU,2025-01-01,0.0,seasonal_naive
+JUL.,395GU,2025-02-01,0.0,seasonal_naive
+JUL.,395GU,2025-03-01,0.0,seasonal_naive
+JUL.,396GD,2025-01-01,0.0,seasonal_naive
+JUL.,396GD,2025-02-01,0.0,seasonal_naive
+JUL.,396GD,2025-03-01,0.0,seasonal_naive
+JUL.,396GU,2025-01-01,0.0,naive
+JUL.,396GU,2025-02-01,0.0,naive
+JUL.,396GU,2025-03-01,0.0,naive
+JUN.,391FU,2025-01-01,0.0,seasonal_naive
+JUN.,391FU,2025-02-01,0.0,seasonal_naive
+JUN.,391FU,2025-03-01,0.0,seasonal_naive
+JUN.,392FU,2025-01-01,0.0,naive
+JUN.,392FU,2025-02-01,0.0,naive
+JUN.,392FU,2025-03-01,0.0,naive
+JUN.,395FU,2025-01-01,0.0,seasonal_naive
+JUN.,395FU,2025-02-01,0.0,seasonal_naive
+JUN.,395FU,2025-03-01,0.0,seasonal_naive
+JUN.,396FD,2025-01-01,0.0,seasonal_naive
+JUN.,396FD,2025-02-01,0.0,seasonal_naive
+JUN.,396FD,2025-03-01,0.0,seasonal_naive
+JUN.,396FU,2025-01-01,0.0,naive
+JUN.,396FU,2025-02-01,0.0,naive
+JUN.,396FU,2025-03-01,0.0,naive
+Land - Auto Bus Only,11750D,2025-01-01,0.0,naive
+Land - Auto Bus Only,11750D,2025-02-01,0.0,naive
+Land - Auto Bus Only,11750D,2025-03-01,0.0,naive
+Land - Auto Bus Only,1750D,2025-01-01,0.0,naive
+Land - Auto Bus Only,1750D,2025-02-01,0.0,naive
+Land - Auto Bus Only,1750D,2025-03-01,0.0,naive
+Laundry & Uniforms,8150D,2025-01-01,917.6666666666666,moving_avg
+Laundry & Uniforms,8150D,2025-02-01,917.6666666666666,moving_avg
+Laundry & Uniforms,8150D,2025-03-01,917.6666666666666,moving_avg
+Laundry & Uniforms,8151D,2025-01-01,0.0,naive
+Laundry & Uniforms,8151D,2025-02-01,0.0,naive
+Laundry & Uniforms,8151D,2025-03-01,0.0,naive
+Laundry & Uniforms,8152D,2025-01-01,0.0,naive
+Laundry & Uniforms,8152D,2025-02-01,0.0,naive
+Laundry & Uniforms,8152D,2025-03-01,0.0,naive
+Laundry & Uniforms ,8153D,2025-01-01,917.6666666666666,moving_avg
+Laundry & Uniforms ,8153D,2025-02-01,917.6666666666666,moving_avg
+Laundry & Uniforms ,8153D,2025-03-01,917.6666666666666,moving_avg
+Laundry & Uniforms ,8154D,2025-01-01,0.0,naive
+Laundry & Uniforms ,8154D,2025-02-01,0.0,naive
+Laundry & Uniforms ,8154D,2025-03-01,0.0,naive
+Laundry & Uniforms ,8155D,2025-01-01,0.0,naive
+Laundry & Uniforms ,8155D,2025-02-01,0.0,naive
+Laundry & Uniforms ,8155D,2025-03-01,0.0,naive
+Lease & Rental Expenses,9102D,2025-01-01,0.0,naive
+Lease & Rental Expenses,9102D,2025-02-01,0.0,naive
+Lease & Rental Expenses,9102D,2025-03-01,0.0,naive
+Lease & Rental Income,9101D,2025-01-01,8000.0,moving_avg
+Lease & Rental Income,9101D,2025-02-01,8000.0,moving_avg
+Lease & Rental Income,9101D,2025-03-01,8000.0,moving_avg
+Lease Buyout,3510G,2025-01-01,0.0,naive
+Lease Buyout,3510G,2025-02-01,0.0,naive
+Lease Buyout,3510G,2025-03-01,0.0,naive
+Lease Buyout,3510S,2025-01-01,0.0,naive
+Lease Buyout,3510S,2025-02-01,0.0,naive
+Lease Buyout,3510S,2025-03-01,0.0,naive
+Lease Buyout,3510U,2025-01-01,0.0,naive
+Lease Buyout,3510U,2025-02-01,0.0,naive
+Lease Buyout,3510U,2025-03-01,0.0,naive
+Lease Vehicles,1680D,2025-01-01,0.0,naive
+Lease Vehicles,1680D,2025-02-01,0.0,naive
+Lease Vehicles,1680D,2025-03-01,0.0,naive
+Leasehold,1870D,2025-01-01,64000.0,naive
+Leasehold,1870D,2025-02-01,64000.0,naive
+Leasehold,1870D,2025-03-01,64000.0,naive
+Leasehold,1880D,2025-01-01,0.0,naive
+Leasehold,1880D,2025-02-01,0.0,naive
+Leasehold,1880D,2025-03-01,0.0,naive
+Leasehold ,11870D,2025-01-01,64000.0,naive
+Leasehold ,11870D,2025-02-01,64000.0,naive
+Leasehold ,11870D,2025-03-01,64000.0,naive
+Legal & Auditing,8350D,2025-01-01,0.0,seasonal_naive
+Legal & Auditing,8350D,2025-02-01,10000.0,seasonal_naive
+Legal & Auditing,8350D,2025-03-01,0.0,seasonal_naive
+Legal & Auditing,8351D,2025-01-01,0.0,seasonal_naive
+Legal & Auditing,8351D,2025-02-01,3500.0,seasonal_naive
+Legal & Auditing,8351D,2025-03-01,0.0,seasonal_naive
+Legal & Auditing,8352D,2025-01-01,0.0,seasonal_naive
+Legal & Auditing,8352D,2025-02-01,1500.0,seasonal_naive
+Legal & Auditing,8352D,2025-03-01,0.0,seasonal_naive
+Legal & Auditing,8353D,2025-01-01,0.0,seasonal_naive
+Legal & Auditing,8353D,2025-02-01,3500.0,seasonal_naive
+Legal & Auditing,8353D,2025-03-01,0.0,seasonal_naive
+Legal & Auditing,8354D,2025-01-01,0.0,seasonal_naive
+Legal & Auditing,8354D,2025-02-01,1500.0,seasonal_naive
+Legal & Auditing,8354D,2025-03-01,0.0,seasonal_naive
+Legal & Auditing,8355D,2025-01-01,0.0,naive
+Legal & Auditing,8355D,2025-02-01,0.0,naive
+Legal & Auditing,8355D,2025-03-01,0.0,naive
+Less: Charge Backs - New,4400G,2025-01-01,0.0,naive
+Less: Charge Backs - New,4400G,2025-02-01,0.0,naive
+Less: Charge Backs - New,4400G,2025-03-01,0.0,naive
+Less: Charge Backs - Used,4750G,2025-01-01,0.0,naive
+Less: Charge Backs - Used,4750G,2025-02-01,0.0,naive
+Less: Charge Backs - Used,4750G,2025-03-01,0.0,naive
+Life Insurance - Cash Value,1900D,2025-01-01,0.0,naive
+Life Insurance - Cash Value,1900D,2025-02-01,0.0,naive
+Life Insurance - Cash Value,1900D,2025-03-01,0.0,naive
+Liquidity in Dollars,6032DZ,2025-01-01,0.0,naive
+Liquidity in Dollars,6032DZ,2025-02-01,0.0,naive
+Liquidity in Dollars,6032DZ,2025-03-01,0.0,naive
+Liquidity in Dollars,6043DZ,2025-01-01,-7283942.0,seasonal_naive
+Liquidity in Dollars,6043DZ,2025-02-01,-486001.0,seasonal_naive
+Liquidity in Dollars,6043DZ,2025-03-01,-105457.0,seasonal_naive
+Loss on Disposal of Assets,9051D,2025-01-01,0.0,naive
+Loss on Disposal of Assets,9051D,2025-02-01,0.0,naive
+Loss on Disposal of Assets,9051D,2025-03-01,0.0,naive
+MAR.,391CU,2025-01-01,0.0,seasonal_naive
+MAR.,391CU,2025-02-01,0.0,seasonal_naive
+MAR.,391CU,2025-03-01,18.0,seasonal_naive
+MAR.,392CU,2025-01-01,0.0,naive
+MAR.,392CU,2025-02-01,0.0,naive
+MAR.,392CU,2025-03-01,0.0,naive
+MAR.,395CU,2025-01-01,0.0,seasonal_naive
+MAR.,395CU,2025-02-01,0.0,seasonal_naive
+MAR.,395CU,2025-03-01,25.0,seasonal_naive
+MAR.,396CD,2025-01-01,0.0,seasonal_naive
+MAR.,396CD,2025-02-01,0.0,seasonal_naive
+MAR.,396CD,2025-03-01,3210.0,seasonal_naive
+MAR.,396CU,2025-01-01,0.0,naive
+MAR.,396CU,2025-02-01,0.0,naive
+MAR.,396CU,2025-03-01,0.0,naive
+MAY,391EU,2025-01-01,0.0,seasonal_naive
+MAY,391EU,2025-02-01,0.0,seasonal_naive
+MAY,391EU,2025-03-01,0.0,seasonal_naive
+MAY,392EU,2025-01-01,0.0,naive
+MAY,392EU,2025-02-01,0.0,naive
+MAY,392EU,2025-03-01,0.0,naive
+MAY,395EU,2025-01-01,0.0,seasonal_naive
+MAY,395EU,2025-02-01,0.0,seasonal_naive
+MAY,395EU,2025-03-01,0.0,seasonal_naive
+MAY,396ED,2025-01-01,0.0,seasonal_naive
+MAY,396ED,2025-02-01,0.0,seasonal_naive
+MAY,396ED,2025-03-01,0.0,seasonal_naive
+MAY,396EU,2025-01-01,0.0,naive
+MAY,396EU,2025-02-01,0.0,naive
+MAY,396EU,2025-03-01,0.0,naive
+Manager(s),0961P,2025-01-01,1.0,naive
+Manager(s),0961P,2025-02-01,1.0,naive
+Manager(s),0961P,2025-03-01,1.0,naive
+Manager(s),0968P,2025-01-01,1.0,naive
+Manager(s),0968P,2025-02-01,1.0,naive
+Manager(s),0968P,2025-03-01,1.0,naive
+Manager(s),0975P,2025-01-01,1.0,naive
+Manager(s),0975P,2025-02-01,1.0,naive
+Manager(s),0975P,2025-03-01,1.0,naive
+Manager(s),0982P,2025-01-01,1.0,naive
+Manager(s),0982P,2025-02-01,1.0,naive
+Manager(s),0982P,2025-03-01,1.0,naive
+Manager(s),0989P,2025-01-01,0.0,naive
+Manager(s),0989P,2025-02-01,0.0,naive
+Manager(s),0989P,2025-03-01,0.0,naive
+Manager(s),510P,2025-01-01,4.0,naive
+Manager(s),510P,2025-02-01,4.0,naive
+Manager(s),510P,2025-03-01,4.0,naive
+"Membership, Dues, Publications",8310D,2025-01-01,698.0,seasonal_naive
+"Membership, Dues, Publications",8310D,2025-02-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8310D,2025-03-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8311D,2025-01-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8311D,2025-02-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8311D,2025-03-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8312D,2025-01-01,698.0,seasonal_naive
+"Membership, Dues, Publications",8312D,2025-02-01,0.0,seasonal_naive
+"Membership, Dues, Publications",8312D,2025-03-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8313D,2025-01-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8313D,2025-02-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8313D,2025-03-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8314D,2025-01-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8314D,2025-02-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8314D,2025-03-01,0.0,seasonal_naive
+"Membership, Dues, Publications ",8315D,2025-01-01,0.0,naive
+"Membership, Dues, Publications ",8315D,2025-02-01,0.0,naive
+"Membership, Dues, Publications ",8315D,2025-03-01,0.0,naive
+Mirage (5-Door),3025G,2025-01-01,2361.0,seasonal_naive
+Mirage (5-Door),3025G,2025-02-01,3734.0,seasonal_naive
+Mirage (5-Door),3025G,2025-03-01,0.0,seasonal_naive
+Mirage (5-Door),3025S,2025-01-01,43305.0,seasonal_naive
+Mirage (5-Door),3025S,2025-02-01,23917.0,seasonal_naive
+Mirage (5-Door),3025S,2025-03-01,0.0,seasonal_naive
+Mirage (5-Door),3025U,2025-01-01,2.0,seasonal_naive
+Mirage (5-Door),3025U,2025-02-01,1.0,seasonal_naive
+Mirage (5-Door),3025U,2025-03-01,0.0,seasonal_naive
+Miscellaneous,8410D,2025-01-01,8395.333333333334,moving_avg
+Miscellaneous,8410D,2025-02-01,8395.333333333334,moving_avg
+Miscellaneous,8410D,2025-03-01,8395.333333333334,moving_avg
+Miscellaneous,8411D,2025-01-01,3203.0,naive
+Miscellaneous,8411D,2025-02-01,3203.0,naive
+Miscellaneous,8411D,2025-03-01,3203.0,naive
+Miscellaneous,8412D,2025-01-01,100.0,seasonal_naive
+Miscellaneous,8412D,2025-02-01,120.0,seasonal_naive
+Miscellaneous,8412D,2025-03-01,663.0,seasonal_naive
+Miscellaneous ,8413D,2025-01-01,122.0,seasonal_naive
+Miscellaneous ,8413D,2025-02-01,280.0,seasonal_naive
+Miscellaneous ,8413D,2025-03-01,1612.0,seasonal_naive
+Miscellaneous ,8414D,2025-01-01,0.0,seasonal_naive
+Miscellaneous ,8414D,2025-02-01,188.0,seasonal_naive
+Miscellaneous ,8414D,2025-03-01,815.0,seasonal_naive
+Miscellaneous ,8415D,2025-01-01,0.0,naive
+Miscellaneous ,8415D,2025-02-01,0.0,naive
+Miscellaneous ,8415D,2025-03-01,0.0,naive
+Miscellaneous Assets,1571D,2025-01-01,0.0,naive
+Miscellaneous Assets,1571D,2025-02-01,0.0,naive
+Miscellaneous Assets,1571D,2025-03-01,0.0,naive
+Miscellaneous Deductions,9222D,2025-01-01,0.0,naive
+Miscellaneous Deductions,9222D,2025-02-01,0.0,naive
+Miscellaneous Deductions,9222D,2025-03-01,0.0,naive
+Miscellaneous Income,9072D,2025-01-01,-40044.0,naive
+Miscellaneous Income,9072D,2025-02-01,-40044.0,naive
+Miscellaneous Income,9072D,2025-03-01,-40044.0,naive
+Missed Appointments,50106SD,2025-01-01,0.0,naive
+Missed Appointments,50106SD,2025-02-01,0.0,naive
+Missed Appointments,50106SD,2025-03-01,0.0,naive
+Missed Service Appointments,50006SD,2025-01-01,0.0,naive
+Missed Service Appointments,50006SD,2025-02-01,0.0,naive
+Missed Service Appointments,50006SD,2025-03-01,0.0,naive
+Mortgages Payable,2430D,2025-01-01,0.0,naive
+Mortgages Payable,2430D,2025-02-01,0.0,naive
+Mortgages Payable,2430D,2025-03-01,0.0,naive
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-01-01,-32044.0,naive
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-02-01,-32044.0,naive
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-03-01,-32044.0,naive
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-01-01,146530.33333333334,moving_avg
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-02-01,146530.33333333334,moving_avg
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-03-01,146530.33333333334,moving_avg
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-01-01,10960.0,naive
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-02-01,10960.0,naive
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-03-01,10960.0,naive
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-01-01,10965.0,naive
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-02-01,10965.0,naive
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-03-01,10965.0,naive
+NET PROFIT OR (LOSS) ,19500D,2025-01-01,10960.0,naive
+NET PROFIT OR (LOSS) ,19500D,2025-02-01,10960.0,naive
+NET PROFIT OR (LOSS) ,19500D,2025-03-01,10960.0,naive
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-01-01,296667.6666666667,moving_avg
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-02-01,296667.6666666667,moving_avg
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-03-01,296667.6666666667,moving_avg
+NOV.,391KU,2025-01-01,0.0,seasonal_naive
+NOV.,391KU,2025-02-01,0.0,seasonal_naive
+NOV.,391KU,2025-03-01,0.0,seasonal_naive
+NOV.,392KU,2025-01-01,0.0,naive
+NOV.,392KU,2025-02-01,0.0,naive
+NOV.,392KU,2025-03-01,0.0,naive
+NOV.,395KU,2025-01-01,0.0,seasonal_naive
+NOV.,395KU,2025-02-01,0.0,seasonal_naive
+NOV.,395KU,2025-03-01,0.0,seasonal_naive
+NOV.,396KD,2025-01-01,0.0,seasonal_naive
+NOV.,396KD,2025-02-01,0.0,seasonal_naive
+NOV.,396KD,2025-03-01,0.0,seasonal_naive
+NOV.,396KU,2025-01-01,0.0,naive
+NOV.,396KU,2025-02-01,0.0,naive
+NOV.,396KU,2025-03-01,0.0,naive
+NV Target,42000T,2025-01-01,0.0,naive
+NV Target,42000T,2025-02-01,0.0,naive
+NV Target,42000T,2025-03-01,0.0,naive
+NV Target,6059DZ,2025-01-01,0.0,naive
+NV Target,6059DZ,2025-02-01,0.0,naive
+NV Target,6059DZ,2025-03-01,0.0,naive
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-01-01,-1.5566666666666666,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-02-01,-1.5566666666666666,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-03-01,-1.5566666666666666,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-01-01,6.666666666666667,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-02-01,6.666666666666667,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-03-01,6.666666666666667,moving_avg
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-01-01,0.0,seasonal_naive
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-02-01,0.25,seasonal_naive
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-03-01,-0.5800000000000001,seasonal_naive
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-01-01,0.0,naive
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-02-01,0.0,naive
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-03-01,0.0,naive
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-01-01,-119121.0,moving_avg
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-02-01,-119121.0,moving_avg
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-03-01,-119121.0,moving_avg
+Net Working Capital Actual,6027DZ,2025-01-01,-83533.0,naive
+Net Working Capital Actual,6027DZ,2025-02-01,-83533.0,naive
+Net Working Capital Actual,6027DZ,2025-03-01,-83533.0,naive
+Net Working Capital Ratio,6030DZ,2025-01-01,-0.0199999999999997,naive
+Net Working Capital Ratio,6030DZ,2025-02-01,-0.0199999999999997,naive
+Net Working Capital Ratio,6030DZ,2025-03-01,-0.0199999999999997,naive
+New / Used Vehicle Inventory Expense,8650D,2025-01-01,0.0,naive
+New / Used Vehicle Inventory Expense,8650D,2025-02-01,0.0,naive
+New / Used Vehicle Inventory Expense,8650D,2025-03-01,0.0,naive
+New / Used Vehicle Inventory Expense,8651D,2025-01-01,0.0,naive
+New / Used Vehicle Inventory Expense,8651D,2025-02-01,0.0,naive
+New / Used Vehicle Inventory Expense,8651D,2025-03-01,0.0,naive
+New / Used Vehicle Inventory Expense,8652D,2025-01-01,0.0,naive
+New / Used Vehicle Inventory Expense,8652D,2025-02-01,0.0,naive
+New / Used Vehicle Inventory Expense,8652D,2025-03-01,0.0,naive
+New Car - Mitsubishi,1400D,2025-01-01,97291.0,naive
+New Car - Mitsubishi,1400D,2025-02-01,97291.0,naive
+New Car - Mitsubishi,1400D,2025-03-01,97291.0,naive
+New SUV - Mitsubishi,1420D,2025-01-01,3976833.0,naive
+New SUV - Mitsubishi,1420D,2025-02-01,3976833.0,naive
+New SUV - Mitsubishi,1420D,2025-03-01,3976833.0,naive
+New Vehicle Department,M17000AD,2025-01-01,215469.33333333334,moving_avg
+New Vehicle Department,M17000AD,2025-02-01,215469.33333333334,moving_avg
+New Vehicle Department,M17000AD,2025-03-01,215469.33333333334,moving_avg
+New Vehicle Department,M18000AD,2025-01-01,-117485.0,moving_avg
+New Vehicle Department,M18000AD,2025-02-01,-117485.0,moving_avg
+New Vehicle Department,M18000AD,2025-03-01,-117485.0,moving_avg
+New Vehicle Department,M43500XG,2025-01-01,97984.33333333333,moving_avg
+New Vehicle Department,M43500XG,2025-02-01,97984.33333333333,moving_avg
+New Vehicle Department,M43500XG,2025-03-01,97984.33333333333,moving_avg
+New Vehicles - Mitsubishi,2100D,2025-01-01,4674565.0,naive
+New Vehicles - Mitsubishi,2100D,2025-02-01,4674565.0,naive
+New Vehicles - Mitsubishi,2100D,2025-03-01,4674565.0,naive
+New Vehicles - Other Makes ,1430D,2025-01-01,0.0,naive
+New Vehicles - Other Makes ,1430D,2025-02-01,0.0,naive
+New Vehicles - Other Makes ,1430D,2025-03-01,0.0,naive
+Non-Automotive Inventory,1572D,2025-01-01,0.0,naive
+Non-Automotive Inventory,1572D,2025-02-01,0.0,naive
+Non-Automotive Inventory,1572D,2025-03-01,0.0,naive
+Non-Productive / Other,50103SD,2025-01-01,0.0,naive
+Non-Productive / Other,50103SD,2025-02-01,0.0,naive
+Non-Productive / Other,50103SD,2025-03-01,0.0,naive
+Non-Productive / Other,50103SDY,2025-01-01,0.0,naive
+Non-Productive / Other,50103SDY,2025-02-01,0.0,naive
+Non-Productive / Other,50103SDY,2025-03-01,0.0,naive
+Non-Productive / Other ,50003SD,2025-01-01,1.0,seasonal_naive
+Non-Productive / Other ,50003SD,2025-02-01,1.0,seasonal_naive
+Non-Productive / Other ,50003SD,2025-03-01,1.0,seasonal_naive
+Non-Productive / Other ,50003SDY,2025-01-01,10.666666666666666,moving_avg
+Non-Productive / Other ,50003SDY,2025-02-01,10.666666666666666,moving_avg
+Non-Productive / Other ,50003SDY,2025-03-01,10.666666666666666,moving_avg
+Notes Payable - Capital Loans,2410D,2025-01-01,625000.0,naive
+Notes Payable - Capital Loans,2410D,2025-02-01,625000.0,naive
+Notes Payable - Capital Loans,2410D,2025-03-01,625000.0,naive
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-01-01,0.0,naive
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-02-01,0.0,naive
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-03-01,0.0,naive
+OCT.,391JU,2025-01-01,0.0,seasonal_naive
+OCT.,391JU,2025-02-01,0.0,seasonal_naive
+OCT.,391JU,2025-03-01,0.0,seasonal_naive
+OCT.,392JU,2025-01-01,0.0,naive
+OCT.,392JU,2025-02-01,0.0,naive
+OCT.,392JU,2025-03-01,0.0,naive
+OCT.,395JU,2025-01-01,0.0,seasonal_naive
+OCT.,395JU,2025-02-01,0.0,seasonal_naive
+OCT.,395JU,2025-03-01,0.0,seasonal_naive
+OCT.,396JD,2025-01-01,0.0,seasonal_naive
+OCT.,396JD,2025-02-01,0.0,seasonal_naive
+OCT.,396JD,2025-03-01,0.0,seasonal_naive
+OCT.,396JU,2025-01-01,0.0,naive
+OCT.,396JU,2025-02-01,0.0,naive
+OCT.,396JU,2025-03-01,0.0,naive
+OVER 30 Day,1100DOT,2025-01-01,0.0,naive
+OVER 30 Day,1100DOT,2025-02-01,0.0,naive
+OVER 30 Day,1100DOT,2025-03-01,0.0,naive
+Occupancy as a % of Company GP,6031DZ,2025-01-01,-5.24666666666667,moving_avg
+Occupancy as a % of Company GP,6031DZ,2025-02-01,-5.24666666666667,moving_avg
+Occupancy as a % of Company GP,6031DZ,2025-03-01,-5.24666666666667,moving_avg
+Occupancy as a % of Company GP,6042DZ,2025-01-01,106.33,seasonal_naive
+Occupancy as a % of Company GP,6042DZ,2025-02-01,-11.789999999999992,seasonal_naive
+Occupancy as a % of Company GP,6042DZ,2025-03-01,-6.450000000000003,seasonal_naive
+Occupancy as a % of Company GP,6053DZ,2025-01-01,0.0,seasonal_naive
+Occupancy as a % of Company GP,6053DZ,2025-02-01,-11.8,seasonal_naive
+Occupancy as a % of Company GP,6053DZ,2025-03-01,-1.3599999999999994,seasonal_naive
+Office Supplies & Stationery,8200D,2025-01-01,575.6666666666666,moving_avg
+Office Supplies & Stationery,8200D,2025-02-01,575.6666666666666,moving_avg
+Office Supplies & Stationery,8200D,2025-03-01,575.6666666666666,moving_avg
+Office Supplies & Stationery,8201D,2025-01-01,198.0,moving_avg
+Office Supplies & Stationery,8201D,2025-02-01,198.0,moving_avg
+Office Supplies & Stationery,8201D,2025-03-01,198.0,moving_avg
+Office Supplies & Stationery,8202D,2025-01-01,161.0,moving_avg
+Office Supplies & Stationery,8202D,2025-02-01,161.0,moving_avg
+Office Supplies & Stationery,8202D,2025-03-01,161.0,moving_avg
+Office Supplies & Stationery,8203D,2025-01-01,414.0,seasonal_naive
+Office Supplies & Stationery,8203D,2025-02-01,524.0,seasonal_naive
+Office Supplies & Stationery,8203D,2025-03-01,228.0,seasonal_naive
+Office Supplies & Stationery,8204D,2025-01-01,35.0,moving_avg
+Office Supplies & Stationery,8204D,2025-02-01,35.0,moving_avg
+Office Supplies & Stationery,8204D,2025-03-01,35.0,moving_avg
+Office Supplies & Stationery,8205D,2025-01-01,0.0,naive
+Office Supplies & Stationery,8205D,2025-02-01,0.0,naive
+Office Supplies & Stationery,8205D,2025-03-01,0.0,naive
+Other,11890D,2025-01-01,37811.0,naive
+Other,11890D,2025-02-01,37811.0,naive
+Other,11890D,2025-03-01,37811.0,naive
+Other,1730D,2025-01-01,4822.0,naive
+Other,1730D,2025-02-01,4822.0,naive
+Other,1730D,2025-03-01,4822.0,naive
+Other,1890D,2025-01-01,42633.0,naive
+Other,1890D,2025-02-01,42633.0,naive
+Other,1890D,2025-03-01,42633.0,naive
+Other Expenses Payable,2300D,2025-01-01,78873.0,naive
+Other Expenses Payable,2300D,2025-02-01,78873.0,naive
+Other Expenses Payable,2300D,2025-03-01,78873.0,naive
+Other Ext. Warranty - New,3281G,2025-01-01,28543.333333333332,moving_avg
+Other Ext. Warranty - New,3281G,2025-02-01,28543.333333333332,moving_avg
+Other Ext. Warranty - New,3281G,2025-03-01,28543.333333333332,moving_avg
+Other Ext. Warranty - New,3281S,2025-01-01,44676.0,moving_avg
+Other Ext. Warranty - New,3281S,2025-02-01,44676.0,moving_avg
+Other Ext. Warranty - New,3281S,2025-03-01,44676.0,moving_avg
+Other Ext. Warranty - New,3281U,2025-01-01,23.333333333333332,moving_avg
+Other Ext. Warranty - New,3281U,2025-02-01,23.333333333333332,moving_avg
+Other Ext. Warranty - New,3281U,2025-03-01,23.333333333333332,moving_avg
+Other F & I - New,3282G,2025-01-01,5713.0,moving_avg
+Other F & I - New,3282G,2025-02-01,5713.0,moving_avg
+Other F & I - New,3282G,2025-03-01,5713.0,moving_avg
+Other F & I - New,3282S,2025-01-01,3700.0,naive
+Other F & I - New,3282S,2025-02-01,3700.0,naive
+Other F & I - New,3282S,2025-03-01,3700.0,naive
+Other F & I - New,3282U,2025-01-01,18.333333333333332,moving_avg
+Other F & I - New,3282U,2025-02-01,18.333333333333332,moving_avg
+Other F & I - New,3282U,2025-03-01,18.333333333333332,moving_avg
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-01-01,74500.0,naive
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-02-01,74500.0,naive
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-03-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-01-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-02-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-03-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-01-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-02-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-03-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-01-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-02-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-03-01,74500.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-01-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-02-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-03-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-01-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-02-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-03-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-01-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-02-01,0.0,naive
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-03-01,0.0,naive
+Other MMSCAN Program Expense,9502D,2025-01-01,0.0,naive
+Other MMSCAN Program Expense,9502D,2025-02-01,0.0,naive
+Other MMSCAN Program Expense,9502D,2025-03-01,0.0,naive
+Other MMSCAN Program Income,9501D,2025-01-01,0.0,naive
+Other MMSCAN Program Income,9501D,2025-02-01,0.0,naive
+Other MMSCAN Program Income,9501D,2025-03-01,0.0,naive
+Other Mechanical Labour,5015G,2025-01-01,0.0,naive
+Other Mechanical Labour,5015G,2025-02-01,0.0,naive
+Other Mechanical Labour,5015G,2025-03-01,0.0,naive
+Other Mechanical Labour,5015S,2025-01-01,0.0,naive
+Other Mechanical Labour,5015S,2025-02-01,0.0,naive
+Other Mechanical Labour,5015S,2025-03-01,0.0,naive
+Other Mechanical Labour,5015U,2025-01-01,0.0,naive
+Other Mechanical Labour,5015U,2025-02-01,0.0,naive
+Other Mechanical Labour,5015U,2025-03-01,0.0,naive
+Other Non-Automotive Assets,1990D,2025-01-01,200003.0,naive
+Other Non-Automotive Assets,1990D,2025-02-01,200003.0,naive
+Other Non-Automotive Assets,1990D,2025-03-01,200003.0,naive
+Other Notes / Accounts Receivable,1950D,2025-01-01,0.0,naive
+Other Notes / Accounts Receivable,1950D,2025-02-01,0.0,naive
+Other Notes / Accounts Receivable,1950D,2025-03-01,0.0,naive
+Other Notes and Contracts Payable,2420D,2025-01-01,1580394.0,naive
+Other Notes and Contracts Payable,2420D,2025-02-01,1580394.0,naive
+Other Notes and Contracts Payable,2420D,2025-03-01,1580394.0,naive
+Other P&A,5710G,2025-01-01,110.0,naive
+Other P&A,5710G,2025-02-01,110.0,naive
+Other P&A,5710G,2025-03-01,110.0,naive
+Other P&A,5710S,2025-01-01,676.0,naive
+Other P&A,5710S,2025-02-01,676.0,naive
+Other P&A,5710S,2025-03-01,676.0,naive
+Other P&A,5710U,2025-01-01,0.0,naive
+Other P&A,5710U,2025-02-01,0.0,naive
+Other P&A,5710U,2025-03-01,0.0,naive
+Other Salaries & Wages,8630D,2025-01-01,22755.0,seasonal_naive
+Other Salaries & Wages,8630D,2025-02-01,-14111.0,seasonal_naive
+Other Salaries & Wages,8630D,2025-03-01,6551.0,seasonal_naive
+Other Salaries & Wages,8631D,2025-01-01,1300.0,seasonal_naive
+Other Salaries & Wages,8631D,2025-02-01,-10006.0,seasonal_naive
+Other Salaries & Wages,8631D,2025-03-01,448.0,seasonal_naive
+Other Salaries & Wages,8632D,2025-01-01,1300.0,seasonal_naive
+Other Salaries & Wages,8632D,2025-02-01,-3566.0,seasonal_naive
+Other Salaries & Wages,8632D,2025-03-01,448.0,seasonal_naive
+Other Salaries & Wages,8633D,2025-01-01,8653.0,seasonal_naive
+Other Salaries & Wages,8633D,2025-02-01,-3461.0,seasonal_naive
+Other Salaries & Wages,8633D,2025-03-01,1732.0,seasonal_naive
+Other Salaries & Wages,8634D,2025-01-01,776.0,naive
+Other Salaries & Wages,8634D,2025-02-01,776.0,naive
+Other Salaries & Wages,8634D,2025-03-01,776.0,naive
+Other Salaries & Wages,8635D,2025-01-01,0.0,naive
+Other Salaries & Wages,8635D,2025-02-01,0.0,naive
+Other Salaries & Wages,8635D,2025-03-01,0.0,naive
+Other Supplies & Tools,8210D,2025-01-01,2240.3333333333335,moving_avg
+Other Supplies & Tools,8210D,2025-02-01,2240.3333333333335,moving_avg
+Other Supplies & Tools,8210D,2025-03-01,2240.3333333333335,moving_avg
+Other Supplies & Tools,8211D,2025-01-01,1100.0,naive
+Other Supplies & Tools,8211D,2025-02-01,1100.0,naive
+Other Supplies & Tools,8211D,2025-03-01,1100.0,naive
+Other Supplies & Tools,8212D,2025-01-01,0.0,naive
+Other Supplies & Tools,8212D,2025-02-01,0.0,naive
+Other Supplies & Tools,8212D,2025-03-01,0.0,naive
+Other Supplies & Tools,8213D,2025-01-01,1243.3333333333333,moving_avg
+Other Supplies & Tools,8213D,2025-02-01,1243.3333333333333,moving_avg
+Other Supplies & Tools,8213D,2025-03-01,1243.3333333333333,moving_avg
+Other Supplies & Tools,8214D,2025-01-01,534.6666666666666,moving_avg
+Other Supplies & Tools,8214D,2025-02-01,534.6666666666666,moving_avg
+Other Supplies & Tools,8214D,2025-03-01,534.6666666666666,moving_avg
+Other Supplies & Tools,8215D,2025-01-01,0.0,naive
+Other Supplies & Tools,8215D,2025-02-01,0.0,naive
+Other Supplies & Tools,8215D,2025-03-01,0.0,naive
+Other Vehicles,2140D,2025-01-01,0.0,naive
+Other Vehicles,2140D,2025-02-01,0.0,naive
+Other Vehicles,2140D,2025-03-01,0.0,naive
+Outlander,3015G,2025-01-01,2133.0,naive
+Outlander,3015G,2025-02-01,2133.0,naive
+Outlander,3015G,2025-03-01,2133.0,naive
+Outlander,3015S,2025-01-01,131573.33333333334,moving_avg
+Outlander,3015S,2025-02-01,131573.33333333334,moving_avg
+Outlander,3015S,2025-03-01,131573.33333333334,moving_avg
+Outlander,3015U,2025-01-01,3.0,moving_avg
+Outlander,3015U,2025-02-01,3.0,moving_avg
+Outlander,3015U,2025-03-01,3.0,moving_avg
+Outlander PHEV,3026G,2025-01-01,7691.0,seasonal_naive
+Outlander PHEV,3026G,2025-02-01,5261.0,seasonal_naive
+Outlander PHEV,3026G,2025-03-01,17712.0,seasonal_naive
+Outlander PHEV,3026S,2025-01-01,335082.0,naive
+Outlander PHEV,3026S,2025-02-01,335082.0,naive
+Outlander PHEV,3026S,2025-03-01,335082.0,naive
+Outlander PHEV,3026U,2025-01-01,6.0,naive
+Outlander PHEV,3026U,2025-02-01,6.0,naive
+Outlander PHEV,3026U,2025-03-01,6.0,naive
+Outside Services,8370D,2025-01-01,3560.0,naive
+Outside Services,8370D,2025-02-01,3560.0,naive
+Outside Services,8370D,2025-03-01,3560.0,naive
+Outside Services,8371D,2025-01-01,848.3333333333334,moving_avg
+Outside Services,8371D,2025-02-01,848.3333333333334,moving_avg
+Outside Services,8371D,2025-03-01,848.3333333333334,moving_avg
+Outside Services,8372D,2025-01-01,1234.0,naive
+Outside Services,8372D,2025-02-01,1234.0,naive
+Outside Services,8372D,2025-03-01,1234.0,naive
+Outside Services ,8373D,2025-01-01,546.0,naive
+Outside Services ,8373D,2025-02-01,546.0,naive
+Outside Services ,8373D,2025-03-01,546.0,naive
+Outside Services ,8374D,2025-01-01,234.0,naive
+Outside Services ,8374D,2025-02-01,234.0,naive
+Outside Services ,8374D,2025-03-01,234.0,naive
+Outside Services ,8375D,2025-01-01,0.0,naive
+Outside Services ,8375D,2025-02-01,0.0,naive
+Outside Services ,8375D,2025-03-01,0.0,naive
+Over 30 days,1140DOT,2025-01-01,0.0,naive
+Over 30 days,1140DOT,2025-02-01,0.0,naive
+Over 30 days,1140DOT,2025-03-01,0.0,naive
+Over 45 days,1280DOF,2025-01-01,0.0,naive
+Over 45 days,1280DOF,2025-02-01,0.0,naive
+Over 45 days,1280DOF,2025-03-01,0.0,naive
+Over 45 days,1285DOF,2025-01-01,0.0,naive
+Over 45 days,1285DOF,2025-02-01,0.0,naive
+Over 45 days,1285DOF,2025-03-01,0.0,naive
+Over 90 Days,50023ST,2025-01-01,25.666666666666668,moving_avg
+Over 90 Days,50023ST,2025-02-01,25.666666666666668,moving_avg
+Over 90 Days,50023ST,2025-03-01,25.666666666666668,moving_avg
+Over 90 Days,50028ST,2025-01-01,1552631.0,naive
+Over 90 Days,50028ST,2025-02-01,1552631.0,naive
+Over 90 Days,50028ST,2025-03-01,1552631.0,naive
+Over 90 Days,50033ST,2025-01-01,28.0,naive
+Over 90 Days,50033ST,2025-02-01,28.0,naive
+Over 90 Days,50033ST,2025-03-01,28.0,naive
+Over 90 Days,50038ST,2025-01-01,875847.0,naive
+Over 90 Days,50038ST,2025-02-01,875847.0,naive
+Over 90 Days,50038ST,2025-03-01,875847.0,naive
+Overhead Absorption %,6100DZ,2025-01-01,1.8233333333333352,moving_avg
+Overhead Absorption %,6100DZ,2025-02-01,1.8233333333333352,moving_avg
+Overhead Absorption %,6100DZ,2025-03-01,1.8233333333333352,moving_avg
+Overhead Absorption %,6118DZ,2025-01-01,32.91,seasonal_naive
+Overhead Absorption %,6118DZ,2025-02-01,1.8300000000000052,seasonal_naive
+Overhead Absorption %,6118DZ,2025-03-01,1.8399999999999963,seasonal_naive
+Overhead Absorption %,6136DZ,2025-01-01,0.0,seasonal_naive
+Overhead Absorption %,6136DZ,2025-02-01,2.36,seasonal_naive
+Overhead Absorption %,6136DZ,2025-03-01,2.39,seasonal_naive
+Owner(s),0960P,2025-01-01,1.0,naive
+Owner(s),0960P,2025-02-01,1.0,naive
+Owner(s),0960P,2025-03-01,1.0,naive
+Owner(s),0967P,2025-01-01,0.0,naive
+Owner(s),0967P,2025-02-01,0.0,naive
+Owner(s),0967P,2025-03-01,0.0,naive
+Owner(s),0974P,2025-01-01,0.0,naive
+Owner(s),0974P,2025-02-01,0.0,naive
+Owner(s),0974P,2025-03-01,0.0,naive
+Owner(s),0981P,2025-01-01,0.0,naive
+Owner(s),0981P,2025-02-01,0.0,naive
+Owner(s),0981P,2025-03-01,0.0,naive
+Owner(s),0988P,2025-01-01,0.0,naive
+Owner(s),0988P,2025-02-01,0.0,naive
+Owner(s),0988P,2025-03-01,0.0,naive
+Owner(s),500P,2025-01-01,1.0,naive
+Owner(s),500P,2025-02-01,1.0,naive
+Owner(s),500P,2025-03-01,1.0,naive
+Owners' Bonuses Payable,2280D,2025-01-01,0.0,naive
+Owners' Bonuses Payable,2280D,2025-02-01,0.0,naive
+Owners' Bonuses Payable,2280D,2025-03-01,0.0,naive
+P&A Inventory Adjustment,6371G,2025-01-01,0.0,naive
+P&A Inventory Adjustment,6371G,2025-02-01,0.0,naive
+P&A Inventory Adjustment,6371G,2025-03-01,0.0,naive
+P&A Inventory Adjustment,6371U,2025-01-01,0.0,naive
+P&A Inventory Adjustment,6371U,2025-02-01,0.0,naive
+P&A Inventory Adjustment,6371U,2025-03-01,0.0,naive
+P&A Repair Order Mechanical,5200G,2025-01-01,6231.0,seasonal_naive
+P&A Repair Order Mechanical,5200G,2025-02-01,4641.0,seasonal_naive
+P&A Repair Order Mechanical,5200G,2025-03-01,4385.0,seasonal_naive
+P&A Repair Order Mechanical,5200U,2025-01-01,0.0,naive
+P&A Repair Order Mechanical,5200U,2025-02-01,0.0,naive
+P&A Repair Order Mechanical,5200U,2025-03-01,0.0,naive
+Parts & Accessories,M17000DD,2025-01-01,44552.0,seasonal_naive
+Parts & Accessories,M17000DD,2025-02-01,31698.0,seasonal_naive
+Parts & Accessories,M17000DD,2025-03-01,24819.0,seasonal_naive
+Parts & Accessories,M18000DD,2025-01-01,-21300.0,seasonal_naive
+Parts & Accessories,M18000DD,2025-02-01,-11894.0,seasonal_naive
+Parts & Accessories,M18000DD,2025-03-01,-5831.0,seasonal_naive
+Parts & Accessories,M49000XG,2025-01-01,23252.0,seasonal_naive
+Parts & Accessories,M49000XG,2025-02-01,19804.0,seasonal_naive
+Parts & Accessories,M49000XG,2025-03-01,18988.0,seasonal_naive
+Parts & Accessories - Mitsubishi ,1500D,2025-01-01,216800.0,naive
+Parts & Accessories - Mitsubishi ,1500D,2025-02-01,216800.0,naive
+Parts & Accessories - Mitsubishi ,1500D,2025-03-01,216800.0,naive
+Parts & Accessories - Other,1510D,2025-01-01,22545.0,naive
+Parts & Accessories - Other,1510D,2025-02-01,22545.0,naive
+Parts & Accessories - Other,1510D,2025-03-01,22545.0,naive
+Parts & Accessories - Tires,1505D,2025-01-01,140134.0,naive
+Parts & Accessories - Tires,1505D,2025-02-01,140134.0,naive
+Parts & Accessories - Tires,1505D,2025-03-01,140134.0,naive
+Payroll Payable,2210D,2025-01-01,41006.0,naive
+Payroll Payable,2210D,2025-02-01,41006.0,naive
+Payroll Payable,2210D,2025-03-01,41006.0,naive
+Payroll Taxes,8130D,2025-01-01,10927.0,seasonal_naive
+Payroll Taxes,8130D,2025-02-01,13713.0,seasonal_naive
+Payroll Taxes,8130D,2025-03-01,10427.0,seasonal_naive
+Payroll Taxes,8131D,2025-01-01,3824.0,seasonal_naive
+Payroll Taxes,8131D,2025-02-01,4800.0,seasonal_naive
+Payroll Taxes,8131D,2025-03-01,3649.0,seasonal_naive
+Payroll Taxes,8132D,2025-01-01,1639.0,seasonal_naive
+Payroll Taxes,8132D,2025-02-01,2057.0,seasonal_naive
+Payroll Taxes,8132D,2025-03-01,1564.0,seasonal_naive
+Payroll Taxes ,8133D,2025-01-01,3825.0,seasonal_naive
+Payroll Taxes ,8133D,2025-02-01,4799.0,seasonal_naive
+Payroll Taxes ,8133D,2025-03-01,3650.0,seasonal_naive
+Payroll Taxes ,8134D,2025-01-01,1639.0,seasonal_naive
+Payroll Taxes ,8134D,2025-02-01,2057.0,seasonal_naive
+Payroll Taxes ,8134D,2025-03-01,1564.0,seasonal_naive
+Payroll Taxes ,8135D,2025-01-01,0.0,naive
+Payroll Taxes ,8135D,2025-02-01,0.0,naive
+Payroll Taxes ,8135D,2025-03-01,0.0,naive
+Pension Fund,8180D,2025-01-01,0.0,naive
+Pension Fund,8180D,2025-02-01,0.0,naive
+Pension Fund,8180D,2025-03-01,0.0,naive
+Pension Fund,8181D,2025-01-01,0.0,naive
+Pension Fund,8181D,2025-02-01,0.0,naive
+Pension Fund,8181D,2025-03-01,0.0,naive
+Pension Fund,8182D,2025-01-01,0.0,naive
+Pension Fund,8182D,2025-02-01,0.0,naive
+Pension Fund,8182D,2025-03-01,0.0,naive
+Pension Fund ,8183D,2025-01-01,0.0,naive
+Pension Fund ,8183D,2025-02-01,0.0,naive
+Pension Fund ,8183D,2025-03-01,0.0,naive
+Pension Fund ,8184D,2025-01-01,0.0,naive
+Pension Fund ,8184D,2025-02-01,0.0,naive
+Pension Fund ,8184D,2025-03-01,0.0,naive
+Pension Fund ,8185D,2025-01-01,0.0,naive
+Pension Fund ,8185D,2025-02-01,0.0,naive
+Pension Fund ,8185D,2025-03-01,0.0,naive
+Pension Fund Payable,2290D,2025-01-01,0.0,naive
+Pension Fund Payable,2290D,2025-02-01,0.0,naive
+Pension Fund Payable,2290D,2025-03-01,0.0,naive
+Petty Cash Fund / Cash On Hand,10011002D,2025-01-01,700.0,naive
+Petty Cash Fund / Cash On Hand,10011002D,2025-02-01,700.0,naive
+Petty Cash Fund / Cash On Hand,10011002D,2025-03-01,700.0,naive
+Postage,8320D,2025-01-01,92.0,seasonal_naive
+Postage,8320D,2025-02-01,92.0,seasonal_naive
+Postage,8320D,2025-03-01,0.0,seasonal_naive
+Postage,8321D,2025-01-01,32.0,seasonal_naive
+Postage,8321D,2025-02-01,32.0,seasonal_naive
+Postage,8321D,2025-03-01,0.0,seasonal_naive
+Postage,8322D,2025-01-01,14.0,seasonal_naive
+Postage,8322D,2025-02-01,14.0,seasonal_naive
+Postage,8322D,2025-03-01,0.0,seasonal_naive
+Postage,8323D,2025-01-01,32.0,seasonal_naive
+Postage,8323D,2025-02-01,32.0,seasonal_naive
+Postage,8323D,2025-03-01,0.0,seasonal_naive
+Postage,8324D,2025-01-01,14.0,seasonal_naive
+Postage,8324D,2025-02-01,14.0,seasonal_naive
+Postage,8324D,2025-03-01,0.0,seasonal_naive
+Postage,8325D,2025-01-01,0.0,naive
+Postage,8325D,2025-02-01,0.0,naive
+Postage,8325D,2025-03-01,0.0,naive
+Pre-Delivery - Mitsubishi,1260D,2025-01-01,0.0,naive
+Pre-Delivery - Mitsubishi,1260D,2025-02-01,0.0,naive
+Pre-Delivery - Mitsubishi,1260D,2025-03-01,0.0,naive
+Preferred Stock,2502D,2025-01-01,0.0,naive
+Preferred Stock,2502D,2025-02-01,0.0,naive
+Preferred Stock,2502D,2025-03-01,0.0,naive
+Prepaid Insurance,1640D,2025-01-01,0.0,naive
+Prepaid Insurance,1640D,2025-02-01,0.0,naive
+Prepaid Insurance,1640D,2025-03-01,0.0,naive
+Prepaid Other,1610D,2025-01-01,631265.0,naive
+Prepaid Other,1610D,2025-02-01,631265.0,naive
+Prepaid Other,1610D,2025-03-01,631265.0,naive
+Prepaid Taxes,1620D,2025-01-01,0.0,naive
+Prepaid Taxes,1620D,2025-02-01,0.0,naive
+Prepaid Taxes,1620D,2025-03-01,0.0,naive
+Productive / Non Productive Personnel,500013SDZ,2025-01-01,0.0,naive
+Productive / Non Productive Personnel,500013SDZ,2025-02-01,0.0,naive
+Productive / Non Productive Personnel,500013SDZ,2025-03-01,0.0,naive
+Productive / Non Productive Personnel,50016SDZ,2025-01-01,0.0,naive
+Productive / Non Productive Personnel,50016SDZ,2025-02-01,0.0,naive
+Productive / Non Productive Personnel,50016SDZ,2025-03-01,0.0,naive
+Productive / Non Productive Personnel,6157DZ,2025-01-01,133.33,seasonal_naive
+Productive / Non Productive Personnel,6157DZ,2025-02-01,0.0,seasonal_naive
+Productive / Non Productive Personnel,6157DZ,2025-03-01,66.66999999999999,seasonal_naive
+Productive / Non-Productive Personnel,50013SDZ,2025-01-01,0.0,naive
+Productive / Non-Productive Personnel,50013SDZ,2025-02-01,0.0,naive
+Productive / Non-Productive Personnel,50013SDZ,2025-03-01,0.0,naive
+Productivity (Guide 85% +),6109DZ,2025-01-01,22.44,seasonal_naive
+Productivity (Guide 85% +),6109DZ,2025-02-01,48.19,seasonal_naive
+Productivity (Guide 85% +),6109DZ,2025-03-01,0.7800000000000011,seasonal_naive
+Productivity (Guide 85% +),6127DZ,2025-01-01,22.44,seasonal_naive
+Productivity (Guide 85% +),6127DZ,2025-02-01,22.95,seasonal_naive
+Productivity (Guide 85% +),6127DZ,2025-03-01,8.39,seasonal_naive
+Productivity (Guide 85% +),6162DZ,2025-01-01,0.0,naive
+Productivity (Guide 85% +),6162DZ,2025-02-01,0.0,naive
+Productivity (Guide 85% +),6162DZ,2025-03-01,0.0,naive
+Productivity (Guide 85% +) ,50113SDZ,2025-01-01,0.0,naive
+Productivity (Guide 85% +) ,50113SDZ,2025-02-01,0.0,naive
+Productivity (Guide 85% +) ,50113SDZ,2025-03-01,0.0,naive
+Profit or Loss (Before Income Tax),2570DV,2025-01-01,10960.0,naive
+Profit or Loss (Before Income Tax),2570DV,2025-02-01,10960.0,naive
+Profit or Loss (Before Income Tax),2570DV,2025-03-01,10960.0,naive
+Profit or Loss (Before Income Tax),6024DZ,2025-01-01,-10448.0,naive
+Profit or Loss (Before Income Tax),6024DZ,2025-02-01,-10448.0,naive
+Profit or Loss (Before Income Tax),6024DZ,2025-03-01,-10448.0,naive
+Profit or Loss (Before Income Tax),6046DZ,2025-01-01,1337.8966666666668,moving_avg
+Profit or Loss (Before Income Tax),6046DZ,2025-02-01,1337.8966666666668,moving_avg
+Profit or Loss (Before Income Tax),6046DZ,2025-03-01,1337.8966666666668,moving_avg
+Promotion,8110D,2025-01-01,6834.333333333333,moving_avg
+Promotion,8110D,2025-02-01,6834.333333333333,moving_avg
+Promotion,8110D,2025-03-01,6834.333333333333,moving_avg
+Promotion,8111D,2025-01-01,3888.0,seasonal_naive
+Promotion,8111D,2025-02-01,5122.0,seasonal_naive
+Promotion,8111D,2025-03-01,4284.0,seasonal_naive
+Promotion,8112D,2025-01-01,0.0,seasonal_naive
+Promotion,8112D,2025-02-01,248.0,seasonal_naive
+Promotion,8112D,2025-03-01,392.0,seasonal_naive
+Provincial Sales Tax,2241D,2025-01-01,5093.0,naive
+Provincial Sales Tax,2241D,2025-02-01,5093.0,naive
+Provincial Sales Tax,2241D,2025-03-01,5093.0,naive
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-01-01,2.9866666666666664,moving_avg
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-02-01,2.9866666666666664,moving_avg
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-03-01,2.9866666666666664,moving_avg
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-01-01,-0.04,naive
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-02-01,-0.04,naive
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-03-01,-0.04,naive
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-01-01,3.0833333333333335,moving_avg
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-02-01,3.0833333333333335,moving_avg
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-03-01,3.0833333333333335,moving_avg
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-01-01,27.51666666666667,moving_avg
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-02-01,27.51666666666667,moving_avg
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-03-01,27.51666666666667,moving_avg
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-01-01,175.49,seasonal_naive
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-02-01,-10.100000000000025,seasonal_naive
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-03-01,-17.169999999999987,seasonal_naive
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-01-01,0.0,seasonal_naive
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-02-01,-12.51,seasonal_naive
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-03-01,-18.24,seasonal_naive
+RVR,3022G,2025-01-01,1868.0,naive
+RVR,3022G,2025-02-01,1868.0,naive
+RVR,3022G,2025-03-01,1868.0,naive
+RVR,3022S,2025-01-01,71874.0,seasonal_naive
+RVR,3022S,2025-02-01,149621.0,seasonal_naive
+RVR,3022S,2025-03-01,35008.0,seasonal_naive
+RVR,3022U,2025-01-01,2.0,seasonal_naive
+RVR,3022U,2025-02-01,5.0,seasonal_naive
+RVR,3022U,2025-03-01,1.0,seasonal_naive
+Rec. Floor Plan Credits,1220DD,2025-01-01,0.0,naive
+Rec. Floor Plan Credits,1220DD,2025-02-01,0.0,naive
+Rec. Floor Plan Credits,1220DD,2025-03-01,0.0,naive
+Rec. Floor Plan Credits,1220ED,2025-01-01,0.0,naive
+Rec. Floor Plan Credits,1220ED,2025-02-01,0.0,naive
+Rec. Floor Plan Credits,1220ED,2025-03-01,0.0,naive
+Rec. Floor Plan Credits,1220FD,2025-01-01,0.0,naive
+Rec. Floor Plan Credits,1220FD,2025-02-01,0.0,naive
+Rec. Floor Plan Credits,1220FD,2025-03-01,0.0,naive
+Receivable - Floor Plan Credits,1220D,2025-01-01,0.0,naive
+Receivable - Floor Plan Credits,1220D,2025-02-01,0.0,naive
+Receivable - Floor Plan Credits,1220D,2025-03-01,0.0,naive
+Receivables Floor Plan Credits,1220AD,2025-01-01,0.0,naive
+Receivables Floor Plan Credits,1220AD,2025-02-01,0.0,naive
+Receivables Floor Plan Credits,1220AD,2025-03-01,0.0,naive
+Receivables Floor Plan Credits,1220BD,2025-01-01,0.0,naive
+Receivables Floor Plan Credits,1220BD,2025-02-01,0.0,naive
+Receivables Floor Plan Credits,1220BD,2025-03-01,0.0,naive
+Receivables Floor Plan Credits,1220CD,2025-01-01,0.0,naive
+Receivables Floor Plan Credits,1220CD,2025-02-01,0.0,naive
+Receivables Floor Plan Credits,1220CD,2025-03-01,0.0,naive
+Rent,8420D,2025-01-01,50000.0,seasonal_naive
+Rent,8420D,2025-02-01,52000.0,seasonal_naive
+Rent,8420D,2025-03-01,52000.0,seasonal_naive
+Rent,8421D,2025-01-01,17500.0,seasonal_naive
+Rent,8421D,2025-02-01,18200.0,seasonal_naive
+Rent,8421D,2025-03-01,18200.0,seasonal_naive
+Rent,8422D,2025-01-01,7500.0,seasonal_naive
+Rent,8422D,2025-02-01,7800.0,seasonal_naive
+Rent,8422D,2025-03-01,7800.0,seasonal_naive
+Rent,8423D,2025-01-01,17500.0,seasonal_naive
+Rent,8423D,2025-02-01,18200.0,seasonal_naive
+Rent,8423D,2025-03-01,18200.0,seasonal_naive
+Rent,8424D,2025-01-01,7500.0,seasonal_naive
+Rent,8424D,2025-02-01,7800.0,seasonal_naive
+Rent,8424D,2025-03-01,7800.0,seasonal_naive
+Rent,8425D,2025-01-01,0.0,naive
+Rent,8425D,2025-02-01,0.0,naive
+Rent,8425D,2025-03-01,0.0,naive
+Rental / Lease Units,2120D,2025-01-01,0.0,naive
+Rental / Lease Units,2120D,2025-02-01,0.0,naive
+Rental / Lease Units,2120D,2025-03-01,0.0,naive
+Rental Vehicles,1700D,2025-01-01,0.0,naive
+Rental Vehicles,1700D,2025-02-01,0.0,naive
+Rental Vehicles,1700D,2025-03-01,0.0,naive
+Repairs & Maintenance - Real Estate,8440D,2025-01-01,-14031.0,naive
+Repairs & Maintenance - Real Estate,8440D,2025-02-01,-14031.0,naive
+Repairs & Maintenance - Real Estate,8440D,2025-03-01,-14031.0,naive
+Repairs & Maintenance - Real Estate,8441D,2025-01-01,231.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8441D,2025-02-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8441D,2025-03-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8442D,2025-01-01,99.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8442D,2025-02-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8442D,2025-03-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8443D,2025-01-01,231.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8443D,2025-02-01,150.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8443D,2025-03-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8444D,2025-01-01,146.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8444D,2025-02-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8444D,2025-03-01,0.0,seasonal_naive
+Repairs & Maintenance - Real Estate,8445D,2025-01-01,0.0,naive
+Repairs & Maintenance - Real Estate,8445D,2025-02-01,0.0,naive
+Repairs & Maintenance - Real Estate,8445D,2025-03-01,0.0,naive
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-01-01,0.0,naive
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-02-01,0.0,naive
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-03-01,0.0,naive
+Reserved,9060D,2025-01-01,0.0,naive
+Reserved,9060D,2025-02-01,0.0,naive
+Reserved,9060D,2025-03-01,0.0,naive
+Retail Counter P&A,5310G,2025-01-01,1232.0,seasonal_naive
+Retail Counter P&A,5310G,2025-02-01,1927.0,seasonal_naive
+Retail Counter P&A,5310G,2025-03-01,1515.0,seasonal_naive
+Retail Counter P&A,5310S,2025-01-01,4268.0,seasonal_naive
+Retail Counter P&A,5310S,2025-02-01,7942.0,seasonal_naive
+Retail Counter P&A,5310S,2025-03-01,4380.0,seasonal_naive
+Retail Counter P&A,5310U,2025-01-01,22.666666666666668,moving_avg
+Retail Counter P&A,5310U,2025-02-01,22.666666666666668,moving_avg
+Retail Counter P&A,5310U,2025-03-01,22.666666666666668,moving_avg
+Retained Earnings,2520D,2025-01-01,-1313850.0,naive
+Retained Earnings,2520D,2025-02-01,-1313850.0,naive
+Retained Earnings,2520D,2025-03-01,-1313850.0,naive
+SEP.,391IU,2025-01-01,0.0,seasonal_naive
+SEP.,391IU,2025-02-01,0.0,seasonal_naive
+SEP.,391IU,2025-03-01,0.0,seasonal_naive
+SEP.,392IU,2025-01-01,0.0,naive
+SEP.,392IU,2025-02-01,0.0,naive
+SEP.,392IU,2025-03-01,0.0,naive
+SEP.,395IU,2025-01-01,0.0,seasonal_naive
+SEP.,395IU,2025-02-01,0.0,seasonal_naive
+SEP.,395IU,2025-03-01,0.0,seasonal_naive
+SEP.,396ID,2025-01-01,0.0,seasonal_naive
+SEP.,396ID,2025-02-01,0.0,seasonal_naive
+SEP.,396ID,2025-03-01,0.0,seasonal_naive
+SEP.,396IU,2025-01-01,0.0,naive
+SEP.,396IU,2025-02-01,0.0,naive
+SEP.,396IU,2025-03-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-01-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-02-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-03-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-01-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-02-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-03-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-01-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-02-01,0.0,naive
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-03-01,0.0,naive
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-01-01,19355.0,seasonal_naive
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-02-01,20856.0,seasonal_naive
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-03-01,20788.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-01-01,19355.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-02-01,20706.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-03-01,20788.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-01-01,8295.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-02-01,8874.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-03-01,8909.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-01-01,55347.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-02-01,59310.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-03-01,59394.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-01-01,8342.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-02-01,8874.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-03-01,8909.0,seasonal_naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-01-01,0.0,naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-02-01,0.0,naive
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-03-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-01-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-02-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-03-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-01-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-02-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-03-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-01-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-02-01,0.0,naive
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-03-01,0.0,naive
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-01-01,59682.0,seasonal_naive
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-02-01,39512.0,seasonal_naive
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-03-01,23798.0,seasonal_naive
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-01-01,136211.0,seasonal_naive
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-02-01,86215.0,seasonal_naive
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-03-01,69941.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-01-01,33782.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-02-01,22171.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-03-01,17912.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-01-01,11349.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-02-01,7188.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-03-01,16487.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-01-01,31398.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-02-01,17344.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-03-01,11744.0,seasonal_naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-01-01,0.0,naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-02-01,0.0,naive
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-03-01,0.0,naive
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-01-01,-8637.0,seasonal_naive
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-02-01,43343.0,seasonal_naive
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-03-01,65582.0,seasonal_naive
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-01-01,38298.666666666664,moving_avg
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-02-01,38298.666666666664,moving_avg
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-03-01,38298.666666666664,moving_avg
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-01-01,47998.0,moving_avg
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-02-01,47998.0,moving_avg
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-03-01,47998.0,moving_avg
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-01-01,0.0,naive
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-02-01,0.0,naive
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-03-01,0.0,naive
+Sales $'s per Retail Counter Invoice,6005DZ,2025-01-01,0.8500000000000038,moving_avg
+Sales $'s per Retail Counter Invoice,6005DZ,2025-02-01,0.8500000000000038,moving_avg
+Sales $'s per Retail Counter Invoice,6005DZ,2025-03-01,0.8500000000000038,moving_avg
+Sales $'s per Retail Counter Invoice,6014DZ,2025-01-01,158.07,seasonal_naive
+Sales $'s per Retail Counter Invoice,6014DZ,2025-02-01,132.64,seasonal_naive
+Sales $'s per Retail Counter Invoice,6014DZ,2025-03-01,-46.73999999999998,seasonal_naive
+Sales $'s per Retail Counter Invoice,6021DZ,2025-01-01,0.0,seasonal_naive
+Sales $'s per Retail Counter Invoice,6021DZ,2025-02-01,238.75,seasonal_naive
+Sales $'s per Retail Counter Invoice,6021DZ,2025-03-01,-314.26,seasonal_naive
+Sales $'s per Wholesale Invoice,6006DZ,2025-01-01,-69.16000000000001,moving_avg
+Sales $'s per Wholesale Invoice,6006DZ,2025-02-01,-69.16000000000001,moving_avg
+Sales $'s per Wholesale Invoice,6006DZ,2025-03-01,-69.16000000000001,moving_avg
+Sales $'s per Wholesale Invoice,6015DZ,2025-01-01,9.206666666666669,moving_avg
+Sales $'s per Wholesale Invoice,6015DZ,2025-02-01,9.206666666666669,moving_avg
+Sales $'s per Wholesale Invoice,6015DZ,2025-03-01,9.206666666666669,moving_avg
+Sales $'s per Wholesale Invoice,6022DZ,2025-01-01,0.0,seasonal_naive
+Sales $'s per Wholesale Invoice,6022DZ,2025-02-01,35.27,seasonal_naive
+Sales $'s per Wholesale Invoice,6022DZ,2025-03-01,-77.4,seasonal_naive
+Sales Incentive - Fleet,1240D,2025-01-01,0.0,naive
+Sales Incentive - Fleet,1240D,2025-02-01,0.0,naive
+Sales Incentive - Fleet,1240D,2025-03-01,0.0,naive
+Sales Incentive - Retail,1230D,2025-01-01,0.0,naive
+Sales Incentive - Retail,1230D,2025-02-01,0.0,naive
+Sales Incentive - Retail,1230D,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230AD,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230AD,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230AD,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230BD,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230BD,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230BD,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230CD,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230CD,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230CD,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230DD,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230DD,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230DD,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230ED,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230ED,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230ED,2025-03-01,0.0,naive
+Sales Incentives Retail / Fleet,1230FD,2025-01-01,0.0,naive
+Sales Incentives Retail / Fleet,1230FD,2025-02-01,0.0,naive
+Sales Incentives Retail / Fleet,1230FD,2025-03-01,0.0,naive
+Sales Reps,0962P,2025-01-01,3.0,naive
+Sales Reps,0962P,2025-02-01,3.0,naive
+Sales Reps,0962P,2025-03-01,3.0,naive
+Sales Reps.,0969P,2025-01-01,3.0,seasonal_naive
+Sales Reps.,0969P,2025-02-01,3.0,seasonal_naive
+Sales Reps.,0969P,2025-03-01,3.0,seasonal_naive
+Sales Reps.,520P,2025-01-01,5.0,naive
+Sales Reps.,520P,2025-02-01,5.0,naive
+Sales Reps.,520P,2025-03-01,5.0,naive
+Securities,1030D,2025-01-01,0.0,naive
+Securities,1030D,2025-02-01,0.0,naive
+Securities,1030D,2025-03-01,0.0,naive
+Serv. Parts & Body Shop - Customers,1140BD,2025-01-01,21868.333333333332,moving_avg
+Serv. Parts & Body Shop - Customers,1140BD,2025-02-01,21868.333333333332,moving_avg
+Serv. Parts & Body Shop - Customers,1140BD,2025-03-01,21868.333333333332,moving_avg
+Serv. Parts & Body Shop - Customers,1140CD,2025-01-01,12003.666666666666,moving_avg
+Serv. Parts & Body Shop - Customers,1140CD,2025-02-01,12003.666666666666,moving_avg
+Serv. Parts & Body Shop - Customers,1140CD,2025-03-01,12003.666666666666,moving_avg
+"Serv., Parts & Body Shop - Customers",1140AD,2025-01-01,94533.0,naive
+"Serv., Parts & Body Shop - Customers",1140AD,2025-02-01,94533.0,naive
+"Serv., Parts & Body Shop - Customers",1140AD,2025-03-01,94533.0,naive
+Service Contracts (CPO),3703G,2025-01-01,3886.0,naive
+Service Contracts (CPO),3703G,2025-02-01,3886.0,naive
+Service Contracts (CPO),3703G,2025-03-01,3886.0,naive
+Service Contracts (CPO),3703S,2025-01-01,5310.0,naive
+Service Contracts (CPO),3703S,2025-02-01,5310.0,naive
+Service Contracts (CPO),3703S,2025-03-01,5310.0,naive
+Service Contracts (CPO),3703U,2025-01-01,3.0,naive
+Service Contracts (CPO),3703U,2025-02-01,3.0,naive
+Service Contracts (CPO),3703U,2025-03-01,3.0,naive
+Service Contracts (Non CPO),3741G,2025-01-01,14151.0,seasonal_naive
+Service Contracts (Non CPO),3741G,2025-02-01,3489.0,seasonal_naive
+Service Contracts (Non CPO),3741G,2025-03-01,9332.0,seasonal_naive
+Service Contracts (Non CPO),3741S,2025-01-01,20771.0,seasonal_naive
+Service Contracts (Non CPO),3741S,2025-02-01,5400.0,seasonal_naive
+Service Contracts (Non CPO),3741S,2025-03-01,14199.0,seasonal_naive
+Service Contracts (Non CPO),3741U,2025-01-01,10.0,seasonal_naive
+Service Contracts (Non CPO),3741U,2025-02-01,2.0,seasonal_naive
+Service Contracts (Non CPO),3741U,2025-03-01,7.0,seasonal_naive
+Service Contracts (Other Makes),3711G,2025-01-01,0.0,naive
+Service Contracts (Other Makes),3711G,2025-02-01,0.0,naive
+Service Contracts (Other Makes),3711G,2025-03-01,0.0,naive
+Service Contracts (Other Makes),3711S,2025-01-01,0.0,naive
+Service Contracts (Other Makes),3711S,2025-02-01,0.0,naive
+Service Contracts (Other Makes),3711S,2025-03-01,0.0,naive
+Service Contracts (Other Makes),3711U,2025-01-01,0.0,naive
+Service Contracts (Other Makes),3711U,2025-02-01,0.0,naive
+Service Contracts (Other Makes),3711U,2025-03-01,0.0,naive
+Service Department,M17000CD,2025-01-01,37126.0,moving_avg
+Service Department,M17000CD,2025-02-01,37126.0,moving_avg
+Service Department,M17000CD,2025-03-01,37126.0,moving_avg
+Service Department,M18000CD,2025-01-01,-32496.0,seasonal_naive
+Service Department,M18000CD,2025-02-01,-21659.0,seasonal_naive
+Service Department,M18000CD,2025-03-01,-5250.0,seasonal_naive
+Service Department,M45500XG,2025-01-01,60676.333333333336,moving_avg
+Service Department,M45500XG,2025-02-01,60676.333333333336,moving_avg
+Service Department,M45500XG,2025-03-01,60676.333333333336,moving_avg
+"Service, Parts & Body Shop - Customers",1140D,2025-01-01,94532.0,naive
+"Service, Parts & Body Shop - Customers",1140D,2025-02-01,94532.0,naive
+"Service, Parts & Body Shop - Customers",1140D,2025-03-01,94532.0,naive
+"Service, Parts & Body Shop - Customers",1140DD,2025-01-01,6503.0,naive
+"Service, Parts & Body Shop - Customers",1140DD,2025-02-01,6503.0,naive
+"Service, Parts & Body Shop - Customers",1140DD,2025-03-01,6503.0,naive
+"Service, Parts & Body Shop - Customers",1140ED,2025-01-01,50220.0,seasonal_naive
+"Service, Parts & Body Shop - Customers",1140ED,2025-02-01,47672.0,seasonal_naive
+"Service, Parts & Body Shop - Customers",1140ED,2025-03-01,40851.0,seasonal_naive
+"Service, Parts & Body Shop - Customers",1140FD,2025-01-01,0.0,naive
+"Service, Parts & Body Shop - Customers",1140FD,2025-02-01,0.0,naive
+"Service, Parts & Body Shop - Customers",1140FD,2025-03-01,0.0,naive
+Shareholder's Loans,2490D,2025-01-01,3584.0,seasonal_naive
+Shareholder's Loans,2490D,2025-02-01,127032.0,seasonal_naive
+Shareholder's Loans,2490D,2025-03-01,250703.0,seasonal_naive
+Sold,3013ST,2025-01-01,23.0,moving_avg
+Sold,3013ST,2025-02-01,23.0,moving_avg
+Sold,3013ST,2025-03-01,23.0,moving_avg
+Sold ,3003ST,2025-01-01,12.0,naive
+Sold ,3003ST,2025-02-01,12.0,naive
+Sold ,3003ST,2025-03-01,12.0,naive
+Sublet Repairs,1540D,2025-01-01,19421.666666666668,moving_avg
+Sublet Repairs,1540D,2025-02-01,19421.666666666668,moving_avg
+Sublet Repairs,1540D,2025-03-01,19421.666666666668,moving_avg
+Sublet Repairs,5100G,2025-01-01,1557.0,naive
+Sublet Repairs,5100G,2025-02-01,1557.0,naive
+Sublet Repairs,5100G,2025-03-01,1557.0,naive
+Sublet Repairs,5100S,2025-01-01,10808.666666666666,moving_avg
+Sublet Repairs,5100S,2025-02-01,10808.666666666666,moving_avg
+Sublet Repairs,5100S,2025-03-01,10808.666666666666,moving_avg
+Sublet Repairs,5100U,2025-01-01,0.0,naive
+Sublet Repairs,5100U,2025-02-01,0.0,naive
+Sublet Repairs,5100U,2025-03-01,0.0,naive
+Sublet Repairs Body Shop,5440G,2025-01-01,0.0,naive
+Sublet Repairs Body Shop,5440G,2025-02-01,0.0,naive
+Sublet Repairs Body Shop,5440G,2025-03-01,0.0,naive
+Sublet Repairs Body Shop,5440S,2025-01-01,0.0,naive
+Sublet Repairs Body Shop,5440S,2025-02-01,0.0,naive
+Sublet Repairs Body Shop,5440S,2025-03-01,0.0,naive
+Sublet Repairs Body Shop,5440U,2025-01-01,0.0,naive
+Sublet Repairs Body Shop,5440U,2025-02-01,0.0,naive
+Sublet Repairs Body Shop,5440U,2025-03-01,0.0,naive
+TOTAL,25700D,2025-01-01,13428.0,seasonal_naive
+TOTAL,25700D,2025-02-01,12626.0,seasonal_naive
+TOTAL,25700D,2025-03-01,15836.0,seasonal_naive
+TOTAL,3910U,2025-01-01,19.0,seasonal_naive
+TOTAL,3910U,2025-02-01,40.0,seasonal_naive
+TOTAL,3910U,2025-03-01,58.0,seasonal_naive
+TOTAL,3920U,2025-01-01,0.0,naive
+TOTAL,3920U,2025-02-01,0.0,naive
+TOTAL,3920U,2025-03-01,0.0,naive
+TOTAL,3950U,2025-01-01,19.0,seasonal_naive
+TOTAL,3950U,2025-02-01,45.0,seasonal_naive
+TOTAL,3950U,2025-03-01,70.0,seasonal_naive
+TOTAL,3960U,2025-01-01,0.0,naive
+TOTAL,3960U,2025-02-01,0.0,naive
+TOTAL,3960U,2025-03-01,0.0,naive
+TOTAL,50024ST,2025-01-01,77.0,moving_avg
+TOTAL,50024ST,2025-02-01,77.0,moving_avg
+TOTAL,50024ST,2025-03-01,77.0,moving_avg
+TOTAL,50029ST,2025-01-01,4074124.0,naive
+TOTAL,50029ST,2025-02-01,4074124.0,naive
+TOTAL,50029ST,2025-03-01,4074124.0,naive
+TOTAL,50034ST,2025-01-01,60.0,naive
+TOTAL,50034ST,2025-02-01,60.0,naive
+TOTAL,50034ST,2025-03-01,60.0,naive
+TOTAL,50039ST,2025-01-01,1807207.0,naive
+TOTAL,50039ST,2025-02-01,1807207.0,naive
+TOTAL,50039ST,2025-03-01,1807207.0,naive
+TOTAL,50044ST,2025-01-01,3943.0,naive
+TOTAL,50044ST,2025-02-01,3943.0,naive
+TOTAL,50044ST,2025-03-01,3943.0,naive
+TOTAL,50049ST,2025-01-01,239345.0,naive
+TOTAL,50049ST,2025-02-01,239345.0,naive
+TOTAL,50049ST,2025-03-01,239345.0,naive
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-01-01,296667.6666666667,moving_avg
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-02-01,296667.6666666667,moving_avg
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-03-01,296667.6666666667,moving_avg
+TOTAL ,5000AP,2025-01-01,8.0,naive
+TOTAL ,5000AP,2025-02-01,8.0,naive
+TOTAL ,5000AP,2025-03-01,8.0,naive
+TOTAL ,5000BP,2025-01-01,5.0,naive
+TOTAL ,5000BP,2025-02-01,5.0,naive
+TOTAL ,5000BP,2025-03-01,5.0,naive
+TOTAL ,5000CP,2025-01-01,11.0,naive
+TOTAL ,5000CP,2025-02-01,11.0,naive
+TOTAL ,5000CP,2025-03-01,11.0,naive
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-01-01,6337766.0,naive
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-02-01,6337766.0,naive
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-03-01,6337766.0,naive
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-01-01,0.0,naive
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-02-01,0.0,naive
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-03-01,0.0,naive
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-01-01,-32044.0,naive
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-02-01,-32044.0,naive
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-03-01,-32044.0,naive
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-01-01,343164.0,moving_avg
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-02-01,343164.0,moving_avg
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-03-01,343164.0,moving_avg
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-01-01,1081288.0,naive
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-02-01,1081288.0,naive
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-03-01,1081288.0,naive
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-01-01,7406641.0,naive
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-02-01,7406641.0,naive
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-03-01,7406641.0,naive
+TOTAL BODY SHOP,46000XS,2025-01-01,0.0,naive
+TOTAL BODY SHOP,46000XS,2025-02-01,0.0,naive
+TOTAL BODY SHOP,46000XS,2025-03-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-01-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-02-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-03-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-01-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-02-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-03-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-01-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-02-01,0.0,naive
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-03-01,0.0,naive
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-01-01,-197338.0,naive
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-02-01,-197338.0,naive
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-03-01,-197338.0,naive
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-01-01,6958389.0,naive
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-02-01,6958389.0,naive
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-03-01,6958389.0,naive
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-01-01,6231758.0,naive
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-02-01,6231758.0,naive
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-03-01,6231758.0,naive
+TOTAL F & I NEW,43000S,2025-01-01,44694.0,naive
+TOTAL F & I NEW,43000S,2025-02-01,44694.0,naive
+TOTAL F & I NEW,43000S,2025-03-01,44694.0,naive
+TOTAL F & I USED,44600S,2025-01-01,20188.0,naive
+TOTAL F & I USED,44600S,2025-02-01,20188.0,naive
+TOTAL F & I USED,44600S,2025-03-01,20188.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-01-01,32464.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-02-01,32464.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-03-01,32464.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-01-01,0.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-02-01,0.0,naive
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-03-01,0.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-01-01,12688.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-02-01,12688.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-03-01,12688.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-01-01,0.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-02-01,0.0,naive
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-03-01,0.0,naive
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-01-01,248249.0,naive
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-02-01,248249.0,naive
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-03-01,248249.0,naive
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-01-01,100370.0,moving_avg
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-02-01,100370.0,moving_avg
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-03-01,100370.0,moving_avg
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-01-01,184383.33333333334,moving_avg
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-02-01,184383.33333333334,moving_avg
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-03-01,184383.33333333334,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-01-01,37126.0,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-02-01,37126.0,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-03-01,37126.0,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-01-01,246312.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-02-01,246312.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-03-01,246312.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-01-01,177170.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-02-01,177170.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-03-01,177170.66666666666,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-01-01,18913.333333333332,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-02-01,18913.333333333332,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-03-01,18913.333333333332,moving_avg
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-01-01,44552.0,seasonal_naive
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-02-01,31698.0,seasonal_naive
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-03-01,24819.0,seasonal_naive
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-01-01,0.0,naive
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-02-01,0.0,naive
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-03-01,0.0,naive
+TOTAL GROSS PROFIT,400000XG,2025-01-01,343164.0,moving_avg
+TOTAL GROSS PROFIT,400000XG,2025-02-01,343164.0,moving_avg
+TOTAL GROSS PROFIT,400000XG,2025-03-01,343164.0,moving_avg
+TOTAL GROSS PROFIT,45500XG,2025-01-01,60676.333333333336,moving_avg
+TOTAL GROSS PROFIT,45500XG,2025-02-01,60676.333333333336,moving_avg
+TOTAL GROSS PROFIT,45500XG,2025-03-01,60676.333333333336,moving_avg
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-01-01,0.0,naive
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-02-01,0.0,naive
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-03-01,0.0,naive
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-01-01,97984.33333333333,moving_avg
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-02-01,97984.33333333333,moving_avg
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-03-01,97984.33333333333,moving_avg
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-01-01,23252.0,seasonal_naive
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-02-01,19804.0,seasonal_naive
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-03-01,18988.0,seasonal_naive
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-01-01,144809.66666666666,moving_avg
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-02-01,144809.66666666666,moving_avg
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-03-01,144809.66666666666,moving_avg
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-01-01,6317723.0,naive
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-02-01,6317723.0,naive
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-03-01,6317723.0,naive
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-01-01,7406641.0,naive
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-02-01,7406641.0,naive
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-03-01,7406641.0,naive
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-01-01,8599492.0,naive
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-02-01,8599492.0,naive
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-03-01,8599492.0,naive
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-01-01,2367734.0,naive
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-02-01,2367734.0,naive
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-03-01,2367734.0,naive
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-01-01,20.0,moving_avg
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-02-01,20.0,moving_avg
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-03-01,20.0,moving_avg
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-01-01,33097.0,moving_avg
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-02-01,33097.0,moving_avg
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-03-01,33097.0,moving_avg
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-01-01,550145.0,naive
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-02-01,550145.0,naive
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-03-01,550145.0,naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-01-01,2.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-02-01,1.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-03-01,0.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-01-01,2361.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-02-01,3734.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-03-01,0.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-01-01,43305.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-02-01,23917.0,seasonal_naive
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-03-01,0.0,seasonal_naive
+TOTAL MITSUBISHI FLEET,3060G,2025-01-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060G,2025-02-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060G,2025-03-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060S,2025-01-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060S,2025-02-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060S,2025-03-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060U,2025-01-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060U,2025-02-01,0.0,naive
+TOTAL MITSUBISHI FLEET,3060U,2025-03-01,0.0,naive
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-01-01,57533.333333333336,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-02-01,57533.333333333336,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-03-01,57533.333333333336,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-01-01,74972.33333333333,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-02-01,74972.33333333333,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-03-01,74972.33333333333,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-01-01,397.0,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-02-01,397.0,moving_avg
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-03-01,397.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-01-01,20.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-02-01,20.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-03-01,20.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-01-01,33097.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-02-01,33097.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-03-01,33097.0,moving_avg
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-01-01,550145.0,naive
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-02-01,550145.0,naive
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-03-01,550145.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-01-01,31927.666666666668,moving_avg
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-02-01,31927.666666666668,moving_avg
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-03-01,31927.666666666668,moving_avg
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-01-01,530579.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-02-01,530579.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-03-01,530579.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-01-01,11.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-02-01,11.0,naive
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-03-01,11.0,naive
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-01-01,-1192851.0,naive
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-02-01,-1192851.0,naive
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-03-01,-1192851.0,naive
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-01-01,43.0,moving_avg
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-02-01,43.0,moving_avg
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-03-01,43.0,moving_avg
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-01-01,154635.0,seasonal_naive
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-02-01,164670.0,seasonal_naive
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-03-01,160600.0,seasonal_naive
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-01-01,1416423.6666666667,moving_avg
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-02-01,1416423.6666666667,moving_avg
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-03-01,1416423.6666666667,moving_avg
+TOTAL NEW VEHICLE DEPT,43500XS,2025-01-01,594839.0,naive
+TOTAL NEW VEHICLE DEPT,43500XS,2025-02-01,594839.0,naive
+TOTAL NEW VEHICLE DEPT,43500XS,2025-03-01,594839.0,naive
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-01-01,97984.33333333333,moving_avg
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-02-01,97984.33333333333,moving_avg
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-03-01,97984.33333333333,moving_avg
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-01-01,594839.0,naive
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-02-01,594839.0,naive
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-03-01,594839.0,naive
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-01-01,4074124.0,naive
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-02-01,4074124.0,naive
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-03-01,4074124.0,naive
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-01-01,37126.0,moving_avg
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-02-01,37126.0,moving_avg
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-03-01,37126.0,moving_avg
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-01-01,44552.0,seasonal_naive
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-02-01,31698.0,seasonal_naive
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-03-01,24819.0,seasonal_naive
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-01-01,0.0,naive
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-02-01,0.0,naive
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-03-01,0.0,naive
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-01-01,332609.3333333333,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-02-01,332609.3333333333,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-03-01,332609.3333333333,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-01-01,215469.33333333334,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-02-01,215469.33333333334,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-03-01,215469.33333333334,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-01-01,66911.33333333333,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-02-01,66911.33333333333,moving_avg
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-03-01,66911.33333333333,moving_avg
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-01-01,200003.0,naive
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-02-01,200003.0,naive
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-03-01,200003.0,naive
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-01-01,631265.0,naive
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-02-01,631265.0,naive
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-03-01,631265.0,naive
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-01-01,23252.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-02-01,19804.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-03-01,18988.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-01-01,72713.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-02-01,66284.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-03-01,64682.0,seasonal_naive
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-01-01,83.0,moving_avg
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-02-01,83.0,moving_avg
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-03-01,83.0,moving_avg
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-01-01,296667.6666666667,moving_avg
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-02-01,296667.6666666667,moving_avg
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-03-01,296667.6666666667,moving_avg
+TOTAL SALES,400000XS,2025-01-01,1081288.0,naive
+TOTAL SALES,400000XS,2025-02-01,1081288.0,naive
+TOTAL SALES,400000XS,2025-03-01,1081288.0,naive
+TOTAL SALES ,45500XS,2025-01-01,85781.0,moving_avg
+TOTAL SALES ,45500XS,2025-02-01,85781.0,moving_avg
+TOTAL SALES ,45500XS,2025-03-01,85781.0,moving_avg
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-01-01,72713.0,seasonal_naive
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-02-01,66284.0,seasonal_naive
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-03-01,64682.0,seasonal_naive
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-01-01,40423.0,moving_avg
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-02-01,40423.0,moving_avg
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-03-01,40423.0,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-01-01,13709.333333333334,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-02-01,13709.333333333334,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-03-01,13709.333333333334,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-01-01,10491.333333333334,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-02-01,10491.333333333334,moving_avg
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-03-01,10491.333333333334,moving_avg
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-01-01,11748.0,moving_avg
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-02-01,11748.0,moving_avg
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-03-01,11748.0,moving_avg
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-01-01,4474.333333333333,moving_avg
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-02-01,4474.333333333333,moving_avg
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-03-01,4474.333333333333,moving_avg
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-01-01,0.0,naive
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-02-01,0.0,naive
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-03-01,0.0,naive
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-01-01,397.0,moving_avg
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-02-01,397.0,moving_avg
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-03-01,397.0,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-01-01,60676.333333333336,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-02-01,60676.333333333336,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-03-01,60676.333333333336,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-01-01,85781.0,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-02-01,85781.0,moving_avg
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-03-01,85781.0,moving_avg
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-01-01,23.0,moving_avg
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-02-01,23.0,moving_avg
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-03-01,23.0,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-01-01,121206.33333333333,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-02-01,121206.33333333333,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-03-01,121206.33333333333,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-01-01,389031.6666666667,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-02-01,389031.6666666667,moving_avg
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-03-01,389031.6666666667,moving_avg
+TOTAL USED VEHICLE DEPT,44700XS,2025-01-01,420491.3333333333,moving_avg
+TOTAL USED VEHICLE DEPT,44700XS,2025-02-01,420491.3333333333,moving_avg
+TOTAL USED VEHICLE DEPT,44700XS,2025-03-01,420491.3333333333,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-01-01,144809.66666666666,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-02-01,144809.66666666666,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-03-01,144809.66666666666,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-01-01,420491.3333333333,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-02-01,420491.3333333333,moving_avg
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-03-01,420491.3333333333,moving_avg
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-01-01,1807207.0,naive
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-02-01,1807207.0,naive
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-03-01,1807207.0,naive
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-01-01,121206.33333333333,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-02-01,121206.33333333333,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-03-01,121206.33333333333,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-01-01,389031.6666666667,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-02-01,389031.6666666667,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-03-01,389031.6666666667,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-01-01,23.0,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-02-01,23.0,moving_avg
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-03-01,23.0,moving_avg
+Taxes - Other,8400D,2025-01-01,0.0,naive
+Taxes - Other,8400D,2025-02-01,0.0,naive
+Taxes - Other,8400D,2025-03-01,0.0,naive
+Taxes - Other,8401D,2025-01-01,0.0,naive
+Taxes - Other,8401D,2025-02-01,0.0,naive
+Taxes - Other,8401D,2025-03-01,0.0,naive
+Taxes - Other,8402D,2025-01-01,0.0,naive
+Taxes - Other,8402D,2025-02-01,0.0,naive
+Taxes - Other,8402D,2025-03-01,0.0,naive
+Taxes - Other,8404D,2025-01-01,0.0,naive
+Taxes - Other,8404D,2025-02-01,0.0,naive
+Taxes - Other,8404D,2025-03-01,0.0,naive
+Taxes - Other,8405D,2025-01-01,0.0,naive
+Taxes - Other,8405D,2025-02-01,0.0,naive
+Taxes - Other,8405D,2025-03-01,0.0,naive
+Taxes - Real Estate,8460D,2025-01-01,31210.666666666668,moving_avg
+Taxes - Real Estate,8460D,2025-02-01,31210.666666666668,moving_avg
+Taxes - Real Estate,8460D,2025-03-01,31210.666666666668,moving_avg
+Taxes - Real Estate,8461D,2025-01-01,28103.0,moving_avg
+Taxes - Real Estate,8461D,2025-02-01,28103.0,moving_avg
+Taxes - Real Estate,8461D,2025-03-01,28103.0,moving_avg
+Taxes - Real Estate,8462D,2025-01-01,717.0,moving_avg
+Taxes - Real Estate,8462D,2025-02-01,717.0,moving_avg
+Taxes - Real Estate,8462D,2025-03-01,717.0,moving_avg
+Taxes - Real Estate,8463D,2025-01-01,1673.6666666666667,moving_avg
+Taxes - Real Estate,8463D,2025-02-01,1673.6666666666667,moving_avg
+Taxes - Real Estate,8463D,2025-03-01,1673.6666666666667,moving_avg
+Taxes - Real Estate,8464D,2025-01-01,717.0,moving_avg
+Taxes - Real Estate,8464D,2025-02-01,717.0,moving_avg
+Taxes - Real Estate,8464D,2025-03-01,717.0,moving_avg
+Taxes - Real Estate,8465D,2025-01-01,0.0,naive
+Taxes - Real Estate,8465D,2025-02-01,0.0,naive
+Taxes - Real Estate,8465D,2025-03-01,0.0,naive
+Taxes Payable - Income,2250D,2025-01-01,0.0,naive
+Taxes Payable - Income,2250D,2025-02-01,0.0,naive
+Taxes Payable - Income,2250D,2025-03-01,0.0,naive
+Taxes Payable - Other,2260D,2025-01-01,-181226.0,naive
+Taxes Payable - Other,2260D,2025-02-01,-181226.0,naive
+Taxes Payable - Other,2260D,2025-03-01,-181226.0,naive
+Taxes Payable - Payroll,2230D,2025-01-01,4689.0,naive
+Taxes Payable - Payroll,2230D,2025-02-01,4689.0,naive
+Taxes Payable - Payroll,2230D,2025-03-01,4689.0,naive
+Taxes Payable - Sales,2240D,2025-01-01,0.0,naive
+Taxes Payable - Sales,2240D,2025-02-01,0.0,naive
+Taxes Payable - Sales,2240D,2025-03-01,0.0,naive
+Technicians,0978P,2025-01-01,3.0,moving_avg
+Technicians,0978P,2025-02-01,3.0,moving_avg
+Technicians,0978P,2025-03-01,3.0,moving_avg
+Technicians,0984P,2025-01-01,0.0,naive
+Technicians,0984P,2025-02-01,0.0,naive
+Technicians,0984P,2025-03-01,0.0,naive
+Technicians,0992P,2025-01-01,0.0,naive
+Technicians,0992P,2025-02-01,0.0,naive
+Technicians,0992P,2025-03-01,0.0,naive
+Technicians,550P,2025-01-01,3.0,moving_avg
+Technicians,550P,2025-02-01,3.0,moving_avg
+Technicians,550P,2025-03-01,3.0,moving_avg
+Technicians ,0966PZ,2025-01-01,0.0,naive
+Technicians ,0966PZ,2025-02-01,0.0,naive
+Technicians ,0966PZ,2025-03-01,0.0,naive
+Telephone,8360D,2025-01-01,873.3333333333334,moving_avg
+Telephone,8360D,2025-02-01,873.3333333333334,moving_avg
+Telephone,8360D,2025-03-01,873.3333333333334,moving_avg
+Telephone,8361D,2025-01-01,305.6666666666667,moving_avg
+Telephone,8361D,2025-02-01,305.6666666666667,moving_avg
+Telephone,8361D,2025-03-01,305.6666666666667,moving_avg
+Telephone,8362D,2025-01-01,131.0,moving_avg
+Telephone,8362D,2025-02-01,131.0,moving_avg
+Telephone,8362D,2025-03-01,131.0,moving_avg
+Telephone,8363D,2025-01-01,305.6666666666667,moving_avg
+Telephone,8363D,2025-02-01,305.6666666666667,moving_avg
+Telephone,8363D,2025-03-01,305.6666666666667,moving_avg
+Telephone,8364D,2025-01-01,131.0,moving_avg
+Telephone,8364D,2025-02-01,131.0,moving_avg
+Telephone,8364D,2025-03-01,131.0,moving_avg
+Telephone,8365D,2025-01-01,0.0,naive
+Telephone,8365D,2025-02-01,0.0,naive
+Telephone,8365D,2025-03-01,0.0,naive
+Terminated YTD,570AP,2025-01-01,0.0,naive
+Terminated YTD,570AP,2025-02-01,0.0,naive
+Terminated YTD,570AP,2025-03-01,0.0,naive
+Terminated YTD,570BP,2025-01-01,0.0,naive
+Terminated YTD,570BP,2025-02-01,0.0,naive
+Terminated YTD,570BP,2025-03-01,0.0,naive
+Terminated YTD,570CP,2025-01-01,0.0,naive
+Terminated YTD,570CP,2025-02-01,0.0,naive
+Terminated YTD,570CP,2025-03-01,0.0,naive
+Terminated YTD,570DP,2025-01-01,0.0,naive
+Terminated YTD,570DP,2025-02-01,0.0,naive
+Terminated YTD,570DP,2025-03-01,0.0,naive
+Terminated YTD,570EP,2025-01-01,0.0,naive
+Terminated YTD,570EP,2025-02-01,0.0,naive
+Terminated YTD,570EP,2025-03-01,0.0,naive
+Terminated YTD,570TP,2025-01-01,0.0,naive
+Terminated YTD,570TP,2025-02-01,0.0,naive
+Terminated YTD,570TP,2025-03-01,0.0,naive
+Test Drives,3001ST,2025-01-01,29.0,naive
+Test Drives,3001ST,2025-02-01,29.0,naive
+Test Drives,3001ST,2025-03-01,29.0,naive
+Test Drives,3011ST,2025-01-01,26.666666666666668,moving_avg
+Test Drives,3011ST,2025-02-01,26.666666666666668,moving_avg
+Test Drives,3011ST,2025-03-01,26.666666666666668,moving_avg
+Tire Inventory Over 12 Mo's ($),50211SD,2025-01-01,0.0,naive
+Tire Inventory Over 12 Mo's ($),50211SD,2025-02-01,0.0,naive
+Tire Inventory Over 12 Mo's ($),50211SD,2025-03-01,0.0,naive
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-01-01,0.0,naive
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-02-01,0.0,naive
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-03-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),50212SD,2025-01-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),50212SD,2025-02-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),50212SD,2025-03-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-01-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-02-01,0.0,naive
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-03-01,0.0,naive
+Tire Storage,5290G,2025-01-01,0.0,naive
+Tire Storage,5290G,2025-02-01,0.0,naive
+Tire Storage,5290G,2025-03-01,0.0,naive
+Tire Storage,5290S,2025-01-01,0.0,naive
+Tire Storage,5290S,2025-02-01,0.0,naive
+Tire Storage,5290S,2025-03-01,0.0,naive
+Tire Storage,5290U,2025-01-01,0.0,naive
+Tire Storage,5290U,2025-02-01,0.0,naive
+Tire Storage,5290U,2025-03-01,0.0,naive
+Tires,5700G,2025-01-01,3946.0,naive
+Tires,5700G,2025-02-01,3946.0,naive
+Tires,5700G,2025-03-01,3946.0,naive
+Tires,5700S,2025-01-01,18236.0,naive
+Tires,5700S,2025-02-01,18236.0,naive
+Tires,5700S,2025-03-01,18236.0,naive
+Tires,5700U,2025-01-01,34.0,naive
+Tires,5700U,2025-02-01,34.0,naive
+Tires,5700U,2025-03-01,34.0,naive
+Total,5000DP,2025-01-01,1.0,naive
+Total,5000DP,2025-02-01,1.0,naive
+Total,5000DP,2025-03-01,1.0,naive
+Total,5000EP,2025-01-01,0.0,naive
+Total,5000EP,2025-02-01,0.0,naive
+Total,5000EP,2025-03-01,0.0,naive
+Total,5000XP,2025-01-01,25.0,naive
+Total,5000XP,2025-02-01,25.0,naive
+Total,5000XP,2025-03-01,25.0,naive
+Total Bays Available,50004SDZ,2025-01-01,0.0,naive
+Total Bays Available,50004SDZ,2025-02-01,0.0,naive
+Total Bays Available,50004SDZ,2025-03-01,0.0,naive
+Total Bays Available,50104SDZ,2025-01-01,0.0,naive
+Total Bays Available,50104SDZ,2025-02-01,0.0,naive
+Total Bays Available,50104SDZ,2025-03-01,0.0,naive
+Total Bays Available,6156DZ,2025-01-01,5.0,seasonal_naive
+Total Bays Available,6156DZ,2025-02-01,1.0,seasonal_naive
+Total Bays Available,6156DZ,2025-03-01,1.0,seasonal_naive
+Total Bays Available,6160DZ,2025-01-01,0.0,naive
+Total Bays Available,6160DZ,2025-02-01,0.0,naive
+Total Bays Available,6160DZ,2025-03-01,0.0,naive
+Total Bays Available,6161DZ,2025-01-01,0.0,naive
+Total Bays Available,6161DZ,2025-02-01,0.0,naive
+Total Bays Available,6161DZ,2025-03-01,0.0,naive
+Training,8140D,2025-01-01,0.0,seasonal_naive
+Training,8140D,2025-02-01,0.0,seasonal_naive
+Training,8140D,2025-03-01,0.0,seasonal_naive
+Training,8141D,2025-01-01,0.0,seasonal_naive
+Training,8141D,2025-02-01,0.0,seasonal_naive
+Training,8141D,2025-03-01,0.0,seasonal_naive
+Training,8142D,2025-01-01,0.0,seasonal_naive
+Training,8142D,2025-02-01,0.0,seasonal_naive
+Training,8142D,2025-03-01,0.0,seasonal_naive
+Training,8143D,2025-01-01,0.0,moving_avg
+Training,8143D,2025-02-01,0.0,moving_avg
+Training,8143D,2025-03-01,0.0,moving_avg
+Training,8144D,2025-01-01,0.0,naive
+Training,8144D,2025-02-01,0.0,naive
+Training,8144D,2025-03-01,0.0,naive
+Training,8145D,2025-01-01,0.0,naive
+Training,8145D,2025-02-01,0.0,naive
+Training,8145D,2025-03-01,0.0,naive
+Travel & Entertainment,8290D,2025-01-01,0.0,seasonal_naive
+Travel & Entertainment,8290D,2025-02-01,278.0,seasonal_naive
+Travel & Entertainment,8290D,2025-03-01,0.0,seasonal_naive
+Travel & Entertainment,8291D,2025-01-01,0.0,seasonal_naive
+Travel & Entertainment,8291D,2025-02-01,97.0,seasonal_naive
+Travel & Entertainment,8291D,2025-03-01,0.0,seasonal_naive
+Travel & Entertainment,8292D,2025-01-01,0.0,seasonal_naive
+Travel & Entertainment,8292D,2025-02-01,42.0,seasonal_naive
+Travel & Entertainment,8292D,2025-03-01,0.0,seasonal_naive
+Travel & Entertainment ,8293D,2025-01-01,0.0,seasonal_naive
+Travel & Entertainment ,8293D,2025-02-01,97.0,seasonal_naive
+Travel & Entertainment ,8293D,2025-03-01,0.0,seasonal_naive
+Travel & Entertainment ,8294D,2025-01-01,0.0,seasonal_naive
+Travel & Entertainment ,8294D,2025-02-01,42.0,seasonal_naive
+Travel & Entertainment ,8294D,2025-03-01,0.0,seasonal_naive
+Travel & Entertainment ,8295D,2025-01-01,0.0,naive
+Travel & Entertainment ,8295D,2025-02-01,0.0,naive
+Travel & Entertainment ,8295D,2025-03-01,0.0,naive
+UV Months Supply (Guide 1.5 months),6078DZ,2025-01-01,0.6833333333333335,moving_avg
+UV Months Supply (Guide 1.5 months),6078DZ,2025-02-01,0.6833333333333335,moving_avg
+UV Months Supply (Guide 1.5 months),6078DZ,2025-03-01,0.6833333333333335,moving_avg
+UV Stock Turn (Guide >7) ,6079DZ,2025-01-01,-0.5466666666666667,moving_avg
+UV Stock Turn (Guide >7) ,6079DZ,2025-02-01,-0.5466666666666667,moving_avg
+UV Stock Turn (Guide >7) ,6079DZ,2025-03-01,-0.5466666666666667,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-01-01,-0.6666666666666669,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-02-01,-0.6666666666666669,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-03-01,-0.6666666666666669,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-01-01,4.599999999999999,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-02-01,4.599999999999999,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-03-01,4.599999999999999,moving_avg
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-01-01,0.0,seasonal_naive
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-02-01,0.5,seasonal_naive
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-03-01,-0.26,seasonal_naive
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-01-01,11.5,moving_avg
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-02-01,11.5,moving_avg
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-03-01,11.5,moving_avg
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-01-01,0.0,seasonal_naive
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-02-01,1.17,seasonal_naive
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-03-01,-0.6099999999999999,seasonal_naive
+Ups,3000ST,2025-01-01,40.333333333333336,moving_avg
+Ups,3000ST,2025-02-01,40.333333333333336,moving_avg
+Ups,3000ST,2025-03-01,40.333333333333336,moving_avg
+Ups,3010ST,2025-01-01,30.0,moving_avg
+Ups,3010ST,2025-02-01,30.0,moving_avg
+Ups,3010ST,2025-03-01,30.0,moving_avg
+Used Retail to Wholesale Ratio ,6081DZ,2025-01-01,0.0,naive
+Used Retail to Wholesale Ratio ,6081DZ,2025-02-01,0.0,naive
+Used Retail to Wholesale Ratio ,6081DZ,2025-03-01,0.0,naive
+Used Retail to Wholesale Ratio ,6089DZ,2025-01-01,0.0,naive
+Used Retail to Wholesale Ratio ,6089DZ,2025-02-01,0.0,naive
+Used Retail to Wholesale Ratio ,6089DZ,2025-03-01,0.0,naive
+Used Retail to Wholesale Ratio ,6097DZ,2025-01-01,0.0,naive
+Used Retail to Wholesale Ratio ,6097DZ,2025-02-01,0.0,naive
+Used Retail to Wholesale Ratio ,6097DZ,2025-03-01,0.0,naive
+Used Vehicle Department,M17000BD,2025-01-01,66911.33333333333,moving_avg
+Used Vehicle Department,M17000BD,2025-02-01,66911.33333333333,moving_avg
+Used Vehicle Department,M17000BD,2025-03-01,66911.33333333333,moving_avg
+Used Vehicle Department,M18000BD,2025-01-01,18613.0,seasonal_naive
+Used Vehicle Department,M18000BD,2025-02-01,26861.0,seasonal_naive
+Used Vehicle Department,M18000BD,2025-03-01,18679.0,seasonal_naive
+Used Vehicle Department,M44700XG,2025-01-01,144809.66666666666,moving_avg
+Used Vehicle Department,M44700XG,2025-02-01,144809.66666666666,moving_avg
+Used Vehicle Department,M44700XG,2025-03-01,144809.66666666666,moving_avg
+Used Vehicles,1450D,2025-01-01,1004095.0,naive
+Used Vehicles,1450D,2025-02-01,1004095.0,naive
+Used Vehicles,1450D,2025-03-01,1004095.0,naive
+Used Vehicles,2111D,2025-01-01,1388833.0,naive
+Used Vehicles,2111D,2025-02-01,1388833.0,naive
+Used Vehicles,2111D,2025-03-01,1388833.0,naive
+Used Vehicles - Other Makes ,1495D,2025-01-01,803112.0,naive
+Used Vehicles - Other Makes ,1495D,2025-02-01,803112.0,naive
+Used Vehicles - Other Makes ,1495D,2025-03-01,803112.0,naive
+Used Vehicles - Retail (CPO),3580G,2025-01-01,11498.0,naive
+Used Vehicles - Retail (CPO),3580G,2025-02-01,11498.0,naive
+Used Vehicles - Retail (CPO),3580G,2025-03-01,11498.0,naive
+Used Vehicles - Retail (CPO),3580S,2025-01-01,51998.0,naive
+Used Vehicles - Retail (CPO),3580S,2025-02-01,51998.0,naive
+Used Vehicles - Retail (CPO),3580S,2025-03-01,51998.0,naive
+Used Vehicles - Retail (CPO),3580U,2025-01-01,2.0,naive
+Used Vehicles - Retail (CPO),3580U,2025-02-01,2.0,naive
+Used Vehicles - Retail (CPO),3580U,2025-03-01,2.0,naive
+Used Vehicles - Retail (Non CPO),3500G,2025-01-01,133632.33333333334,moving_avg
+Used Vehicles - Retail (Non CPO),3500G,2025-02-01,133632.33333333334,moving_avg
+Used Vehicles - Retail (Non CPO),3500G,2025-03-01,133632.33333333334,moving_avg
+Used Vehicles - Retail (Non CPO),3500S,2025-01-01,357333.0,moving_avg
+Used Vehicles - Retail (Non CPO),3500S,2025-02-01,357333.0,moving_avg
+Used Vehicles - Retail (Non CPO),3500S,2025-03-01,357333.0,moving_avg
+Used Vehicles - Retail (Non CPO),3500U,2025-01-01,21.666666666666668,moving_avg
+Used Vehicles - Retail (Non CPO),3500U,2025-02-01,21.666666666666668,moving_avg
+Used Vehicles - Retail (Non CPO),3500U,2025-03-01,21.666666666666668,moving_avg
+Used Vehicles - Retail (Other Makes),3506G,2025-01-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506G,2025-02-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506G,2025-03-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506S,2025-01-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506S,2025-02-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506S,2025-03-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506U,2025-01-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506U,2025-02-01,0.0,moving_avg
+Used Vehicles - Retail (Other Makes),3506U,2025-03-01,0.0,moving_avg
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-01-01,-2695.0,naive
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-02-01,-2695.0,naive
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-03-01,-2695.0,naive
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-01-01,-17291.333333333332,moving_avg
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-02-01,-17291.333333333332,moving_avg
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-03-01,-17291.333333333332,moving_avg
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-01-01,0.0,moving_avg
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-02-01,0.0,moving_avg
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-03-01,0.0,moving_avg
+Used Vehicles - Wholesale,3520G,2025-01-01,0.0,naive
+Used Vehicles - Wholesale,3520G,2025-02-01,0.0,naive
+Used Vehicles - Wholesale,3520G,2025-03-01,0.0,naive
+Used Vehicles - Wholesale,3520S,2025-01-01,0.0,naive
+Used Vehicles - Wholesale,3520S,2025-02-01,0.0,naive
+Used Vehicles - Wholesale,3520S,2025-03-01,0.0,naive
+Used Vehicles - Wholesale,3520U,2025-01-01,0.0,naive
+Used Vehicles - Wholesale,3520U,2025-02-01,0.0,naive
+Used Vehicles - Wholesale,3520U,2025-03-01,0.0,naive
+Used to New Retail Ratio,6080DZ,2025-01-01,1.0,seasonal_naive
+Used to New Retail Ratio,6080DZ,2025-02-01,0.24,seasonal_naive
+Used to New Retail Ratio,6080DZ,2025-03-01,0.1499999999999999,seasonal_naive
+Used to New Retail Ratio,6088DZ,2025-01-01,1.0,seasonal_naive
+Used to New Retail Ratio,6088DZ,2025-02-01,0.1299999999999999,seasonal_naive
+Used to New Retail Ratio,6088DZ,2025-03-01,0.08,seasonal_naive
+Used to New Retail Ratio,6096DZ,2025-01-01,0.0,seasonal_naive
+Used to New Retail Ratio,6096DZ,2025-02-01,0.11,seasonal_naive
+Used to New Retail Ratio,6096DZ,2025-03-01,0.0699999999999999,seasonal_naive
+Vehicle Accounts - Customers,1100AD,2025-01-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100AD,2025-02-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100AD,2025-03-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100BD,2025-01-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100BD,2025-02-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100BD,2025-03-01,49824.333333333336,moving_avg
+Vehicle Accounts - Customers,1100CD,2025-01-01,0.0,naive
+Vehicle Accounts - Customers,1100CD,2025-02-01,0.0,naive
+Vehicle Accounts - Customers,1100CD,2025-03-01,0.0,naive
+Vehicle Accounts - Customers,1100D,2025-01-01,49824.666666666664,moving_avg
+Vehicle Accounts - Customers,1100D,2025-02-01,49824.666666666664,moving_avg
+Vehicle Accounts - Customers,1100D,2025-03-01,49824.666666666664,moving_avg
+Vehicle Accounts - Customers,1100DD,2025-01-01,0.0,naive
+Vehicle Accounts - Customers,1100DD,2025-02-01,0.0,naive
+Vehicle Accounts - Customers,1100DD,2025-03-01,0.0,naive
+Vehicle Accounts - Customers,1100ED,2025-01-01,0.0,naive
+Vehicle Accounts - Customers,1100ED,2025-02-01,0.0,naive
+Vehicle Accounts - Customers,1100ED,2025-03-01,0.0,naive
+Vehicle Accounts - Customers,1100FD,2025-01-01,0.0,naive
+Vehicle Accounts - Customers,1100FD,2025-02-01,0.0,naive
+Vehicle Accounts - Customers,1100FD,2025-03-01,0.0,naive
+Vehicle Lien Pay-Off,2050D,2025-01-01,133288.0,seasonal_naive
+Vehicle Lien Pay-Off,2050D,2025-02-01,149864.0,seasonal_naive
+Vehicle Lien Pay-Off,2050D,2025-03-01,68100.0,seasonal_naive
+Volume Discount,5720G,2025-01-01,0.0,naive
+Volume Discount,5720G,2025-02-01,0.0,naive
+Volume Discount,5720G,2025-03-01,0.0,naive
+Volume Discount,5720U,2025-01-01,0.0,naive
+Volume Discount,5720U,2025-02-01,0.0,naive
+Volume Discount,5720U,2025-03-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-01-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-02-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-03-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-01-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-02-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-03-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-01-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-02-01,0.0,naive
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-03-01,0.0,naive
+Warranty Claim Body Shop Labour,5420G,2025-01-01,0.0,naive
+Warranty Claim Body Shop Labour,5420G,2025-02-01,0.0,naive
+Warranty Claim Body Shop Labour,5420G,2025-03-01,0.0,naive
+Warranty Claim Body Shop Labour,5420S,2025-01-01,0.0,naive
+Warranty Claim Body Shop Labour,5420S,2025-02-01,0.0,naive
+Warranty Claim Body Shop Labour,5420S,2025-03-01,0.0,naive
+Warranty Claim Body Shop Labour,5420U,2025-01-01,0.0,naive
+Warranty Claim Body Shop Labour,5420U,2025-02-01,0.0,naive
+Warranty Claim Body Shop Labour,5420U,2025-03-01,0.0,naive
+Warranty Hours Sold,50014SD,2025-01-01,4.0,naive
+Warranty Hours Sold,50014SD,2025-02-01,4.0,naive
+Warranty Hours Sold,50014SD,2025-03-01,4.0,naive
+Warranty Labour - MITSUBISHI,5040G,2025-01-01,2197.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040G,2025-02-01,2496.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040G,2025-03-01,3104.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040S,2025-01-01,3316.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040S,2025-02-01,4186.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040S,2025-03-01,4552.0,seasonal_naive
+Warranty Labour - MITSUBISHI,5040U,2025-01-01,78.0,naive
+Warranty Labour - MITSUBISHI,5040U,2025-02-01,78.0,naive
+Warranty Labour - MITSUBISHI,5040U,2025-03-01,78.0,naive
+Warranty Labour Rate,5040D,2025-01-01,114.0,naive
+Warranty Labour Rate,5040D,2025-02-01,114.0,naive
+Warranty Labour Rate,5040D,2025-03-01,114.0,naive
+Warranty Labour Rate,5041D,2025-01-01,0.0,naive
+Warranty Labour Rate,5041D,2025-02-01,0.0,naive
+Warranty Labour Rate,5041D,2025-03-01,0.0,naive
+Warranty P&A RO,5240G,2025-01-01,15529.0,moving_avg
+Warranty P&A RO,5240G,2025-02-01,15529.0,moving_avg
+Warranty P&A RO,5240G,2025-03-01,15529.0,moving_avg
+Warranty P&A RO,5240S,2025-01-01,6477.0,naive
+Warranty P&A RO,5240S,2025-02-01,6477.0,naive
+Warranty P&A RO,5240S,2025-03-01,6477.0,naive
+Warranty P&A RO,5240U,2025-01-01,0.0,naive
+Warranty P&A RO,5240U,2025-02-01,0.0,naive
+Warranty P&A RO,5240U,2025-03-01,0.0,naive
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-01-01,-0.7200000000000001,moving_avg
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-02-01,-0.7200000000000001,moving_avg
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-03-01,-0.7200000000000001,moving_avg
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-01-01,-0.046666666666666724,moving_avg
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-02-01,-0.046666666666666724,moving_avg
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-03-01,-0.046666666666666724,moving_avg
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-01-01,0.0,seasonal_naive
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-02-01,-0.29,seasonal_naive
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-03-01,0.7,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-01-01,45354.0,moving_avg
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-02-01,45354.0,moving_avg
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-03-01,45354.0,moving_avg
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-01-01,1155.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-02-01,1155.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-03-01,1155.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-01-01,-431.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-02-01,696.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-03-01,194.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-01-01,250.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-02-01,250.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-03-01,250.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-01-01,36964.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-02-01,34251.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-03-01,33822.0,seasonal_naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-01-01,0.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-02-01,0.0,naive
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-03-01,0.0,naive
+Warranty Receivables - Mitsubishi,1280D,2025-01-01,45354.0,moving_avg
+Warranty Receivables - Mitsubishi,1280D,2025-02-01,45354.0,moving_avg
+Warranty Receivables - Mitsubishi,1280D,2025-03-01,45354.0,moving_avg
+Warranty Receivables - Other,1285D,2025-01-01,0.0,naive
+Warranty Receivables - Other,1285D,2025-02-01,0.0,naive
+Warranty Receivables - Other,1285D,2025-03-01,0.0,naive
+Wholesale Credit Line,2100CLD,2025-01-01,0.0,naive
+Wholesale Credit Line,2100CLD,2025-02-01,0.0,naive
+Wholesale Credit Line,2100CLD,2025-03-01,0.0,naive
+Wholesale Credit Line,6058DZ,2025-01-01,0.0,naive
+Wholesale Credit Line,6058DZ,2025-02-01,0.0,naive
+Wholesale Credit Line,6058DZ,2025-03-01,0.0,naive
+Wholesale P&A,5330G,2025-01-01,3607.0,naive
+Wholesale P&A,5330G,2025-02-01,3607.0,naive
+Wholesale P&A,5330G,2025-03-01,3607.0,naive
+Wholesale P&A,5330S,2025-01-01,17007.0,naive
+Wholesale P&A,5330S,2025-02-01,17007.0,naive
+Wholesale P&A,5330S,2025-03-01,17007.0,naive
+Wholesale P&A,5330U,2025-01-01,25.333333333333332,moving_avg
+Wholesale P&A,5330U,2025-02-01,25.333333333333332,moving_avg
+Wholesale P&A,5330U,2025-03-01,25.333333333333332,moving_avg
+Work in Process - Body Shop Labour,1552D,2025-01-01,0.0,naive
+Work in Process - Body Shop Labour,1552D,2025-02-01,0.0,naive
+Work in Process - Body Shop Labour,1552D,2025-03-01,0.0,naive
+Work in Process - Mechanical Labour,1551D,2025-01-01,25750.333333333332,moving_avg
+Work in Process - Mechanical Labour,1551D,2025-02-01,25750.333333333332,moving_avg
+Work in Process - Mechanical Labour,1551D,2025-03-01,25750.333333333332,moving_avg
+Writes,3002ST,2025-01-01,15.0,naive
+Writes,3002ST,2025-02-01,15.0,naive
+Writes,3002ST,2025-03-01,15.0,naive
+Writes,3012ST,2025-01-01,22.0,moving_avg
+Writes,3012ST,2025-02-01,22.0,moving_avg
+Writes,3012ST,2025-03-01,22.0,moving_avg

@@ -1,0 +1,3610 @@
+english_name,account_id,ds,y_hat
+ Bonuses - Employees,8503D,2025-01-01,0.0
+ Bonuses - Employees,8503D,2025-02-01,0.0
+ Bonuses - Employees,8503D,2025-03-01,0.0
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-01-01,0.3166666666666666
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-02-01,0.3166666666666666
+ NV Months Supply (Guide 2.5 months),6063DZ,2025-03-01,0.3166666666666666
+ Taxes - Other,8403D,2025-01-01,0.0
+ Taxes - Other,8403D,2025-02-01,0.0
+ Taxes - Other,8403D,2025-03-01,0.0
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-01-01,-1.6666666666666667
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-02-01,-1.6666666666666667
+ UV Units Sold Per UV Sales Rep.,6076DZ,2025-03-01,-1.6666666666666667
+# of Productive Bays,50001SD,2025-01-01,4.0
+# of Productive Bays,50001SD,2025-02-01,4.0
+# of Productive Bays,50001SD,2025-03-01,4.0
+# of Productive Bays,50001SDY,2025-01-01,44.0
+# of Productive Bays,50001SDY,2025-02-01,44.0
+# of Productive Bays,50001SDY,2025-03-01,44.0
+# of Productive Bays ,50101SD,2025-01-01,0.0
+# of Productive Bays ,50101SD,2025-02-01,0.0
+# of Productive Bays ,50101SD,2025-03-01,0.0
+# of Productive Bays ,50101SDY,2025-01-01,0.0
+# of Productive Bays ,50101SDY,2025-02-01,0.0
+# of Productive Bays ,50101SDY,2025-03-01,0.0
+# of Working Days,50108SD,2025-01-01,0.0
+# of Working Days,50108SD,2025-02-01,0.0
+# of Working Days,50108SD,2025-03-01,0.0
+# of Working Days ,50008SD,2025-01-01,21.0
+# of Working Days ,50008SD,2025-02-01,21.0
+# of Working Days ,50008SD,2025-03-01,21.0
+% Return on Operating Investment,6026DZ,2025-01-01,-1.5566666666666666
+% Return on Operating Investment,6026DZ,2025-02-01,-1.5566666666666666
+% Return on Operating Investment,6026DZ,2025-03-01,-1.5566666666666666
+% Return on Sales (Before Income Tax),6025DZ,2025-01-01,0.25333333333333335
+% Return on Sales (Before Income Tax),6025DZ,2025-02-01,0.25333333333333335
+% Return on Sales (Before Income Tax),6025DZ,2025-03-01,0.25333333333333335
+% Return on Sales (Before Income Tax),6036DZ,2025-01-01,0.03666666666666663
+% Return on Sales (Before Income Tax),6036DZ,2025-02-01,0.03666666666666663
+% Return on Sales (Before Income Tax),6036DZ,2025-03-01,0.03666666666666663
+% of Labour Sales CP,6112DZ,2025-01-01,1.3699999999999986
+% of Labour Sales CP,6112DZ,2025-02-01,1.3699999999999986
+% of Labour Sales CP,6112DZ,2025-03-01,1.3699999999999986
+% of Labour Sales CP,6130DZ,2025-01-01,1.1633333333333316
+% of Labour Sales CP,6130DZ,2025-02-01,1.1633333333333316
+% of Labour Sales CP,6130DZ,2025-03-01,1.1633333333333316
+% of Labour Sales CP,6148DZ,2025-01-01,0.20333333333333314
+% of Labour Sales CP,6148DZ,2025-02-01,0.20333333333333314
+% of Labour Sales CP,6148DZ,2025-03-01,0.20333333333333314
+% of Labour Sales CPO Warranty,6115DZ,2025-01-01,0.0
+% of Labour Sales CPO Warranty,6115DZ,2025-02-01,0.0
+% of Labour Sales CPO Warranty,6115DZ,2025-03-01,0.0
+% of Labour Sales CPO Warranty,6133DZ,2025-01-01,0.0
+% of Labour Sales CPO Warranty,6133DZ,2025-02-01,0.0
+% of Labour Sales CPO Warranty,6133DZ,2025-03-01,0.0
+% of Labour Sales CPO Warranty,6151DZ,2025-01-01,0.0
+% of Labour Sales CPO Warranty,6151DZ,2025-02-01,0.0
+% of Labour Sales CPO Warranty,6151DZ,2025-03-01,0.0
+% of Labour Sales DCP,6114DZ,2025-01-01,0.0
+% of Labour Sales DCP,6114DZ,2025-02-01,0.0
+% of Labour Sales DCP,6114DZ,2025-03-01,0.0
+% of Labour Sales DCP,6132DZ,2025-01-01,0.0
+% of Labour Sales DCP,6132DZ,2025-02-01,0.0
+% of Labour Sales DCP,6132DZ,2025-03-01,0.0
+% of Labour Sales DCP,6150DZ,2025-01-01,0.0
+% of Labour Sales DCP,6150DZ,2025-02-01,0.0
+% of Labour Sales DCP,6150DZ,2025-03-01,0.0
+% of Labour Sales Internal,6116DZ,2025-01-01,-1.3033333333333335
+% of Labour Sales Internal,6116DZ,2025-02-01,-1.3033333333333335
+% of Labour Sales Internal,6116DZ,2025-03-01,-1.3033333333333335
+% of Labour Sales Internal,6134DZ,2025-01-01,-1.2200000000000013
+% of Labour Sales Internal,6134DZ,2025-02-01,-1.2200000000000013
+% of Labour Sales Internal,6134DZ,2025-03-01,-1.2200000000000013
+% of Labour Sales Internal,6152DZ,2025-01-01,-0.07999999999999947
+% of Labour Sales Internal,6152DZ,2025-02-01,-0.07999999999999947
+% of Labour Sales Internal,6152DZ,2025-03-01,-0.07999999999999947
+% of Labour Sales Other,6117DZ,2025-01-01,0.0
+% of Labour Sales Other,6117DZ,2025-02-01,0.0
+% of Labour Sales Other,6117DZ,2025-03-01,0.0
+% of Labour Sales Other,6135DZ,2025-01-01,0.0
+% of Labour Sales Other,6135DZ,2025-02-01,0.0
+% of Labour Sales Other,6135DZ,2025-03-01,0.0
+% of Labour Sales Other,6153DZ,2025-01-01,0.0
+% of Labour Sales Other,6153DZ,2025-02-01,0.0
+% of Labour Sales Other,6153DZ,2025-03-01,0.0
+% of Labour Sales Warranty,6113DZ,2025-01-01,-0.06666666666666643
+% of Labour Sales Warranty,6113DZ,2025-02-01,-0.06666666666666643
+% of Labour Sales Warranty,6113DZ,2025-03-01,-0.06666666666666643
+% of Labour Sales Warranty,6131DZ,2025-01-01,0.05999999999999991
+% of Labour Sales Warranty,6131DZ,2025-02-01,0.05999999999999991
+% of Labour Sales Warranty,6131DZ,2025-03-01,0.05999999999999991
+% of Labour Sales Warranty,6149DZ,2025-01-01,-0.12333333333333336
+% of Labour Sales Warranty,6149DZ,2025-02-01,-0.12333333333333336
+% of Labour Sales Warranty,6149DZ,2025-03-01,-0.12333333333333336
+"(
+Cars
+ )",1430CU,2025-01-01,0.0
+"(
+Cars
+ )",1430CU,2025-02-01,0.0
+"(
+Cars
+ )",1430CU,2025-03-01,0.0
+"(
+Cars
+ )",1440CU,2025-01-01,0.0
+"(
+Cars
+ )",1440CU,2025-02-01,0.0
+"(
+Cars
+ )",1440CU,2025-03-01,0.0
+"(
+Cars
+)",1430TU,2025-01-01,0.0
+"(
+Cars
+)",1430TU,2025-02-01,0.0
+"(
+Cars
+)",1430TU,2025-03-01,0.0
+"(
+Cars
+)",1450UU,2025-01-01,6.0
+"(
+Cars
+)",1450UU,2025-02-01,6.0
+"(
+Cars
+)",1450UU,2025-03-01,6.0
+"(
+Cars
+)",1490UU,2025-01-01,0.0
+"(
+Cars
+)",1490UU,2025-02-01,0.0
+"(
+Cars
+)",1490UU,2025-03-01,0.0
+"(
+Cars
+)",1495UU,2025-01-01,36.666666666666664
+"(
+Cars
+)",1495UU,2025-02-01,36.666666666666664
+"(
+Cars
+)",1495UU,2025-03-01,36.666666666666664
+"(
+Cars
+)",24000UU,2025-01-01,42.666666666666664
+"(
+Cars
+)",24000UU,2025-02-01,42.666666666666664
+"(
+Cars
+)",24000UU,2025-03-01,42.666666666666664
+"(
+Eclipse
+Cross
+)",1420QTU,2025-01-01,13.0
+"(
+Eclipse
+Cross
+)",1420QTU,2025-02-01,13.0
+"(
+Eclipse
+Cross
+)",1420QTU,2025-03-01,13.0
+"(
+Out.
+PHEV
+)",1420PTU,2025-01-01,34.0
+"(
+Out.
+PHEV
+)",1420PTU,2025-02-01,34.0
+"(
+Out.
+PHEV
+)",1420PTU,2025-03-01,34.0
+"(
+Outlander
+)",1420OTU,2025-01-01,21.0
+"(
+Outlander
+)",1420OTU,2025-02-01,21.0
+"(
+Outlander
+)",1420OTU,2025-03-01,21.0
+"(
+RVR
+ )",1420RTU,2025-01-01,5.0
+"(
+RVR
+ )",1420RTU,2025-02-01,5.0
+"(
+RVR
+ )",1420RTU,2025-03-01,5.0
+"(
+SUVs
+ )",1440TU,2025-01-01,0.0
+"(
+SUVs
+ )",1440TU,2025-02-01,0.0
+"(
+SUVs
+ )",1440TU,2025-03-01,0.0
+"(
+SUVs
+)",1450VV,2025-01-01,18.666666666666668
+"(
+SUVs
+)",1450VV,2025-02-01,18.666666666666668
+"(
+SUVs
+)",1450VV,2025-03-01,18.666666666666668
+"(
+SUVs
+)",1490VV,2025-01-01,0.0
+"(
+SUVs
+)",1490VV,2025-02-01,0.0
+"(
+SUVs
+)",1490VV,2025-03-01,0.0
+"(
+Trucks
+)",1495VV,2025-01-01,0.0
+"(
+Trucks
+)",1495VV,2025-02-01,0.0
+"(
+Trucks
+)",1495VV,2025-03-01,0.0
+"(
+Trucks
+)",24000VV,2025-01-01,18.666666666666668
+"(
+Trucks
+)",24000VV,2025-02-01,18.666666666666668
+"(
+Trucks
+)",24000VV,2025-03-01,18.666666666666668
+( Mirage ),1400MCU,2025-01-01,4.0
+( Mirage ),1400MCU,2025-02-01,4.0
+( Mirage ),1400MCU,2025-03-01,4.0
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-01-01,792331.6666666666
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-02-01,792331.6666666666
+(Assets Line 50 minus Liabilities Line 27),800000D,2025-03-01,792331.6666666666
+(Manufacturer Requirement),800001D,2025-01-01,0.0
+(Manufacturer Requirement),800001D,2025-02-01,0.0
+(Manufacturer Requirement),800001D,2025-03-01,0.0
++ / -,6029DZ,2025-01-01,-44132.0
++ / -,6029DZ,2025-02-01,-44132.0
++ / -,6029DZ,2025-03-01,-44132.0
+0 - 3 Months ,50040ST,2025-01-01,619.3333333333334
+0 - 3 Months ,50040ST,2025-02-01,619.3333333333334
+0 - 3 Months ,50040ST,2025-03-01,619.3333333333334
+0 - 3 Months ,50045ST,2025-01-01,78701.0
+0 - 3 Months ,50045ST,2025-02-01,78701.0
+0 - 3 Months ,50045ST,2025-03-01,78701.0
+1 - 30 Days,50030ST,2025-01-01,0.0
+1 - 30 Days,50030ST,2025-02-01,0.0
+1 - 30 Days,50030ST,2025-03-01,0.0
+1 - 30 Days,50035ST,2025-01-01,343241.3333333333
+1 - 30 Days,50035ST,2025-02-01,343241.3333333333
+1 - 30 Days,50035ST,2025-03-01,343241.3333333333
+1 - 30 Days ,50020ST,2025-01-01,21.666666666666668
+1 - 30 Days ,50020ST,2025-02-01,21.666666666666668
+1 - 30 Days ,50020ST,2025-03-01,21.666666666666668
+1 - 30 Days ,50025ST,2025-01-01,970833.6666666666
+1 - 30 Days ,50025ST,2025-02-01,970833.6666666666
+1 - 30 Days ,50025ST,2025-03-01,970833.6666666666
+12+ Months ,50043ST,2025-01-01,2389.6666666666665
+12+ Months ,50043ST,2025-02-01,2389.6666666666665
+12+ Months ,50043ST,2025-03-01,2389.6666666666665
+12+ Months ,50048ST,2025-01-01,121813.33333333333
+12+ Months ,50048ST,2025-02-01,121813.33333333333
+12+ Months ,50048ST,2025-03-01,121813.33333333333
+31 - 60 Days,50021ST,2025-01-01,19.666666666666668
+31 - 60 Days,50021ST,2025-02-01,19.666666666666668
+31 - 60 Days,50021ST,2025-03-01,19.666666666666668
+31 - 60 Days,50026ST,2025-01-01,883691.0
+31 - 60 Days,50026ST,2025-02-01,883691.0
+31 - 60 Days,50026ST,2025-03-01,883691.0
+31 - 60 Days,50031ST,2025-01-01,25.333333333333332
+31 - 60 Days,50031ST,2025-02-01,25.333333333333332
+31 - 60 Days,50031ST,2025-03-01,25.333333333333332
+31 - 60 Days,50036ST,2025-01-01,303012.3333333333
+31 - 60 Days,50036ST,2025-02-01,303012.3333333333
+31 - 60 Days,50036ST,2025-03-01,303012.3333333333
+4 - 6 Months,50041ST,2025-01-01,256.6666666666667
+4 - 6 Months,50041ST,2025-02-01,256.6666666666667
+4 - 6 Months,50041ST,2025-03-01,256.6666666666667
+4 - 6 Months,50046ST,2025-01-01,14006.0
+4 - 6 Months,50046ST,2025-02-01,14006.0
+4 - 6 Months,50046ST,2025-03-01,14006.0
+61 - 90 Days,50022ST,2025-01-01,10.0
+61 - 90 Days,50022ST,2025-02-01,10.0
+61 - 90 Days,50022ST,2025-03-01,10.0
+61 - 90 Days,50027ST,2025-01-01,461879.6666666667
+61 - 90 Days,50027ST,2025-02-01,461879.6666666667
+61 - 90 Days,50027ST,2025-03-01,461879.6666666667
+61 - 90 Days ,50032ST,2025-01-01,5.666666666666667
+61 - 90 Days ,50032ST,2025-02-01,5.666666666666667
+61 - 90 Days ,50032ST,2025-03-01,5.666666666666667
+61 - 90 Days ,50037ST,2025-01-01,120958.33333333333
+61 - 90 Days ,50037ST,2025-02-01,120958.33333333333
+61 - 90 Days ,50037ST,2025-03-01,120958.33333333333
+7 - 12 Months ,50042ST,2025-01-01,399.3333333333333
+7 - 12 Months ,50042ST,2025-02-01,399.3333333333333
+7 - 12 Months ,50042ST,2025-03-01,399.3333333333333
+7 - 12 Months ,50047ST,2025-01-01,26391.0
+7 - 12 Months ,50047ST,2025-02-01,26391.0
+7 - 12 Months ,50047ST,2025-03-01,26391.0
+APR.,391DU,2025-01-01,21.0
+APR.,391DU,2025-02-01,21.0
+APR.,391DU,2025-03-01,21.0
+APR.,392DU,2025-01-01,0.0
+APR.,392DU,2025-02-01,0.0
+APR.,392DU,2025-03-01,0.0
+APR.,395DU,2025-01-01,31.0
+APR.,395DU,2025-02-01,31.0
+APR.,395DU,2025-03-01,31.0
+APR.,396DD,2025-01-01,7851.0
+APR.,396DD,2025-02-01,7851.0
+APR.,396DD,2025-03-01,7851.0
+APR.,396DU,2025-01-01,0.0
+APR.,396DU,2025-02-01,0.0
+APR.,396DU,2025-03-01,0.0
+AUG.,391HU,2025-01-01,34.0
+AUG.,391HU,2025-02-01,34.0
+AUG.,391HU,2025-03-01,34.0
+AUG.,392HU,2025-01-01,0.0
+AUG.,392HU,2025-02-01,0.0
+AUG.,392HU,2025-03-01,0.0
+AUG.,395HU,2025-01-01,31.0
+AUG.,395HU,2025-02-01,31.0
+AUG.,395HU,2025-03-01,31.0
+AUG.,396HD,2025-01-01,39959.0
+AUG.,396HD,2025-02-01,39959.0
+AUG.,396HD,2025-03-01,39959.0
+AUG.,396HU,2025-01-01,0.0
+AUG.,396HU,2025-02-01,0.0
+AUG.,396HU,2025-03-01,0.0
+Absentee Wages,8120D,2025-01-01,5588.0
+Absentee Wages,8120D,2025-02-01,5588.0
+Absentee Wages,8120D,2025-03-01,5588.0
+Absentee Wages,8121D,2025-01-01,0.0
+Absentee Wages,8121D,2025-02-01,0.0
+Absentee Wages,8121D,2025-03-01,0.0
+Absentee Wages,8122D,2025-01-01,0.0
+Absentee Wages,8122D,2025-02-01,0.0
+Absentee Wages,8122D,2025-03-01,0.0
+Absentee Wages,8123D,2025-01-01,5303.333333333333
+Absentee Wages,8123D,2025-02-01,5303.333333333333
+Absentee Wages,8123D,2025-03-01,5303.333333333333
+Absentee Wages,8124D,2025-01-01,284.6666666666667
+Absentee Wages,8124D,2025-02-01,284.6666666666667
+Absentee Wages,8124D,2025-03-01,284.6666666666667
+Absentee Wages,8125D,2025-01-01,0.0
+Absentee Wages,8125D,2025-02-01,0.0
+Absentee Wages,8125D,2025-03-01,0.0
+Accounts Payable - Mitsubishi,2005D,2025-01-01,75711.0
+Accounts Payable - Mitsubishi,2005D,2025-02-01,75711.0
+Accounts Payable - Mitsubishi,2005D,2025-03-01,75711.0
+Accounts Payable - Trade Creditors,2000D,2025-01-01,202503.0
+Accounts Payable - Trade Creditors,2000D,2025-02-01,202503.0
+Accounts Payable - Trade Creditors,2000D,2025-03-01,202503.0
+Active Customers,50107SD,2025-01-01,0.0
+Active Customers,50107SD,2025-02-01,0.0
+Active Customers,50107SD,2025-03-01,0.0
+Active Customers,50107SDY,2025-01-01,0.0
+Active Customers,50107SDY,2025-02-01,0.0
+Active Customers,50107SDY,2025-03-01,0.0
+Active Customers ,50007SD,2025-01-01,71.0
+Active Customers ,50007SD,2025-02-01,71.0
+Active Customers ,50007SD,2025-03-01,71.0
+Active Customers ,50007SDY,2025-01-01,764.6666666666666
+Active Customers ,50007SDY,2025-02-01,764.6666666666666
+Active Customers ,50007SDY,2025-03-01,764.6666666666666
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-01-01,0.0
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-02-01,0.0
+Adjustment - Cost of Labour Sales Body Shop,6460G,2025-03-01,0.0
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-01-01,0.0
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-02-01,0.0
+Adjustment - Cost of Labour Sales Body Shop,6460U,2025-03-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-01-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-02-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110G,2025-03-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-01-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-02-01,0.0
+Adjustment Cost of Labour Sales - Mechanical,6110U,2025-03-01,0.0
+Adjustments - Used Vehicles Inventory,4531G,2025-01-01,0.0
+Adjustments - Used Vehicles Inventory,4531G,2025-02-01,0.0
+Adjustments - Used Vehicles Inventory,4531G,2025-03-01,0.0
+Advertising (Institutional),8000D,2025-01-01,22016.333333333332
+Advertising (Institutional),8000D,2025-02-01,22016.333333333332
+Advertising (Institutional),8000D,2025-03-01,22016.333333333332
+Advertising (Institutional),8001D,2025-01-01,8199.666666666666
+Advertising (Institutional),8001D,2025-02-01,8199.666666666666
+Advertising (Institutional),8001D,2025-03-01,8199.666666666666
+Advertising (Institutional),8002D,2025-01-01,3989.0
+Advertising (Institutional),8002D,2025-02-01,3989.0
+Advertising (Institutional),8002D,2025-03-01,3989.0
+Advertising (Institutional) ,8003D,2025-01-01,6939.333333333333
+Advertising (Institutional) ,8003D,2025-02-01,6939.333333333333
+Advertising (Institutional) ,8003D,2025-03-01,6939.333333333333
+Advertising (Institutional) ,8004D,2025-01-01,2888.3333333333335
+Advertising (Institutional) ,8004D,2025-02-01,2888.3333333333335
+Advertising (Institutional) ,8004D,2025-03-01,2888.3333333333335
+Advertising (Institutional) ,8005D,2025-01-01,0.0
+Advertising (Institutional) ,8005D,2025-02-01,0.0
+Advertising (Institutional) ,8005D,2025-03-01,0.0
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-01-01,-50.346666666666664
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-02-01,-50.346666666666664
+Advertising PNVR (Dealer Retail Sales),6061DZ,2025-03-01,-50.346666666666664
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-01-01,12.883333333333335
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-02-01,12.883333333333335
+Advertising PNVR (Dealer Retail Sales),6067DZ,2025-03-01,12.883333333333335
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-01-01,-63.23
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-02-01,-63.23
+Advertising PNVR (Dealer Retail Sales),6073DZ,2025-03-01,-63.23
+Advertising PNVT (Dealer Target) ,6062DZ,2025-01-01,0.0
+Advertising PNVT (Dealer Target) ,6062DZ,2025-02-01,0.0
+Advertising PNVT (Dealer Target) ,6062DZ,2025-03-01,0.0
+Advertising PNVT (Dealer Target) ,6068DZ,2025-01-01,0.0
+Advertising PNVT (Dealer Target) ,6068DZ,2025-02-01,0.0
+Advertising PNVT (Dealer Target) ,6068DZ,2025-03-01,0.0
+Advertising PNVT (Dealer Target) ,6074DZ,2025-01-01,0.0
+Advertising PNVT (Dealer Target) ,6074DZ,2025-02-01,0.0
+Advertising PNVT (Dealer Target) ,6074DZ,2025-03-01,0.0
+Advisors,0976P,2025-01-01,2.0
+Advisors,0976P,2025-02-01,2.0
+Advisors,0976P,2025-03-01,2.0
+Advisors,0983P,2025-01-01,0.0
+Advisors,0983P,2025-02-01,0.0
+Advisors,0983P,2025-03-01,0.0
+Advisors,0991P,2025-01-01,0.0
+Advisors,0991P,2025-02-01,0.0
+Advisors,0991P,2025-03-01,0.0
+Advisors,540P,2025-01-01,2.0
+Advisors,540P,2025-02-01,2.0
+Advisors,540P,2025-03-01,2.0
+Advisors ,0965PZ,2025-01-01,0.0
+Advisors ,0965PZ,2025-02-01,0.0
+Advisors ,0965PZ,2025-03-01,0.0
+Allowance for Doubtful Accounts,2320D,2025-01-01,0.0
+Allowance for Doubtful Accounts,2320D,2025-02-01,0.0
+Allowance for Doubtful Accounts,2320D,2025-03-01,0.0
+Allowance for Doubtful Accounts,2320XD,2025-01-01,0.0
+Allowance for Doubtful Accounts,2320XD,2025-02-01,0.0
+Allowance for Doubtful Accounts,2320XD,2025-03-01,0.0
+Amortization - Leaseholds,8430D,2025-01-01,0.0
+Amortization - Leaseholds,8430D,2025-02-01,0.0
+Amortization - Leaseholds,8430D,2025-03-01,0.0
+Amortization - Leaseholds,8431D,2025-01-01,0.0
+Amortization - Leaseholds,8431D,2025-02-01,0.0
+Amortization - Leaseholds,8431D,2025-03-01,0.0
+Amortization - Leaseholds,8432D,2025-01-01,0.0
+Amortization - Leaseholds,8432D,2025-02-01,0.0
+Amortization - Leaseholds,8432D,2025-03-01,0.0
+Amortization - Leaseholds,8433D,2025-01-01,0.0
+Amortization - Leaseholds,8433D,2025-02-01,0.0
+Amortization - Leaseholds,8433D,2025-03-01,0.0
+Amortization - Leaseholds,8434D,2025-01-01,0.0
+Amortization - Leaseholds,8434D,2025-02-01,0.0
+Amortization - Leaseholds,8434D,2025-03-01,0.0
+Amortization - Leaseholds,8435D,2025-01-01,0.0
+Amortization - Leaseholds,8435D,2025-02-01,0.0
+Amortization - Leaseholds,8435D,2025-03-01,0.0
+Apprentices,0972PZ,2025-01-01,0.0
+Apprentices,0972PZ,2025-02-01,0.0
+Apprentices,0972PZ,2025-03-01,0.0
+Apprentices,0977P,2025-01-01,2.0
+Apprentices,0977P,2025-02-01,2.0
+Apprentices,0977P,2025-03-01,2.0
+Apprentices,0985P,2025-01-01,0.0
+Apprentices,0985P,2025-02-01,0.0
+Apprentices,0985P,2025-03-01,0.0
+Apprentices,0993P,2025-01-01,0.0
+Apprentices,0993P,2025-02-01,0.0
+Apprentices,0993P,2025-03-01,0.0
+Apprentices,560P,2025-01-01,2.0
+Apprentices,560P,2025-02-01,2.0
+Apprentices,560P,2025-03-01,2.0
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-01-01,0.0
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-02-01,0.0
+Avail. Work Bay Hrs. / Bay,50002SDZ,2025-03-01,0.0
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-01-01,0.0
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-02-01,0.0
+Avail. Work Bay Hrs. / Bay,50102SDZ,2025-03-01,0.0
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-01-01,0.0
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-02-01,0.0
+Avail. Work Bay Hrs. / Bay,6154DZ,2025-03-01,0.0
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-01-01,0.0
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-02-01,0.0
+Avail. Work Bay Hrs. / Bay,6155DZ,2025-03-01,0.0
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-01-01,0.0
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-02-01,0.0
+Avail. Work Bay Hrs. / Bay,6158DZ,2025-03-01,0.0
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-01-01,7199.166666666667
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-02-01,7199.166666666667
+Avg. Cost UV Mit. CPO Retailed,6082DZ,2025-03-01,7199.166666666667
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-01-01,6708.333333333333
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-02-01,6708.333333333333
+Avg. Cost UV Mit. CPO Retailed,6090DZ,2025-03-01,6708.333333333333
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-01-01,490.8333333333333
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-02-01,490.8333333333333
+Avg. Cost UV Mit. CPO Retailed,6098DZ,2025-03-01,490.8333333333333
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-01-01,0.0
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-02-01,0.0
+Avg. Cost UV Mit. CPO in Inventory ,6083DZ,2025-03-01,0.0
+Avg. Technician Wage,50012SD,2025-01-01,20.14
+Avg. Technician Wage,50012SD,2025-02-01,20.14
+Avg. Technician Wage,50012SD,2025-03-01,20.14
+Avg. Technician Wage,50012SDY,2025-01-01,137.96
+Avg. Technician Wage,50012SDY,2025-02-01,137.96
+Avg. Technician Wage,50012SDY,2025-03-01,137.96
+Avg. Technician Wage,50112SD,2025-01-01,0.0
+Avg. Technician Wage,50112SD,2025-02-01,0.0
+Avg. Technician Wage,50112SD,2025-03-01,0.0
+Avg. Technician Wage,50112SDY,2025-01-01,0.0
+Avg. Technician Wage,50112SDY,2025-02-01,0.0
+Avg. Technician Wage,50112SDY,2025-03-01,0.0
+BONUSES OWNERS,8510D,2025-01-01,-2.0
+BONUSES OWNERS,8510D,2025-02-01,-2.0
+BONUSES OWNERS,8510D,2025-03-01,-2.0
+Bad Debts,8250D,2025-01-01,0.0
+Bad Debts,8250D,2025-02-01,0.0
+Bad Debts,8250D,2025-03-01,0.0
+Bad Debts,8251D,2025-01-01,0.0
+Bad Debts,8251D,2025-02-01,0.0
+Bad Debts,8251D,2025-03-01,0.0
+Bad Debts,8252D,2025-01-01,0.0
+Bad Debts,8252D,2025-02-01,0.0
+Bad Debts,8252D,2025-03-01,0.0
+Bad Debts,8253D,2025-01-01,0.0
+Bad Debts,8253D,2025-02-01,0.0
+Bad Debts,8253D,2025-03-01,0.0
+Bad Debts,8254D,2025-01-01,0.0
+Bad Debts,8254D,2025-02-01,0.0
+Bad Debts,8254D,2025-03-01,0.0
+Bad Debts,8255D,2025-01-01,0.0
+Bad Debts,8255D,2025-02-01,0.0
+Bad Debts,8255D,2025-03-01,0.0
+Bank Overdraft,2015D,2025-01-01,0.0
+Bank Overdraft,2015D,2025-02-01,0.0
+Bank Overdraft,2015D,2025-03-01,0.0
+Bay Utilization %,6108DZ,2025-01-01,0.0
+Bay Utilization %,6108DZ,2025-02-01,0.0
+Bay Utilization %,6108DZ,2025-03-01,0.0
+Bay Utilization %,6126DZ,2025-01-01,0.0
+Bay Utilization %,6126DZ,2025-02-01,0.0
+Bay Utilization %,6126DZ,2025-03-01,0.0
+Bay Utilization %,6144DZ,2025-01-01,0.0
+Bay Utilization %,6144DZ,2025-02-01,0.0
+Bay Utilization %,6144DZ,2025-03-01,0.0
+Bldgs. & Improv.,1770D,2025-01-01,20854.666666666668
+Bldgs. & Improv.,1770D,2025-02-01,20854.666666666668
+Bldgs. & Improv.,1770D,2025-03-01,20854.666666666668
+Bldgs. & Improv.,1780D,2025-01-01,3464.0
+Bldgs. & Improv.,1780D,2025-02-01,3464.0
+Bldgs. & Improv.,1780D,2025-03-01,3464.0
+Body P&A RO,5210G,2025-01-01,0.0
+Body P&A RO,5210G,2025-02-01,0.0
+Body P&A RO,5210G,2025-03-01,0.0
+Body P&A RO,5210S,2025-01-01,0.0
+Body P&A RO,5210S,2025-02-01,0.0
+Body P&A RO,5210S,2025-03-01,0.0
+Body P&A RO,5210U,2025-01-01,0.0
+Body P&A RO,5210U,2025-02-01,0.0
+Body P&A RO,5210U,2025-03-01,0.0
+Body Shop,M17000ED,2025-01-01,0.0
+Body Shop,M17000ED,2025-02-01,0.0
+Body Shop,M17000ED,2025-03-01,0.0
+Body Shop,M18000ED,2025-01-01,0.0
+Body Shop,M18000ED,2025-02-01,0.0
+Body Shop,M18000ED,2025-03-01,0.0
+Body Shop ,M46000XG,2025-01-01,0.0
+Body Shop ,M46000XG,2025-02-01,0.0
+Body Shop ,M46000XG,2025-03-01,0.0
+Body Shop Materials,1530D,2025-01-01,0.0
+Body Shop Materials,1530D,2025-02-01,0.0
+Body Shop Materials,1530D,2025-03-01,0.0
+Body Shop Materials,5450G,2025-01-01,0.0
+Body Shop Materials,5450G,2025-02-01,0.0
+Body Shop Materials,5450G,2025-03-01,0.0
+Body Shop Materials,5450S,2025-01-01,0.0
+Body Shop Materials,5450S,2025-02-01,0.0
+Body Shop Materials,5450S,2025-03-01,0.0
+Body Shop Materials,5450U,2025-01-01,0.0
+Body Shop Materials,5450U,2025-02-01,0.0
+Body Shop Materials,5450U,2025-03-01,0.0
+Bonuses - Employees,8500D,2025-01-01,0.0
+Bonuses - Employees,8500D,2025-02-01,0.0
+Bonuses - Employees,8500D,2025-03-01,0.0
+Bonuses - Employees,8501D,2025-01-01,0.0
+Bonuses - Employees,8501D,2025-02-01,0.0
+Bonuses - Employees,8501D,2025-03-01,0.0
+Bonuses - Employees,8502D,2025-01-01,0.0
+Bonuses - Employees,8502D,2025-02-01,0.0
+Bonuses - Employees,8502D,2025-03-01,0.0
+Bonuses - Employees,8504D,2025-01-01,0.0
+Bonuses - Employees,8504D,2025-02-01,0.0
+Bonuses - Employees,8504D,2025-03-01,0.0
+Bonuses - Employees,8505D,2025-01-01,0.0
+Bonuses - Employees,8505D,2025-02-01,0.0
+Bonuses - Employees,8505D,2025-03-01,0.0
+Break Even New & Used Units ,6034DZ,2025-01-01,-8.793333333333331
+Break Even New & Used Units ,6034DZ,2025-02-01,-8.793333333333331
+Break Even New & Used Units ,6034DZ,2025-03-01,-8.793333333333331
+Break Even New & Used Units ,6045DZ,2025-01-01,23.356666666666666
+Break Even New & Used Units ,6045DZ,2025-02-01,23.356666666666666
+Break Even New & Used Units ,6045DZ,2025-03-01,23.356666666666666
+"Buildings & 
+Improvements",11770D,2025-01-01,17390.666666666668
+"Buildings & 
+Improvements",11770D,2025-02-01,17390.666666666668
+"Buildings & 
+Improvements",11770D,2025-03-01,17390.666666666668
+CP Effective Rate,6106DZ,2025-01-01,-0.8000000000000019
+CP Effective Rate,6106DZ,2025-02-01,-0.8000000000000019
+CP Effective Rate,6106DZ,2025-03-01,-0.8000000000000019
+CP Effective Rate,6124DZ,2025-01-01,0.12333333333333486
+CP Effective Rate,6124DZ,2025-02-01,0.12333333333333486
+CP Effective Rate,6124DZ,2025-03-01,0.12333333333333486
+CP Effective Rate,6142DZ,2025-01-01,-0.9233333333333335
+CP Effective Rate,6142DZ,2025-02-01,-0.9233333333333335
+CP Effective Rate,6142DZ,2025-03-01,-0.9233333333333335
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-01-01,-0.5533333333333369
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-02-01,-0.5533333333333369
+CP Effective Rate as a % of Posted Rate,6107DZ,2025-03-01,-0.5533333333333369
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-01-01,0.08666666666666367
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-02-01,0.08666666666666367
+CP Effective Rate as a % of Posted Rate,6125DZ,2025-03-01,0.08666666666666367
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-01-01,-0.6399999999999998
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-02-01,-0.6399999999999998
+CP Effective Rate as a % of Posted Rate,6143DZ,2025-03-01,-0.6399999999999998
+CP Labour Sales per RO,6103DZ,2025-01-01,1.9899999999999995
+CP Labour Sales per RO,6103DZ,2025-02-01,1.9899999999999995
+CP Labour Sales per RO,6103DZ,2025-03-01,1.9899999999999995
+CP Labour Sales per RO,6121DZ,2025-01-01,-0.330000000000003
+CP Labour Sales per RO,6121DZ,2025-02-01,-0.330000000000003
+CP Labour Sales per RO,6121DZ,2025-03-01,-0.330000000000003
+CP Labour Sales per RO,6139DZ,2025-01-01,2.319999999999999
+CP Labour Sales per RO,6139DZ,2025-02-01,2.319999999999999
+CP Labour Sales per RO,6139DZ,2025-03-01,2.319999999999999
+CP Labour Sales per Technician,6102DZ,2025-01-01,526.0
+CP Labour Sales per Technician,6102DZ,2025-02-01,526.0
+CP Labour Sales per Technician,6102DZ,2025-03-01,526.0
+CP Labour Sales per Technician,6120DZ,2025-01-01,14387.666666666662
+CP Labour Sales per Technician,6120DZ,2025-02-01,14387.666666666662
+CP Labour Sales per Technician,6120DZ,2025-03-01,14387.666666666662
+CP Labour Sales per Technician,6138DZ,2025-01-01,153.20000000000013
+CP Labour Sales per Technician,6138DZ,2025-02-01,153.20000000000013
+CP Labour Sales per Technician,6138DZ,2025-03-01,153.20000000000013
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-01-01,0.11999999999999988
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-02-01,0.11999999999999988
+CP Pts. : CP Labour Sls. (Inc. Tires),6003DZ,2025-03-01,0.11999999999999988
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-01-01,0.03999999999999997
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-02-01,0.03999999999999997
+CP Pts. : CP Labour Sls. (Inc. Tires),6012DZ,2025-03-01,0.03999999999999997
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-01-01,0.08333333333333327
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-02-01,0.08333333333333327
+CP Pts. : CP Labour Sls. (Inc. Tires),6019DZ,2025-03-01,0.08333333333333327
+CP RO Count,6104DZ,2025-01-01,6.333333333333333
+CP RO Count,6104DZ,2025-02-01,6.333333333333333
+CP RO Count,6104DZ,2025-03-01,6.333333333333333
+CP RO Count,6122DZ,2025-01-01,194.33333333333334
+CP RO Count,6122DZ,2025-02-01,194.33333333333334
+CP RO Count,6122DZ,2025-03-01,194.33333333333334
+CP RO Count,6140DZ,2025-01-01,1.1466666666666658
+CP RO Count,6140DZ,2025-02-01,1.1466666666666658
+CP RO Count,6140DZ,2025-03-01,1.1466666666666658
+CPO P&A RO,5216G,2025-01-01,0.0
+CPO P&A RO,5216G,2025-02-01,0.0
+CPO P&A RO,5216G,2025-03-01,0.0
+CPO P&A RO,5216S,2025-01-01,0.0
+CPO P&A RO,5216S,2025-02-01,0.0
+CPO P&A RO,5216S,2025-03-01,0.0
+CPO P&A RO,5216U,2025-01-01,0.0
+CPO P&A RO,5216U,2025-02-01,0.0
+CPO P&A RO,5216U,2025-03-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011G,2025-01-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011G,2025-02-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011G,2025-03-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011S,2025-01-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011S,2025-02-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011S,2025-03-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011U,2025-01-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011U,2025-02-01,0.0
+CPO Warranty Labour - MITSUBISHI,5011U,2025-03-01,0.0
+Capacity - Bay Hours Avail,50005SD,2025-01-01,0.0
+Capacity - Bay Hours Avail,50005SD,2025-02-01,0.0
+Capacity - Bay Hours Avail,50005SD,2025-03-01,0.0
+Capacity - Bay Hours Avail.,50105SD,2025-01-01,0.0
+Capacity - Bay Hours Avail.,50105SD,2025-02-01,0.0
+Capacity - Bay Hours Avail.,50105SD,2025-03-01,0.0
+Cash Discount / Interest Earned,9020D,2025-01-01,0.0
+Cash Discount / Interest Earned,9020D,2025-02-01,0.0
+Cash Discount / Interest Earned,9020D,2025-03-01,0.0
+Cash Discount / Interest Paid,9030D,2025-01-01,0.0
+Cash Discount / Interest Paid,9030D,2025-02-01,0.0
+Cash Discount / Interest Paid,9030D,2025-03-01,0.0
+Cash in Bank,1010D,2025-01-01,-381609.0
+Cash in Bank,1010D,2025-02-01,-381609.0
+Cash in Bank,1010D,2025-03-01,-381609.0
+Cash in Bank - Trust Account(s),1004D,2025-01-01,0.0
+Cash in Bank - Trust Account(s),1004D,2025-02-01,0.0
+Cash in Bank - Trust Account(s),1004D,2025-03-01,0.0
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-01-01,0.0
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-02-01,0.0
+Certified Pre-Owned Vehicles - Mitsubishi,2112D,2025-03-01,0.0
+Certified Program Vehicles - Mitsubishi,1490D,2025-01-01,0.0
+Certified Program Vehicles - Mitsubishi,1490D,2025-02-01,0.0
+Certified Program Vehicles - Mitsubishi,1490D,2025-03-01,0.0
+Charitable Donations,8340D,2025-01-01,0.0
+Charitable Donations,8340D,2025-02-01,0.0
+Charitable Donations,8340D,2025-03-01,0.0
+Charitable Donations,8341D,2025-01-01,0.0
+Charitable Donations,8341D,2025-02-01,0.0
+Charitable Donations,8341D,2025-03-01,0.0
+Charitable Donations,8342D,2025-01-01,0.0
+Charitable Donations,8342D,2025-02-01,0.0
+Charitable Donations,8342D,2025-03-01,0.0
+Charitable Donations,8343D,2025-01-01,0.0
+Charitable Donations,8343D,2025-02-01,0.0
+Charitable Donations,8343D,2025-03-01,0.0
+Charitable Donations,8344D,2025-01-01,0.0
+Charitable Donations,8344D,2025-02-01,0.0
+Charitable Donations,8344D,2025-03-01,0.0
+Charitable Donations,8345D,2025-01-01,0.0
+Charitable Donations,8345D,2025-02-01,0.0
+Charitable Donations,8345D,2025-03-01,0.0
+Chemical / Other Income (CPO),3704G,2025-01-01,373.3333333333333
+Chemical / Other Income (CPO),3704G,2025-02-01,373.3333333333333
+Chemical / Other Income (CPO),3704G,2025-03-01,373.3333333333333
+Chemical / Other Income (CPO),3704S,2025-01-01,550.0
+Chemical / Other Income (CPO),3704S,2025-02-01,550.0
+Chemical / Other Income (CPO),3704S,2025-03-01,550.0
+Chemical / Other Income (CPO),3704U,2025-01-01,0.6666666666666666
+Chemical / Other Income (CPO),3704U,2025-02-01,0.6666666666666666
+Chemical / Other Income (CPO),3704U,2025-03-01,0.6666666666666666
+Chemical / Other Income (Non CPO),3630G,2025-01-01,2584.3333333333335
+Chemical / Other Income (Non CPO),3630G,2025-02-01,2584.3333333333335
+Chemical / Other Income (Non CPO),3630G,2025-03-01,2584.3333333333335
+Chemical / Other Income (Non CPO),3630S,2025-01-01,3577.6666666666665
+Chemical / Other Income (Non CPO),3630S,2025-02-01,3577.6666666666665
+Chemical / Other Income (Non CPO),3630S,2025-03-01,3577.6666666666665
+Chemical / Other Income (Non CPO),3630U,2025-01-01,3.0
+Chemical / Other Income (Non CPO),3630U,2025-02-01,3.0
+Chemical / Other Income (Non CPO),3630U,2025-03-01,3.0
+Chemical / Other Income (Other Makes),3708G,2025-01-01,0.0
+Chemical / Other Income (Other Makes),3708G,2025-02-01,0.0
+Chemical / Other Income (Other Makes),3708G,2025-03-01,0.0
+Chemical / Other Income (Other Makes),3708S,2025-01-01,0.0
+Chemical / Other Income (Other Makes),3708S,2025-02-01,0.0
+Chemical / Other Income (Other Makes),3708S,2025-03-01,0.0
+Chemical / Other Income (Other Makes),3708U,2025-01-01,0.0
+Chemical / Other Income (Other Makes),3708U,2025-02-01,0.0
+Chemical / Other Income (Other Makes),3708U,2025-03-01,0.0
+Chemical Sales - New,3280G,2025-01-01,17694.333333333332
+Chemical Sales - New,3280G,2025-02-01,17694.333333333332
+Chemical Sales - New,3280G,2025-03-01,17694.333333333332
+Chemical Sales - New,3280S,2025-01-01,21257.0
+Chemical Sales - New,3280S,2025-02-01,21257.0
+Chemical Sales - New,3280S,2025-03-01,21257.0
+Chemical Sales - New,3280U,2025-01-01,10.666666666666666
+Chemical Sales - New,3280U,2025-02-01,10.666666666666666
+Chemical Sales - New,3280U,2025-03-01,10.666666666666666
+Clerical / Other,0964P,2025-01-01,1.0
+Clerical / Other,0964P,2025-02-01,1.0
+Clerical / Other,0964P,2025-03-01,1.0
+Clerical / Other,0971P,2025-01-01,2.0
+Clerical / Other,0971P,2025-02-01,2.0
+Clerical / Other,0971P,2025-03-01,2.0
+Clerical / Other,0979P,2025-01-01,3.0
+Clerical / Other,0979P,2025-02-01,3.0
+Clerical / Other,0979P,2025-03-01,3.0
+Clerical / Other,0986P,2025-01-01,0.0
+Clerical / Other,0986P,2025-02-01,0.0
+Clerical / Other,0986P,2025-03-01,0.0
+Clerical / Other,0994P,2025-01-01,0.0
+Clerical / Other,0994P,2025-02-01,0.0
+Clerical / Other,0994P,2025-03-01,0.0
+Clerical / Other,570P,2025-01-01,6.0
+Clerical / Other,570P,2025-02-01,6.0
+Clerical / Other,570P,2025-03-01,6.0
+Co. Veh.,11850D,2025-01-01,7155.666666666667
+Co. Veh.,11850D,2025-02-01,7155.666666666667
+Co. Veh.,11850D,2025-03-01,7155.666666666667
+Common Stock,2501D,2025-01-01,10.0
+Common Stock,2501D,2025-02-01,10.0
+Common Stock,2501D,2025-03-01,10.0
+Company Vehicle Expense,8660D,2025-01-01,-6683.333333333333
+Company Vehicle Expense,8660D,2025-02-01,-6683.333333333333
+Company Vehicle Expense,8660D,2025-03-01,-6683.333333333333
+Company Vehicle Expense,8661D,2025-01-01,-2681.3333333333335
+Company Vehicle Expense,8661D,2025-02-01,-2681.3333333333335
+Company Vehicle Expense,8661D,2025-03-01,-2681.3333333333335
+Company Vehicle Expense,8662D,2025-01-01,-1149.0
+Company Vehicle Expense,8662D,2025-02-01,-1149.0
+Company Vehicle Expense,8662D,2025-03-01,-1149.0
+Company Vehicle Expense,8663D,2025-01-01,-2660.3333333333335
+Company Vehicle Expense,8663D,2025-02-01,-2660.3333333333335
+Company Vehicle Expense,8663D,2025-03-01,-2660.3333333333335
+Company Vehicle Expense,8664D,2025-01-01,-192.66666666666666
+Company Vehicle Expense,8664D,2025-02-01,-192.66666666666666
+Company Vehicle Expense,8664D,2025-03-01,-192.66666666666666
+Company Vehicle Expense,8665D,2025-01-01,0.0
+Company Vehicle Expense,8665D,2025-02-01,0.0
+Company Vehicle Expense,8665D,2025-03-01,0.0
+Company Vehicles,1850D,2025-01-01,17716.666666666668
+Company Vehicles,1850D,2025-02-01,17716.666666666668
+Company Vehicles,1850D,2025-03-01,17716.666666666668
+Company Vehicles,1860D,2025-01-01,10561.0
+Company Vehicles,1860D,2025-02-01,10561.0
+Company Vehicles,1860D,2025-03-01,10561.0
+Compensation - Clerical,8100D,2025-01-01,22247.333333333332
+Compensation - Clerical,8100D,2025-02-01,22247.333333333332
+Compensation - Clerical,8100D,2025-03-01,22247.333333333332
+Compensation - Clerical,8101D,2025-01-01,14892.0
+Compensation - Clerical,8101D,2025-02-01,14892.0
+Compensation - Clerical,8101D,2025-03-01,14892.0
+Compensation - Clerical,8102D,2025-01-01,1518.6666666666667
+Compensation - Clerical,8102D,2025-02-01,1518.6666666666667
+Compensation - Clerical,8102D,2025-03-01,1518.6666666666667
+Compensation - Clerical,8103D,2025-01-01,4318.0
+Compensation - Clerical,8103D,2025-02-01,4318.0
+Compensation - Clerical,8103D,2025-03-01,4318.0
+Compensation - Clerical,8104D,2025-01-01,1518.6666666666667
+Compensation - Clerical,8104D,2025-02-01,1518.6666666666667
+Compensation - Clerical,8104D,2025-03-01,1518.6666666666667
+Compensation - Clerical,8105D,2025-01-01,0.0
+Compensation - Clerical,8105D,2025-02-01,0.0
+Compensation - Clerical,8105D,2025-03-01,0.0
+Compensation - Finance,8040D,2025-01-01,0.0
+Compensation - Finance,8040D,2025-02-01,0.0
+Compensation - Finance,8040D,2025-03-01,0.0
+Compensation - Finance,8041D,2025-01-01,0.0
+Compensation - Finance,8041D,2025-02-01,0.0
+Compensation - Finance,8041D,2025-03-01,0.0
+Compensation - Finance,8042D,2025-01-01,0.0
+Compensation - Finance,8042D,2025-02-01,0.0
+Compensation - Finance,8042D,2025-03-01,0.0
+Compensation - Insurance,8640D,2025-01-01,0.0
+Compensation - Insurance,8640D,2025-02-01,0.0
+Compensation - Insurance,8640D,2025-03-01,0.0
+Compensation - Insurance,8641D,2025-01-01,0.0
+Compensation - Insurance,8641D,2025-02-01,0.0
+Compensation - Insurance,8641D,2025-03-01,0.0
+Compensation - Insurance,8642D,2025-01-01,0.0
+Compensation - Insurance,8642D,2025-02-01,0.0
+Compensation - Insurance,8642D,2025-03-01,0.0
+Compensation - Other Supervisor,8170D,2025-01-01,3609.0
+Compensation - Other Supervisor,8170D,2025-02-01,3609.0
+Compensation - Other Supervisor,8170D,2025-03-01,3609.0
+Compensation - Other Supervisor,8171D,2025-01-01,0.0
+Compensation - Other Supervisor,8171D,2025-02-01,0.0
+Compensation - Other Supervisor,8171D,2025-03-01,0.0
+Compensation - Other Supervisor,8172D,2025-01-01,0.0
+Compensation - Other Supervisor,8172D,2025-02-01,0.0
+Compensation - Other Supervisor,8172D,2025-03-01,0.0
+Compensation - Other Supervisor,8173D,2025-01-01,3609.0
+Compensation - Other Supervisor,8173D,2025-02-01,3609.0
+Compensation - Other Supervisor,8173D,2025-03-01,3609.0
+Compensation - Other Supervisor,8174D,2025-01-01,0.0
+Compensation - Other Supervisor,8174D,2025-02-01,0.0
+Compensation - Other Supervisor,8174D,2025-03-01,0.0
+Compensation - Other Supervisor,8175D,2025-01-01,0.0
+Compensation - Other Supervisor,8175D,2025-02-01,0.0
+Compensation - Other Supervisor,8175D,2025-03-01,0.0
+Compensation - Owner,8080D,2025-01-01,8077.333333333333
+Compensation - Owner,8080D,2025-02-01,8077.333333333333
+Compensation - Owner,8080D,2025-03-01,8077.333333333333
+Compensation - Owner,8081D,2025-01-01,2827.0
+Compensation - Owner,8081D,2025-02-01,2827.0
+Compensation - Owner,8081D,2025-03-01,2827.0
+Compensation - Owner,8082D,2025-01-01,1211.6666666666667
+Compensation - Owner,8082D,2025-02-01,1211.6666666666667
+Compensation - Owner,8082D,2025-03-01,1211.6666666666667
+Compensation - Owner,8083D,2025-01-01,2827.0
+Compensation - Owner,8083D,2025-02-01,2827.0
+Compensation - Owner,8083D,2025-03-01,2827.0
+Compensation - Owner,8084D,2025-01-01,1211.6666666666667
+Compensation - Owner,8084D,2025-02-01,1211.6666666666667
+Compensation - Owner,8084D,2025-03-01,1211.6666666666667
+Compensation - Owner,8085D,2025-01-01,0.0
+Compensation - Owner,8085D,2025-02-01,0.0
+Compensation - Owner,8085D,2025-03-01,0.0
+Compensation - Sales,8020D,2025-01-01,65422.333333333336
+Compensation - Sales,8020D,2025-02-01,65422.333333333336
+Compensation - Sales,8020D,2025-03-01,65422.333333333336
+Compensation - Sales,8021D,2025-01-01,38310.666666666664
+Compensation - Sales,8021D,2025-02-01,38310.666666666664
+Compensation - Sales,8021D,2025-03-01,38310.666666666664
+Compensation - Sales,8022D,2025-01-01,27111.666666666668
+Compensation - Sales,8022D,2025-02-01,27111.666666666668
+Compensation - Sales,8022D,2025-03-01,27111.666666666668
+Compensation - Service Contracts,8620D,2025-01-01,0.0
+Compensation - Service Contracts,8620D,2025-02-01,0.0
+Compensation - Service Contracts,8620D,2025-03-01,0.0
+Compensation - Service Contracts,8621D,2025-01-01,0.0
+Compensation - Service Contracts,8621D,2025-02-01,0.0
+Compensation - Service Contracts,8621D,2025-03-01,0.0
+Compensation - Service Contracts,8622D,2025-01-01,0.0
+Compensation - Service Contracts,8622D,2025-02-01,0.0
+Compensation - Service Contracts,8622D,2025-03-01,0.0
+Compensation - Supervisors,8090D,2025-01-01,32758.0
+Compensation - Supervisors,8090D,2025-02-01,32758.0
+Compensation - Supervisors,8090D,2025-03-01,32758.0
+Compensation - Supervisors,8091D,2025-01-01,4034.6666666666665
+Compensation - Supervisors,8091D,2025-02-01,4034.6666666666665
+Compensation - Supervisors,8091D,2025-03-01,4034.6666666666665
+Compensation - Supervisors,8092D,2025-01-01,7903.666666666667
+Compensation - Supervisors,8092D,2025-02-01,7903.666666666667
+Compensation - Supervisors,8092D,2025-03-01,7903.666666666667
+Compensation - Supervisors,8093D,2025-01-01,12196.0
+Compensation - Supervisors,8093D,2025-02-01,12196.0
+Compensation - Supervisors,8093D,2025-03-01,12196.0
+Compensation - Supervisors,8094D,2025-01-01,8623.666666666666
+Compensation - Supervisors,8094D,2025-02-01,8623.666666666666
+Compensation - Supervisors,8094D,2025-03-01,8623.666666666666
+Compensation - Supervisors,8095D,2025-01-01,0.0
+Compensation - Supervisors,8095D,2025-02-01,0.0
+Compensation - Supervisors,8095D,2025-03-01,0.0
+Contracts in Transit,1020D,2025-01-01,439817.6666666667
+Contracts in Transit,1020D,2025-02-01,439817.6666666667
+Contracts in Transit,1020D,2025-03-01,439817.6666666667
+Current Portion of Long Term Debt,2130D,2025-01-01,0.0
+Current Portion of Long Term Debt,2130D,2025-02-01,0.0
+Current Portion of Long Term Debt,2130D,2025-03-01,0.0
+Customer Body Shop Labour,5400G,2025-01-01,0.0
+Customer Body Shop Labour,5400G,2025-02-01,0.0
+Customer Body Shop Labour,5400G,2025-03-01,0.0
+Customer Body Shop Labour,5400S,2025-01-01,0.0
+Customer Body Shop Labour,5400S,2025-02-01,0.0
+Customer Body Shop Labour,5400S,2025-03-01,0.0
+Customer Body Shop Labour,5400U,2025-01-01,0.0
+Customer Body Shop Labour,5400U,2025-02-01,0.0
+Customer Body Shop Labour,5400U,2025-03-01,0.0
+Customer Deposits,2010D,2025-01-01,0.0
+Customer Deposits,2010D,2025-02-01,0.0
+Customer Deposits,2010D,2025-03-01,0.0
+Customer Labour Rate,5000D,2025-01-01,145.0
+Customer Labour Rate,5000D,2025-02-01,145.0
+Customer Labour Rate,5000D,2025-03-01,145.0
+Customer Labour Rate,5001D,2025-01-01,0.0
+Customer Labour Rate,5001D,2025-02-01,0.0
+Customer Labour Rate,5001D,2025-03-01,0.0
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-01-01,34599.666666666664
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-02-01,34599.666666666664
+Customer Mechanical Labour - MITSUBISHI,5000G,2025-03-01,34599.666666666664
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-01-01,43163.0
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-02-01,43163.0
+Customer Mechanical Labour - MITSUBISHI,5000S,2025-03-01,43163.0
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-01-01,194.33333333333334
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-02-01,194.33333333333334
+Customer Mechanical Labour - MITSUBISHI,5000U,2025-03-01,194.33333333333334
+Customer Pay Hours Sold,50013SD,2025-01-01,292.6666666666667
+Customer Pay Hours Sold,50013SD,2025-02-01,292.6666666666667
+Customer Pay Hours Sold,50013SD,2025-03-01,292.6666666666667
+DCP P&A RO,5215G,2025-01-01,0.0
+DCP P&A RO,5215G,2025-02-01,0.0
+DCP P&A RO,5215G,2025-03-01,0.0
+DCP P&A RO,5215S,2025-01-01,0.0
+DCP P&A RO,5215S,2025-02-01,0.0
+DCP P&A RO,5215S,2025-03-01,0.0
+DCP P&A RO,5215U,2025-01-01,0.0
+DCP P&A RO,5215U,2025-02-01,0.0
+DCP P&A RO,5215U,2025-03-01,0.0
+DCP Service Contracts - New,3381G,2025-01-01,0.0
+DCP Service Contracts - New,3381G,2025-02-01,0.0
+DCP Service Contracts - New,3381G,2025-03-01,0.0
+DCP Service Contracts - New,3381S,2025-01-01,0.0
+DCP Service Contracts - New,3381S,2025-02-01,0.0
+DCP Service Contracts - New,3381S,2025-03-01,0.0
+DCP Service Contracts - New,3381U,2025-01-01,0.0
+DCP Service Contracts - New,3381U,2025-02-01,0.0
+DCP Service Contracts - New,3381U,2025-03-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010G,2025-01-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010G,2025-02-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010G,2025-03-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010S,2025-01-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010S,2025-02-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010S,2025-03-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010U,2025-01-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010U,2025-02-01,0.0
+DCP Warranty Labour - MITSUBISHI,5010U,2025-03-01,0.0
+DEC.,391LU,2025-01-01,4.0
+DEC.,391LU,2025-02-01,4.0
+DEC.,391LU,2025-03-01,4.0
+DEC.,392LU,2025-01-01,0.0
+DEC.,392LU,2025-02-01,0.0
+DEC.,392LU,2025-03-01,0.0
+DEC.,395LU,2025-01-01,5.666666666666667
+DEC.,395LU,2025-02-01,5.666666666666667
+DEC.,395LU,2025-03-01,5.666666666666667
+DEC.,396LD,2025-01-01,-398.0
+DEC.,396LD,2025-02-01,-398.0
+DEC.,396LD,2025-03-01,-398.0
+DEC.,396LU,2025-01-01,0.0
+DEC.,396LU,2025-02-01,0.0
+DEC.,396LU,2025-03-01,0.0
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-01-01,10554.666666666666
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-02-01,10554.666666666666
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",18000D,2025-03-01,10554.666666666666
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-01-01,-117485.0
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-02-01,-117485.0
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000AD,2025-03-01,-117485.0
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-01-01,77898.33333333333
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-02-01,77898.33333333333
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,18000BD,2025-03-01,77898.33333333333
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-01-01,23550.333333333332
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-02-01,23550.333333333332
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000CD,2025-03-01,23550.333333333332
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-01-01,26591.0
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-02-01,26591.0
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000DD,2025-03-01,26591.0
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-01-01,0.0
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-02-01,0.0
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),18000ED,2025-03-01,0.0
+DISCONTINUED MODELS,3099G,2025-01-01,0.0
+DISCONTINUED MODELS,3099G,2025-02-01,0.0
+DISCONTINUED MODELS,3099G,2025-03-01,0.0
+DISCONTINUED MODELS,3099S,2025-01-01,0.0
+DISCONTINUED MODELS,3099S,2025-02-01,0.0
+DISCONTINUED MODELS,3099S,2025-03-01,0.0
+DISCONTINUED MODELS,3099U,2025-01-01,0.0
+DISCONTINUED MODELS,3099U,2025-02-01,0.0
+DISCONTINUED MODELS,3099U,2025-03-01,0.0
+Data Processing,8270D,2025-01-01,-9462.333333333334
+Data Processing,8270D,2025-02-01,-9462.333333333334
+Data Processing,8270D,2025-03-01,-9462.333333333334
+Data Processing,8271D,2025-01-01,-2877.3333333333335
+Data Processing,8271D,2025-02-01,-2877.3333333333335
+Data Processing,8271D,2025-03-01,-2877.3333333333335
+Data Processing,8272D,2025-01-01,745.6666666666666
+Data Processing,8272D,2025-02-01,745.6666666666666
+Data Processing,8272D,2025-03-01,745.6666666666666
+Data Processing,8273D,2025-01-01,-4863.333333333333
+Data Processing,8273D,2025-02-01,-4863.333333333333
+Data Processing,8273D,2025-03-01,-4863.333333333333
+Data Processing,8274D,2025-01-01,-2467.3333333333335
+Data Processing,8274D,2025-02-01,-2467.3333333333335
+Data Processing,8274D,2025-03-01,-2467.3333333333335
+Data Processing,8275D,2025-01-01,0.0
+Data Processing,8275D,2025-02-01,0.0
+Data Processing,8275D,2025-03-01,0.0
+Dealer Advertising Allowance,8030D,2025-01-01,-8938.666666666666
+Dealer Advertising Allowance,8030D,2025-02-01,-8938.666666666666
+Dealer Advertising Allowance,8030D,2025-03-01,-8938.666666666666
+Dealer Advertising Allowance,8031D,2025-01-01,-8938.666666666666
+Dealer Advertising Allowance,8031D,2025-02-01,-8938.666666666666
+Dealer Advertising Allowance,8031D,2025-03-01,-8938.666666666666
+Dealer Advertising Expense,8010D,2025-01-01,22311.333333333332
+Dealer Advertising Expense,8010D,2025-02-01,22311.333333333332
+Dealer Advertising Expense,8010D,2025-03-01,22311.333333333332
+Dealer Advertising Expense,8011D,2025-01-01,8701.333333333334
+Dealer Advertising Expense,8011D,2025-02-01,8701.333333333334
+Dealer Advertising Expense,8011D,2025-03-01,8701.333333333334
+Dealer Advertising Expense,8012D,2025-01-01,13610.0
+Dealer Advertising Expense,8012D,2025-02-01,13610.0
+Dealer Advertising Expense,8012D,2025-03-01,13610.0
+Delivery Expense,8060D,2025-01-01,5952.666666666667
+Delivery Expense,8060D,2025-02-01,5952.666666666667
+Delivery Expense,8060D,2025-03-01,5952.666666666667
+Delivery Expense,8061D,2025-01-01,2574.0
+Delivery Expense,8061D,2025-02-01,2574.0
+Delivery Expense,8061D,2025-03-01,2574.0
+Delivery Expense,8062D,2025-01-01,3378.6666666666665
+Delivery Expense,8062D,2025-02-01,3378.6666666666665
+Delivery Expense,8062D,2025-03-01,3378.6666666666665
+Delivery Expense,8063D,2025-01-01,0.0
+Delivery Expense,8063D,2025-02-01,0.0
+Delivery Expense,8063D,2025-03-01,0.0
+Delivery Expense,8064D,2025-01-01,0.0
+Delivery Expense,8064D,2025-02-01,0.0
+Delivery Expense,8064D,2025-03-01,0.0
+Delivery Expense,8065D,2025-01-01,0.0
+Delivery Expense,8065D,2025-02-01,0.0
+Delivery Expense,8065D,2025-03-01,0.0
+Demo Expense,8190D,2025-01-01,1103.6666666666667
+Demo Expense,8190D,2025-02-01,1103.6666666666667
+Demo Expense,8190D,2025-03-01,1103.6666666666667
+Demo Expense,8191D,2025-01-01,978.0
+Demo Expense,8191D,2025-02-01,978.0
+Demo Expense,8191D,2025-03-01,978.0
+Demo Expense,8192D,2025-01-01,125.66666666666667
+Demo Expense,8192D,2025-02-01,125.66666666666667
+Demo Expense,8192D,2025-03-01,125.66666666666667
+Demonstrators,1440D,2025-01-01,0.0
+Demonstrators,1440D,2025-02-01,0.0
+Demonstrators,1440D,2025-03-01,0.0
+Depreciation - Bldgs. & Improvements,8453D,2025-01-01,0.0
+Depreciation - Bldgs. & Improvements,8453D,2025-02-01,0.0
+Depreciation - Bldgs. & Improvements,8453D,2025-03-01,0.0
+Depreciation - Bldgs. & Improvements,8454D,2025-01-01,0.0
+Depreciation - Bldgs. & Improvements,8454D,2025-02-01,0.0
+Depreciation - Bldgs. & Improvements,8454D,2025-03-01,0.0
+Depreciation - Bldgs. & Improvements,8455D,2025-01-01,0.0
+Depreciation - Bldgs. & Improvements,8455D,2025-02-01,0.0
+Depreciation - Bldgs. & Improvements,8455D,2025-03-01,0.0
+Depreciation - Buildings & Improvements,8450D,2025-01-01,0.0
+Depreciation - Buildings & Improvements,8450D,2025-02-01,0.0
+Depreciation - Buildings & Improvements,8450D,2025-03-01,0.0
+Depreciation - Buildings & Improvements,8451D,2025-01-01,0.0
+Depreciation - Buildings & Improvements,8451D,2025-02-01,0.0
+Depreciation - Buildings & Improvements,8451D,2025-03-01,0.0
+Depreciation - Buildings & Improvements,8452D,2025-01-01,0.0
+Depreciation - Buildings & Improvements,8452D,2025-02-01,0.0
+Depreciation - Buildings & Improvements,8452D,2025-03-01,0.0
+Depreciation - Other,8230D,2025-01-01,21857.666666666668
+Depreciation - Other,8230D,2025-02-01,21857.666666666668
+Depreciation - Other,8230D,2025-03-01,21857.666666666668
+Depreciation - Other,8231D,2025-01-01,21857.666666666668
+Depreciation - Other,8231D,2025-02-01,21857.666666666668
+Depreciation - Other,8231D,2025-03-01,21857.666666666668
+Depreciation - Other,8232D,2025-01-01,0.0
+Depreciation - Other,8232D,2025-02-01,0.0
+Depreciation - Other,8232D,2025-03-01,0.0
+Depreciation - Other ,8233D,2025-01-01,0.0
+Depreciation - Other ,8233D,2025-02-01,0.0
+Depreciation - Other ,8233D,2025-03-01,0.0
+Depreciation - Other ,8234D,2025-01-01,0.0
+Depreciation - Other ,8234D,2025-02-01,0.0
+Depreciation - Other ,8234D,2025-03-01,0.0
+Depreciation - Other ,8235D,2025-01-01,0.0
+Depreciation - Other ,8235D,2025-02-01,0.0
+Depreciation - Other ,8235D,2025-03-01,0.0
+Depreciation of Lease & Rental Units,1710D,2025-01-01,0.0
+Depreciation of Lease & Rental Units,1710D,2025-02-01,0.0
+Depreciation of Lease & Rental Units,1710D,2025-03-01,0.0
+Detailing,5020G,2025-01-01,0.0
+Detailing,5020G,2025-02-01,0.0
+Detailing,5020G,2025-03-01,0.0
+Detailing,5020S,2025-01-01,0.0
+Detailing,5020S,2025-02-01,0.0
+Detailing,5020S,2025-03-01,0.0
+Detailing,5020U,2025-01-01,0.0
+Detailing,5020U,2025-02-01,0.0
+Detailing,5020U,2025-03-01,0.0
+Dividends,2540D,2025-01-01,0.0
+Dividends,2540D,2025-02-01,0.0
+Dividends,2540D,2025-03-01,0.0
+Documentary Fees,9073D,2025-01-01,0.0
+Documentary Fees,9073D,2025-02-01,0.0
+Documentary Fees,9073D,2025-03-01,0.0
+Documentary Fees,9273D,2025-01-01,0.0
+Documentary Fees,9273D,2025-02-01,0.0
+Documentary Fees,9273D,2025-03-01,0.0
+Drawings,2560D,2025-01-01,0.0
+Drawings,2560D,2025-02-01,0.0
+Drawings,2560D,2025-03-01,0.0
+Eclipse Cross,3028G,2025-01-01,6102.0
+Eclipse Cross,3028G,2025-02-01,6102.0
+Eclipse Cross,3028G,2025-03-01,6102.0
+Eclipse Cross,3028S,2025-01-01,160743.0
+Eclipse Cross,3028S,2025-02-01,160743.0
+Eclipse Cross,3028S,2025-03-01,160743.0
+Eclipse Cross,3028U,2025-01-01,4.333333333333333
+Eclipse Cross,3028U,2025-02-01,4.333333333333333
+Eclipse Cross,3028U,2025-03-01,4.333333333333333
+Efficiency (Guide 110 - 125%),50114SDZ,2025-01-01,0.0
+Efficiency (Guide 110 - 125%),50114SDZ,2025-02-01,0.0
+Efficiency (Guide 110 - 125%),50114SDZ,2025-03-01,0.0
+Efficiency (Guide 110 - 125%),6110DZ,2025-01-01,-0.05333333333333338
+Efficiency (Guide 110 - 125%),6110DZ,2025-02-01,-0.05333333333333338
+Efficiency (Guide 110 - 125%),6110DZ,2025-03-01,-0.05333333333333338
+Efficiency (Guide 110 - 125%),6128DZ,2025-01-01,0.7166666666666686
+Efficiency (Guide 110 - 125%),6128DZ,2025-02-01,0.7166666666666686
+Efficiency (Guide 110 - 125%),6128DZ,2025-03-01,0.7166666666666686
+Efficiency (Guide 110 - 125%),6164DZ,2025-01-01,0.0
+Efficiency (Guide 110 - 125%),6164DZ,2025-02-01,0.0
+Efficiency (Guide 110 - 125%),6164DZ,2025-03-01,0.0
+Employee Benefits,8160D,2025-01-01,4453.333333333333
+Employee Benefits,8160D,2025-02-01,4453.333333333333
+Employee Benefits,8160D,2025-03-01,4453.333333333333
+Employee Benefits,8161D,2025-01-01,1495.3333333333333
+Employee Benefits,8161D,2025-02-01,1495.3333333333333
+Employee Benefits,8161D,2025-03-01,1495.3333333333333
+Employee Benefits,8162D,2025-01-01,854.6666666666666
+Employee Benefits,8162D,2025-02-01,854.6666666666666
+Employee Benefits,8162D,2025-03-01,854.6666666666666
+Employee Benefits,8163D,2025-01-01,1601.3333333333333
+Employee Benefits,8163D,2025-02-01,1601.3333333333333
+Employee Benefits,8163D,2025-03-01,1601.3333333333333
+Employee Benefits,8164D,2025-01-01,502.0
+Employee Benefits,8164D,2025-02-01,502.0
+Employee Benefits,8164D,2025-03-01,502.0
+Employee Benefits,8165D,2025-01-01,0.0
+Employee Benefits,8165D,2025-02-01,0.0
+Employee Benefits,8165D,2025-03-01,0.0
+Employee Bonuses Payable,2270D,2025-01-01,2396.0
+Employee Bonuses Payable,2270D,2025-02-01,2396.0
+Employee Bonuses Payable,2270D,2025-03-01,2396.0
+Equip. M/S,11790D,2025-01-01,71256.33333333333
+Equip. M/S,11790D,2025-02-01,71256.33333333333
+Equip. M/S,11790D,2025-03-01,71256.33333333333
+Equip. M/S,1790D,2025-01-01,153694.0
+Equip. M/S,1790D,2025-02-01,153694.0
+Equip. M/S,1790D,2025-03-01,153694.0
+Equip. M/S,1800D,2025-01-01,82437.66666666667
+Equip. M/S,1800D,2025-02-01,82437.66666666667
+Equip. M/S,1800D,2025-03-01,82437.66666666667
+Equip. P/A,11810D,2025-01-01,8192.666666666666
+Equip. P/A,11810D,2025-02-01,8192.666666666666
+Equip. P/A,11810D,2025-03-01,8192.666666666666
+Equip. P/A,1810D,2025-01-01,26711.0
+Equip. P/A,1810D,2025-02-01,26711.0
+Equip. P/A,1810D,2025-03-01,26711.0
+Equip. P/A,1820D,2025-01-01,18518.333333333332
+Equip. P/A,1820D,2025-02-01,18518.333333333332
+Equip. P/A,1820D,2025-03-01,18518.333333333332
+Equipment - Repairs & Rental,8240D,2025-01-01,0.0
+Equipment - Repairs & Rental,8240D,2025-02-01,0.0
+Equipment - Repairs & Rental,8240D,2025-03-01,0.0
+Equipment - Repairs & Rental,8241D,2025-01-01,0.0
+Equipment - Repairs & Rental,8241D,2025-02-01,0.0
+Equipment - Repairs & Rental,8241D,2025-03-01,0.0
+Equipment - Repairs & Rental,8242D,2025-01-01,0.0
+Equipment - Repairs & Rental,8242D,2025-02-01,0.0
+Equipment - Repairs & Rental,8242D,2025-03-01,0.0
+Equipment - Repairs & Rental,8243D,2025-01-01,0.0
+Equipment - Repairs & Rental,8243D,2025-02-01,0.0
+Equipment - Repairs & Rental,8243D,2025-03-01,0.0
+Equipment - Repairs & Rental,8244D,2025-01-01,0.0
+Equipment - Repairs & Rental,8244D,2025-02-01,0.0
+Equipment - Repairs & Rental,8244D,2025-03-01,0.0
+Equipment - Repairs & Rental,8245D,2025-01-01,0.0
+Equipment - Repairs & Rental,8245D,2025-02-01,0.0
+Equipment - Repairs & Rental,8245D,2025-03-01,0.0
+F & I Sales Reps.,0970P,2025-01-01,0.0
+F & I Sales Reps.,0970P,2025-02-01,0.0
+F & I Sales Reps.,0970P,2025-03-01,0.0
+F & I Sales Reps.,530P,2025-01-01,2.0
+F & I Sales Reps.,530P,2025-02-01,2.0
+F & I Sales Reps.,530P,2025-03-01,2.0
+F&I Sales Reps,0963P,2025-01-01,2.0
+F&I Sales Reps,0963P,2025-02-01,2.0
+F&I Sales Reps,0963P,2025-03-01,2.0
+FEB.,391BU,2025-01-01,21.0
+FEB.,391BU,2025-02-01,21.0
+FEB.,391BU,2025-03-01,21.0
+FEB.,392BU,2025-01-01,0.0
+FEB.,392BU,2025-02-01,0.0
+FEB.,392BU,2025-03-01,0.0
+FEB.,395BU,2025-01-01,26.0
+FEB.,395BU,2025-02-01,26.0
+FEB.,395BU,2025-03-01,26.0
+FEB.,396BD,2025-01-01,-9052.0
+FEB.,396BD,2025-02-01,-9052.0
+FEB.,396BD,2025-03-01,-9052.0
+FEB.,396BU,2025-01-01,0.0
+FEB.,396BU,2025-02-01,0.0
+FEB.,396BU,2025-03-01,0.0
+Finance / Insur. Income Receivable - Deferred,1960D,2025-01-01,0.0
+Finance / Insur. Income Receivable - Deferred,1960D,2025-02-01,0.0
+Finance / Insur. Income Receivable - Deferred,1960D,2025-03-01,0.0
+Finance / Insurance / Service Contracts,1130DD,2025-01-01,0.0
+Finance / Insurance / Service Contracts,1130DD,2025-02-01,0.0
+Finance / Insurance / Service Contracts,1130DD,2025-03-01,0.0
+Finance / Insurance / Service Contracts,1130ED,2025-01-01,0.0
+Finance / Insurance / Service Contracts,1130ED,2025-02-01,0.0
+Finance / Insurance / Service Contracts,1130ED,2025-03-01,0.0
+Finance / Insurance / Service Contracts,1130FD,2025-01-01,0.0
+Finance / Insurance / Service Contracts,1130FD,2025-02-01,0.0
+Finance / Insurance / Service Contracts,1130FD,2025-03-01,0.0
+Finance / Insurance Income Rec. - Current,1130AD,2025-01-01,474.0
+Finance / Insurance Income Rec. - Current,1130AD,2025-02-01,474.0
+Finance / Insurance Income Rec. - Current,1130AD,2025-03-01,474.0
+Finance / Insurance Income Rec. - Current,1130BD,2025-01-01,474.0
+Finance / Insurance Income Rec. - Current,1130BD,2025-02-01,474.0
+Finance / Insurance Income Rec. - Current,1130BD,2025-03-01,474.0
+Finance / Insurance Income Rec. - Current,1130CD,2025-01-01,0.0
+Finance / Insurance Income Rec. - Current,1130CD,2025-02-01,0.0
+Finance / Insurance Income Rec. - Current,1130CD,2025-03-01,0.0
+Finance / Insurance Income Rec. - Current,1130D,2025-01-01,474.0
+Finance / Insurance Income Rec. - Current,1130D,2025-02-01,474.0
+Finance / Insurance Income Rec. - Current,1130D,2025-03-01,474.0
+Finance Income (CPO),3701G,2025-01-01,0.0
+Finance Income (CPO),3701G,2025-02-01,0.0
+Finance Income (CPO),3701G,2025-03-01,0.0
+Finance Income (CPO),3701S,2025-01-01,0.0
+Finance Income (CPO),3701S,2025-02-01,0.0
+Finance Income (CPO),3701S,2025-03-01,0.0
+Finance Income (CPO),3701U,2025-01-01,0.0
+Finance Income (CPO),3701U,2025-02-01,0.0
+Finance Income (CPO),3701U,2025-03-01,0.0
+Finance Income (Non CPO),3707G,2025-01-01,6761.666666666667
+Finance Income (Non CPO),3707G,2025-02-01,6761.666666666667
+Finance Income (Non CPO),3707G,2025-03-01,6761.666666666667
+Finance Income (Non CPO),3707S,2025-01-01,7885.666666666667
+Finance Income (Non CPO),3707S,2025-02-01,7885.666666666667
+Finance Income (Non CPO),3707S,2025-03-01,7885.666666666667
+Finance Income (Non CPO),3707U,2025-01-01,7.666666666666667
+Finance Income (Non CPO),3707U,2025-02-01,7.666666666666667
+Finance Income (Non CPO),3707U,2025-03-01,7.666666666666667
+Finance Income (Other Makes),3710G,2025-01-01,0.0
+Finance Income (Other Makes),3710G,2025-02-01,0.0
+Finance Income (Other Makes),3710G,2025-03-01,0.0
+Finance Income (Other Makes),3710S,2025-01-01,0.0
+Finance Income (Other Makes),3710S,2025-02-01,0.0
+Finance Income (Other Makes),3710S,2025-03-01,0.0
+Finance Income (Other Makes),3710U,2025-01-01,0.0
+Finance Income (Other Makes),3710U,2025-02-01,0.0
+Finance Income (Other Makes),3710U,2025-03-01,0.0
+Finance Income - New,3310G,2025-01-01,1511.6666666666667
+Finance Income - New,3310G,2025-02-01,1511.6666666666667
+Finance Income - New,3310G,2025-03-01,1511.6666666666667
+Finance Income - New,3310S,2025-01-01,1511.6666666666667
+Finance Income - New,3310S,2025-02-01,1511.6666666666667
+Finance Income - New,3310S,2025-03-01,1511.6666666666667
+Finance Income - New,3310U,2025-01-01,1.6666666666666667
+Finance Income - New,3310U,2025-02-01,1.6666666666666667
+Finance Income - New,3310U,2025-03-01,1.6666666666666667
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-01-01,0.0
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-02-01,0.0
+Fixed Oper. Advert. Co-Op Credit,8720D,2025-03-01,0.0
+Fixed Oper. Advertising / Promotion,8223D,2025-01-01,0.0
+Fixed Oper. Advertising / Promotion,8223D,2025-02-01,0.0
+Fixed Oper. Advertising / Promotion,8223D,2025-03-01,0.0
+Fixed Oper. Advertising / Promotion,8224D,2025-01-01,0.0
+Fixed Oper. Advertising / Promotion,8224D,2025-02-01,0.0
+Fixed Oper. Advertising / Promotion,8224D,2025-03-01,0.0
+Fixed Oper. Advertising / Promotion,8225D,2025-01-01,0.0
+Fixed Oper. Advertising / Promotion,8225D,2025-02-01,0.0
+Fixed Oper. Advertising / Promotion,8225D,2025-03-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-01-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-02-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8723D,2025-03-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-01-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-02-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8724D,2025-03-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-01-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-02-01,0.0
+Fixed Oper. Advertising Co-Op Credit ,8725D,2025-03-01,0.0
+Fixed Operations Advertising / Promotion,8220D,2025-01-01,0.0
+Fixed Operations Advertising / Promotion,8220D,2025-02-01,0.0
+Fixed Operations Advertising / Promotion,8220D,2025-03-01,0.0
+Floor Plan Credits,8700D,2025-01-01,22610.0
+Floor Plan Credits,8700D,2025-02-01,22610.0
+Floor Plan Credits,8700D,2025-03-01,22610.0
+Floor Plan Credits,8701D,2025-01-01,22610.0
+Floor Plan Credits,8701D,2025-02-01,22610.0
+Floor Plan Credits,8701D,2025-03-01,22610.0
+Floor Plan Interest,8050D,2025-01-01,22173.666666666668
+Floor Plan Interest,8050D,2025-02-01,22173.666666666668
+Floor Plan Interest,8050D,2025-03-01,22173.666666666668
+Floor Plan Interest,8051D,2025-01-01,15841.666666666666
+Floor Plan Interest,8051D,2025-02-01,15841.666666666666
+Floor Plan Interest,8051D,2025-03-01,15841.666666666666
+Floor Plan Interest,8052D,2025-01-01,6332.0
+Floor Plan Interest,8052D,2025-02-01,6332.0
+Floor Plan Interest,8052D,2025-03-01,6332.0
+Freight & Express,8330D,2025-01-01,21.0
+Freight & Express,8330D,2025-02-01,21.0
+Freight & Express,8330D,2025-03-01,21.0
+Freight & Express,8331D,2025-01-01,0.0
+Freight & Express,8331D,2025-02-01,0.0
+Freight & Express,8331D,2025-03-01,0.0
+Freight & Express,8332D,2025-01-01,0.0
+Freight & Express,8332D,2025-02-01,0.0
+Freight & Express,8332D,2025-03-01,0.0
+Freight & Express,8333D,2025-01-01,0.0
+Freight & Express,8333D,2025-02-01,0.0
+Freight & Express,8333D,2025-03-01,0.0
+Freight & Express,8334D,2025-01-01,21.0
+Freight & Express,8334D,2025-02-01,21.0
+Freight & Express,8334D,2025-03-01,21.0
+Freight & Express,8335D,2025-01-01,0.0
+Freight & Express,8335D,2025-02-01,0.0
+Freight & Express,8335D,2025-03-01,0.0
+"Furniture & 
+Fixtures",11830D,2025-01-01,52767.0
+"Furniture & 
+Fixtures",11830D,2025-02-01,52767.0
+"Furniture & 
+Fixtures",11830D,2025-03-01,52767.0
+Furnitures & Fixtures,1830D,2025-01-01,136532.0
+Furnitures & Fixtures,1830D,2025-02-01,136532.0
+Furnitures & Fixtures,1830D,2025-03-01,136532.0
+Furnitures & Fixtures,1840D,2025-01-01,83765.0
+Furnitures & Fixtures,1840D,2025-02-01,83765.0
+Furnitures & Fixtures,1840D,2025-03-01,83765.0
+Gain on Disposal of Assets,9050D,2025-01-01,0.0
+Gain on Disposal of Assets,9050D,2025-02-01,0.0
+Gain on Disposal of Assets,9050D,2025-03-01,0.0
+"Gas, Oil & Grease",5280G,2025-01-01,0.0
+"Gas, Oil & Grease",5280G,2025-02-01,0.0
+"Gas, Oil & Grease",5280G,2025-03-01,0.0
+"Gas, Oil & Grease",5280S,2025-01-01,0.0
+"Gas, Oil & Grease",5280S,2025-02-01,0.0
+"Gas, Oil & Grease",5280S,2025-03-01,0.0
+"Gas, Oil & Grease",5280U,2025-01-01,0.0
+"Gas, Oil & Grease",5280U,2025-02-01,0.0
+"Gas, Oil & Grease",5280U,2025-03-01,0.0
+"Gas, Oil, & Grease",1520D,2025-01-01,8795.0
+"Gas, Oil, & Grease",1520D,2025-02-01,8795.0
+"Gas, Oil, & Grease",1520D,2025-03-01,8795.0
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-01-01,24429.333333333332
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-02-01,24429.333333333332
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),22421150D,2025-03-01,24429.333333333332
+Goodwill Policy,8070D,2025-01-01,3349.3333333333335
+Goodwill Policy,8070D,2025-02-01,3349.3333333333335
+Goodwill Policy,8070D,2025-03-01,3349.3333333333335
+Goodwill Policy,8071D,2025-01-01,0.0
+Goodwill Policy,8071D,2025-02-01,0.0
+Goodwill Policy,8071D,2025-03-01,0.0
+Goodwill Policy,8072D,2025-01-01,0.0
+Goodwill Policy,8072D,2025-02-01,0.0
+Goodwill Policy,8072D,2025-03-01,0.0
+Goodwill Policy,8073D,2025-01-01,2505.6666666666665
+Goodwill Policy,8073D,2025-02-01,2505.6666666666665
+Goodwill Policy,8073D,2025-03-01,2505.6666666666665
+Goodwill Policy,8074D,2025-01-01,843.6666666666666
+Goodwill Policy,8074D,2025-02-01,843.6666666666666
+Goodwill Policy,8074D,2025-03-01,843.6666666666666
+Goodwill Policy,8075D,2025-01-01,0.0
+Goodwill Policy,8075D,2025-02-01,0.0
+Goodwill Policy,8075D,2025-03-01,0.0
+Gross Stock Turn,6001DZ,2025-01-01,-0.5466666666666665
+Gross Stock Turn,6001DZ,2025-02-01,-0.5466666666666665
+Gross Stock Turn,6001DZ,2025-03-01,-0.5466666666666665
+Gross Stock Turn,6010DZ,2025-01-01,-0.04333333333333327
+Gross Stock Turn,6010DZ,2025-02-01,-0.04333333333333327
+Gross Stock Turn,6010DZ,2025-03-01,-0.04333333333333327
+Gross Stock Turn,6017DZ,2025-01-01,-0.5066666666666667
+Gross Stock Turn,6017DZ,2025-02-01,-0.5066666666666667
+Gross Stock Turn,6017DZ,2025-03-01,-0.5066666666666667
+Guide,6028DZ,2025-01-01,0.0
+Guide,6028DZ,2025-02-01,0.0
+Guide,6028DZ,2025-03-01,0.0
+Heat - Light - Power - Water,8490D,2025-01-01,395.3333333333333
+Heat - Light - Power - Water,8490D,2025-02-01,395.3333333333333
+Heat - Light - Power - Water,8490D,2025-03-01,395.3333333333333
+Heat - Light - Power - Water,8491D,2025-01-01,138.33333333333334
+Heat - Light - Power - Water,8491D,2025-02-01,138.33333333333334
+Heat - Light - Power - Water,8491D,2025-03-01,138.33333333333334
+Heat - Light - Power - Water,8492D,2025-01-01,59.333333333333336
+Heat - Light - Power - Water,8492D,2025-02-01,59.333333333333336
+Heat - Light - Power - Water,8492D,2025-03-01,59.333333333333336
+Heat - Light - Power - Water,8493D,2025-01-01,138.33333333333334
+Heat - Light - Power - Water,8493D,2025-02-01,138.33333333333334
+Heat - Light - Power - Water,8493D,2025-03-01,138.33333333333334
+Heat - Light - Power - Water,8494D,2025-01-01,59.333333333333336
+Heat - Light - Power - Water,8494D,2025-02-01,59.333333333333336
+Heat - Light - Power - Water,8494D,2025-03-01,59.333333333333336
+Heat - Light - Power - Water,8495D,2025-01-01,0.0
+Heat - Light - Power - Water,8495D,2025-02-01,0.0
+Heat - Light - Power - Water,8495D,2025-03-01,0.0
+Hired YTD,560TP,2025-01-01,0.0
+Hired YTD,560TP,2025-02-01,0.0
+Hired YTD,560TP,2025-03-01,0.0
+Hired YTD ,560AP,2025-01-01,0.0
+Hired YTD ,560AP,2025-02-01,0.0
+Hired YTD ,560AP,2025-03-01,0.0
+Hired YTD ,560BP,2025-01-01,0.0
+Hired YTD ,560BP,2025-02-01,0.0
+Hired YTD ,560BP,2025-03-01,0.0
+Hired YTD ,560CP,2025-01-01,0.0
+Hired YTD ,560CP,2025-02-01,0.0
+Hired YTD ,560CP,2025-03-01,0.0
+Hired YTD ,560DP,2025-01-01,0.0
+Hired YTD ,560DP,2025-02-01,0.0
+Hired YTD ,560DP,2025-03-01,0.0
+Hired YTD ,560EP,2025-01-01,0.0
+Hired YTD ,560EP,2025-02-01,0.0
+Hired YTD ,560EP,2025-03-01,0.0
+Hours Available,50009SD,2025-01-01,672.0
+Hours Available,50009SD,2025-02-01,672.0
+Hours Available,50009SD,2025-03-01,672.0
+Hours Available ,50109SD,2025-01-01,0.0
+Hours Available ,50109SD,2025-02-01,0.0
+Hours Available ,50109SD,2025-03-01,0.0
+Hours Clocked ,50010SD,2025-01-01,543.6666666666666
+Hours Clocked ,50010SD,2025-02-01,543.6666666666666
+Hours Clocked ,50010SD,2025-03-01,543.6666666666666
+Hours Clocked ,50110SD,2025-01-01,0.0
+Hours Clocked ,50110SD,2025-02-01,0.0
+Hours Clocked ,50110SD,2025-03-01,0.0
+Hours Sold,50011SD,2025-01-01,541.0
+Hours Sold,50011SD,2025-02-01,541.0
+Hours Sold,50011SD,2025-03-01,541.0
+Hours Sold ,50111SD,2025-01-01,0.0
+Hours Sold ,50111SD,2025-02-01,0.0
+Hours Sold ,50111SD,2025-03-01,0.0
+Hours Sold per Technician,6101DZ,2025-01-01,-0.11000000000000416
+Hours Sold per Technician,6101DZ,2025-02-01,-0.11000000000000416
+Hours Sold per Technician,6101DZ,2025-03-01,-0.11000000000000416
+Hours Sold per Technician,6119DZ,2025-01-01,180.33333333333334
+Hours Sold per Technician,6119DZ,2025-02-01,180.33333333333334
+Hours Sold per Technician,6119DZ,2025-03-01,180.33333333333334
+Hours Sold per Technician,6137DZ,2025-01-01,-1.773333333333331
+Hours Sold per Technician,6137DZ,2025-02-01,-1.773333333333331
+Hours Sold per Technician,6137DZ,2025-03-01,-1.773333333333331
+Hours per CP RO,6105DZ,2025-01-01,0.013333333333333336
+Hours per CP RO,6105DZ,2025-02-01,0.013333333333333336
+Hours per CP RO,6105DZ,2025-03-01,0.013333333333333336
+Hours per CP RO,6123DZ,2025-01-01,0.0
+Hours per CP RO,6123DZ,2025-02-01,0.0
+Hours per CP RO,6123DZ,2025-03-01,0.0
+Hours per CP RO,6141DZ,2025-01-01,1.6000000000000003
+Hours per CP RO,6141DZ,2025-02-01,1.6000000000000003
+Hours per CP RO,6141DZ,2025-03-01,1.6000000000000003
+INCOME TAX,8520D,2025-01-01,0.0
+INCOME TAX,8520D,2025-02-01,0.0
+INCOME TAX,8520D,2025-03-01,0.0
+Income Tax,8520DD,2025-01-01,0.0
+Income Tax,8520DD,2025-02-01,0.0
+Income Tax,8520DD,2025-03-01,0.0
+Insurance - Buildings & Improvements,8470D,2025-01-01,4048.0
+Insurance - Buildings & Improvements,8470D,2025-02-01,4048.0
+Insurance - Buildings & Improvements,8470D,2025-03-01,4048.0
+Insurance - Buildings & Improvements,8471D,2025-01-01,1417.0
+Insurance - Buildings & Improvements,8471D,2025-02-01,1417.0
+Insurance - Buildings & Improvements,8471D,2025-03-01,1417.0
+Insurance - Buildings & Improvements,8472D,2025-01-01,607.0
+Insurance - Buildings & Improvements,8472D,2025-02-01,607.0
+Insurance - Buildings & Improvements,8472D,2025-03-01,607.0
+Insurance - Buildings & Improvements,8473D,2025-01-01,1417.0
+Insurance - Buildings & Improvements,8473D,2025-02-01,1417.0
+Insurance - Buildings & Improvements,8473D,2025-03-01,1417.0
+Insurance - Buildings & Improvements,8474D,2025-01-01,607.0
+Insurance - Buildings & Improvements,8474D,2025-02-01,607.0
+Insurance - Buildings & Improvements,8474D,2025-03-01,607.0
+Insurance - Buildings & Improvements,8475D,2025-01-01,0.0
+Insurance - Buildings & Improvements,8475D,2025-02-01,0.0
+Insurance - Buildings & Improvements,8475D,2025-03-01,0.0
+Insurance - Other,8390D,2025-01-01,0.0
+Insurance - Other,8390D,2025-02-01,0.0
+Insurance - Other,8390D,2025-03-01,0.0
+Insurance - Other,8391D,2025-01-01,0.0
+Insurance - Other,8391D,2025-02-01,0.0
+Insurance - Other,8391D,2025-03-01,0.0
+Insurance - Other,8392D,2025-01-01,0.0
+Insurance - Other,8392D,2025-02-01,0.0
+Insurance - Other,8392D,2025-03-01,0.0
+Insurance - Other,8393D,2025-01-01,0.0
+Insurance - Other,8393D,2025-02-01,0.0
+Insurance - Other,8393D,2025-03-01,0.0
+Insurance - Other,8394D,2025-01-01,0.0
+Insurance - Other,8394D,2025-02-01,0.0
+Insurance - Other,8394D,2025-03-01,0.0
+Insurance - Other,8395D,2025-01-01,0.0
+Insurance - Other,8395D,2025-02-01,0.0
+Insurance - Other,8395D,2025-03-01,0.0
+Insurance Income (CPO),3702G,2025-01-01,0.0
+Insurance Income (CPO),3702G,2025-02-01,0.0
+Insurance Income (CPO),3702G,2025-03-01,0.0
+Insurance Income (CPO),3702S,2025-01-01,0.0
+Insurance Income (CPO),3702S,2025-02-01,0.0
+Insurance Income (CPO),3702S,2025-03-01,0.0
+Insurance Income (CPO),3702U,2025-01-01,0.0
+Insurance Income (CPO),3702U,2025-02-01,0.0
+Insurance Income (CPO),3702U,2025-03-01,0.0
+Insurance Income (Non CPO),3706G,2025-01-01,0.0
+Insurance Income (Non CPO),3706G,2025-02-01,0.0
+Insurance Income (Non CPO),3706G,2025-03-01,0.0
+Insurance Income (Non CPO),3706S,2025-01-01,0.0
+Insurance Income (Non CPO),3706S,2025-02-01,0.0
+Insurance Income (Non CPO),3706S,2025-03-01,0.0
+Insurance Income (Non CPO),3706U,2025-01-01,0.0
+Insurance Income (Non CPO),3706U,2025-02-01,0.0
+Insurance Income (Non CPO),3706U,2025-03-01,0.0
+Insurance Income (Other Makes),3713G,2025-01-01,0.0
+Insurance Income (Other Makes),3713G,2025-02-01,0.0
+Insurance Income (Other Makes),3713G,2025-03-01,0.0
+Insurance Income (Other Makes),3713S,2025-01-01,0.0
+Insurance Income (Other Makes),3713S,2025-02-01,0.0
+Insurance Income (Other Makes),3713S,2025-03-01,0.0
+Insurance Income (Other Makes),3713U,2025-01-01,0.0
+Insurance Income (Other Makes),3713U,2025-02-01,0.0
+Insurance Income (Other Makes),3713U,2025-03-01,0.0
+Insurance Income - New,3341G,2025-01-01,11425.0
+Insurance Income - New,3341G,2025-02-01,11425.0
+Insurance Income - New,3341G,2025-03-01,11425.0
+Insurance Income - New,3341S,2025-01-01,15288.333333333334
+Insurance Income - New,3341S,2025-02-01,15288.333333333334
+Insurance Income - New,3341S,2025-03-01,15288.333333333334
+Insurance Income - New,3341U,2025-01-01,5.666666666666667
+Insurance Income - New,3341U,2025-02-01,5.666666666666667
+Insurance Income - New,3341U,2025-03-01,5.666666666666667
+Insurance Payable,2220D,2025-01-01,0.0
+Insurance Payable,2220D,2025-02-01,0.0
+Insurance Payable,2220D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8480D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8480D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8480D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8481D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8481D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8481D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8482D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8482D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8482D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8483D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8483D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8483D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8484D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8484D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8484D,2025-03-01,0.0
+Interest - Real Estate - Mortgage,8485D,2025-01-01,0.0
+Interest - Real Estate - Mortgage,8485D,2025-02-01,0.0
+Interest - Real Estate - Mortgage,8485D,2025-03-01,0.0
+Interest Payable,2200D,2025-01-01,0.0
+Interest Payable,2200D,2025-02-01,0.0
+Interest Payable,2200D,2025-03-01,0.0
+Internal Body Shop Labour,5430G,2025-01-01,0.0
+Internal Body Shop Labour,5430G,2025-02-01,0.0
+Internal Body Shop Labour,5430G,2025-03-01,0.0
+Internal Body Shop Labour,5430S,2025-01-01,0.0
+Internal Body Shop Labour,5430S,2025-02-01,0.0
+Internal Body Shop Labour,5430S,2025-03-01,0.0
+Internal Body Shop Labour,5430U,2025-01-01,0.0
+Internal Body Shop Labour,5430U,2025-02-01,0.0
+Internal Body Shop Labour,5430U,2025-03-01,0.0
+Internal Hours Sold ,50015SD,2025-01-01,215.33333333333334
+Internal Hours Sold ,50015SD,2025-02-01,215.33333333333334
+Internal Hours Sold ,50015SD,2025-03-01,215.33333333333334
+Internal Labour Rate,5080D,2025-01-01,135.0
+Internal Labour Rate,5080D,2025-02-01,135.0
+Internal Labour Rate,5080D,2025-03-01,135.0
+Internal Labour Rate,5081D,2025-01-01,0.0
+Internal Labour Rate,5081D,2025-02-01,0.0
+Internal Labour Rate,5081D,2025-03-01,0.0
+Internal Mechanical Labour,5080G,2025-01-01,19059.333333333332
+Internal Mechanical Labour,5080G,2025-02-01,19059.333333333332
+Internal Mechanical Labour,5080G,2025-03-01,19059.333333333332
+Internal Mechanical Labour,5080S,2025-01-01,26013.666666666668
+Internal Mechanical Labour,5080S,2025-02-01,26013.666666666668
+Internal Mechanical Labour,5080S,2025-03-01,26013.666666666668
+Internal Mechanical Labour,5080U,2025-01-01,134.66666666666666
+Internal Mechanical Labour,5080U,2025-02-01,134.66666666666666
+Internal Mechanical Labour,5080U,2025-03-01,134.66666666666666
+Internal Mechanical Labour,5200S,2025-01-01,24339.666666666668
+Internal Mechanical Labour,5200S,2025-02-01,24339.666666666668
+Internal Mechanical Labour,5200S,2025-03-01,24339.666666666668
+Internal P&A RO,5261G,2025-01-01,7365.333333333333
+Internal P&A RO,5261G,2025-02-01,7365.333333333333
+Internal P&A RO,5261G,2025-03-01,7365.333333333333
+Internal P&A RO,5261S,2025-01-01,24525.333333333332
+Internal P&A RO,5261S,2025-02-01,24525.333333333332
+Internal P&A RO,5261S,2025-03-01,24525.333333333332
+Internal P&A RO,5261U,2025-01-01,0.0
+Internal P&A RO,5261U,2025-02-01,0.0
+Internal P&A RO,5261U,2025-03-01,0.0
+Investments,2550D,2025-01-01,0.0
+Investments,2550D,2025-02-01,0.0
+Investments,2550D,2025-03-01,0.0
+JAN.,391AU,2025-01-01,19.0
+JAN.,391AU,2025-02-01,19.0
+JAN.,391AU,2025-03-01,19.0
+JAN.,392AU,2025-01-01,0.0
+JAN.,392AU,2025-02-01,0.0
+JAN.,392AU,2025-03-01,0.0
+JAN.,395AU,2025-01-01,19.0
+JAN.,395AU,2025-02-01,19.0
+JAN.,395AU,2025-03-01,19.0
+JAN.,396AD,2025-01-01,21678.0
+JAN.,396AD,2025-02-01,21678.0
+JAN.,396AD,2025-03-01,21678.0
+JAN.,396AU,2025-01-01,0.0
+JAN.,396AU,2025-02-01,0.0
+JAN.,396AU,2025-03-01,0.0
+JUL.,391GU,2025-01-01,29.0
+JUL.,391GU,2025-02-01,29.0
+JUL.,391GU,2025-03-01,29.0
+JUL.,392GU,2025-01-01,0.0
+JUL.,392GU,2025-02-01,0.0
+JUL.,392GU,2025-03-01,0.0
+JUL.,395GU,2025-01-01,22.0
+JUL.,395GU,2025-02-01,22.0
+JUL.,395GU,2025-03-01,22.0
+JUL.,396GD,2025-01-01,14345.0
+JUL.,396GD,2025-02-01,14345.0
+JUL.,396GD,2025-03-01,14345.0
+JUL.,396GU,2025-01-01,0.0
+JUL.,396GU,2025-02-01,0.0
+JUL.,396GU,2025-03-01,0.0
+JUN.,391FU,2025-01-01,18.0
+JUN.,391FU,2025-02-01,18.0
+JUN.,391FU,2025-03-01,18.0
+JUN.,392FU,2025-01-01,0.0
+JUN.,392FU,2025-02-01,0.0
+JUN.,392FU,2025-03-01,0.0
+JUN.,395FU,2025-01-01,16.0
+JUN.,395FU,2025-02-01,16.0
+JUN.,395FU,2025-03-01,16.0
+JUN.,396FD,2025-01-01,-28196.0
+JUN.,396FD,2025-02-01,-28196.0
+JUN.,396FD,2025-03-01,-28196.0
+JUN.,396FU,2025-01-01,0.0
+JUN.,396FU,2025-02-01,0.0
+JUN.,396FU,2025-03-01,0.0
+Land - Auto Bus Only,11750D,2025-01-01,0.0
+Land - Auto Bus Only,11750D,2025-02-01,0.0
+Land - Auto Bus Only,11750D,2025-03-01,0.0
+Land - Auto Bus Only,1750D,2025-01-01,0.0
+Land - Auto Bus Only,1750D,2025-02-01,0.0
+Land - Auto Bus Only,1750D,2025-03-01,0.0
+Laundry & Uniforms,8150D,2025-01-01,917.6666666666666
+Laundry & Uniforms,8150D,2025-02-01,917.6666666666666
+Laundry & Uniforms,8150D,2025-03-01,917.6666666666666
+Laundry & Uniforms,8151D,2025-01-01,0.0
+Laundry & Uniforms,8151D,2025-02-01,0.0
+Laundry & Uniforms,8151D,2025-03-01,0.0
+Laundry & Uniforms,8152D,2025-01-01,0.0
+Laundry & Uniforms,8152D,2025-02-01,0.0
+Laundry & Uniforms,8152D,2025-03-01,0.0
+Laundry & Uniforms ,8153D,2025-01-01,917.6666666666666
+Laundry & Uniforms ,8153D,2025-02-01,917.6666666666666
+Laundry & Uniforms ,8153D,2025-03-01,917.6666666666666
+Laundry & Uniforms ,8154D,2025-01-01,0.0
+Laundry & Uniforms ,8154D,2025-02-01,0.0
+Laundry & Uniforms ,8154D,2025-03-01,0.0
+Laundry & Uniforms ,8155D,2025-01-01,0.0
+Laundry & Uniforms ,8155D,2025-02-01,0.0
+Laundry & Uniforms ,8155D,2025-03-01,0.0
+Lease & Rental Expenses,9102D,2025-01-01,0.0
+Lease & Rental Expenses,9102D,2025-02-01,0.0
+Lease & Rental Expenses,9102D,2025-03-01,0.0
+Lease & Rental Income,9101D,2025-01-01,8000.0
+Lease & Rental Income,9101D,2025-02-01,8000.0
+Lease & Rental Income,9101D,2025-03-01,8000.0
+Lease Buyout,3510G,2025-01-01,0.0
+Lease Buyout,3510G,2025-02-01,0.0
+Lease Buyout,3510G,2025-03-01,0.0
+Lease Buyout,3510S,2025-01-01,0.0
+Lease Buyout,3510S,2025-02-01,0.0
+Lease Buyout,3510S,2025-03-01,0.0
+Lease Buyout,3510U,2025-01-01,0.0
+Lease Buyout,3510U,2025-02-01,0.0
+Lease Buyout,3510U,2025-03-01,0.0
+Lease Vehicles,1680D,2025-01-01,0.0
+Lease Vehicles,1680D,2025-02-01,0.0
+Lease Vehicles,1680D,2025-03-01,0.0
+Leasehold,1870D,2025-01-01,21333.333333333332
+Leasehold,1870D,2025-02-01,21333.333333333332
+Leasehold,1870D,2025-03-01,21333.333333333332
+Leasehold,1880D,2025-01-01,0.0
+Leasehold,1880D,2025-02-01,0.0
+Leasehold,1880D,2025-03-01,0.0
+Leasehold ,11870D,2025-01-01,21333.333333333332
+Leasehold ,11870D,2025-02-01,21333.333333333332
+Leasehold ,11870D,2025-03-01,21333.333333333332
+Legal & Auditing,8350D,2025-01-01,9699.333333333334
+Legal & Auditing,8350D,2025-02-01,9699.333333333334
+Legal & Auditing,8350D,2025-03-01,9699.333333333334
+Legal & Auditing,8351D,2025-01-01,3394.6666666666665
+Legal & Auditing,8351D,2025-02-01,3394.6666666666665
+Legal & Auditing,8351D,2025-03-01,3394.6666666666665
+Legal & Auditing,8352D,2025-01-01,1455.0
+Legal & Auditing,8352D,2025-02-01,1455.0
+Legal & Auditing,8352D,2025-03-01,1455.0
+Legal & Auditing,8353D,2025-01-01,3394.6666666666665
+Legal & Auditing,8353D,2025-02-01,3394.6666666666665
+Legal & Auditing,8353D,2025-03-01,3394.6666666666665
+Legal & Auditing,8354D,2025-01-01,1455.0
+Legal & Auditing,8354D,2025-02-01,1455.0
+Legal & Auditing,8354D,2025-03-01,1455.0
+Legal & Auditing,8355D,2025-01-01,0.0
+Legal & Auditing,8355D,2025-02-01,0.0
+Legal & Auditing,8355D,2025-03-01,0.0
+Less: Charge Backs - New,4400G,2025-01-01,0.0
+Less: Charge Backs - New,4400G,2025-02-01,0.0
+Less: Charge Backs - New,4400G,2025-03-01,0.0
+Less: Charge Backs - Used,4750G,2025-01-01,0.0
+Less: Charge Backs - Used,4750G,2025-02-01,0.0
+Less: Charge Backs - Used,4750G,2025-03-01,0.0
+Life Insurance - Cash Value,1900D,2025-01-01,0.0
+Life Insurance - Cash Value,1900D,2025-02-01,0.0
+Life Insurance - Cash Value,1900D,2025-03-01,0.0
+Liquidity in Dollars,6032DZ,2025-01-01,0.0
+Liquidity in Dollars,6032DZ,2025-02-01,0.0
+Liquidity in Dollars,6032DZ,2025-03-01,0.0
+Liquidity in Dollars,6043DZ,2025-01-01,-674895.3333333334
+Liquidity in Dollars,6043DZ,2025-02-01,-674895.3333333334
+Liquidity in Dollars,6043DZ,2025-03-01,-674895.3333333334
+Loss on Disposal of Assets,9051D,2025-01-01,0.0
+Loss on Disposal of Assets,9051D,2025-02-01,0.0
+Loss on Disposal of Assets,9051D,2025-03-01,0.0
+MAR.,391CU,2025-01-01,18.0
+MAR.,391CU,2025-02-01,18.0
+MAR.,391CU,2025-03-01,18.0
+MAR.,392CU,2025-01-01,0.0
+MAR.,392CU,2025-02-01,0.0
+MAR.,392CU,2025-03-01,0.0
+MAR.,395CU,2025-01-01,25.0
+MAR.,395CU,2025-02-01,25.0
+MAR.,395CU,2025-03-01,25.0
+MAR.,396CD,2025-01-01,3210.0
+MAR.,396CD,2025-02-01,3210.0
+MAR.,396CD,2025-03-01,3210.0
+MAR.,396CU,2025-01-01,0.0
+MAR.,396CU,2025-02-01,0.0
+MAR.,396CU,2025-03-01,0.0
+MAY,391EU,2025-01-01,18.0
+MAY,391EU,2025-02-01,18.0
+MAY,391EU,2025-03-01,18.0
+MAY,392EU,2025-01-01,0.0
+MAY,392EU,2025-02-01,0.0
+MAY,392EU,2025-03-01,0.0
+MAY,395EU,2025-01-01,19.0
+MAY,395EU,2025-02-01,19.0
+MAY,395EU,2025-03-01,19.0
+MAY,396ED,2025-01-01,24961.333333333332
+MAY,396ED,2025-02-01,24961.333333333332
+MAY,396ED,2025-03-01,24961.333333333332
+MAY,396EU,2025-01-01,0.0
+MAY,396EU,2025-02-01,0.0
+MAY,396EU,2025-03-01,0.0
+Manager(s),0961P,2025-01-01,1.0
+Manager(s),0961P,2025-02-01,1.0
+Manager(s),0961P,2025-03-01,1.0
+Manager(s),0968P,2025-01-01,1.0
+Manager(s),0968P,2025-02-01,1.0
+Manager(s),0968P,2025-03-01,1.0
+Manager(s),0975P,2025-01-01,1.0
+Manager(s),0975P,2025-02-01,1.0
+Manager(s),0975P,2025-03-01,1.0
+Manager(s),0982P,2025-01-01,1.0
+Manager(s),0982P,2025-02-01,1.0
+Manager(s),0982P,2025-03-01,1.0
+Manager(s),0989P,2025-01-01,0.0
+Manager(s),0989P,2025-02-01,0.0
+Manager(s),0989P,2025-03-01,0.0
+Manager(s),510P,2025-01-01,4.0
+Manager(s),510P,2025-02-01,4.0
+Manager(s),510P,2025-03-01,4.0
+"Membership, Dues, Publications",8310D,2025-01-01,0.0
+"Membership, Dues, Publications",8310D,2025-02-01,0.0
+"Membership, Dues, Publications",8310D,2025-03-01,0.0
+"Membership, Dues, Publications",8311D,2025-01-01,0.0
+"Membership, Dues, Publications",8311D,2025-02-01,0.0
+"Membership, Dues, Publications",8311D,2025-03-01,0.0
+"Membership, Dues, Publications",8312D,2025-01-01,0.0
+"Membership, Dues, Publications",8312D,2025-02-01,0.0
+"Membership, Dues, Publications",8312D,2025-03-01,0.0
+"Membership, Dues, Publications ",8313D,2025-01-01,0.0
+"Membership, Dues, Publications ",8313D,2025-02-01,0.0
+"Membership, Dues, Publications ",8313D,2025-03-01,0.0
+"Membership, Dues, Publications ",8314D,2025-01-01,0.0
+"Membership, Dues, Publications ",8314D,2025-02-01,0.0
+"Membership, Dues, Publications ",8314D,2025-03-01,0.0
+"Membership, Dues, Publications ",8315D,2025-01-01,0.0
+"Membership, Dues, Publications ",8315D,2025-02-01,0.0
+"Membership, Dues, Publications ",8315D,2025-03-01,0.0
+Mirage (5-Door),3025G,2025-01-01,1169.3333333333333
+Mirage (5-Door),3025G,2025-02-01,1169.3333333333333
+Mirage (5-Door),3025G,2025-03-01,1169.3333333333333
+Mirage (5-Door),3025S,2025-01-01,43771.666666666664
+Mirage (5-Door),3025S,2025-02-01,43771.666666666664
+Mirage (5-Door),3025S,2025-03-01,43771.666666666664
+Mirage (5-Door),3025U,2025-01-01,2.0
+Mirage (5-Door),3025U,2025-02-01,2.0
+Mirage (5-Door),3025U,2025-03-01,2.0
+Miscellaneous,8410D,2025-01-01,8395.333333333334
+Miscellaneous,8410D,2025-02-01,8395.333333333334
+Miscellaneous,8410D,2025-03-01,8395.333333333334
+Miscellaneous,8411D,2025-01-01,3012.6666666666665
+Miscellaneous,8411D,2025-02-01,3012.6666666666665
+Miscellaneous,8411D,2025-03-01,3012.6666666666665
+Miscellaneous,8412D,2025-01-01,1192.0
+Miscellaneous,8412D,2025-02-01,1192.0
+Miscellaneous,8412D,2025-03-01,1192.0
+Miscellaneous ,8413D,2025-01-01,3190.6666666666665
+Miscellaneous ,8413D,2025-02-01,3190.6666666666665
+Miscellaneous ,8413D,2025-03-01,3190.6666666666665
+Miscellaneous ,8414D,2025-01-01,1000.0
+Miscellaneous ,8414D,2025-02-01,1000.0
+Miscellaneous ,8414D,2025-03-01,1000.0
+Miscellaneous ,8415D,2025-01-01,0.0
+Miscellaneous ,8415D,2025-02-01,0.0
+Miscellaneous ,8415D,2025-03-01,0.0
+Miscellaneous Assets,1571D,2025-01-01,0.0
+Miscellaneous Assets,1571D,2025-02-01,0.0
+Miscellaneous Assets,1571D,2025-03-01,0.0
+Miscellaneous Deductions,9222D,2025-01-01,0.0
+Miscellaneous Deductions,9222D,2025-02-01,0.0
+Miscellaneous Deductions,9222D,2025-03-01,0.0
+Miscellaneous Income,9072D,2025-01-01,-3565.3333333333335
+Miscellaneous Income,9072D,2025-02-01,-3565.3333333333335
+Miscellaneous Income,9072D,2025-03-01,-3565.3333333333335
+Missed Appointments,50106SD,2025-01-01,0.0
+Missed Appointments,50106SD,2025-02-01,0.0
+Missed Appointments,50106SD,2025-03-01,0.0
+Missed Service Appointments,50006SD,2025-01-01,0.0
+Missed Service Appointments,50006SD,2025-02-01,0.0
+Missed Service Appointments,50006SD,2025-03-01,0.0
+Mortgages Payable,2430D,2025-01-01,0.0
+Mortgages Payable,2430D,2025-02-01,0.0
+Mortgages Payable,2430D,2025-03-01,0.0
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-01-01,4434.666666666667
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-02-01,4434.666666666667
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",85000AD,2025-03-01,4434.666666666667
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-01-01,146530.33333333334
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-02-01,146530.33333333334
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",21000D,2025-03-01,146530.33333333334
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-01-01,14991.333333333334
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-02-01,14991.333333333334
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),2570D,2025-03-01,14991.333333333334
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-01-01,14989.333333333334
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-02-01,14989.333333333334
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",19000D,2025-03-01,14989.333333333334
+NET PROFIT OR (LOSS) ,19500D,2025-01-01,14991.333333333334
+NET PROFIT OR (LOSS) ,19500D,2025-02-01,14991.333333333334
+NET PROFIT OR (LOSS) ,19500D,2025-03-01,14991.333333333334
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-01-01,296667.6666666667
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-02-01,296667.6666666667
+"NET RECEIVABLES 
+(LINES 78 & 79)",22500D,2025-03-01,296667.6666666667
+NOV.,391KU,2025-01-01,19.333333333333332
+NOV.,391KU,2025-02-01,19.333333333333332
+NOV.,391KU,2025-03-01,19.333333333333332
+NOV.,392KU,2025-01-01,0.0
+NOV.,392KU,2025-02-01,0.0
+NOV.,392KU,2025-03-01,0.0
+NOV.,395KU,2025-01-01,17.333333333333332
+NOV.,395KU,2025-02-01,17.333333333333332
+NOV.,395KU,2025-03-01,17.333333333333332
+NOV.,396KD,2025-01-01,14272.0
+NOV.,396KD,2025-02-01,14272.0
+NOV.,396KD,2025-03-01,14272.0
+NOV.,396KU,2025-01-01,0.0
+NOV.,396KU,2025-02-01,0.0
+NOV.,396KU,2025-03-01,0.0
+NV Target,42000T,2025-01-01,0.0
+NV Target,42000T,2025-02-01,0.0
+NV Target,42000T,2025-03-01,0.0
+NV Target,6059DZ,2025-01-01,0.0
+NV Target,6059DZ,2025-02-01,0.0
+NV Target,6059DZ,2025-03-01,0.0
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-01-01,-1.5566666666666666
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-02-01,-1.5566666666666666
+NV Units Sold Retail Per NV Sales Rep.,6060DZ,2025-03-01,-1.5566666666666666
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-01-01,6.666666666666667
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-02-01,6.666666666666667
+NV Units Sold Retail Per NV Sales Rep.,6066DZ,2025-03-01,6.666666666666667
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-01-01,-1.4799999999999998
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-02-01,-1.4799999999999998
+NV Units Sold Retail Per NV Sales Rep.,6072DZ,2025-03-01,-1.4799999999999998
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-01-01,0.0
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-02-01,0.0
+NV Vehicle Equity or (Conversion) ,6033DZ,2025-03-01,0.0
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-01-01,-119121.0
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-02-01,-119121.0
+NV Vehicle Equity or (Conversion) ,6044DZ,2025-03-01,-119121.0
+Net Working Capital Actual,6027DZ,2025-01-01,-44132.0
+Net Working Capital Actual,6027DZ,2025-02-01,-44132.0
+Net Working Capital Actual,6027DZ,2025-03-01,-44132.0
+Net Working Capital Ratio,6030DZ,2025-01-01,-0.013333333333333232
+Net Working Capital Ratio,6030DZ,2025-02-01,-0.013333333333333232
+Net Working Capital Ratio,6030DZ,2025-03-01,-0.013333333333333232
+New / Used Vehicle Inventory Expense,8650D,2025-01-01,0.0
+New / Used Vehicle Inventory Expense,8650D,2025-02-01,0.0
+New / Used Vehicle Inventory Expense,8650D,2025-03-01,0.0
+New / Used Vehicle Inventory Expense,8651D,2025-01-01,0.0
+New / Used Vehicle Inventory Expense,8651D,2025-02-01,0.0
+New / Used Vehicle Inventory Expense,8651D,2025-03-01,0.0
+New / Used Vehicle Inventory Expense,8652D,2025-01-01,0.0
+New / Used Vehicle Inventory Expense,8652D,2025-02-01,0.0
+New / Used Vehicle Inventory Expense,8652D,2025-03-01,0.0
+New Car - Mitsubishi,1400D,2025-01-01,75389.66666666667
+New Car - Mitsubishi,1400D,2025-02-01,75389.66666666667
+New Car - Mitsubishi,1400D,2025-03-01,75389.66666666667
+New SUV - Mitsubishi,1420D,2025-01-01,3407678.6666666665
+New SUV - Mitsubishi,1420D,2025-02-01,3407678.6666666665
+New SUV - Mitsubishi,1420D,2025-03-01,3407678.6666666665
+New Vehicle Department,M17000AD,2025-01-01,215469.33333333334
+New Vehicle Department,M17000AD,2025-02-01,215469.33333333334
+New Vehicle Department,M17000AD,2025-03-01,215469.33333333334
+New Vehicle Department,M18000AD,2025-01-01,-117485.0
+New Vehicle Department,M18000AD,2025-02-01,-117485.0
+New Vehicle Department,M18000AD,2025-03-01,-117485.0
+New Vehicle Department,M43500XG,2025-01-01,97984.33333333333
+New Vehicle Department,M43500XG,2025-02-01,97984.33333333333
+New Vehicle Department,M43500XG,2025-03-01,97984.33333333333
+New Vehicles - Mitsubishi,2100D,2025-01-01,4169160.0
+New Vehicles - Mitsubishi,2100D,2025-02-01,4169160.0
+New Vehicles - Mitsubishi,2100D,2025-03-01,4169160.0
+New Vehicles - Other Makes ,1430D,2025-01-01,0.0
+New Vehicles - Other Makes ,1430D,2025-02-01,0.0
+New Vehicles - Other Makes ,1430D,2025-03-01,0.0
+Non-Automotive Inventory,1572D,2025-01-01,0.0
+Non-Automotive Inventory,1572D,2025-02-01,0.0
+Non-Automotive Inventory,1572D,2025-03-01,0.0
+Non-Productive / Other,50103SD,2025-01-01,0.0
+Non-Productive / Other,50103SD,2025-02-01,0.0
+Non-Productive / Other,50103SD,2025-03-01,0.0
+Non-Productive / Other,50103SDY,2025-01-01,0.0
+Non-Productive / Other,50103SDY,2025-02-01,0.0
+Non-Productive / Other,50103SDY,2025-03-01,0.0
+Non-Productive / Other ,50003SD,2025-01-01,0.6666666666666666
+Non-Productive / Other ,50003SD,2025-02-01,0.6666666666666666
+Non-Productive / Other ,50003SD,2025-03-01,0.6666666666666666
+Non-Productive / Other ,50003SDY,2025-01-01,10.666666666666666
+Non-Productive / Other ,50003SDY,2025-02-01,10.666666666666666
+Non-Productive / Other ,50003SDY,2025-03-01,10.666666666666666
+Notes Payable - Capital Loans,2410D,2025-01-01,638533.0
+Notes Payable - Capital Loans,2410D,2025-02-01,638533.0
+Notes Payable - Capital Loans,2410D,2025-03-01,638533.0
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-01-01,0.0
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-02-01,0.0
+Notes and Accts. Rec. - Officers / Owners / Employees,1910D,2025-03-01,0.0
+OCT.,391JU,2025-01-01,19.0
+OCT.,391JU,2025-02-01,19.0
+OCT.,391JU,2025-03-01,19.0
+OCT.,392JU,2025-01-01,0.0
+OCT.,392JU,2025-02-01,0.0
+OCT.,392JU,2025-03-01,0.0
+OCT.,395JU,2025-01-01,26.0
+OCT.,395JU,2025-02-01,26.0
+OCT.,395JU,2025-03-01,26.0
+OCT.,396JD,2025-01-01,12606.0
+OCT.,396JD,2025-02-01,12606.0
+OCT.,396JD,2025-03-01,12606.0
+OCT.,396JU,2025-01-01,0.0
+OCT.,396JU,2025-02-01,0.0
+OCT.,396JU,2025-03-01,0.0
+OVER 30 Day,1100DOT,2025-01-01,0.0
+OVER 30 Day,1100DOT,2025-02-01,0.0
+OVER 30 Day,1100DOT,2025-03-01,0.0
+Occupancy as a % of Company GP,6031DZ,2025-01-01,-5.24666666666667
+Occupancy as a % of Company GP,6031DZ,2025-02-01,-5.24666666666667
+Occupancy as a % of Company GP,6031DZ,2025-03-01,-5.24666666666667
+Occupancy as a % of Company GP,6042DZ,2025-01-01,-1.2433333333333347
+Occupancy as a % of Company GP,6042DZ,2025-02-01,-1.2433333333333347
+Occupancy as a % of Company GP,6042DZ,2025-03-01,-1.2433333333333347
+Occupancy as a % of Company GP,6053DZ,2025-01-01,-3.9999999999999996
+Occupancy as a % of Company GP,6053DZ,2025-02-01,-3.9999999999999996
+Occupancy as a % of Company GP,6053DZ,2025-03-01,-3.9999999999999996
+Office Supplies & Stationery,8200D,2025-01-01,575.6666666666666
+Office Supplies & Stationery,8200D,2025-02-01,575.6666666666666
+Office Supplies & Stationery,8200D,2025-03-01,575.6666666666666
+Office Supplies & Stationery,8201D,2025-01-01,198.0
+Office Supplies & Stationery,8201D,2025-02-01,198.0
+Office Supplies & Stationery,8201D,2025-03-01,198.0
+Office Supplies & Stationery,8202D,2025-01-01,161.0
+Office Supplies & Stationery,8202D,2025-02-01,161.0
+Office Supplies & Stationery,8202D,2025-03-01,161.0
+Office Supplies & Stationery,8203D,2025-01-01,181.66666666666666
+Office Supplies & Stationery,8203D,2025-02-01,181.66666666666666
+Office Supplies & Stationery,8203D,2025-03-01,181.66666666666666
+Office Supplies & Stationery,8204D,2025-01-01,35.0
+Office Supplies & Stationery,8204D,2025-02-01,35.0
+Office Supplies & Stationery,8204D,2025-03-01,35.0
+Office Supplies & Stationery,8205D,2025-01-01,0.0
+Office Supplies & Stationery,8205D,2025-02-01,0.0
+Office Supplies & Stationery,8205D,2025-03-01,0.0
+Other,11890D,2025-01-01,20349.666666666668
+Other,11890D,2025-02-01,20349.666666666668
+Other,11890D,2025-03-01,20349.666666666668
+Other,1730D,2025-01-01,22283.333333333332
+Other,1730D,2025-02-01,22283.333333333332
+Other,1730D,2025-03-01,22283.333333333332
+Other,1890D,2025-01-01,42633.0
+Other,1890D,2025-02-01,42633.0
+Other,1890D,2025-03-01,42633.0
+Other Expenses Payable,2300D,2025-01-01,16091.0
+Other Expenses Payable,2300D,2025-02-01,16091.0
+Other Expenses Payable,2300D,2025-03-01,16091.0
+Other Ext. Warranty - New,3281G,2025-01-01,28543.333333333332
+Other Ext. Warranty - New,3281G,2025-02-01,28543.333333333332
+Other Ext. Warranty - New,3281G,2025-03-01,28543.333333333332
+Other Ext. Warranty - New,3281S,2025-01-01,44676.0
+Other Ext. Warranty - New,3281S,2025-02-01,44676.0
+Other Ext. Warranty - New,3281S,2025-03-01,44676.0
+Other Ext. Warranty - New,3281U,2025-01-01,23.333333333333332
+Other Ext. Warranty - New,3281U,2025-02-01,23.333333333333332
+Other Ext. Warranty - New,3281U,2025-03-01,23.333333333333332
+Other F & I - New,3282G,2025-01-01,5713.0
+Other F & I - New,3282G,2025-02-01,5713.0
+Other F & I - New,3282G,2025-03-01,5713.0
+Other F & I - New,3282S,2025-01-01,5799.666666666667
+Other F & I - New,3282S,2025-02-01,5799.666666666667
+Other F & I - New,3282S,2025-03-01,5799.666666666667
+Other F & I - New,3282U,2025-01-01,18.333333333333332
+Other F & I - New,3282U,2025-02-01,18.333333333333332
+Other F & I - New,3282U,2025-03-01,18.333333333333332
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-01-01,104783.33333333333
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-02-01,104783.33333333333
+Other Factory Rec. / Incentives - Mit. ,1200AD,2025-03-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-01-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-02-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200BD,2025-03-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-01-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-02-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200CD,2025-03-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-01-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-02-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200D,2025-03-01,104783.33333333333
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-01-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-02-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200DD,2025-03-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-01-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-02-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200ED,2025-03-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-01-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-02-01,0.0
+Other Factory Rec. / Incentives - Mitsubishi,1200FD,2025-03-01,0.0
+Other MMSCAN Program Expense,9502D,2025-01-01,0.0
+Other MMSCAN Program Expense,9502D,2025-02-01,0.0
+Other MMSCAN Program Expense,9502D,2025-03-01,0.0
+Other MMSCAN Program Income,9501D,2025-01-01,0.0
+Other MMSCAN Program Income,9501D,2025-02-01,0.0
+Other MMSCAN Program Income,9501D,2025-03-01,0.0
+Other Mechanical Labour,5015G,2025-01-01,0.0
+Other Mechanical Labour,5015G,2025-02-01,0.0
+Other Mechanical Labour,5015G,2025-03-01,0.0
+Other Mechanical Labour,5015S,2025-01-01,0.0
+Other Mechanical Labour,5015S,2025-02-01,0.0
+Other Mechanical Labour,5015S,2025-03-01,0.0
+Other Mechanical Labour,5015U,2025-01-01,0.0
+Other Mechanical Labour,5015U,2025-02-01,0.0
+Other Mechanical Labour,5015U,2025-03-01,0.0
+Other Non-Automotive Assets,1990D,2025-01-01,200000.33333333334
+Other Non-Automotive Assets,1990D,2025-02-01,200000.33333333334
+Other Non-Automotive Assets,1990D,2025-03-01,200000.33333333334
+Other Notes / Accounts Receivable,1950D,2025-01-01,0.0
+Other Notes / Accounts Receivable,1950D,2025-02-01,0.0
+Other Notes / Accounts Receivable,1950D,2025-03-01,0.0
+Other Notes and Contracts Payable,2420D,2025-01-01,1597198.0
+Other Notes and Contracts Payable,2420D,2025-02-01,1597198.0
+Other Notes and Contracts Payable,2420D,2025-03-01,1597198.0
+Other P&A,5710G,2025-01-01,206.66666666666666
+Other P&A,5710G,2025-02-01,206.66666666666666
+Other P&A,5710G,2025-03-01,206.66666666666666
+Other P&A,5710S,2025-01-01,833.0
+Other P&A,5710S,2025-02-01,833.0
+Other P&A,5710S,2025-03-01,833.0
+Other P&A,5710U,2025-01-01,0.0
+Other P&A,5710U,2025-02-01,0.0
+Other P&A,5710U,2025-03-01,0.0
+Other Salaries & Wages,8630D,2025-01-01,14677.333333333334
+Other Salaries & Wages,8630D,2025-02-01,14677.333333333334
+Other Salaries & Wages,8630D,2025-03-01,14677.333333333334
+Other Salaries & Wages,8631D,2025-01-01,8044.0
+Other Salaries & Wages,8631D,2025-02-01,8044.0
+Other Salaries & Wages,8631D,2025-03-01,8044.0
+Other Salaries & Wages,8632D,2025-01-01,878.6666666666666
+Other Salaries & Wages,8632D,2025-02-01,878.6666666666666
+Other Salaries & Wages,8632D,2025-03-01,878.6666666666666
+Other Salaries & Wages,8633D,2025-01-01,4876.0
+Other Salaries & Wages,8633D,2025-02-01,4876.0
+Other Salaries & Wages,8633D,2025-03-01,4876.0
+Other Salaries & Wages,8634D,2025-01-01,878.6666666666666
+Other Salaries & Wages,8634D,2025-02-01,878.6666666666666
+Other Salaries & Wages,8634D,2025-03-01,878.6666666666666
+Other Salaries & Wages,8635D,2025-01-01,0.0
+Other Salaries & Wages,8635D,2025-02-01,0.0
+Other Salaries & Wages,8635D,2025-03-01,0.0
+Other Supplies & Tools,8210D,2025-01-01,2240.3333333333335
+Other Supplies & Tools,8210D,2025-02-01,2240.3333333333335
+Other Supplies & Tools,8210D,2025-03-01,2240.3333333333335
+Other Supplies & Tools,8211D,2025-01-01,433.6666666666667
+Other Supplies & Tools,8211D,2025-02-01,433.6666666666667
+Other Supplies & Tools,8211D,2025-03-01,433.6666666666667
+Other Supplies & Tools,8212D,2025-01-01,28.666666666666668
+Other Supplies & Tools,8212D,2025-02-01,28.666666666666668
+Other Supplies & Tools,8212D,2025-03-01,28.666666666666668
+Other Supplies & Tools,8213D,2025-01-01,1243.3333333333333
+Other Supplies & Tools,8213D,2025-02-01,1243.3333333333333
+Other Supplies & Tools,8213D,2025-03-01,1243.3333333333333
+Other Supplies & Tools,8214D,2025-01-01,534.6666666666666
+Other Supplies & Tools,8214D,2025-02-01,534.6666666666666
+Other Supplies & Tools,8214D,2025-03-01,534.6666666666666
+Other Supplies & Tools,8215D,2025-01-01,0.0
+Other Supplies & Tools,8215D,2025-02-01,0.0
+Other Supplies & Tools,8215D,2025-03-01,0.0
+Other Vehicles,2140D,2025-01-01,0.0
+Other Vehicles,2140D,2025-02-01,0.0
+Other Vehicles,2140D,2025-03-01,0.0
+Outlander,3015G,2025-01-01,4667.0
+Outlander,3015G,2025-02-01,4667.0
+Outlander,3015G,2025-03-01,4667.0
+Outlander,3015S,2025-01-01,131573.33333333334
+Outlander,3015S,2025-02-01,131573.33333333334
+Outlander,3015S,2025-03-01,131573.33333333334
+Outlander,3015U,2025-01-01,3.0
+Outlander,3015U,2025-02-01,3.0
+Outlander,3015U,2025-03-01,3.0
+Outlander PHEV,3026G,2025-01-01,16293.666666666666
+Outlander PHEV,3026G,2025-02-01,16293.666666666666
+Outlander PHEV,3026G,2025-03-01,16293.666666666666
+Outlander PHEV,3026S,2025-01-01,486062.3333333333
+Outlander PHEV,3026S,2025-02-01,486062.3333333333
+Outlander PHEV,3026S,2025-03-01,486062.3333333333
+Outlander PHEV,3026U,2025-01-01,8.333333333333334
+Outlander PHEV,3026U,2025-02-01,8.333333333333334
+Outlander PHEV,3026U,2025-03-01,8.333333333333334
+Outside Services,8370D,2025-01-01,2201.6666666666665
+Outside Services,8370D,2025-02-01,2201.6666666666665
+Outside Services,8370D,2025-03-01,2201.6666666666665
+Outside Services,8371D,2025-01-01,848.3333333333334
+Outside Services,8371D,2025-02-01,848.3333333333334
+Outside Services,8371D,2025-03-01,848.3333333333334
+Outside Services,8372D,2025-01-01,554.3333333333334
+Outside Services,8372D,2025-02-01,554.3333333333334
+Outside Services,8372D,2025-03-01,554.3333333333334
+Outside Services ,8373D,2025-01-01,578.3333333333334
+Outside Services ,8373D,2025-02-01,578.3333333333334
+Outside Services ,8373D,2025-03-01,578.3333333333334
+Outside Services ,8374D,2025-01-01,220.66666666666666
+Outside Services ,8374D,2025-02-01,220.66666666666666
+Outside Services ,8374D,2025-03-01,220.66666666666666
+Outside Services ,8375D,2025-01-01,0.0
+Outside Services ,8375D,2025-02-01,0.0
+Outside Services ,8375D,2025-03-01,0.0
+Over 30 days,1140DOT,2025-01-01,0.0
+Over 30 days,1140DOT,2025-02-01,0.0
+Over 30 days,1140DOT,2025-03-01,0.0
+Over 45 days,1280DOF,2025-01-01,0.0
+Over 45 days,1280DOF,2025-02-01,0.0
+Over 45 days,1280DOF,2025-03-01,0.0
+Over 45 days,1285DOF,2025-01-01,0.0
+Over 45 days,1285DOF,2025-02-01,0.0
+Over 45 days,1285DOF,2025-03-01,0.0
+Over 90 Days,50023ST,2025-01-01,25.666666666666668
+Over 90 Days,50023ST,2025-02-01,25.666666666666668
+Over 90 Days,50023ST,2025-03-01,25.666666666666668
+Over 90 Days,50028ST,2025-01-01,1166664.0
+Over 90 Days,50028ST,2025-02-01,1166664.0
+Over 90 Days,50028ST,2025-03-01,1166664.0
+Over 90 Days,50033ST,2025-01-01,30.333333333333332
+Over 90 Days,50033ST,2025-02-01,30.333333333333332
+Over 90 Days,50033ST,2025-03-01,30.333333333333332
+Over 90 Days,50038ST,2025-01-01,788923.3333333334
+Over 90 Days,50038ST,2025-02-01,788923.3333333334
+Over 90 Days,50038ST,2025-03-01,788923.3333333334
+Overhead Absorption %,6100DZ,2025-01-01,1.8233333333333352
+Overhead Absorption %,6100DZ,2025-02-01,1.8233333333333352
+Overhead Absorption %,6100DZ,2025-03-01,1.8233333333333352
+Overhead Absorption %,6118DZ,2025-01-01,0.36666666666666475
+Overhead Absorption %,6118DZ,2025-02-01,0.36666666666666475
+Overhead Absorption %,6118DZ,2025-03-01,0.36666666666666475
+Overhead Absorption %,6136DZ,2025-01-01,1.4533333333333331
+Overhead Absorption %,6136DZ,2025-02-01,1.4533333333333331
+Overhead Absorption %,6136DZ,2025-03-01,1.4533333333333331
+Owner(s),0960P,2025-01-01,1.0
+Owner(s),0960P,2025-02-01,1.0
+Owner(s),0960P,2025-03-01,1.0
+Owner(s),0967P,2025-01-01,0.0
+Owner(s),0967P,2025-02-01,0.0
+Owner(s),0967P,2025-03-01,0.0
+Owner(s),0974P,2025-01-01,0.0
+Owner(s),0974P,2025-02-01,0.0
+Owner(s),0974P,2025-03-01,0.0
+Owner(s),0981P,2025-01-01,0.0
+Owner(s),0981P,2025-02-01,0.0
+Owner(s),0981P,2025-03-01,0.0
+Owner(s),0988P,2025-01-01,0.0
+Owner(s),0988P,2025-02-01,0.0
+Owner(s),0988P,2025-03-01,0.0
+Owner(s),500P,2025-01-01,1.0
+Owner(s),500P,2025-02-01,1.0
+Owner(s),500P,2025-03-01,1.0
+Owners' Bonuses Payable,2280D,2025-01-01,0.0
+Owners' Bonuses Payable,2280D,2025-02-01,0.0
+Owners' Bonuses Payable,2280D,2025-03-01,0.0
+P&A Inventory Adjustment,6371G,2025-01-01,0.0
+P&A Inventory Adjustment,6371G,2025-02-01,0.0
+P&A Inventory Adjustment,6371G,2025-03-01,0.0
+P&A Inventory Adjustment,6371U,2025-01-01,0.0
+P&A Inventory Adjustment,6371U,2025-02-01,0.0
+P&A Inventory Adjustment,6371U,2025-03-01,0.0
+P&A Repair Order Mechanical,5200G,2025-01-01,8182.0
+P&A Repair Order Mechanical,5200G,2025-02-01,8182.0
+P&A Repair Order Mechanical,5200G,2025-03-01,8182.0
+P&A Repair Order Mechanical,5200U,2025-01-01,0.0
+P&A Repair Order Mechanical,5200U,2025-02-01,0.0
+P&A Repair Order Mechanical,5200U,2025-03-01,0.0
+Parts & Accessories,M17000DD,2025-01-01,13102.666666666666
+Parts & Accessories,M17000DD,2025-02-01,13102.666666666666
+Parts & Accessories,M17000DD,2025-03-01,13102.666666666666
+Parts & Accessories,M18000DD,2025-01-01,26591.0
+Parts & Accessories,M18000DD,2025-02-01,26591.0
+Parts & Accessories,M18000DD,2025-03-01,26591.0
+Parts & Accessories,M49000XG,2025-01-01,39693.666666666664
+Parts & Accessories,M49000XG,2025-02-01,39693.666666666664
+Parts & Accessories,M49000XG,2025-03-01,39693.666666666664
+Parts & Accessories - Mitsubishi ,1500D,2025-01-01,218366.33333333334
+Parts & Accessories - Mitsubishi ,1500D,2025-02-01,218366.33333333334
+Parts & Accessories - Mitsubishi ,1500D,2025-03-01,218366.33333333334
+Parts & Accessories - Other,1510D,2025-01-01,22545.0
+Parts & Accessories - Other,1510D,2025-02-01,22545.0
+Parts & Accessories - Other,1510D,2025-03-01,22545.0
+Parts & Accessories - Tires,1505D,2025-01-01,136554.66666666666
+Parts & Accessories - Tires,1505D,2025-02-01,136554.66666666666
+Parts & Accessories - Tires,1505D,2025-03-01,136554.66666666666
+Payroll Payable,2210D,2025-01-01,58477.333333333336
+Payroll Payable,2210D,2025-02-01,58477.333333333336
+Payroll Payable,2210D,2025-03-01,58477.333333333336
+Payroll Taxes,8130D,2025-01-01,8317.0
+Payroll Taxes,8130D,2025-02-01,8317.0
+Payroll Taxes,8130D,2025-03-01,8317.0
+Payroll Taxes,8131D,2025-01-01,2910.6666666666665
+Payroll Taxes,8131D,2025-02-01,2910.6666666666665
+Payroll Taxes,8131D,2025-03-01,2910.6666666666665
+Payroll Taxes,8132D,2025-01-01,1247.6666666666667
+Payroll Taxes,8132D,2025-02-01,1247.6666666666667
+Payroll Taxes,8132D,2025-03-01,1247.6666666666667
+Payroll Taxes ,8133D,2025-01-01,2911.0
+Payroll Taxes ,8133D,2025-02-01,2911.0
+Payroll Taxes ,8133D,2025-03-01,2911.0
+Payroll Taxes ,8134D,2025-01-01,1247.6666666666667
+Payroll Taxes ,8134D,2025-02-01,1247.6666666666667
+Payroll Taxes ,8134D,2025-03-01,1247.6666666666667
+Payroll Taxes ,8135D,2025-01-01,0.0
+Payroll Taxes ,8135D,2025-02-01,0.0
+Payroll Taxes ,8135D,2025-03-01,0.0
+Pension Fund,8180D,2025-01-01,0.0
+Pension Fund,8180D,2025-02-01,0.0
+Pension Fund,8180D,2025-03-01,0.0
+Pension Fund,8181D,2025-01-01,0.0
+Pension Fund,8181D,2025-02-01,0.0
+Pension Fund,8181D,2025-03-01,0.0
+Pension Fund,8182D,2025-01-01,0.0
+Pension Fund,8182D,2025-02-01,0.0
+Pension Fund,8182D,2025-03-01,0.0
+Pension Fund ,8183D,2025-01-01,0.0
+Pension Fund ,8183D,2025-02-01,0.0
+Pension Fund ,8183D,2025-03-01,0.0
+Pension Fund ,8184D,2025-01-01,0.0
+Pension Fund ,8184D,2025-02-01,0.0
+Pension Fund ,8184D,2025-03-01,0.0
+Pension Fund ,8185D,2025-01-01,0.0
+Pension Fund ,8185D,2025-02-01,0.0
+Pension Fund ,8185D,2025-03-01,0.0
+Pension Fund Payable,2290D,2025-01-01,0.0
+Pension Fund Payable,2290D,2025-02-01,0.0
+Pension Fund Payable,2290D,2025-03-01,0.0
+Petty Cash Fund / Cash On Hand,10011002D,2025-01-01,700.0
+Petty Cash Fund / Cash On Hand,10011002D,2025-02-01,700.0
+Petty Cash Fund / Cash On Hand,10011002D,2025-03-01,700.0
+Postage,8320D,2025-01-01,36.333333333333336
+Postage,8320D,2025-02-01,36.333333333333336
+Postage,8320D,2025-03-01,36.333333333333336
+Postage,8321D,2025-01-01,11.666666666666666
+Postage,8321D,2025-02-01,11.666666666666666
+Postage,8321D,2025-03-01,11.666666666666666
+Postage,8322D,2025-01-01,5.0
+Postage,8322D,2025-02-01,5.0
+Postage,8322D,2025-03-01,5.0
+Postage,8323D,2025-01-01,14.666666666666666
+Postage,8323D,2025-02-01,14.666666666666666
+Postage,8323D,2025-03-01,14.666666666666666
+Postage,8324D,2025-01-01,5.0
+Postage,8324D,2025-02-01,5.0
+Postage,8324D,2025-03-01,5.0
+Postage,8325D,2025-01-01,0.0
+Postage,8325D,2025-02-01,0.0
+Postage,8325D,2025-03-01,0.0
+Pre-Delivery - Mitsubishi,1260D,2025-01-01,0.0
+Pre-Delivery - Mitsubishi,1260D,2025-02-01,0.0
+Pre-Delivery - Mitsubishi,1260D,2025-03-01,0.0
+Preferred Stock,2502D,2025-01-01,0.0
+Preferred Stock,2502D,2025-02-01,0.0
+Preferred Stock,2502D,2025-03-01,0.0
+Prepaid Insurance,1640D,2025-01-01,0.0
+Prepaid Insurance,1640D,2025-02-01,0.0
+Prepaid Insurance,1640D,2025-03-01,0.0
+Prepaid Other,1610D,2025-01-01,671338.0
+Prepaid Other,1610D,2025-02-01,671338.0
+Prepaid Other,1610D,2025-03-01,671338.0
+Prepaid Taxes,1620D,2025-01-01,0.0
+Prepaid Taxes,1620D,2025-02-01,0.0
+Prepaid Taxes,1620D,2025-03-01,0.0
+Productive / Non Productive Personnel,500013SDZ,2025-01-01,0.0
+Productive / Non Productive Personnel,500013SDZ,2025-02-01,0.0
+Productive / Non Productive Personnel,500013SDZ,2025-03-01,0.0
+Productive / Non Productive Personnel,50016SDZ,2025-01-01,0.0
+Productive / Non Productive Personnel,50016SDZ,2025-02-01,0.0
+Productive / Non Productive Personnel,50016SDZ,2025-03-01,0.0
+Productive / Non Productive Personnel,6157DZ,2025-01-01,0.0
+Productive / Non Productive Personnel,6157DZ,2025-02-01,0.0
+Productive / Non Productive Personnel,6157DZ,2025-03-01,0.0
+Productive / Non-Productive Personnel,50013SDZ,2025-01-01,0.0
+Productive / Non-Productive Personnel,50013SDZ,2025-02-01,0.0
+Productive / Non-Productive Personnel,50013SDZ,2025-03-01,0.0
+Productivity (Guide 85% +),6109DZ,2025-01-01,2.0833333333333326
+Productivity (Guide 85% +),6109DZ,2025-02-01,2.0833333333333326
+Productivity (Guide 85% +),6109DZ,2025-03-01,2.0833333333333326
+Productivity (Guide 85% +),6127DZ,2025-01-01,1.2099999999999984
+Productivity (Guide 85% +),6127DZ,2025-02-01,1.2099999999999984
+Productivity (Guide 85% +),6127DZ,2025-03-01,1.2099999999999984
+Productivity (Guide 85% +),6162DZ,2025-01-01,0.0
+Productivity (Guide 85% +),6162DZ,2025-02-01,0.0
+Productivity (Guide 85% +),6162DZ,2025-03-01,0.0
+Productivity (Guide 85% +) ,50113SDZ,2025-01-01,0.0
+Productivity (Guide 85% +) ,50113SDZ,2025-02-01,0.0
+Productivity (Guide 85% +) ,50113SDZ,2025-03-01,0.0
+Profit or Loss (Before Income Tax),2570DV,2025-01-01,14991.333333333334
+Profit or Loss (Before Income Tax),2570DV,2025-02-01,14991.333333333334
+Profit or Loss (Before Income Tax),2570DV,2025-03-01,14991.333333333334
+Profit or Loss (Before Income Tax),6024DZ,2025-01-01,1883.3333333333333
+Profit or Loss (Before Income Tax),6024DZ,2025-02-01,1883.3333333333333
+Profit or Loss (Before Income Tax),6024DZ,2025-03-01,1883.3333333333333
+Profit or Loss (Before Income Tax),6046DZ,2025-01-01,1337.8966666666668
+Profit or Loss (Before Income Tax),6046DZ,2025-02-01,1337.8966666666668
+Profit or Loss (Before Income Tax),6046DZ,2025-03-01,1337.8966666666668
+Promotion,8110D,2025-01-01,6834.333333333333
+Promotion,8110D,2025-02-01,6834.333333333333
+Promotion,8110D,2025-03-01,6834.333333333333
+Promotion,8111D,2025-01-01,6015.666666666667
+Promotion,8111D,2025-02-01,6015.666666666667
+Promotion,8111D,2025-03-01,6015.666666666667
+Promotion,8112D,2025-01-01,818.6666666666666
+Promotion,8112D,2025-02-01,818.6666666666666
+Promotion,8112D,2025-03-01,818.6666666666666
+Provincial Sales Tax,2241D,2025-01-01,3780.0
+Provincial Sales Tax,2241D,2025-02-01,3780.0
+Provincial Sales Tax,2241D,2025-03-01,3780.0
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-01-01,2.9866666666666664
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-02-01,2.9866666666666664
+Pts. Months Supply (Guide 1.5 mos),6007DZ,2025-03-01,2.9866666666666664
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-01-01,-0.09999999999999996
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-02-01,-0.09999999999999996
+Pts. Months Supply (Guide 1.5 mos),6016DZ,2025-03-01,-0.09999999999999996
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-01-01,3.0833333333333335
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-02-01,3.0833333333333335
+Pts. Months Supply (Guide 1.5 mos),6023DZ,2025-03-01,3.0833333333333335
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-01-01,27.51666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-02-01,27.51666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6002DZ,2025-03-01,27.51666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-01-01,8.436666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-02-01,8.436666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6011DZ,2025-03-01,8.436666666666667
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-01-01,19.080000000000002
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-02-01,19.080000000000002
+Pts. Sls. per Customer RO (Inc. Tires),6018DZ,2025-03-01,19.080000000000002
+RVR,3022G,2025-01-01,4865.0
+RVR,3022G,2025-02-01,4865.0
+RVR,3022G,2025-03-01,4865.0
+RVR,3022S,2025-01-01,85249.33333333333
+RVR,3022S,2025-02-01,85249.33333333333
+RVR,3022S,2025-03-01,85249.33333333333
+RVR,3022U,2025-01-01,2.3333333333333335
+RVR,3022U,2025-02-01,2.3333333333333335
+RVR,3022U,2025-03-01,2.3333333333333335
+Rec. Floor Plan Credits,1220DD,2025-01-01,0.0
+Rec. Floor Plan Credits,1220DD,2025-02-01,0.0
+Rec. Floor Plan Credits,1220DD,2025-03-01,0.0
+Rec. Floor Plan Credits,1220ED,2025-01-01,0.0
+Rec. Floor Plan Credits,1220ED,2025-02-01,0.0
+Rec. Floor Plan Credits,1220ED,2025-03-01,0.0
+Rec. Floor Plan Credits,1220FD,2025-01-01,0.0
+Rec. Floor Plan Credits,1220FD,2025-02-01,0.0
+Rec. Floor Plan Credits,1220FD,2025-03-01,0.0
+Receivable - Floor Plan Credits,1220D,2025-01-01,0.0
+Receivable - Floor Plan Credits,1220D,2025-02-01,0.0
+Receivable - Floor Plan Credits,1220D,2025-03-01,0.0
+Receivables Floor Plan Credits,1220AD,2025-01-01,0.0
+Receivables Floor Plan Credits,1220AD,2025-02-01,0.0
+Receivables Floor Plan Credits,1220AD,2025-03-01,0.0
+Receivables Floor Plan Credits,1220BD,2025-01-01,0.0
+Receivables Floor Plan Credits,1220BD,2025-02-01,0.0
+Receivables Floor Plan Credits,1220BD,2025-03-01,0.0
+Receivables Floor Plan Credits,1220CD,2025-01-01,0.0
+Receivables Floor Plan Credits,1220CD,2025-02-01,0.0
+Receivables Floor Plan Credits,1220CD,2025-03-01,0.0
+Rent,8420D,2025-01-01,51334.0
+Rent,8420D,2025-02-01,51334.0
+Rent,8420D,2025-03-01,51334.0
+Rent,8421D,2025-01-01,78878.66666666667
+Rent,8421D,2025-02-01,78878.66666666667
+Rent,8421D,2025-03-01,78878.66666666667
+Rent,8422D,2025-01-01,-6100.0
+Rent,8422D,2025-02-01,-6100.0
+Rent,8422D,2025-03-01,-6100.0
+Rent,8423D,2025-01-01,-15011.333333333334
+Rent,8423D,2025-02-01,-15011.333333333334
+Rent,8423D,2025-03-01,-15011.333333333334
+Rent,8424D,2025-01-01,-6433.333333333333
+Rent,8424D,2025-02-01,-6433.333333333333
+Rent,8424D,2025-03-01,-6433.333333333333
+Rent,8425D,2025-01-01,0.0
+Rent,8425D,2025-02-01,0.0
+Rent,8425D,2025-03-01,0.0
+Rental / Lease Units,2120D,2025-01-01,0.0
+Rental / Lease Units,2120D,2025-02-01,0.0
+Rental / Lease Units,2120D,2025-03-01,0.0
+Rental Vehicles,1700D,2025-01-01,0.0
+Rental Vehicles,1700D,2025-02-01,0.0
+Rental Vehicles,1700D,2025-03-01,0.0
+Repairs & Maintenance - Real Estate,8440D,2025-01-01,-2683.3333333333335
+Repairs & Maintenance - Real Estate,8440D,2025-02-01,-2683.3333333333335
+Repairs & Maintenance - Real Estate,8440D,2025-03-01,-2683.3333333333335
+Repairs & Maintenance - Real Estate,8441D,2025-01-01,-1137.0
+Repairs & Maintenance - Real Estate,8441D,2025-02-01,-1137.0
+Repairs & Maintenance - Real Estate,8441D,2025-03-01,-1137.0
+Repairs & Maintenance - Real Estate,8442D,2025-01-01,-476.3333333333333
+Repairs & Maintenance - Real Estate,8442D,2025-02-01,-476.3333333333333
+Repairs & Maintenance - Real Estate,8442D,2025-03-01,-476.3333333333333
+Repairs & Maintenance - Real Estate,8443D,2025-01-01,-481.3333333333333
+Repairs & Maintenance - Real Estate,8443D,2025-02-01,-481.3333333333333
+Repairs & Maintenance - Real Estate,8443D,2025-03-01,-481.3333333333333
+Repairs & Maintenance - Real Estate,8444D,2025-01-01,-588.6666666666666
+Repairs & Maintenance - Real Estate,8444D,2025-02-01,-588.6666666666666
+Repairs & Maintenance - Real Estate,8444D,2025-03-01,-588.6666666666666
+Repairs & Maintenance - Real Estate,8445D,2025-01-01,0.0
+Repairs & Maintenance - Real Estate,8445D,2025-02-01,0.0
+Repairs & Maintenance - Real Estate,8445D,2025-03-01,0.0
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-01-01,0.0
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-02-01,0.0
+Reserve for Repossession Losses & Service Contract Losses,23112312D,2025-03-01,0.0
+Reserved,9060D,2025-01-01,0.0
+Reserved,9060D,2025-02-01,0.0
+Reserved,9060D,2025-03-01,0.0
+Retail Counter P&A,5310G,2025-01-01,1039.0
+Retail Counter P&A,5310G,2025-02-01,1039.0
+Retail Counter P&A,5310G,2025-03-01,1039.0
+Retail Counter P&A,5310S,2025-01-01,3382.6666666666665
+Retail Counter P&A,5310S,2025-02-01,3382.6666666666665
+Retail Counter P&A,5310S,2025-03-01,3382.6666666666665
+Retail Counter P&A,5310U,2025-01-01,22.666666666666668
+Retail Counter P&A,5310U,2025-02-01,22.666666666666668
+Retail Counter P&A,5310U,2025-03-01,22.666666666666668
+Retained Earnings,2520D,2025-01-01,-1313850.0
+Retained Earnings,2520D,2025-02-01,-1313850.0
+Retained Earnings,2520D,2025-03-01,-1313850.0
+SEP.,391IU,2025-01-01,26.0
+SEP.,391IU,2025-02-01,26.0
+SEP.,391IU,2025-03-01,26.0
+SEP.,392IU,2025-01-01,0.0
+SEP.,392IU,2025-02-01,0.0
+SEP.,392IU,2025-03-01,0.0
+SEP.,395IU,2025-01-01,27.0
+SEP.,395IU,2025-02-01,27.0
+SEP.,395IU,2025-03-01,27.0
+SEP.,396ID,2025-01-01,5310.0
+SEP.,396ID,2025-02-01,5310.0
+SEP.,396ID,2025-03-01,5310.0
+SEP.,396IU,2025-01-01,0.0
+SEP.,396IU,2025-02-01,0.0
+SEP.,396IU,2025-03-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-01-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-02-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500G,2025-03-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-01-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-02-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500S,2025-03-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-01-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-02-01,0.0
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),445500U,2025-03-01,0.0
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-01-01,-12263.666666666666
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-02-01,-12263.666666666666
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),15000CD,2025-03-01,-12263.666666666666
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-01-01,107400.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-02-01,107400.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000AD,2025-03-01,107400.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-01-01,-5193.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-02-01,-5193.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000BD,2025-03-01,-5193.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-01-01,84304.66666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-02-01,84304.66666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,15000D,2025-03-01,84304.66666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-01-01,-5638.666666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-02-01,-5638.666666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000DD,2025-03-01,-5638.666666666667
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-01-01,0.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-02-01,0.0
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),15000ED,2025-03-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-01-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-02-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),446000U,2025-03-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-01-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-02-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000G,2025-03-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-01-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-02-01,0.0
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),446000S,2025-03-01,0.0
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-01-01,37641.666666666664
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-02-01,37641.666666666664
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",13000CD,2025-03-01,37641.666666666664
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-01-01,99727.33333333333
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-02-01,99727.33333333333
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",13000D,2025-03-01,99727.33333333333
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-01-01,34203.666666666664
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-02-01,34203.666666666664
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000AD,2025-03-01,34203.666666666664
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-01-01,13615.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-02-01,13615.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000BD,2025-03-01,13615.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-01-01,14267.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-02-01,14267.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000DD,2025-03-01,14267.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-01-01,0.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-02-01,0.0
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),13000ED,2025-03-01,0.0
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-01-01,86296.66666666667
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-02-01,86296.66666666667
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",10000D,2025-03-01,86296.66666666667
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-01-01,38298.666666666664
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-02-01,38298.666666666664
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000AD,2025-03-01,38298.666666666664
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-01-01,47998.0
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-02-01,47998.0
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),10000BD,2025-03-01,47998.0
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-01-01,0.0
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-02-01,0.0
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),12000CD,2025-03-01,0.0
+Sales $'s per Retail Counter Invoice,6005DZ,2025-01-01,0.8500000000000038
+Sales $'s per Retail Counter Invoice,6005DZ,2025-02-01,0.8500000000000038
+Sales $'s per Retail Counter Invoice,6005DZ,2025-03-01,0.8500000000000038
+Sales $'s per Retail Counter Invoice,6014DZ,2025-01-01,-4.899999999999996
+Sales $'s per Retail Counter Invoice,6014DZ,2025-02-01,-4.899999999999996
+Sales $'s per Retail Counter Invoice,6014DZ,2025-03-01,-4.899999999999996
+Sales $'s per Retail Counter Invoice,6021DZ,2025-01-01,5.75
+Sales $'s per Retail Counter Invoice,6021DZ,2025-02-01,5.75
+Sales $'s per Retail Counter Invoice,6021DZ,2025-03-01,5.75
+Sales $'s per Wholesale Invoice,6006DZ,2025-01-01,-69.16000000000001
+Sales $'s per Wholesale Invoice,6006DZ,2025-02-01,-69.16000000000001
+Sales $'s per Wholesale Invoice,6006DZ,2025-03-01,-69.16000000000001
+Sales $'s per Wholesale Invoice,6015DZ,2025-01-01,9.206666666666669
+Sales $'s per Wholesale Invoice,6015DZ,2025-02-01,9.206666666666669
+Sales $'s per Wholesale Invoice,6015DZ,2025-03-01,9.206666666666669
+Sales $'s per Wholesale Invoice,6022DZ,2025-01-01,-78.36333333333333
+Sales $'s per Wholesale Invoice,6022DZ,2025-02-01,-78.36333333333333
+Sales $'s per Wholesale Invoice,6022DZ,2025-03-01,-78.36333333333333
+Sales Incentive - Fleet,1240D,2025-01-01,0.0
+Sales Incentive - Fleet,1240D,2025-02-01,0.0
+Sales Incentive - Fleet,1240D,2025-03-01,0.0
+Sales Incentive - Retail,1230D,2025-01-01,0.0
+Sales Incentive - Retail,1230D,2025-02-01,0.0
+Sales Incentive - Retail,1230D,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230AD,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230AD,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230AD,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230BD,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230BD,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230BD,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230CD,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230CD,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230CD,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230DD,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230DD,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230DD,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230ED,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230ED,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230ED,2025-03-01,0.0
+Sales Incentives Retail / Fleet,1230FD,2025-01-01,0.0
+Sales Incentives Retail / Fleet,1230FD,2025-02-01,0.0
+Sales Incentives Retail / Fleet,1230FD,2025-03-01,0.0
+Sales Reps,0962P,2025-01-01,3.0
+Sales Reps,0962P,2025-02-01,3.0
+Sales Reps,0962P,2025-03-01,3.0
+Sales Reps.,0969P,2025-01-01,2.0
+Sales Reps.,0969P,2025-02-01,2.0
+Sales Reps.,0969P,2025-03-01,2.0
+Sales Reps.,520P,2025-01-01,5.0
+Sales Reps.,520P,2025-02-01,5.0
+Sales Reps.,520P,2025-03-01,5.0
+Securities,1030D,2025-01-01,0.0
+Securities,1030D,2025-02-01,0.0
+Securities,1030D,2025-03-01,0.0
+Serv. Parts & Body Shop - Customers,1140BD,2025-01-01,21868.333333333332
+Serv. Parts & Body Shop - Customers,1140BD,2025-02-01,21868.333333333332
+Serv. Parts & Body Shop - Customers,1140BD,2025-03-01,21868.333333333332
+Serv. Parts & Body Shop - Customers,1140CD,2025-01-01,12003.666666666666
+Serv. Parts & Body Shop - Customers,1140CD,2025-02-01,12003.666666666666
+Serv. Parts & Body Shop - Customers,1140CD,2025-03-01,12003.666666666666
+"Serv., Parts & Body Shop - Customers",1140AD,2025-01-01,96232.0
+"Serv., Parts & Body Shop - Customers",1140AD,2025-02-01,96232.0
+"Serv., Parts & Body Shop - Customers",1140AD,2025-03-01,96232.0
+Service Contracts (CPO),3703G,2025-01-01,2629.3333333333335
+Service Contracts (CPO),3703G,2025-02-01,2629.3333333333335
+Service Contracts (CPO),3703G,2025-03-01,2629.3333333333335
+Service Contracts (CPO),3703S,2025-01-01,3608.6666666666665
+Service Contracts (CPO),3703S,2025-02-01,3608.6666666666665
+Service Contracts (CPO),3703S,2025-03-01,3608.6666666666665
+Service Contracts (CPO),3703U,2025-01-01,1.6666666666666667
+Service Contracts (CPO),3703U,2025-02-01,1.6666666666666667
+Service Contracts (CPO),3703U,2025-03-01,1.6666666666666667
+Service Contracts (Non CPO),3741G,2025-01-01,11254.666666666666
+Service Contracts (Non CPO),3741G,2025-02-01,11254.666666666666
+Service Contracts (Non CPO),3741G,2025-03-01,11254.666666666666
+Service Contracts (Non CPO),3741S,2025-01-01,15837.666666666666
+Service Contracts (Non CPO),3741S,2025-02-01,15837.666666666666
+Service Contracts (Non CPO),3741S,2025-03-01,15837.666666666666
+Service Contracts (Non CPO),3741U,2025-01-01,7.333333333333333
+Service Contracts (Non CPO),3741U,2025-02-01,7.333333333333333
+Service Contracts (Non CPO),3741U,2025-03-01,7.333333333333333
+Service Contracts (Other Makes),3711G,2025-01-01,0.0
+Service Contracts (Other Makes),3711G,2025-02-01,0.0
+Service Contracts (Other Makes),3711G,2025-03-01,0.0
+Service Contracts (Other Makes),3711S,2025-01-01,0.0
+Service Contracts (Other Makes),3711S,2025-02-01,0.0
+Service Contracts (Other Makes),3711S,2025-03-01,0.0
+Service Contracts (Other Makes),3711U,2025-01-01,0.0
+Service Contracts (Other Makes),3711U,2025-02-01,0.0
+Service Contracts (Other Makes),3711U,2025-03-01,0.0
+Service Department,M17000CD,2025-01-01,37126.0
+Service Department,M17000CD,2025-02-01,37126.0
+Service Department,M17000CD,2025-03-01,37126.0
+Service Department,M18000CD,2025-01-01,23550.333333333332
+Service Department,M18000CD,2025-02-01,23550.333333333332
+Service Department,M18000CD,2025-03-01,23550.333333333332
+Service Department,M45500XG,2025-01-01,60676.333333333336
+Service Department,M45500XG,2025-02-01,60676.333333333336
+Service Department,M45500XG,2025-03-01,60676.333333333336
+"Service, Parts & Body Shop - Customers",1140D,2025-01-01,96231.66666666667
+"Service, Parts & Body Shop - Customers",1140D,2025-02-01,96231.66666666667
+"Service, Parts & Body Shop - Customers",1140D,2025-03-01,96231.66666666667
+"Service, Parts & Body Shop - Customers",1140DD,2025-01-01,3965.3333333333335
+"Service, Parts & Body Shop - Customers",1140DD,2025-02-01,3965.3333333333335
+"Service, Parts & Body Shop - Customers",1140DD,2025-03-01,3965.3333333333335
+"Service, Parts & Body Shop - Customers",1140ED,2025-01-01,58394.666666666664
+"Service, Parts & Body Shop - Customers",1140ED,2025-02-01,58394.666666666664
+"Service, Parts & Body Shop - Customers",1140ED,2025-03-01,58394.666666666664
+"Service, Parts & Body Shop - Customers",1140FD,2025-01-01,0.0
+"Service, Parts & Body Shop - Customers",1140FD,2025-02-01,0.0
+"Service, Parts & Body Shop - Customers",1140FD,2025-03-01,0.0
+Shareholder's Loans,2490D,2025-01-01,162340.0
+Shareholder's Loans,2490D,2025-02-01,162340.0
+Shareholder's Loans,2490D,2025-03-01,162340.0
+Sold,3013ST,2025-01-01,23.0
+Sold,3013ST,2025-02-01,23.0
+Sold,3013ST,2025-03-01,23.0
+Sold ,3003ST,2025-01-01,20.0
+Sold ,3003ST,2025-02-01,20.0
+Sold ,3003ST,2025-03-01,20.0
+Sublet Repairs,1540D,2025-01-01,19421.666666666668
+Sublet Repairs,1540D,2025-02-01,19421.666666666668
+Sublet Repairs,1540D,2025-03-01,19421.666666666668
+Sublet Repairs,5100G,2025-01-01,3143.0
+Sublet Repairs,5100G,2025-02-01,3143.0
+Sublet Repairs,5100G,2025-03-01,3143.0
+Sublet Repairs,5100S,2025-01-01,10808.666666666666
+Sublet Repairs,5100S,2025-02-01,10808.666666666666
+Sublet Repairs,5100S,2025-03-01,10808.666666666666
+Sublet Repairs,5100U,2025-01-01,0.0
+Sublet Repairs,5100U,2025-02-01,0.0
+Sublet Repairs,5100U,2025-03-01,0.0
+Sublet Repairs Body Shop,5440G,2025-01-01,0.0
+Sublet Repairs Body Shop,5440G,2025-02-01,0.0
+Sublet Repairs Body Shop,5440G,2025-03-01,0.0
+Sublet Repairs Body Shop,5440S,2025-01-01,0.0
+Sublet Repairs Body Shop,5440S,2025-02-01,0.0
+Sublet Repairs Body Shop,5440S,2025-03-01,0.0
+Sublet Repairs Body Shop,5440U,2025-01-01,0.0
+Sublet Repairs Body Shop,5440U,2025-02-01,0.0
+Sublet Repairs Body Shop,5440U,2025-03-01,0.0
+TOTAL,25700D,2025-01-01,106546.33333333333
+TOTAL,25700D,2025-02-01,106546.33333333333
+TOTAL,25700D,2025-03-01,106546.33333333333
+TOTAL,3910U,2025-01-01,246.33333333333334
+TOTAL,3910U,2025-02-01,246.33333333333334
+TOTAL,3910U,2025-03-01,246.33333333333334
+TOTAL,3920U,2025-01-01,0.0
+TOTAL,3920U,2025-02-01,0.0
+TOTAL,3920U,2025-03-01,0.0
+TOTAL,3950U,2025-01-01,265.0
+TOTAL,3950U,2025-02-01,265.0
+TOTAL,3950U,2025-03-01,265.0
+TOTAL,3960U,2025-01-01,0.0
+TOTAL,3960U,2025-02-01,0.0
+TOTAL,3960U,2025-03-01,0.0
+TOTAL,50024ST,2025-01-01,77.0
+TOTAL,50024ST,2025-02-01,77.0
+TOTAL,50024ST,2025-03-01,77.0
+TOTAL,50029ST,2025-01-01,3483068.3333333335
+TOTAL,50029ST,2025-02-01,3483068.3333333335
+TOTAL,50029ST,2025-03-01,3483068.3333333335
+TOTAL,50034ST,2025-01-01,61.333333333333336
+TOTAL,50034ST,2025-02-01,61.333333333333336
+TOTAL,50034ST,2025-03-01,61.333333333333336
+TOTAL,50039ST,2025-01-01,1556135.3333333333
+TOTAL,50039ST,2025-02-01,1556135.3333333333
+TOTAL,50039ST,2025-03-01,1556135.3333333333
+TOTAL,50044ST,2025-01-01,3665.0
+TOTAL,50044ST,2025-02-01,3665.0
+TOTAL,50044ST,2025-03-01,3665.0
+TOTAL,50049ST,2025-01-01,240911.33333333334
+TOTAL,50049ST,2025-02-01,240911.33333333334
+TOTAL,50049ST,2025-03-01,240911.33333333334
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-01-01,296667.6666666667
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-02-01,296667.6666666667
+"TOTAL
+(LINES 71 THRU 77)",22000XD,2025-03-01,296667.6666666667
+TOTAL ,5000AP,2025-01-01,8.0
+TOTAL ,5000AP,2025-02-01,8.0
+TOTAL ,5000AP,2025-03-01,8.0
+TOTAL ,5000BP,2025-01-01,5.0
+TOTAL ,5000BP,2025-02-01,5.0
+TOTAL ,5000BP,2025-03-01,5.0
+TOTAL ,5000CP,2025-01-01,11.0
+TOTAL ,5000CP,2025-02-01,11.0
+TOTAL ,5000CP,2025-03-01,11.0
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-01-01,5810883.666666667
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-02-01,5810883.666666667
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),30000D,2025-03-01,5810883.666666667
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-01-01,0.0
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-02-01,0.0
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",90000D,2025-03-01,0.0
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-01-01,4434.666666666667
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-02-01,4434.666666666667
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",85000D,2025-03-01,4434.666666666667
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-01-01,343164.0
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-02-01,343164.0
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000G,2025-03-01,343164.0
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-01-01,1600807.0
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-02-01,1600807.0
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",400000S,2025-03-01,1600807.0
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-01-01,6895996.666666667
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-02-01,6895996.666666667
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",200000D,2025-03-01,6895996.666666667
+TOTAL BODY SHOP,46000XS,2025-01-01,0.0
+TOTAL BODY SHOP,46000XS,2025-02-01,0.0
+TOTAL BODY SHOP,46000XS,2025-03-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-01-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-02-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000G,2025-03-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-01-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-02-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000S,2025-03-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-01-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-02-01,0.0
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),46000U,2025-03-01,0.0
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-01-01,58908.666666666664
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-02-01,58908.666666666664
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",20000D,2025-03-01,58908.666666666664
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-01-01,6497551.0
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-02-01,6497551.0
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",27000D,2025-03-01,6497551.0
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-01-01,5705219.333333333
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-02-01,5705219.333333333
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),31000D,2025-03-01,5705219.333333333
+TOTAL F & I NEW,43000S,2025-01-01,88532.66666666667
+TOTAL F & I NEW,43000S,2025-02-01,88532.66666666667
+TOTAL F & I NEW,43000S,2025-03-01,88532.66666666667
+TOTAL F & I USED,44600S,2025-01-01,31459.666666666668
+TOTAL F & I USED,44600S,2025-02-01,31459.666666666668
+TOTAL F & I USED,44600S,2025-03-01,31459.666666666668
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-01-01,64887.333333333336
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-02-01,64887.333333333336
+TOTAL F&I NEW (LINES 23 THRU 29),43000G,2025-03-01,64887.333333333336
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-01-01,0.0
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-02-01,0.0
+TOTAL F&I NEW (LINES 23 THRU 29),43000U,2025-03-01,0.0
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-01-01,23603.333333333332
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-02-01,23603.333333333332
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600G,2025-03-01,23603.333333333332
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-01-01,0.0
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-02-01,0.0
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",44600U,2025-03-01,0.0
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-01-01,198445.33333333334
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-02-01,198445.33333333334
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",28000D,2025-03-01,198445.33333333334
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-01-01,100370.0
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-02-01,100370.0
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000G,2025-03-01,100370.0
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-01-01,184383.33333333334
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-02-01,184383.33333333334
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",48000S,2025-03-01,184383.33333333334
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-01-01,37126.0
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-02-01,37126.0
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000CD,2025-03-01,37126.0
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-01-01,246312.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-02-01,246312.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",16000D,2025-03-01,246312.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-01-01,177170.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-02-01,177170.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000AD,2025-03-01,177170.66666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-01-01,18913.333333333332
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-02-01,18913.333333333332
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000BD,2025-03-01,18913.333333333332
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-01-01,13102.666666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-02-01,13102.666666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000DD,2025-03-01,13102.666666666666
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-01-01,0.0
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-02-01,0.0
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",16000ED,2025-03-01,0.0
+TOTAL GROSS PROFIT,400000XG,2025-01-01,343164.0
+TOTAL GROSS PROFIT,400000XG,2025-02-01,343164.0
+TOTAL GROSS PROFIT,400000XG,2025-03-01,343164.0
+TOTAL GROSS PROFIT,45500XG,2025-01-01,60676.333333333336
+TOTAL GROSS PROFIT,45500XG,2025-02-01,60676.333333333336
+TOTAL GROSS PROFIT,45500XG,2025-03-01,60676.333333333336
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-01-01,0.0
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-02-01,0.0
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,46000XG,2025-03-01,0.0
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-01-01,97984.33333333333
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-02-01,97984.33333333333
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,43500XG,2025-03-01,97984.33333333333
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-01-01,39693.666666666664
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-02-01,39693.666666666664
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,49000XG,2025-03-01,39693.666666666664
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-01-01,144809.66666666666
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-02-01,144809.66666666666
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,44700XG,2025-03-01,144809.66666666666
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-01-01,5470636.666666667
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-02-01,5470636.666666667
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",25000D,2025-03-01,5470636.666666667
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-01-01,6895996.666666667
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-02-01,6895996.666666667
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),35000D,2025-03-01,6895996.666666667
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-01-01,8103290.333333333
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-02-01,8103290.333333333
+TOTAL LIABILITIES (LINES 27 & 32),33000D,2025-03-01,8103290.333333333
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-01-01,2398071.0
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-02-01,2398071.0
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),32000D,2025-03-01,2398071.0
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-01-01,20.0
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-02-01,20.0
+TOTAL MIT. NEW (LINES 18  THRU 20),42000U,2025-03-01,20.0
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-01-01,33097.0
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-02-01,33097.0
+TOTAL MIT. NEW (LINES 18 THRU 20),42000G,2025-03-01,33097.0
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-01-01,907399.6666666666
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-02-01,907399.6666666666
+TOTAL MIT. NEW (LINES 18 THRU 20),42000S,2025-03-01,907399.6666666666
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-01-01,2.0
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-02-01,2.0
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),40000U,2025-03-01,2.0
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-01-01,1169.3333333333333
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-02-01,1169.3333333333333
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000G,2025-03-01,1169.3333333333333
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-01-01,43771.666666666664
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-02-01,43771.666666666664
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),40000S,2025-03-01,43771.666666666664
+TOTAL MITSUBISHI FLEET,3060G,2025-01-01,0.0
+TOTAL MITSUBISHI FLEET,3060G,2025-02-01,0.0
+TOTAL MITSUBISHI FLEET,3060G,2025-03-01,0.0
+TOTAL MITSUBISHI FLEET,3060S,2025-01-01,0.0
+TOTAL MITSUBISHI FLEET,3060S,2025-02-01,0.0
+TOTAL MITSUBISHI FLEET,3060S,2025-03-01,0.0
+TOTAL MITSUBISHI FLEET,3060U,2025-01-01,0.0
+TOTAL MITSUBISHI FLEET,3060U,2025-02-01,0.0
+TOTAL MITSUBISHI FLEET,3060U,2025-03-01,0.0
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-01-01,57533.333333333336
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-02-01,57533.333333333336
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000G,2025-03-01,57533.333333333336
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-01-01,74972.33333333333
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-02-01,74972.33333333333
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000S,2025-03-01,74972.33333333333
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-01-01,397.0
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-02-01,397.0
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),45000U,2025-03-01,397.0
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-01-01,20.0
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-02-01,20.0
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",41500U,2025-03-01,20.0
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-01-01,33097.0
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-02-01,33097.0
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500G,2025-03-01,33097.0
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-01-01,907399.6666666666
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-02-01,907399.6666666666
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",41500S,2025-03-01,907399.6666666666
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-01-01,31927.666666666668
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-02-01,31927.666666666668
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000G,2025-03-01,31927.666666666668
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-01-01,863628.0
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-02-01,863628.0
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000S,2025-03-01,863628.0
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-01-01,18.0
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-02-01,18.0
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),41000U,2025-03-01,18.0
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-01-01,-1207293.6666666667
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-02-01,-1207293.6666666667
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",34000D,2025-03-01,-1207293.6666666667
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-01-01,43.0
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-02-01,43.0
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),44800U,2025-03-01,43.0
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-01-01,242794.0
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-02-01,242794.0
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800G,2025-03-01,242794.0
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-01-01,1416423.6666666667
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-02-01,1416423.6666666667
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),44800S,2025-03-01,1416423.6666666667
+TOTAL NEW VEHICLE DEPT,43500XS,2025-01-01,995932.3333333334
+TOTAL NEW VEHICLE DEPT,43500XS,2025-02-01,995932.3333333334
+TOTAL NEW VEHICLE DEPT,43500XS,2025-03-01,995932.3333333334
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-01-01,97984.33333333333
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-02-01,97984.33333333333
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500G,2025-03-01,97984.33333333333
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-01-01,995932.3333333334
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-02-01,995932.3333333334
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),43500S,2025-03-01,995932.3333333334
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-01-01,3483068.3333333335
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-02-01,3483068.3333333335
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",23000D,2025-03-01,3483068.3333333335
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-01-01,37126.0
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-02-01,37126.0
+"TOTAL OPERATING EXPENSES (LINE 63)
+",17000CD,2025-03-01,37126.0
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-01-01,13102.666666666666
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-02-01,13102.666666666666
+TOTAL OPERATING EXPENSES (LINE 63) ,17000DD,2025-03-01,13102.666666666666
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-01-01,0.0
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-02-01,0.0
+TOTAL OPERATING EXPENSES (LINE 63) ,17000ED,2025-03-01,0.0
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-01-01,332609.3333333333
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-02-01,332609.3333333333
+TOTAL OPERATING EXPENSES (LINES 16  & 63),17000D,2025-03-01,332609.3333333333
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-01-01,215469.33333333334
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-02-01,215469.33333333334
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000AD,2025-03-01,215469.33333333334
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-01-01,66911.33333333333
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-02-01,66911.33333333333
+TOTAL OPERATING EXPENSES (LINES 16 & 63),17000BD,2025-03-01,66911.33333333333
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-01-01,200000.33333333334
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-02-01,200000.33333333334
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",29000D,2025-03-01,200000.33333333334
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-01-01,671338.0
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-02-01,671338.0
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",26000D,2025-03-01,671338.0
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-01-01,39693.666666666664
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-02-01,39693.666666666664
+TOTAL P&A (LINES 16 THRU 27),47000G,2025-03-01,39693.666666666664
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-01-01,98602.33333333333
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-02-01,98602.33333333333
+TOTAL P&A (LINES 16 THRU 27),47000S,2025-03-01,98602.33333333333
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-01-01,83.0
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-02-01,83.0
+TOTAL P&A (LINES 16 THRU 27),47000U,2025-03-01,83.0
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-01-01,296667.6666666667
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-02-01,296667.6666666667
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",22000D,2025-03-01,296667.6666666667
+TOTAL SALES,400000XS,2025-01-01,1600807.0
+TOTAL SALES,400000XS,2025-02-01,1600807.0
+TOTAL SALES,400000XS,2025-03-01,1600807.0
+TOTAL SALES ,45500XS,2025-01-01,85781.0
+TOTAL SALES ,45500XS,2025-02-01,85781.0
+TOTAL SALES ,45500XS,2025-03-01,85781.0
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-01-01,98602.33333333333
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-02-01,98602.33333333333
+TOTAL SALES - PARTS & ACCESS DEPT.,49000XS,2025-03-01,98602.33333333333
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-01-01,40423.0
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-02-01,40423.0
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",14000D,2025-03-01,40423.0
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-01-01,13709.333333333334
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-02-01,13709.333333333334
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000AD,2025-03-01,13709.333333333334
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-01-01,10491.333333333334
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-02-01,10491.333333333334
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,14000BD,2025-03-01,10491.333333333334
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-01-01,11748.0
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-02-01,11748.0
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),14000CD,2025-03-01,11748.0
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-01-01,4474.333333333333
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-02-01,4474.333333333333
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000DD,2025-03-01,4474.333333333333
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-01-01,0.0
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-02-01,0.0
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),14000ED,2025-03-01,0.0
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-01-01,397.0
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-02-01,397.0
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",45500U,2025-03-01,397.0
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-01-01,60676.333333333336
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-02-01,60676.333333333336
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500G,2025-03-01,60676.333333333336
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-01-01,85781.0
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-02-01,85781.0
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),45500S,2025-03-01,85781.0
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-01-01,23.0
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-02-01,23.0
+TOTAL USED RETAIL (LINES 33  THRU 38),44000U,2025-03-01,23.0
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-01-01,121206.33333333333
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-02-01,121206.33333333333
+TOTAL USED RETAIL (LINES 33 THRU 38),44000G,2025-03-01,121206.33333333333
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-01-01,389031.6666666667
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-02-01,389031.6666666667
+TOTAL USED RETAIL (LINES 33 THRU 38),44000S,2025-03-01,389031.6666666667
+TOTAL USED VEHICLE DEPT,44700XS,2025-01-01,420491.3333333333
+TOTAL USED VEHICLE DEPT,44700XS,2025-02-01,420491.3333333333
+TOTAL USED VEHICLE DEPT,44700XS,2025-03-01,420491.3333333333
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-01-01,144809.66666666666
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-02-01,144809.66666666666
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700G,2025-03-01,144809.66666666666
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-01-01,420491.3333333333
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-02-01,420491.3333333333
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),44700S,2025-03-01,420491.3333333333
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-01-01,1556135.3333333333
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-02-01,1556135.3333333333
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",24000D,2025-03-01,1556135.3333333333
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-01-01,121206.33333333333
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-02-01,121206.33333333333
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500G,2025-03-01,121206.33333333333
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-01-01,389031.6666666667
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-02-01,389031.6666666667
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500S,2025-03-01,389031.6666666667
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-01-01,23.0
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-02-01,23.0
+TOTAL USED VEHICLES (LINES 39 THRU 42),44500U,2025-03-01,23.0
+Taxes - Other,8400D,2025-01-01,0.0
+Taxes - Other,8400D,2025-02-01,0.0
+Taxes - Other,8400D,2025-03-01,0.0
+Taxes - Other,8401D,2025-01-01,0.0
+Taxes - Other,8401D,2025-02-01,0.0
+Taxes - Other,8401D,2025-03-01,0.0
+Taxes - Other,8402D,2025-01-01,0.0
+Taxes - Other,8402D,2025-02-01,0.0
+Taxes - Other,8402D,2025-03-01,0.0
+Taxes - Other,8404D,2025-01-01,0.0
+Taxes - Other,8404D,2025-02-01,0.0
+Taxes - Other,8404D,2025-03-01,0.0
+Taxes - Other,8405D,2025-01-01,0.0
+Taxes - Other,8405D,2025-02-01,0.0
+Taxes - Other,8405D,2025-03-01,0.0
+Taxes - Real Estate,8460D,2025-01-01,31210.666666666668
+Taxes - Real Estate,8460D,2025-02-01,31210.666666666668
+Taxes - Real Estate,8460D,2025-03-01,31210.666666666668
+Taxes - Real Estate,8461D,2025-01-01,28103.0
+Taxes - Real Estate,8461D,2025-02-01,28103.0
+Taxes - Real Estate,8461D,2025-03-01,28103.0
+Taxes - Real Estate,8462D,2025-01-01,717.0
+Taxes - Real Estate,8462D,2025-02-01,717.0
+Taxes - Real Estate,8462D,2025-03-01,717.0
+Taxes - Real Estate,8463D,2025-01-01,1673.6666666666667
+Taxes - Real Estate,8463D,2025-02-01,1673.6666666666667
+Taxes - Real Estate,8463D,2025-03-01,1673.6666666666667
+Taxes - Real Estate,8464D,2025-01-01,717.0
+Taxes - Real Estate,8464D,2025-02-01,717.0
+Taxes - Real Estate,8464D,2025-03-01,717.0
+Taxes - Real Estate,8465D,2025-01-01,0.0
+Taxes - Real Estate,8465D,2025-02-01,0.0
+Taxes - Real Estate,8465D,2025-03-01,0.0
+Taxes Payable - Income,2250D,2025-01-01,0.0
+Taxes Payable - Income,2250D,2025-02-01,0.0
+Taxes Payable - Income,2250D,2025-03-01,0.0
+Taxes Payable - Other,2260D,2025-01-01,-208196.33333333334
+Taxes Payable - Other,2260D,2025-02-01,-208196.33333333334
+Taxes Payable - Other,2260D,2025-03-01,-208196.33333333334
+Taxes Payable - Payroll,2230D,2025-01-01,-2641.6666666666665
+Taxes Payable - Payroll,2230D,2025-02-01,-2641.6666666666665
+Taxes Payable - Payroll,2230D,2025-03-01,-2641.6666666666665
+Taxes Payable - Sales,2240D,2025-01-01,0.0
+Taxes Payable - Sales,2240D,2025-02-01,0.0
+Taxes Payable - Sales,2240D,2025-03-01,0.0
+Technicians,0978P,2025-01-01,3.0
+Technicians,0978P,2025-02-01,3.0
+Technicians,0978P,2025-03-01,3.0
+Technicians,0984P,2025-01-01,0.0
+Technicians,0984P,2025-02-01,0.0
+Technicians,0984P,2025-03-01,0.0
+Technicians,0992P,2025-01-01,0.0
+Technicians,0992P,2025-02-01,0.0
+Technicians,0992P,2025-03-01,0.0
+Technicians,550P,2025-01-01,3.0
+Technicians,550P,2025-02-01,3.0
+Technicians,550P,2025-03-01,3.0
+Technicians ,0966PZ,2025-01-01,0.0
+Technicians ,0966PZ,2025-02-01,0.0
+Technicians ,0966PZ,2025-03-01,0.0
+Telephone,8360D,2025-01-01,873.3333333333334
+Telephone,8360D,2025-02-01,873.3333333333334
+Telephone,8360D,2025-03-01,873.3333333333334
+Telephone,8361D,2025-01-01,305.6666666666667
+Telephone,8361D,2025-02-01,305.6666666666667
+Telephone,8361D,2025-03-01,305.6666666666667
+Telephone,8362D,2025-01-01,131.0
+Telephone,8362D,2025-02-01,131.0
+Telephone,8362D,2025-03-01,131.0
+Telephone,8363D,2025-01-01,305.6666666666667
+Telephone,8363D,2025-02-01,305.6666666666667
+Telephone,8363D,2025-03-01,305.6666666666667
+Telephone,8364D,2025-01-01,131.0
+Telephone,8364D,2025-02-01,131.0
+Telephone,8364D,2025-03-01,131.0
+Telephone,8365D,2025-01-01,0.0
+Telephone,8365D,2025-02-01,0.0
+Telephone,8365D,2025-03-01,0.0
+Terminated YTD,570AP,2025-01-01,0.0
+Terminated YTD,570AP,2025-02-01,0.0
+Terminated YTD,570AP,2025-03-01,0.0
+Terminated YTD,570BP,2025-01-01,0.0
+Terminated YTD,570BP,2025-02-01,0.0
+Terminated YTD,570BP,2025-03-01,0.0
+Terminated YTD,570CP,2025-01-01,0.0
+Terminated YTD,570CP,2025-02-01,0.0
+Terminated YTD,570CP,2025-03-01,0.0
+Terminated YTD,570DP,2025-01-01,0.0
+Terminated YTD,570DP,2025-02-01,0.0
+Terminated YTD,570DP,2025-03-01,0.0
+Terminated YTD,570EP,2025-01-01,0.0
+Terminated YTD,570EP,2025-02-01,0.0
+Terminated YTD,570EP,2025-03-01,0.0
+Terminated YTD,570TP,2025-01-01,0.0
+Terminated YTD,570TP,2025-02-01,0.0
+Terminated YTD,570TP,2025-03-01,0.0
+Test Drives,3001ST,2025-01-01,33.0
+Test Drives,3001ST,2025-02-01,33.0
+Test Drives,3001ST,2025-03-01,33.0
+Test Drives,3011ST,2025-01-01,26.666666666666668
+Test Drives,3011ST,2025-02-01,26.666666666666668
+Test Drives,3011ST,2025-03-01,26.666666666666668
+Tire Inventory Over 12 Mo's ($),50211SD,2025-01-01,0.0
+Tire Inventory Over 12 Mo's ($),50211SD,2025-02-01,0.0
+Tire Inventory Over 12 Mo's ($),50211SD,2025-03-01,0.0
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-01-01,0.0
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-02-01,0.0
+Tire Inventory Over 12 Mo's ($),6008DZ,2025-03-01,0.0
+Tire Inventory Over 12 Mo's (%),50212SD,2025-01-01,0.0
+Tire Inventory Over 12 Mo's (%),50212SD,2025-02-01,0.0
+Tire Inventory Over 12 Mo's (%),50212SD,2025-03-01,0.0
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-01-01,0.0
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-02-01,0.0
+Tire Inventory Over 12 Mo's (%),6009DZ,2025-03-01,0.0
+Tire Storage,5290G,2025-01-01,0.0
+Tire Storage,5290G,2025-02-01,0.0
+Tire Storage,5290G,2025-03-01,0.0
+Tire Storage,5290S,2025-01-01,0.0
+Tire Storage,5290S,2025-02-01,0.0
+Tire Storage,5290S,2025-03-01,0.0
+Tire Storage,5290U,2025-01-01,0.0
+Tire Storage,5290U,2025-02-01,0.0
+Tire Storage,5290U,2025-03-01,0.0
+Tires,5700G,2025-01-01,4042.3333333333335
+Tires,5700G,2025-02-01,4042.3333333333335
+Tires,5700G,2025-03-01,4042.3333333333335
+Tires,5700S,2025-01-01,19037.666666666668
+Tires,5700S,2025-02-01,19037.666666666668
+Tires,5700S,2025-03-01,19037.666666666668
+Tires,5700U,2025-01-01,35.0
+Tires,5700U,2025-02-01,35.0
+Tires,5700U,2025-03-01,35.0
+Total,5000DP,2025-01-01,1.0
+Total,5000DP,2025-02-01,1.0
+Total,5000DP,2025-03-01,1.0
+Total,5000EP,2025-01-01,0.0
+Total,5000EP,2025-02-01,0.0
+Total,5000EP,2025-03-01,0.0
+Total,5000XP,2025-01-01,25.0
+Total,5000XP,2025-02-01,25.0
+Total,5000XP,2025-03-01,25.0
+Total Bays Available,50004SDZ,2025-01-01,0.0
+Total Bays Available,50004SDZ,2025-02-01,0.0
+Total Bays Available,50004SDZ,2025-03-01,0.0
+Total Bays Available,50104SDZ,2025-01-01,0.0
+Total Bays Available,50104SDZ,2025-02-01,0.0
+Total Bays Available,50104SDZ,2025-03-01,0.0
+Total Bays Available,6156DZ,2025-01-01,0.6666666666666666
+Total Bays Available,6156DZ,2025-02-01,0.6666666666666666
+Total Bays Available,6156DZ,2025-03-01,0.6666666666666666
+Total Bays Available,6160DZ,2025-01-01,0.0
+Total Bays Available,6160DZ,2025-02-01,0.0
+Total Bays Available,6160DZ,2025-03-01,0.0
+Total Bays Available,6161DZ,2025-01-01,0.0
+Total Bays Available,6161DZ,2025-02-01,0.0
+Total Bays Available,6161DZ,2025-03-01,0.0
+Training,8140D,2025-01-01,15.333333333333334
+Training,8140D,2025-02-01,15.333333333333334
+Training,8140D,2025-03-01,15.333333333333334
+Training,8141D,2025-01-01,15.333333333333334
+Training,8141D,2025-02-01,15.333333333333334
+Training,8141D,2025-03-01,15.333333333333334
+Training,8142D,2025-01-01,0.0
+Training,8142D,2025-02-01,0.0
+Training,8142D,2025-03-01,0.0
+Training,8143D,2025-01-01,0.0
+Training,8143D,2025-02-01,0.0
+Training,8143D,2025-03-01,0.0
+Training,8144D,2025-01-01,0.0
+Training,8144D,2025-02-01,0.0
+Training,8144D,2025-03-01,0.0
+Training,8145D,2025-01-01,0.0
+Training,8145D,2025-02-01,0.0
+Training,8145D,2025-03-01,0.0
+Travel & Entertainment,8290D,2025-01-01,274.3333333333333
+Travel & Entertainment,8290D,2025-02-01,274.3333333333333
+Travel & Entertainment,8290D,2025-03-01,274.3333333333333
+Travel & Entertainment,8291D,2025-01-01,274.3333333333333
+Travel & Entertainment,8291D,2025-02-01,274.3333333333333
+Travel & Entertainment,8291D,2025-03-01,274.3333333333333
+Travel & Entertainment,8292D,2025-01-01,0.0
+Travel & Entertainment,8292D,2025-02-01,0.0
+Travel & Entertainment,8292D,2025-03-01,0.0
+Travel & Entertainment ,8293D,2025-01-01,0.0
+Travel & Entertainment ,8293D,2025-02-01,0.0
+Travel & Entertainment ,8293D,2025-03-01,0.0
+Travel & Entertainment ,8294D,2025-01-01,0.0
+Travel & Entertainment ,8294D,2025-02-01,0.0
+Travel & Entertainment ,8294D,2025-03-01,0.0
+Travel & Entertainment ,8295D,2025-01-01,0.0
+Travel & Entertainment ,8295D,2025-02-01,0.0
+Travel & Entertainment ,8295D,2025-03-01,0.0
+UV Months Supply (Guide 1.5 months),6078DZ,2025-01-01,0.6833333333333335
+UV Months Supply (Guide 1.5 months),6078DZ,2025-02-01,0.6833333333333335
+UV Months Supply (Guide 1.5 months),6078DZ,2025-03-01,0.6833333333333335
+UV Stock Turn (Guide >7) ,6079DZ,2025-01-01,-0.5466666666666667
+UV Stock Turn (Guide >7) ,6079DZ,2025-02-01,-0.5466666666666667
+UV Stock Turn (Guide >7) ,6079DZ,2025-03-01,-0.5466666666666667
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-01-01,-0.6666666666666669
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-02-01,-0.6666666666666669
+UV Units Sold Per NV & UV Sales Rep.,6077DZ,2025-03-01,-0.6666666666666669
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-01-01,4.599999999999999
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-02-01,4.599999999999999
+UV Units Sold Per NV & UV Sales Rep.,6085DZ,2025-03-01,4.599999999999999
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-01-01,-0.65
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-02-01,-0.65
+UV Units Sold Per NV & UV Sales Rep.,6093DZ,2025-03-01,-0.65
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-01-01,11.5
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-02-01,11.5
+UV Units Sold Per UV Sales Rep.,6084DZ,2025-03-01,11.5
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-01-01,-1.6266666666666667
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-02-01,-1.6266666666666667
+UV Units Sold Per UV Sales Rep.,6092DZ,2025-03-01,-1.6266666666666667
+Ups,3000ST,2025-01-01,40.333333333333336
+Ups,3000ST,2025-02-01,40.333333333333336
+Ups,3000ST,2025-03-01,40.333333333333336
+Ups,3010ST,2025-01-01,30.0
+Ups,3010ST,2025-02-01,30.0
+Ups,3010ST,2025-03-01,30.0
+Used Retail to Wholesale Ratio ,6081DZ,2025-01-01,0.0
+Used Retail to Wholesale Ratio ,6081DZ,2025-02-01,0.0
+Used Retail to Wholesale Ratio ,6081DZ,2025-03-01,0.0
+Used Retail to Wholesale Ratio ,6089DZ,2025-01-01,0.0
+Used Retail to Wholesale Ratio ,6089DZ,2025-02-01,0.0
+Used Retail to Wholesale Ratio ,6089DZ,2025-03-01,0.0
+Used Retail to Wholesale Ratio ,6097DZ,2025-01-01,0.0
+Used Retail to Wholesale Ratio ,6097DZ,2025-02-01,0.0
+Used Retail to Wholesale Ratio ,6097DZ,2025-03-01,0.0
+Used Vehicle Department,M17000BD,2025-01-01,66911.33333333333
+Used Vehicle Department,M17000BD,2025-02-01,66911.33333333333
+Used Vehicle Department,M17000BD,2025-03-01,66911.33333333333
+Used Vehicle Department,M18000BD,2025-01-01,77898.33333333333
+Used Vehicle Department,M18000BD,2025-02-01,77898.33333333333
+Used Vehicle Department,M18000BD,2025-03-01,77898.33333333333
+Used Vehicle Department,M44700XG,2025-01-01,144809.66666666666
+Used Vehicle Department,M44700XG,2025-02-01,144809.66666666666
+Used Vehicle Department,M44700XG,2025-03-01,144809.66666666666
+Used Vehicles,1450D,2025-01-01,738099.3333333334
+Used Vehicles,1450D,2025-02-01,738099.3333333334
+Used Vehicles,1450D,2025-03-01,738099.3333333334
+Used Vehicles,2111D,2025-01-01,1257393.3333333333
+Used Vehicles,2111D,2025-02-01,1257393.3333333333
+Used Vehicles,2111D,2025-03-01,1257393.3333333333
+Used Vehicles - Other Makes ,1495D,2025-01-01,818036.0
+Used Vehicles - Other Makes ,1495D,2025-02-01,818036.0
+Used Vehicles - Other Makes ,1495D,2025-03-01,818036.0
+Used Vehicles - Retail (CPO),3580G,2025-01-01,7224.333333333333
+Used Vehicles - Retail (CPO),3580G,2025-02-01,7224.333333333333
+Used Vehicles - Retail (CPO),3580G,2025-03-01,7224.333333333333
+Used Vehicles - Retail (CPO),3580S,2025-01-01,31698.666666666668
+Used Vehicles - Retail (CPO),3580S,2025-02-01,31698.666666666668
+Used Vehicles - Retail (CPO),3580S,2025-03-01,31698.666666666668
+Used Vehicles - Retail (CPO),3580U,2025-01-01,1.3333333333333333
+Used Vehicles - Retail (CPO),3580U,2025-02-01,1.3333333333333333
+Used Vehicles - Retail (CPO),3580U,2025-03-01,1.3333333333333333
+Used Vehicles - Retail (Non CPO),3500G,2025-01-01,133632.33333333334
+Used Vehicles - Retail (Non CPO),3500G,2025-02-01,133632.33333333334
+Used Vehicles - Retail (Non CPO),3500G,2025-03-01,133632.33333333334
+Used Vehicles - Retail (Non CPO),3500S,2025-01-01,357333.0
+Used Vehicles - Retail (Non CPO),3500S,2025-02-01,357333.0
+Used Vehicles - Retail (Non CPO),3500S,2025-03-01,357333.0
+Used Vehicles - Retail (Non CPO),3500U,2025-01-01,21.666666666666668
+Used Vehicles - Retail (Non CPO),3500U,2025-02-01,21.666666666666668
+Used Vehicles - Retail (Non CPO),3500U,2025-03-01,21.666666666666668
+Used Vehicles - Retail (Other Makes),3506G,2025-01-01,0.0
+Used Vehicles - Retail (Other Makes),3506G,2025-02-01,0.0
+Used Vehicles - Retail (Other Makes),3506G,2025-03-01,0.0
+Used Vehicles - Retail (Other Makes),3506S,2025-01-01,0.0
+Used Vehicles - Retail (Other Makes),3506S,2025-02-01,0.0
+Used Vehicles - Retail (Other Makes),3506S,2025-03-01,0.0
+Used Vehicles - Retail (Other Makes),3506U,2025-01-01,0.0
+Used Vehicles - Retail (Other Makes),3506U,2025-02-01,0.0
+Used Vehicles - Retail (Other Makes),3506U,2025-03-01,0.0
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-01-01,-2359.0
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-02-01,-2359.0
+Used Vehicles - Retail Reconditioning (CPO),4512G,2025-03-01,-2359.0
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-01-01,-17291.333333333332
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-02-01,-17291.333333333332
+Used Vehicles - Retail Reconditioning (Non CPO),4511G,2025-03-01,-17291.333333333332
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-01-01,0.0
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-02-01,0.0
+Used Vehicles - Retail Reconditioning (Other Makes),4513G,2025-03-01,0.0
+Used Vehicles - Wholesale,3520G,2025-01-01,0.0
+Used Vehicles - Wholesale,3520G,2025-02-01,0.0
+Used Vehicles - Wholesale,3520G,2025-03-01,0.0
+Used Vehicles - Wholesale,3520S,2025-01-01,0.0
+Used Vehicles - Wholesale,3520S,2025-02-01,0.0
+Used Vehicles - Wholesale,3520S,2025-03-01,0.0
+Used Vehicles - Wholesale,3520U,2025-01-01,0.0
+Used Vehicles - Wholesale,3520U,2025-02-01,0.0
+Used Vehicles - Wholesale,3520U,2025-03-01,0.0
+Used to New Retail Ratio,6080DZ,2025-01-01,0.12666666666666662
+Used to New Retail Ratio,6080DZ,2025-02-01,0.12666666666666662
+Used to New Retail Ratio,6080DZ,2025-03-01,0.12666666666666662
+Used to New Retail Ratio,6088DZ,2025-01-01,0.006666666666666667
+Used to New Retail Ratio,6088DZ,2025-02-01,0.006666666666666667
+Used to New Retail Ratio,6088DZ,2025-03-01,0.006666666666666667
+Used to New Retail Ratio,6096DZ,2025-01-01,0.12
+Used to New Retail Ratio,6096DZ,2025-02-01,0.12
+Used to New Retail Ratio,6096DZ,2025-03-01,0.12
+Vehicle Accounts - Customers,1100AD,2025-01-01,49824.333333333336
+Vehicle Accounts - Customers,1100AD,2025-02-01,49824.333333333336
+Vehicle Accounts - Customers,1100AD,2025-03-01,49824.333333333336
+Vehicle Accounts - Customers,1100BD,2025-01-01,49824.333333333336
+Vehicle Accounts - Customers,1100BD,2025-02-01,49824.333333333336
+Vehicle Accounts - Customers,1100BD,2025-03-01,49824.333333333336
+Vehicle Accounts - Customers,1100CD,2025-01-01,0.0
+Vehicle Accounts - Customers,1100CD,2025-02-01,0.0
+Vehicle Accounts - Customers,1100CD,2025-03-01,0.0
+Vehicle Accounts - Customers,1100D,2025-01-01,49824.666666666664
+Vehicle Accounts - Customers,1100D,2025-02-01,49824.666666666664
+Vehicle Accounts - Customers,1100D,2025-03-01,49824.666666666664
+Vehicle Accounts - Customers,1100DD,2025-01-01,0.0
+Vehicle Accounts - Customers,1100DD,2025-02-01,0.0
+Vehicle Accounts - Customers,1100DD,2025-03-01,0.0
+Vehicle Accounts - Customers,1100ED,2025-01-01,0.0
+Vehicle Accounts - Customers,1100ED,2025-02-01,0.0
+Vehicle Accounts - Customers,1100ED,2025-03-01,0.0
+Vehicle Accounts - Customers,1100FD,2025-01-01,0.0
+Vehicle Accounts - Customers,1100FD,2025-02-01,0.0
+Vehicle Accounts - Customers,1100FD,2025-03-01,0.0
+Vehicle Lien Pay-Off,2050D,2025-01-01,106116.33333333333
+Vehicle Lien Pay-Off,2050D,2025-02-01,106116.33333333333
+Vehicle Lien Pay-Off,2050D,2025-03-01,106116.33333333333
+Volume Discount,5720G,2025-01-01,0.0
+Volume Discount,5720G,2025-02-01,0.0
+Volume Discount,5720G,2025-03-01,0.0
+Volume Discount,5720U,2025-01-01,0.0
+Volume Discount,5720U,2025-02-01,0.0
+Volume Discount,5720U,2025-03-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-01-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-02-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098G,2025-03-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-01-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-02-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098S,2025-03-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-01-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-02-01,0.0
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),3098U,2025-03-01,0.0
+Warranty Claim Body Shop Labour,5420G,2025-01-01,0.0
+Warranty Claim Body Shop Labour,5420G,2025-02-01,0.0
+Warranty Claim Body Shop Labour,5420G,2025-03-01,0.0
+Warranty Claim Body Shop Labour,5420S,2025-01-01,0.0
+Warranty Claim Body Shop Labour,5420S,2025-02-01,0.0
+Warranty Claim Body Shop Labour,5420S,2025-03-01,0.0
+Warranty Claim Body Shop Labour,5420U,2025-01-01,0.0
+Warranty Claim Body Shop Labour,5420U,2025-02-01,0.0
+Warranty Claim Body Shop Labour,5420U,2025-03-01,0.0
+Warranty Hours Sold,50014SD,2025-01-01,33.0
+Warranty Hours Sold,50014SD,2025-02-01,33.0
+Warranty Hours Sold,50014SD,2025-03-01,33.0
+Warranty Labour - MITSUBISHI,5040G,2025-01-01,3874.3333333333335
+Warranty Labour - MITSUBISHI,5040G,2025-02-01,3874.3333333333335
+Warranty Labour - MITSUBISHI,5040G,2025-03-01,3874.3333333333335
+Warranty Labour - MITSUBISHI,5040S,2025-01-01,5795.666666666667
+Warranty Labour - MITSUBISHI,5040S,2025-02-01,5795.666666666667
+Warranty Labour - MITSUBISHI,5040S,2025-03-01,5795.666666666667
+Warranty Labour - MITSUBISHI,5040U,2025-01-01,68.0
+Warranty Labour - MITSUBISHI,5040U,2025-02-01,68.0
+Warranty Labour - MITSUBISHI,5040U,2025-03-01,68.0
+Warranty Labour Rate,5040D,2025-01-01,114.0
+Warranty Labour Rate,5040D,2025-02-01,114.0
+Warranty Labour Rate,5040D,2025-03-01,114.0
+Warranty Labour Rate,5041D,2025-01-01,0.0
+Warranty Labour Rate,5041D,2025-02-01,0.0
+Warranty Labour Rate,5041D,2025-03-01,0.0
+Warranty P&A RO,5240G,2025-01-01,15529.0
+Warranty P&A RO,5240G,2025-02-01,15529.0
+Warranty P&A RO,5240G,2025-03-01,15529.0
+Warranty P&A RO,5240S,2025-01-01,11598.0
+Warranty P&A RO,5240S,2025-02-01,11598.0
+Warranty P&A RO,5240S,2025-03-01,11598.0
+Warranty P&A RO,5240U,2025-01-01,0.0
+Warranty P&A RO,5240U,2025-02-01,0.0
+Warranty P&A RO,5240U,2025-03-01,0.0
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-01-01,-0.7200000000000001
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-02-01,-0.7200000000000001
+Warranty Pts. : Warranty Labour Sales,6004DZ,2025-03-01,-0.7200000000000001
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-01-01,-0.046666666666666724
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-02-01,-0.046666666666666724
+Warranty Pts. : Warranty Labour Sales,6013DZ,2025-03-01,-0.046666666666666724
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-01-01,-0.6699999999999999
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-02-01,-0.6699999999999999
+Warranty Pts. : Warranty Labour Sales,6020DZ,2025-03-01,-0.6699999999999999
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-01-01,45354.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-02-01,45354.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280AD,2025-03-01,45354.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-01-01,2201.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-02-01,2201.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280BD,2025-03-01,2201.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-01-01,979.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-02-01,979.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280CD,2025-03-01,979.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-01-01,821.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-02-01,821.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280DD,2025-03-01,821.3333333333334
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-01-01,41352.333333333336
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-02-01,41352.333333333336
+Warranty Rec. / P.D.I. - Mitsubishi,1280ED,2025-03-01,41352.333333333336
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-01-01,0.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-02-01,0.0
+Warranty Rec. / P.D.I. - Mitsubishi,1280FD,2025-03-01,0.0
+Warranty Receivables - Mitsubishi,1280D,2025-01-01,45354.0
+Warranty Receivables - Mitsubishi,1280D,2025-02-01,45354.0
+Warranty Receivables - Mitsubishi,1280D,2025-03-01,45354.0
+Warranty Receivables - Other,1285D,2025-01-01,0.0
+Warranty Receivables - Other,1285D,2025-02-01,0.0
+Warranty Receivables - Other,1285D,2025-03-01,0.0
+Wholesale Credit Line,2100CLD,2025-01-01,0.0
+Wholesale Credit Line,2100CLD,2025-02-01,0.0
+Wholesale Credit Line,2100CLD,2025-03-01,0.0
+Wholesale Credit Line,6058DZ,2025-01-01,0.0
+Wholesale Credit Line,6058DZ,2025-02-01,0.0
+Wholesale Credit Line,6058DZ,2025-03-01,0.0
+Wholesale P&A,5330G,2025-01-01,3329.3333333333335
+Wholesale P&A,5330G,2025-02-01,3329.3333333333335
+Wholesale P&A,5330G,2025-03-01,3329.3333333333335
+Wholesale P&A,5330S,2025-01-01,14886.0
+Wholesale P&A,5330S,2025-02-01,14886.0
+Wholesale P&A,5330S,2025-03-01,14886.0
+Wholesale P&A,5330U,2025-01-01,25.333333333333332
+Wholesale P&A,5330U,2025-02-01,25.333333333333332
+Wholesale P&A,5330U,2025-03-01,25.333333333333332
+Work in Process - Body Shop Labour,1552D,2025-01-01,0.0
+Work in Process - Body Shop Labour,1552D,2025-02-01,0.0
+Work in Process - Body Shop Labour,1552D,2025-03-01,0.0
+Work in Process - Mechanical Labour,1551D,2025-01-01,25750.333333333332
+Work in Process - Mechanical Labour,1551D,2025-02-01,25750.333333333332
+Work in Process - Mechanical Labour,1551D,2025-03-01,25750.333333333332
+Writes,3002ST,2025-01-01,24.333333333333332
+Writes,3002ST,2025-02-01,24.333333333333332
+Writes,3002ST,2025-03-01,24.333333333333332
+Writes,3012ST,2025-01-01,22.0
+Writes,3012ST,2025-02-01,22.0
+Writes,3012ST,2025-03-01,22.0
